@@ -1,0 +1,106 @@
+---
+title: "2016 General Election: County Level Data "
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(readxl)
+```
+
+```{r}
+# Download data
+if(file.exists("data/16Gen_stwd_cnty.xlsx") == F) {
+  url <- "http://www.sos.idaho.gov/ELECT/results/2016/General/16Gen_stwd_cnty.xlsx"
+  download.file(url, "data/16Gen_stwd_cnty.xlsx") 
+}
+```
+
+```{r}
+# Original data frame for comparison 
+test <- read_excel("data/16Gen_stwd_cnty.xlsx")
+
+View(test)
+```
+
+```{r}
+# Create a data frame of the parties and candidates 
+parties <- read_excel("data/16Gen_stwd_cnty.xlsx")
+  
+parties <- data.frame(party = as.character(parties[4, ]), 
+                      candidate = as.character(parties[5, ])) %>% 
+  filter(row_number() != 1) %>% 
+  mutate(party = as.character(party), candidate = as.character(candidate))
+
+View(parties)
+```
+
+```{r}
+# Read in excel file
+orig <- read_excel("data/16Gen_stwd_cnty.xlsx", skip = 5) %>% 
+  filter(row_number() %in% c(1:(nrow(.) - 3)))
+
+orig <- filter(orig, row_number() != 1)
+
+View(orig)
+```
+
+The strategy will be to split the data frame at the columns so that office
+(e.g., president, senator) are grouped together. Each set of columns will be 
+cleaned separately then assembled back together into one data frame. 
+
+```{r}
+# Clean the president data 
+pres <- orig %>% 
+  select(1:9) %>% 
+  gather(candidate, votes, -Counties) %>%
+  mutate(office = "president", district = NA) %>% 
+  select(county = Counties, office, district, candidate, votes)
+
+View(pres)
+```
+
+```{r}
+# Clean the senator data 
+senator <- orig %>% 
+  select(1, c(10:12)) %>% 
+  gather(candidate, votes, -Counties) %>%
+  mutate(office = "senator", district = NA) %>% 
+  select(county = Counties, office, district, candidate, votes)
+
+View(senator)
+```
+
+```{r}
+# Clean the district 1 representative data 
+rep1 <- orig %>% 
+  select(1, c(13:15)) %>% 
+  gather(candidate, votes, -Counties) %>%
+  mutate(office = "representative", district = 1) %>% 
+  filter(!is.na(votes)) %>%
+  select(county = Counties, office, district, candidate, votes)
+
+View(rep1)
+```
+
+```{r}
+# Clean the district 2 representative data 
+rep2 <- orig %>% 
+  select(1, c(16:18)) %>% 
+  gather(candidate, votes, -Counties) %>%
+  mutate(office = "representative", district = 2) %>% 
+  filter(!is.na(votes)) %>%
+  select(county = Counties, office, district, candidate, votes)
+
+View(rep2)
+```
+
+```{r}
+# Combine all data sets
+all_dfs <- bind_rows(pres, senator, rep1, rep2)
+
+# Add the party column and write
+all_dfs <- left_join(all_dfs, parties, by = c("candidate" = "candidate")) %>% 
+  select(county, office, district, party, candidate, votes) %>%
+  write.csv("output/20161108_id_general_county.csv", row.names = F)
+```
