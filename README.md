@@ -11,4 +11,4 @@ The CSV files should have the following headers:
 
 For county-level files you can omit the `precinct` column.
 
-To work on a specific year or years, create an Issue and list which elections you'll be working on. If you have questions, create an Issue or email us at openelections@gmail.com.
+To work on a specific year or years, [create an Issue](https://github.com/openelections/openelections-data-id/issues) and list which elections you'll be working on. If you have questions, create an Issue or email us at openelections@gmail.com.
