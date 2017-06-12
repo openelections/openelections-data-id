@@ -45,7 +45,7 @@ orig <- filter(orig, row_number() != 1)
 View(orig)
 ```
 
-The strategy will be to split the data frame at the columns so that office
+The strategy will be to split the data frame at the columns so that offices
 (e.g., president, senator) are grouped together. Each set of columns will be 
 cleaned separately then assembled back together into one data frame. 
 
@@ -54,7 +54,7 @@ cleaned separately then assembled back together into one data frame.
 pres <- orig %>% 
   select(1:9) %>% 
   gather(candidate, votes, -Counties) %>%
-  mutate(office = "president", district = NA) %>% 
+  mutate(office = "President", district = "") %>% 
   select(county = Counties, office, district, candidate, votes)
 
 View(pres)
@@ -65,7 +65,7 @@ View(pres)
 senator <- orig %>% 
   select(1, c(10:12)) %>% 
   gather(candidate, votes, -Counties) %>%
-  mutate(office = "senator", district = NA) %>% 
+  mutate(office = "U.S. Senate", district = "") %>% 
   select(county = Counties, office, district, candidate, votes)
 
 View(senator)
@@ -76,7 +76,7 @@ View(senator)
 rep1 <- orig %>% 
   select(1, c(13:15)) %>% 
   gather(candidate, votes, -Counties) %>%
-  mutate(office = "representative", district = 1) %>% 
+  mutate(office = "U.S. House", district = as.character(1)) %>% 
   filter(!is.na(votes)) %>%
   select(county = Counties, office, district, candidate, votes)
 
@@ -88,7 +88,7 @@ View(rep1)
 rep2 <- orig %>% 
   select(1, c(16:18)) %>% 
   gather(candidate, votes, -Counties) %>%
-  mutate(office = "representative", district = 2) %>% 
+  mutate(office = "U.S. House", district = as.character(2)) %>% 
   filter(!is.na(votes)) %>%
   select(county = Counties, office, district, candidate, votes)
 
@@ -102,5 +102,5 @@ all_dfs <- bind_rows(pres, senator, rep1, rep2)
 # Add the party column and write
 all_dfs <- left_join(all_dfs, parties, by = c("candidate" = "candidate")) %>% 
   select(county, office, district, party, candidate, votes) %>%
-  write.csv("output/20161108_id_general_county.csv", row.names = F)
+  write.csv("output/20161108__id__general__county.csv", row.names = F)
 ```
