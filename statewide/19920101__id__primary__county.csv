@@ -1,0 +1,837 @@
+county,office,district,party,candidate,votes
+ADA,U.S. President,NA,Dem.,Agran,74
+ADAMS,U.S. President,NA,Dem.,Agran,8
+BANNOCK,U.S. President,NA,Dem.,Agran,93
+BEAR LAKE,U.S. President,NA,Dem.,Agran,4
+BENEWAH,U.S. President,NA,Dem.,Agran,10
+BINGHAM,U.S. President,NA,Dem.,Agran,26
+BLAINE,U.S. President,NA,Dem.,Agran,5
+BOISE,U.S. President,NA,Dem.,Agran,4
+BONNER,U.S. President,NA,Dem.,Agran,40
+BONNEVILLE,U.S. President,NA,Dem.,Agran,32
+BOUNDARY,U.S. President,NA,Dem.,Agran,5
+BUTTE,U.S. President,NA,Dem.,Agran,6
+CAMAS,U.S. President,NA,Dem.,Agran,1
+CANYON,U.S. President,NA,Dem.,Agran,42
+CARIBOU,U.S. President,NA,Dem.,Agran,7
+CASSIA,U.S. President,NA,Dem.,Agran,8
+CLARK,U.S. President,NA,Dem.,Agran,0
+CLEARWATER,U.S. President,NA,Dem.,Agran,13
+CUSTER,U.S. President,NA,Dem.,Agran,2
+ELMORE,U.S. President,NA,Dem.,Agran,10
+FRANKLIN,U.S. President,NA,Dem.,Agran,11
+FREMONT,U.S. President,NA,Dem.,Agran,17
+GEM,U.S. President,NA,Dem.,Agran,8
+GOODING,U.S. President,NA,Dem.,Agran,6
+IDAHO,U.S. President,NA,Dem.,Agran,24
+JEFFERSON,U.S. President,NA,Dem.,Agran,11
+JEROME,U.S. President,NA,Dem.,Agran,5
+KOOTENAI,U.S. President,NA,Dem.,Agran,37
+LATAH,U.S. President,NA,Dem.,Agran,193
+LEMHI,U.S. President,NA,Dem.,Agran,5
+LEWIS,U.S. President,NA,Dem.,Agran,10
+LINCOLN,U.S. President,NA,Dem.,Agran,4
+MADISON,U.S. President,NA,Dem.,Agran,9
+MINIDOKA,U.S. President,NA,Dem.,Agran,19
+NEZ PERCE,U.S. President,NA,Dem.,Agran,31
+ONEIDA,U.S. President,NA,Dem.,Agran,6
+OWYHEE,U.S. President,NA,Dem.,Agran,5
+PAYETTE,U.S. President,NA,Dem.,Agran,6
+POWER,U.S. President,NA,Dem.,Agran,5
+SHOSHONE,U.S. President,NA,Dem.,Agran,34
+TETON,U.S. President,NA,Dem.,Agran,4
+TWIN FALLS,U.S. President,NA,Dem.,Agran,21
+VALLEY,U.S. President,NA,Dem.,Agran,3
+WASHINGTON,U.S. President,NA,Dem.,Agran,4
+ADA,U.S. President,NA,Dem.,Brown,1670
+ADAMS,U.S. President,NA,Dem.,Brown,34
+BANNOCK,U.S. President,NA,Dem.,Brown,826
+BEAR LAKE,U.S. President,NA,Dem.,Brown,41
+BENEWAH,U.S. President,NA,Dem.,Brown,125
+BINGHAM,U.S. President,NA,Dem.,Brown,213
+BLAINE,U.S. President,NA,Dem.,Brown,263
+BOISE,U.S. President,NA,Dem.,Brown,50
+BONNER,U.S. President,NA,Dem.,Brown,734
+BONNEVILLE,U.S. President,NA,Dem.,Brown,352
+BOUNDARY,U.S. President,NA,Dem.,Brown,69
+BUTTE,U.S. President,NA,Dem.,Brown,32
+CAMAS,U.S. President,NA,Dem.,Brown,12
+CANYON,U.S. President,NA,Dem.,Brown,425
+CARIBOU,U.S. President,NA,Dem.,Brown,75
+CASSIA,U.S. President,NA,Dem.,Brown,90
+CLARK,U.S. President,NA,Dem.,Brown,4
+CLEARWATER,U.S. President,NA,Dem.,Brown,147
+CUSTER,U.S. President,NA,Dem.,Brown,45
+ELMORE,U.S. President,NA,Dem.,Brown,172
+FRANKLIN,U.S. President,NA,Dem.,Brown,55
+FREMONT,U.S. President,NA,Dem.,Brown,66
+GEM,U.S. President,NA,Dem.,Brown,58
+GOODING,U.S. President,NA,Dem.,Brown,52
+IDAHO,U.S. President,NA,Dem.,Brown,188
+JEFFERSON,U.S. President,NA,Dem.,Brown,56
+JEROME,U.S. President,NA,Dem.,Brown,66
+KOOTENAI,U.S. President,NA,Dem.,Brown,883
+LATAH,U.S. President,NA,Dem.,Brown,456
+LEMHI,U.S. President,NA,Dem.,Brown,54
+LEWIS,U.S. President,NA,Dem.,Brown,84
+LINCOLN,U.S. President,NA,Dem.,Brown,29
+MADISON,U.S. President,NA,Dem.,Brown,42
+MINIDOKA,U.S. President,NA,Dem.,Brown,110
+NEZ PERCE,U.S. President,NA,Dem.,Brown,487
+ONEIDA,U.S. President,NA,Dem.,Brown,33
+OWYHEE,U.S. President,NA,Dem.,Brown,45
+PAYETTE,U.S. President,NA,Dem.,Brown,95
+POWER,U.S. President,NA,Dem.,Brown,54
+SHOSHONE,U.S. President,NA,Dem.,Brown,530
+TETON,U.S. President,NA,Dem.,Brown,32
+TWIN FALLS,U.S. President,NA,Dem.,Brown,247
+VALLEY,U.S. President,NA,Dem.,Brown,62
+WASHINGTON,U.S. President,NA,Dem.,Brown,49
+ADA,U.S. President,NA,Dem.,Clinton,4307
+ADAMS,U.S. President,NA,Dem.,Clinton,105
+BANNOCK,U.S. President,NA,Dem.,Clinton,2116
+BEAR LAKE,U.S. President,NA,Dem.,Clinton,150
+BENEWAH,U.S. President,NA,Dem.,Clinton,396
+BINGHAM,U.S. President,NA,Dem.,Clinton,660
+BLAINE,U.S. President,NA,Dem.,Clinton,290
+BOISE,U.S. President,NA,Dem.,Clinton,140
+BONNER,U.S. President,NA,Dem.,Clinton,1586
+BONNEVILLE,U.S. President,NA,Dem.,Clinton,995
+BOUNDARY,U.S. President,NA,Dem.,Clinton,260
+BUTTE,U.S. President,NA,Dem.,Clinton,142
+CAMAS,U.S. President,NA,Dem.,Clinton,34
+CANYON,U.S. President,NA,Dem.,Clinton,1406
+CARIBOU,U.S. President,NA,Dem.,Clinton,183
+CASSIA,U.S. President,NA,Dem.,Clinton,293
+CLARK,U.S. President,NA,Dem.,Clinton,11
+CLEARWATER,U.S. President,NA,Dem.,Clinton,514
+CUSTER,U.S. President,NA,Dem.,Clinton,125
+ELMORE,U.S. President,NA,Dem.,Clinton,699
+FRANKLIN,U.S. President,NA,Dem.,Clinton,138
+FREMONT,U.S. President,NA,Dem.,Clinton,206
+GEM,U.S. President,NA,Dem.,Clinton,349
+GOODING,U.S. President,NA,Dem.,Clinton,248
+IDAHO,U.S. President,NA,Dem.,Clinton,711
+JEFFERSON,U.S. President,NA,Dem.,Clinton,203
+JEROME,U.S. President,NA,Dem.,Clinton,236
+KOOTENAI,U.S. President,NA,Dem.,Clinton,2113
+LATAH,U.S. President,NA,Dem.,Clinton,1107
+LEMHI,U.S. President,NA,Dem.,Clinton,250
+LEWIS,U.S. President,NA,Dem.,Clinton,378
+LINCOLN,U.S. President,NA,Dem.,Clinton,85
+MADISON,U.S. President,NA,Dem.,Clinton,185
+MINIDOKA,U.S. President,NA,Dem.,Clinton,282
+NEZ PERCE,U.S. President,NA,Dem.,Clinton,1863
+ONEIDA,U.S. President,NA,Dem.,Clinton,133
+OWYHEE,U.S. President,NA,Dem.,Clinton,177
+PAYETTE,U.S. President,NA,Dem.,Clinton,340
+POWER,U.S. President,NA,Dem.,Clinton,211
+SHOSHONE,U.S. President,NA,Dem.,Clinton,2009
+TETON,U.S. President,NA,Dem.,Clinton,109
+TWIN FALLS,U.S. President,NA,Dem.,Clinton,831
+VALLEY,U.S. President,NA,Dem.,Clinton,143
+WASHINGTON,U.S. President,NA,Dem.,Clinton,285
+ADA,U.S. President,NA,Dem.,LaRouche,240
+ADAMS,U.S. President,NA,Dem.,LaRouche,11
+BANNOCK,U.S. President,NA,Dem.,LaRouche,164
+BEAR LAKE,U.S. President,NA,Dem.,LaRouche,12
+BENEWAH,U.S. President,NA,Dem.,LaRouche,31
+BINGHAM,U.S. President,NA,Dem.,LaRouche,79
+BLAINE,U.S. President,NA,Dem.,LaRouche,12
+BOISE,U.S. President,NA,Dem.,LaRouche,11
+BONNER,U.S. President,NA,Dem.,LaRouche,124
+BONNEVILLE,U.S. President,NA,Dem.,LaRouche,94
+BOUNDARY,U.S. President,NA,Dem.,LaRouche,20
+BUTTE,U.S. President,NA,Dem.,LaRouche,14
+CAMAS,U.S. President,NA,Dem.,LaRouche,4
+CANYON,U.S. President,NA,Dem.,LaRouche,126
+CARIBOU,U.S. President,NA,Dem.,LaRouche,29
+CASSIA,U.S. President,NA,Dem.,LaRouche,38
+CLARK,U.S. President,NA,Dem.,LaRouche,1
+CLEARWATER,U.S. President,NA,Dem.,LaRouche,40
+CUSTER,U.S. President,NA,Dem.,LaRouche,13
+ELMORE,U.S. President,NA,Dem.,LaRouche,43
+FRANKLIN,U.S. President,NA,Dem.,LaRouche,11
+FREMONT,U.S. President,NA,Dem.,LaRouche,34
+GEM,U.S. President,NA,Dem.,LaRouche,25
+GOODING,U.S. President,NA,Dem.,LaRouche,12
+IDAHO,U.S. President,NA,Dem.,LaRouche,58
+JEFFERSON,U.S. President,NA,Dem.,LaRouche,28
+JEROME,U.S. President,NA,Dem.,LaRouche,33
+KOOTENAI,U.S. President,NA,Dem.,LaRouche,116
+LATAH,U.S. President,NA,Dem.,LaRouche,63
+LEMHI,U.S. President,NA,Dem.,LaRouche,14
+LEWIS,U.S. President,NA,Dem.,LaRouche,28
+LINCOLN,U.S. President,NA,Dem.,LaRouche,4
+MADISON,U.S. President,NA,Dem.,LaRouche,26
+MINIDOKA,U.S. President,NA,Dem.,LaRouche,45
+NEZ PERCE,U.S. President,NA,Dem.,LaRouche,122
+ONEIDA,U.S. President,NA,Dem.,LaRouche,12
+OWYHEE,U.S. President,NA,Dem.,LaRouche,18
+PAYETTE,U.S. President,NA,Dem.,LaRouche,22
+POWER,U.S. President,NA,Dem.,LaRouche,15
+SHOSHONE,U.S. President,NA,Dem.,LaRouche,133
+TETON,U.S. President,NA,Dem.,LaRouche,7
+TWIN FALLS,U.S. President,NA,Dem.,LaRouche,47
+VALLEY,U.S. President,NA,Dem.,LaRouche,10
+WASHINGTON,U.S. President,NA,Dem.,LaRouche,22
+ADA,U.S. President,NA,Rep.,Buchanan,2792
+ADAMS,U.S. President,NA,Rep.,Buchanan,121
+BANNOCK,U.S. President,NA,Rep.,Buchanan,523
+BEAR LAKE,U.S. President,NA,Rep.,Buchanan,170
+BENEWAH,U.S. President,NA,Rep.,Buchanan,78
+BINGHAM,U.S. President,NA,Rep.,Buchanan,755
+BLAINE,U.S. President,NA,Rep.,Buchanan,69
+BOISE,U.S. President,NA,Rep.,Buchanan,91
+BONNER,U.S. President,NA,Rep.,Buchanan,183
+BONNEVILLE,U.S. President,NA,Rep.,Buchanan,1879
+BOUNDARY,U.S. President,NA,Rep.,Buchanan,90
+BUTTE,U.S. President,NA,Rep.,Buchanan,42
+CAMAS,U.S. President,NA,Rep.,Buchanan,12
+CANYON,U.S. President,NA,Rep.,Buchanan,1453
+CARIBOU,U.S. President,NA,Rep.,Buchanan,170
+CASSIA,U.S. President,NA,Rep.,Buchanan,226
+CLARK,U.S. President,NA,Rep.,Buchanan,48
+CLEARWATER,U.S. President,NA,Rep.,Buchanan,47
+CUSTER,U.S. President,NA,Rep.,Buchanan,120
+ELMORE,U.S. President,NA,Rep.,Buchanan,151
+FRANKLIN,U.S. President,NA,Rep.,Buchanan,83
+FREMONT,U.S. President,NA,Rep.,Buchanan,263
+GEM,U.S. President,NA,Rep.,Buchanan,164
+GOODING,U.S. President,NA,Rep.,Buchanan,354
+IDAHO,U.S. President,NA,Rep.,Buchanan,250
+JEFFERSON,U.S. President,NA,Rep.,Buchanan,465
+JEROME,U.S. President,NA,Rep.,Buchanan,375
+KOOTENAI,U.S. President,NA,Rep.,Buchanan,426
+LATAH,U.S. President,NA,Rep.,Buchanan,221
+LEMHI,U.S. President,NA,Rep.,Buchanan,194
+LEWIS,U.S. President,NA,Rep.,Buchanan,23
+LINCOLN,U.S. President,NA,Rep.,Buchanan,94
+MADISON,U.S. President,NA,Rep.,Buchanan,497
+MINIDOKA,U.S. President,NA,Rep.,Buchanan,590
+NEZ PERCE,U.S. President,NA,Rep.,Buchanan,146
+ONEIDA,U.S. President,NA,Rep.,Buchanan,130
+OWYHEE,U.S. President,NA,Rep.,Buchanan,149
+PAYETTE,U.S. President,NA,Rep.,Buchanan,216
+POWER,U.S. President,NA,Rep.,Buchanan,69
+SHOSHONE,U.S. President,NA,Rep.,Buchanan,30
+TETON,U.S. President,NA,Rep.,Buchanan,96
+TWIN FALLS,U.S. President,NA,Rep.,Buchanan,951
+VALLEY,U.S. President,NA,Rep.,Buchanan,194
+WASHINGTON,U.S. President,NA,Rep.,Buchanan,167
+ADA,U.S. President,NA,Rep.,Bush,17932
+ADAMS,U.S. President,NA,Rep.,Bush,437
+BANNOCK,U.S. President,NA,Rep.,Bush,2514
+BEAR LAKE,U.S. President,NA,Rep.,Bush,919
+BENEWAH,U.S. President,NA,Rep.,Bush,421
+BINGHAM,U.S. President,NA,Rep.,Bush,3228
+BLAINE,U.S. President,NA,Rep.,Bush,472
+BOISE,U.S. President,NA,Rep.,Bush,454
+BONNER,U.S. President,NA,Rep.,Bush,1428
+BONNEVILLE,U.S. President,NA,Rep.,Bush,7183
+BOUNDARY,U.S. President,NA,Rep.,Bush,386
+BUTTE,U.S. President,NA,Rep.,Bush,230
+CAMAS,U.S. President,NA,Rep.,Bush,129
+CANYON,U.S. President,NA,Rep.,Bush,7517
+CARIBOU,U.S. President,NA,Rep.,Bush,678
+CASSIA,U.S. President,NA,Rep.,Bush,1357
+CLARK,U.S. President,NA,Rep.,Bush,139
+CLEARWATER,U.S. President,NA,Rep.,Bush,206
+CUSTER,U.S. President,NA,Rep.,Bush,484
+ELMORE,U.S. President,NA,Rep.,Bush,1035
+FRANKLIN,U.S. President,NA,Rep.,Bush,622
+FREMONT,U.S. President,NA,Rep.,Bush,1067
+GEM,U.S. President,NA,Rep.,Bush,787
+GOODING,U.S. President,NA,Rep.,Bush,1167
+IDAHO,U.S. President,NA,Rep.,Bush,1078
+JEFFERSON,U.S. President,NA,Rep.,Bush,1631
+JEROME,U.S. President,NA,Rep.,Bush,1425
+KOOTENAI,U.S. President,NA,Rep.,Bush,2132
+LATAH,U.S. President,NA,Rep.,Bush,867
+LEMHI,U.S. President,NA,Rep.,Bush,849
+LEWIS,U.S. President,NA,Rep.,Bush,104
+LINCOLN,U.S. President,NA,Rep.,Bush,364
+MADISON,U.S. President,NA,Rep.,Bush,2330
+MINIDOKA,U.S. President,NA,Rep.,Bush,1637
+NEZ PERCE,U.S. President,NA,Rep.,Bush,954
+ONEIDA,U.S. President,NA,Rep.,Bush,503
+OWYHEE,U.S. President,NA,Rep.,Bush,591
+PAYETTE,U.S. President,NA,Rep.,Bush,1098
+POWER,U.S. President,NA,Rep.,Bush,370
+SHOSHONE,U.S. President,NA,Rep.,Bush,154
+TETON,U.S. President,NA,Rep.,Bush,369
+TWIN FALLS,U.S. President,NA,Rep.,Bush,4194
+VALLEY,U.S. President,NA,Rep.,Bush,1013
+WASHINGTON,U.S. President,NA,Rep.,Bush,842
+ADA,U.S. Senate,NA,Dem.,Schaffer,1406
+ADAMS,U.S. Senate,NA,Dem.,Schaffer,30
+BANNOCK,U.S. Senate,NA,Dem.,Schaffer,377
+BEAR LAKE,U.S. Senate,NA,Dem.,Schaffer,19
+BENEWAH,U.S. Senate,NA,Dem.,Schaffer,105
+BINGHAM,U.S. Senate,NA,Dem.,Schaffer,113
+BLAINE,U.S. Senate,NA,Dem.,Schaffer,213
+BOISE,U.S. Senate,NA,Dem.,Schaffer,54
+BONNER,U.S. Senate,NA,Dem.,Schaffer,1405
+BONNEVILLE,U.S. Senate,NA,Dem.,Schaffer,284
+BOUNDARY,U.S. Senate,NA,Dem.,Schaffer,94
+BUTTE,U.S. Senate,NA,Dem.,Schaffer,26
+CAMAS,U.S. Senate,NA,Dem.,Schaffer,1
+CANYON,U.S. Senate,NA,Dem.,Schaffer,345
+CARIBOU,U.S. Senate,NA,Dem.,Schaffer,34
+CASSIA,U.S. Senate,NA,Dem.,Schaffer,53
+CLARK,U.S. Senate,NA,Dem.,Schaffer,2
+CLEARWATER,U.S. Senate,NA,Dem.,Schaffer,156
+CUSTER,U.S. Senate,NA,Dem.,Schaffer,22
+ELMORE,U.S. Senate,NA,Dem.,Schaffer,145
+FRANKLIN,U.S. Senate,NA,Dem.,Schaffer,27
+FREMONT,U.S. Senate,NA,Dem.,Schaffer,45
+GEM,U.S. Senate,NA,Dem.,Schaffer,62
+GOODING,U.S. Senate,NA,Dem.,Schaffer,25
+IDAHO,U.S. Senate,NA,Dem.,Schaffer,232
+JEFFERSON,U.S. Senate,NA,Dem.,Schaffer,52
+JEROME,U.S. Senate,NA,Dem.,Schaffer,41
+KOOTENAI,U.S. Senate,NA,Dem.,Schaffer,882
+LATAH,U.S. Senate,NA,Dem.,Schaffer,361
+LEMHI,U.S. Senate,NA,Dem.,Schaffer,55
+LEWIS,U.S. Senate,NA,Dem.,Schaffer,152
+LINCOLN,U.S. Senate,NA,Dem.,Schaffer,7
+MADISON,U.S. Senate,NA,Dem.,Schaffer,33
+MINIDOKA,U.S. Senate,NA,Dem.,Schaffer,92
+NEZ PERCE,U.S. Senate,NA,Dem.,Schaffer,660
+ONEIDA,U.S. Senate,NA,Dem.,Schaffer,21
+OWYHEE,U.S. Senate,NA,Dem.,Schaffer,39
+PAYETTE,U.S. Senate,NA,Dem.,Schaffer,64
+POWER,U.S. Senate,NA,Dem.,Schaffer,17
+SHOSHONE,U.S. Senate,NA,Dem.,Schaffer,986
+TETON,U.S. Senate,NA,Dem.,Schaffer,23
+TWIN FALLS,U.S. Senate,NA,Dem.,Schaffer,138
+VALLEY,U.S. Senate,NA,Dem.,Schaffer,41
+WASHINGTON,U.S. Senate,NA,Dem.,Schaffer,37
+ADA,U.S. Senate,NA,Dem.,Shepherd,791
+ADAMS,U.S. Senate,NA,Dem.,Shepherd,34
+BANNOCK,U.S. Senate,NA,Dem.,Shepherd,326
+BEAR LAKE,U.S. Senate,NA,Dem.,Shepherd,28
+BENEWAH,U.S. Senate,NA,Dem.,Shepherd,169
+BINGHAM,U.S. Senate,NA,Dem.,Shepherd,128
+BLAINE,U.S. Senate,NA,Dem.,Shepherd,57
+BOISE,U.S. Senate,NA,Dem.,Shepherd,38
+BONNER,U.S. Senate,NA,Dem.,Shepherd,581
+BONNEVILLE,U.S. Senate,NA,Dem.,Shepherd,259
+BOUNDARY,U.S. Senate,NA,Dem.,Shepherd,88
+BUTTE,U.S. Senate,NA,Dem.,Shepherd,29
+CAMAS,U.S. Senate,NA,Dem.,Shepherd,5
+CANYON,U.S. Senate,NA,Dem.,Shepherd,331
+CARIBOU,U.S. Senate,NA,Dem.,Shepherd,45
+CASSIA,U.S. Senate,NA,Dem.,Shepherd,50
+CLARK,U.S. Senate,NA,Dem.,Shepherd,2
+CLEARWATER,U.S. Senate,NA,Dem.,Shepherd,161
+CUSTER,U.S. Senate,NA,Dem.,Shepherd,30
+ELMORE,U.S. Senate,NA,Dem.,Shepherd,138
+FRANKLIN,U.S. Senate,NA,Dem.,Shepherd,40
+FREMONT,U.S. Senate,NA,Dem.,Shepherd,72
+GEM,U.S. Senate,NA,Dem.,Shepherd,99
+GOODING,U.S. Senate,NA,Dem.,Shepherd,31
+IDAHO,U.S. Senate,NA,Dem.,Shepherd,269
+JEFFERSON,U.S. Senate,NA,Dem.,Shepherd,54
+JEROME,U.S. Senate,NA,Dem.,Shepherd,40
+KOOTENAI,U.S. Senate,NA,Dem.,Shepherd,795
+LATAH,U.S. Senate,NA,Dem.,Shepherd,301
+LEMHI,U.S. Senate,NA,Dem.,Shepherd,48
+LEWIS,U.S. Senate,NA,Dem.,Shepherd,129
+LINCOLN,U.S. Senate,NA,Dem.,Shepherd,9
+MADISON,U.S. Senate,NA,Dem.,Shepherd,44
+MINIDOKA,U.S. Senate,NA,Dem.,Shepherd,103
+NEZ PERCE,U.S. Senate,NA,Dem.,Shepherd,482
+ONEIDA,U.S. Senate,NA,Dem.,Shepherd,22
+OWYHEE,U.S. Senate,NA,Dem.,Shepherd,37
+PAYETTE,U.S. Senate,NA,Dem.,Shepherd,89
+POWER,U.S. Senate,NA,Dem.,Shepherd,27
+SHOSHONE,U.S. Senate,NA,Dem.,Shepherd,673
+TETON,U.S. Senate,NA,Dem.,Shepherd,15
+TWIN FALLS,U.S. Senate,NA,Dem.,Shepherd,121
+VALLEY,U.S. Senate,NA,Dem.,Shepherd,42
+WASHINGTON,U.S. Senate,NA,Dem.,Shepherd,50
+ADA,U.S. Senate,NA,Dem.,Stallings,6865
+ADAMS,U.S. Senate,NA,Dem.,Stallings,141
+BANNOCK,U.S. Senate,NA,Dem.,Stallings,3551
+BEAR LAKE,U.S. Senate,NA,Dem.,Stallings,203
+BENEWAH,U.S. Senate,NA,Dem.,Stallings,464
+BINGHAM,U.S. Senate,NA,Dem.,Stallings,1243
+BLAINE,U.S. Senate,NA,Dem.,Stallings,762
+BOISE,U.S. Senate,NA,Dem.,Stallings,230
+BONNER,U.S. Senate,NA,Dem.,Stallings,1644
+BONNEVILLE,U.S. Senate,NA,Dem.,Stallings,1648
+BOUNDARY,U.S. Senate,NA,Dem.,Stallings,319
+BUTTE,U.S. Senate,NA,Dem.,Stallings,265
+CAMAS,U.S. Senate,NA,Dem.,Stallings,66
+CANYON,U.S. Senate,NA,Dem.,Stallings,1842
+CARIBOU,U.S. Senate,NA,Dem.,Stallings,316
+CASSIA,U.S. Senate,NA,Dem.,Stallings,478
+CLARK,U.S. Senate,NA,Dem.,Stallings,15
+CLEARWATER,U.S. Senate,NA,Dem.,Stallings,704
+CUSTER,U.S. Senate,NA,Dem.,Stallings,195
+ELMORE,U.S. Senate,NA,Dem.,Stallings,1143
+FRANKLIN,U.S. Senate,NA,Dem.,Stallings,259
+FREMONT,U.S. Senate,NA,Dem.,Stallings,403
+GEM,U.S. Senate,NA,Dem.,Stallings,455
+GOODING,U.S. Senate,NA,Dem.,Stallings,342
+IDAHO,U.S. Senate,NA,Dem.,Stallings,975
+JEFFERSON,U.S. Senate,NA,Dem.,Stallings,342
+JEROME,U.S. Senate,NA,Dem.,Stallings,379
+KOOTENAI,U.S. Senate,NA,Dem.,Stallings,2829
+LATAH,U.S. Senate,NA,Dem.,Stallings,1694
+LEMHI,U.S. Senate,NA,Dem.,Stallings,342
+LEWIS,U.S. Senate,NA,Dem.,Stallings,572
+LINCOLN,U.S. Senate,NA,Dem.,Stallings,141
+MADISON,U.S. Senate,NA,Dem.,Stallings,317
+MINIDOKA,U.S. Senate,NA,Dem.,Stallings,440
+NEZ PERCE,U.S. Senate,NA,Dem.,Stallings,2684
+ONEIDA,U.S. Senate,NA,Dem.,Stallings,252
+OWYHEE,U.S. Senate,NA,Dem.,Stallings,248
+PAYETTE,U.S. Senate,NA,Dem.,Stallings,440
+POWER,U.S. Senate,NA,Dem.,Stallings,339
+SHOSHONE,U.S. Senate,NA,Dem.,Stallings,2509
+TETON,U.S. Senate,NA,Dem.,Stallings,197
+TWIN FALLS,U.S. Senate,NA,Dem.,Stallings,1255
+VALLEY,U.S. Senate,NA,Dem.,Stallings,209
+WASHINGTON,U.S. Senate,NA,Dem.,Stallings,385
+ADA,U.S. Senate,NA,Rep.,Beck,5874
+ADAMS,U.S. Senate,NA,Rep.,Beck,143
+BANNOCK,U.S. Senate,NA,Rep.,Beck,688
+BEAR LAKE,U.S. Senate,NA,Rep.,Beck,325
+BENEWAH,U.S. Senate,NA,Rep.,Beck,204
+BINGHAM,U.S. Senate,NA,Rep.,Beck,1300
+BLAINE,U.S. Senate,NA,Rep.,Beck,109
+BOISE,U.S. Senate,NA,Rep.,Beck,143
+BONNER,U.S. Senate,NA,Rep.,Beck,667
+BONNEVILLE,U.S. Senate,NA,Rep.,Beck,3069
+BOUNDARY,U.S. Senate,NA,Rep.,Beck,146
+BUTTE,U.S. Senate,NA,Rep.,Beck,71
+CAMAS,U.S. Senate,NA,Rep.,Beck,26
+CANYON,U.S. Senate,NA,Rep.,Beck,2306
+CARIBOU,U.S. Senate,NA,Rep.,Beck,175
+CASSIA,U.S. Senate,NA,Rep.,Beck,522
+CLARK,U.S. Senate,NA,Rep.,Beck,50
+CLEARWATER,U.S. Senate,NA,Rep.,Beck,106
+CUSTER,U.S. Senate,NA,Rep.,Beck,130
+ELMORE,U.S. Senate,NA,Rep.,Beck,241
+FRANKLIN,U.S. Senate,NA,Rep.,Beck,198
+FREMONT,U.S. Senate,NA,Rep.,Beck,513
+GEM,U.S. Senate,NA,Rep.,Beck,254
+GOODING,U.S. Senate,NA,Rep.,Beck,339
+IDAHO,U.S. Senate,NA,Rep.,Beck,616
+JEFFERSON,U.S. Senate,NA,Rep.,Beck,1076
+JEROME,U.S. Senate,NA,Rep.,Beck,356
+KOOTENAI,U.S. Senate,NA,Rep.,Beck,1199
+LATAH,U.S. Senate,NA,Rep.,Beck,331
+LEMHI,U.S. Senate,NA,Rep.,Beck,333
+LEWIS,U.S. Senate,NA,Rep.,Beck,50
+LINCOLN,U.S. Senate,NA,Rep.,Beck,138
+MADISON,U.S. Senate,NA,Rep.,Beck,1303
+MINIDOKA,U.S. Senate,NA,Rep.,Beck,824
+NEZ PERCE,U.S. Senate,NA,Rep.,Beck,353
+ONEIDA,U.S. Senate,NA,Rep.,Beck,262
+OWYHEE,U.S. Senate,NA,Rep.,Beck,177
+PAYETTE,U.S. Senate,NA,Rep.,Beck,374
+POWER,U.S. Senate,NA,Rep.,Beck,76
+SHOSHONE,U.S. Senate,NA,Rep.,Beck,82
+TETON,U.S. Senate,NA,Rep.,Beck,132
+TWIN FALLS,U.S. Senate,NA,Rep.,Beck,1156
+VALLEY,U.S. Senate,NA,Rep.,Beck,258
+WASHINGTON,U.S. Senate,NA,Rep.,Beck,282
+ADA,U.S. Senate,NA,Rep.,Erhart,5828
+ADAMS,U.S. Senate,NA,Rep.,Erhart,85
+BANNOCK,U.S. Senate,NA,Rep.,Erhart,563
+BEAR LAKE,U.S. Senate,NA,Rep.,Erhart,300
+BENEWAH,U.S. Senate,NA,Rep.,Erhart,100
+BINGHAM,U.S. Senate,NA,Rep.,Erhart,1369
+BLAINE,U.S. Senate,NA,Rep.,Erhart,199
+BOISE,U.S. Senate,NA,Rep.,Erhart,141
+BONNER,U.S. Senate,NA,Rep.,Erhart,410
+BONNEVILLE,U.S. Senate,NA,Rep.,Erhart,3002
+BOUNDARY,U.S. Senate,NA,Rep.,Erhart,139
+BUTTE,U.S. Senate,NA,Rep.,Erhart,82
+CAMAS,U.S. Senate,NA,Rep.,Erhart,30
+CANYON,U.S. Senate,NA,Rep.,Erhart,1514
+CARIBOU,U.S. Senate,NA,Rep.,Erhart,179
+CASSIA,U.S. Senate,NA,Rep.,Erhart,323
+CLARK,U.S. Senate,NA,Rep.,Erhart,55
+CLEARWATER,U.S. Senate,NA,Rep.,Erhart,66
+CUSTER,U.S. Senate,NA,Rep.,Erhart,190
+ELMORE,U.S. Senate,NA,Rep.,Erhart,190
+FRANKLIN,U.S. Senate,NA,Rep.,Erhart,238
+FREMONT,U.S. Senate,NA,Rep.,Erhart,342
+GEM,U.S. Senate,NA,Rep.,Erhart,191
+GOODING,U.S. Senate,NA,Rep.,Erhart,326
+IDAHO,U.S. Senate,NA,Rep.,Erhart,312
+JEFFERSON,U.S. Senate,NA,Rep.,Erhart,630
+JEROME,U.S. Senate,NA,Rep.,Erhart,369
+KOOTENAI,U.S. Senate,NA,Rep.,Erhart,482
+LATAH,U.S. Senate,NA,Rep.,Erhart,168
+LEMHI,U.S. Senate,NA,Rep.,Erhart,460
+LEWIS,U.S. Senate,NA,Rep.,Erhart,33
+LINCOLN,U.S. Senate,NA,Rep.,Erhart,112
+MADISON,U.S. Senate,NA,Rep.,Erhart,673
+MINIDOKA,U.S. Senate,NA,Rep.,Erhart,739
+NEZ PERCE,U.S. Senate,NA,Rep.,Erhart,156
+ONEIDA,U.S. Senate,NA,Rep.,Erhart,172
+OWYHEE,U.S. Senate,NA,Rep.,Erhart,108
+PAYETTE,U.S. Senate,NA,Rep.,Erhart,243
+POWER,U.S. Senate,NA,Rep.,Erhart,96
+SHOSHONE,U.S. Senate,NA,Rep.,Erhart,43
+TETON,U.S. Senate,NA,Rep.,Erhart,209
+TWIN FALLS,U.S. Senate,NA,Rep.,Erhart,1290
+VALLEY,U.S. Senate,NA,Rep.,Erhart,335
+WASHINGTON,U.S. Senate,NA,Rep.,Erhart,190
+ADA,U.S. Senate,NA,Rep.,Kempthorne,17048
+ADAMS,U.S. Senate,NA,Rep.,Kempthorne,569
+BANNOCK,U.S. Senate,NA,Rep.,Kempthorne,2256
+BEAR LAKE,U.S. Senate,NA,Rep.,Kempthorne,537
+BENEWAH,U.S. Senate,NA,Rep.,Kempthorne,193
+BINGHAM,U.S. Senate,NA,Rep.,Kempthorne,2675
+BLAINE,U.S. Senate,NA,Rep.,Kempthorne,478
+BOISE,U.S. Senate,NA,Rep.,Kempthorne,551
+BONNER,U.S. Senate,NA,Rep.,Kempthorne,534
+BONNEVILLE,U.S. Senate,NA,Rep.,Kempthorne,6039
+BOUNDARY,U.S. Senate,NA,Rep.,Kempthorne,227
+BUTTE,U.S. Senate,NA,Rep.,Kempthorne,216
+CAMAS,U.S. Senate,NA,Rep.,Kempthorne,135
+CANYON,U.S. Senate,NA,Rep.,Kempthorne,7886
+CARIBOU,U.S. Senate,NA,Rep.,Kempthorne,599
+CASSIA,U.S. Senate,NA,Rep.,Kempthorne,1191
+CLARK,U.S. Senate,NA,Rep.,Kempthorne,157
+CLEARWATER,U.S. Senate,NA,Rep.,Kempthorne,114
+CUSTER,U.S. Senate,NA,Rep.,Kempthorne,597
+ELMORE,U.S. Senate,NA,Rep.,Kempthorne,1059
+FRANKLIN,U.S. Senate,NA,Rep.,Kempthorne,353
+FREMONT,U.S. Senate,NA,Rep.,Kempthorne,880
+GEM,U.S. Senate,NA,Rep.,Kempthorne,864
+GOODING,U.S. Senate,NA,Rep.,Kempthorne,1443
+IDAHO,U.S. Senate,NA,Rep.,Kempthorne,574
+JEFFERSON,U.S. Senate,NA,Rep.,Kempthorne,1261
+JEROME,U.S. Senate,NA,Rep.,Kempthorne,1627
+KOOTENAI,U.S. Senate,NA,Rep.,Kempthorne,1329
+LATAH,U.S. Senate,NA,Rep.,Kempthorne,701
+LEMHI,U.S. Senate,NA,Rep.,Kempthorne,675
+LEWIS,U.S. Senate,NA,Rep.,Kempthorne,52
+LINCOLN,U.S. Senate,NA,Rep.,Kempthorne,385
+MADISON,U.S. Senate,NA,Rep.,Kempthorne,1632
+MINIDOKA,U.S. Senate,NA,Rep.,Kempthorne,1864
+NEZ PERCE,U.S. Senate,NA,Rep.,Kempthorne,736
+ONEIDA,U.S. Senate,NA,Rep.,Kempthorne,300
+OWYHEE,U.S. Senate,NA,Rep.,Kempthorne,663
+PAYETTE,U.S. Senate,NA,Rep.,Kempthorne,1143
+POWER,U.S. Senate,NA,Rep.,Kempthorne,345
+SHOSHONE,U.S. Senate,NA,Rep.,Kempthorne,69
+TETON,U.S. Senate,NA,Rep.,Kempthorne,301
+TWIN FALLS,U.S. Senate,NA,Rep.,Kempthorne,4444
+VALLEY,U.S. Senate,NA,Rep.,Kempthorne,1315
+WASHINGTON,U.S. Senate,NA,Rep.,Kempthorne,984
+ADA,U.S. Representative 1st District,1,Dem.,LaRocco,4881
+ADAMS,U.S. Representative 1st District,1,Dem.,LaRocco,192
+BANNOCK,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+BEAR LAKE,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+BENEWAH,U.S. Representative 1st District,1,Dem.,LaRocco,684
+BINGHAM,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+BLAINE,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+BOISE,U.S. Representative 1st District,1,Dem.,LaRocco,280
+BONNER,U.S. Representative 1st District,1,Dem.,LaRocco,3120
+BONNEVILLE,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+BOUNDARY,U.S. Representative 1st District,1,Dem.,LaRocco,491
+BUTTE,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+CAMAS,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+CANYON,U.S. Representative 1st District,1,Dem.,LaRocco,2334
+CARIBOU,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+CASSIA,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+CLARK,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+CLEARWATER,U.S. Representative 1st District,1,Dem.,LaRocco,961
+CUSTER,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+ELMORE,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+FRANKLIN,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+FREMONT,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+GEM,U.S. Representative 1st District,1,Dem.,LaRocco,538
+GOODING,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+IDAHO,U.S. Representative 1st District,1,Dem.,LaRocco,1377
+JEFFERSON,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+JEROME,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+KOOTENAI,U.S. Representative 1st District,1,Dem.,LaRocco,4237
+LATAH,U.S. Representative 1st District,1,Dem.,LaRocco,2277
+LEMHI,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+LEWIS,U.S. Representative 1st District,1,Dem.,LaRocco,779
+LINCOLN,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+MADISON,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+MINIDOKA,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+NEZ PERCE,U.S. Representative 1st District,1,Dem.,LaRocco,3528
+ONEIDA,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+OWYHEE,U.S. Representative 1st District,1,Dem.,LaRocco,278
+PAYETTE,U.S. Representative 1st District,1,Dem.,LaRocco,540
+POWER,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+SHOSHONE,U.S. Representative 1st District,1,Dem.,LaRocco,4047
+TETON,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+TWIN FALLS,U.S. Representative 1st District,1,Dem.,LaRocco,NA
+VALLEY,U.S. Representative 1st District,1,Dem.,LaRocco,266
+WASHINGTON,U.S. Representative 1st District,1,Dem.,LaRocco,442
+ADA,U.S. Representative 1st District,1,Rep.,Doremus,5233
+ADAMS,U.S. Representative 1st District,1,Rep.,Doremus,245
+BANNOCK,U.S. Representative 1st District,1,Rep.,Doremus,NA
+BEAR LAKE,U.S. Representative 1st District,1,Rep.,Doremus,NA
+BENEWAH,U.S. Representative 1st District,1,Rep.,Doremus,153
+BINGHAM,U.S. Representative 1st District,1,Rep.,Doremus,NA
+BLAINE,U.S. Representative 1st District,1,Rep.,Doremus,NA
+BOISE,U.S. Representative 1st District,1,Rep.,Doremus,221
+BONNER,U.S. Representative 1st District,1,Rep.,Doremus,389
+BONNEVILLE,U.S. Representative 1st District,1,Rep.,Doremus,NA
+BOUNDARY,U.S. Representative 1st District,1,Rep.,Doremus,135
+BUTTE,U.S. Representative 1st District,1,Rep.,Doremus,NA
+CAMAS,U.S. Representative 1st District,1,Rep.,Doremus,NA
+CANYON,U.S. Representative 1st District,1,Rep.,Doremus,2890
+CARIBOU,U.S. Representative 1st District,1,Rep.,Doremus,NA
+CASSIA,U.S. Representative 1st District,1,Rep.,Doremus,NA
+CLARK,U.S. Representative 1st District,1,Rep.,Doremus,NA
+CLEARWATER,U.S. Representative 1st District,1,Rep.,Doremus,61
+CUSTER,U.S. Representative 1st District,1,Rep.,Doremus,NA
+ELMORE,U.S. Representative 1st District,1,Rep.,Doremus,NA
+FRANKLIN,U.S. Representative 1st District,1,Rep.,Doremus,NA
+FREMONT,U.S. Representative 1st District,1,Rep.,Doremus,NA
+GEM,U.S. Representative 1st District,1,Rep.,Doremus,308
+GOODING,U.S. Representative 1st District,1,Rep.,Doremus,NA
+IDAHO,U.S. Representative 1st District,1,Rep.,Doremus,285
+JEFFERSON,U.S. Representative 1st District,1,Rep.,Doremus,NA
+JEROME,U.S. Representative 1st District,1,Rep.,Doremus,NA
+KOOTENAI,U.S. Representative 1st District,1,Rep.,Doremus,701
+LATAH,U.S. Representative 1st District,1,Rep.,Doremus,275
+LEMHI,U.S. Representative 1st District,1,Rep.,Doremus,NA
+LEWIS,U.S. Representative 1st District,1,Rep.,Doremus,35
+LINCOLN,U.S. Representative 1st District,1,Rep.,Doremus,NA
+MADISON,U.S. Representative 1st District,1,Rep.,Doremus,NA
+MINIDOKA,U.S. Representative 1st District,1,Rep.,Doremus,NA
+NEZ PERCE,U.S. Representative 1st District,1,Rep.,Doremus,290
+ONEIDA,U.S. Representative 1st District,1,Rep.,Doremus,NA
+OWYHEE,U.S. Representative 1st District,1,Rep.,Doremus,165
+PAYETTE,U.S. Representative 1st District,1,Rep.,Doremus,418
+POWER,U.S. Representative 1st District,1,Rep.,Doremus,NA
+SHOSHONE,U.S. Representative 1st District,1,Rep.,Doremus,74
+TETON,U.S. Representative 1st District,1,Rep.,Doremus,NA
+TWIN FALLS,U.S. Representative 1st District,1,Rep.,Doremus,NA
+VALLEY,U.S. Representative 1st District,1,Rep.,Doremus,633
+WASHINGTON,U.S. Representative 1st District,1,Rep.,Doremus,340
+ADA,U.S. Representative 1st District,1,Rep.,Gilbert,13308
+ADAMS,U.S. Representative 1st District,1,Rep.,Gilbert,497
+BANNOCK,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+BEAR LAKE,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+BENEWAH,U.S. Representative 1st District,1,Rep.,Gilbert,312
+BINGHAM,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+BLAINE,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+BOISE,U.S. Representative 1st District,1,Rep.,Gilbert,556
+BONNER,U.S. Representative 1st District,1,Rep.,Gilbert,1315
+BONNEVILLE,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+BOUNDARY,U.S. Representative 1st District,1,Rep.,Gilbert,391
+BUTTE,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+CAMAS,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+CANYON,U.S. Representative 1st District,1,Rep.,Gilbert,8304
+CARIBOU,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+CASSIA,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+CLARK,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+CLEARWATER,U.S. Representative 1st District,1,Rep.,Gilbert,215
+CUSTER,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+ELMORE,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+FRANKLIN,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+FREMONT,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+GEM,U.S. Representative 1st District,1,Rep.,Gilbert,951
+GOODING,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+IDAHO,U.S. Representative 1st District,1,Rep.,Gilbert,1326
+JEFFERSON,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+JEROME,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+KOOTENAI,U.S. Representative 1st District,1,Rep.,Gilbert,2329
+LATAH,U.S. Representative 1st District,1,Rep.,Gilbert,909
+LEMHI,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+LEWIS,U.S. Representative 1st District,1,Rep.,Gilbert,104
+LINCOLN,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+MADISON,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+MINIDOKA,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+NEZ PERCE,U.S. Representative 1st District,1,Rep.,Gilbert,963
+ONEIDA,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+OWYHEE,U.S. Representative 1st District,1,Rep.,Gilbert,739
+PAYETTE,U.S. Representative 1st District,1,Rep.,Gilbert,1267
+POWER,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+SHOSHONE,U.S. Representative 1st District,1,Rep.,Gilbert,120
+TETON,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+TWIN FALLS,U.S. Representative 1st District,1,Rep.,Gilbert,NA
+VALLEY,U.S. Representative 1st District,1,Rep.,Gilbert,1151
+WASHINGTON,U.S. Representative 1st District,1,Rep.,Gilbert,986
+ADA,2nd District,2,Dem.,Seiffert,1437
+ADAMS,2nd District,2,Dem.,Seiffert,NA
+BANNOCK,2nd District,2,Dem.,Seiffert,884
+BEAR LAKE,2nd District,2,Dem.,Seiffert,44
+BENEWAH,2nd District,2,Dem.,Seiffert,NA
+BINGHAM,2nd District,2,Dem.,Seiffert,314
+BLAINE,2nd District,2,Dem.,Seiffert,716
+BOISE,2nd District,2,Dem.,Seiffert,NA
+BONNER,2nd District,2,Dem.,Seiffert,NA
+BONNEVILLE,2nd District,2,Dem.,Seiffert,733
+BOUNDARY,2nd District,2,Dem.,Seiffert,NA
+BUTTE,2nd District,2,Dem.,Seiffert,46
+CAMAS,2nd District,2,Dem.,Seiffert,18
+CANYON,2nd District,2,Dem.,Seiffert,NA
+CARIBOU,2nd District,2,Dem.,Seiffert,83
+CASSIA,2nd District,2,Dem.,Seiffert,115
+CLARK,2nd District,2,Dem.,Seiffert,5
+CLEARWATER,2nd District,2,Dem.,Seiffert,NA
+CUSTER,2nd District,2,Dem.,Seiffert,70
+ELMORE,2nd District,2,Dem.,Seiffert,307
+FRANKLIN,2nd District,2,Dem.,Seiffert,68
+FREMONT,2nd District,2,Dem.,Seiffert,111
+GEM,2nd District,2,Dem.,Seiffert,NA
+GOODING,2nd District,2,Dem.,Seiffert,87
+IDAHO,2nd District,2,Dem.,Seiffert,NA
+JEFFERSON,2nd District,2,Dem.,Seiffert,127
+JEROME,2nd District,2,Dem.,Seiffert,108
+KOOTENAI,2nd District,2,Dem.,Seiffert,NA
+LATAH,2nd District,2,Dem.,Seiffert,NA
+LEMHI,2nd District,2,Dem.,Seiffert,103
+LEWIS,2nd District,2,Dem.,Seiffert,NA
+LINCOLN,2nd District,2,Dem.,Seiffert,30
+MADISON,2nd District,2,Dem.,Seiffert,83
+MINIDOKA,2nd District,2,Dem.,Seiffert,122
+NEZ PERCE,2nd District,2,Dem.,Seiffert,NA
+ONEIDA,2nd District,2,Dem.,Seiffert,28
+OWYHEE,2nd District,2,Dem.,Seiffert,NA
+PAYETTE,2nd District,2,Dem.,Seiffert,NA
+POWER,2nd District,2,Dem.,Seiffert,54
+SHOSHONE,2nd District,2,Dem.,Seiffert,NA
+TETON,2nd District,2,Dem.,Seiffert,42
+TWIN FALLS,2nd District,2,Dem.,Seiffert,344
+VALLEY,2nd District,2,Dem.,Seiffert,NA
+WASHINGTON,2nd District,2,Dem.,Seiffert,NA
+ADA,2nd District,2,Dem.,Williams,2278
+ADAMS,2nd District,2,Dem.,Williams,NA
+BANNOCK,2nd District,2,Dem.,Williams,3196
+BEAR LAKE,2nd District,2,Dem.,Williams,201
+BENEWAH,2nd District,2,Dem.,Williams,NA
+BINGHAM,2nd District,2,Dem.,Williams,1095
+BLAINE,2nd District,2,Dem.,Williams,312
+BOISE,2nd District,2,Dem.,Williams,NA
+BONNER,2nd District,2,Dem.,Williams,NA
+BONNEVILLE,2nd District,2,Dem.,Williams,1349
+BOUNDARY,2nd District,2,Dem.,Williams,NA
+BUTTE,2nd District,2,Dem.,Williams,251
+CAMAS,2nd District,2,Dem.,Williams,52
+CANYON,2nd District,2,Dem.,Williams,NA
+CARIBOU,2nd District,2,Dem.,Williams,288
+CASSIA,2nd District,2,Dem.,Williams,439
+CLARK,2nd District,2,Dem.,Williams,11
+CLEARWATER,2nd District,2,Dem.,Williams,NA
+CUSTER,2nd District,2,Dem.,Williams,151
+ELMORE,2nd District,2,Dem.,Williams,1052
+FRANKLIN,2nd District,2,Dem.,Williams,270
+FREMONT,2nd District,2,Dem.,Williams,375
+GEM,2nd District,2,Dem.,Williams,NA
+GOODING,2nd District,2,Dem.,Williams,288
+IDAHO,2nd District,2,Dem.,Williams,NA
+JEFFERSON,2nd District,2,Dem.,Williams,305
+JEROME,2nd District,2,Dem.,Williams,312
+KOOTENAI,2nd District,2,Dem.,Williams,NA
+LATAH,2nd District,2,Dem.,Williams,NA
+LEMHI,2nd District,2,Dem.,Williams,275
+LEWIS,2nd District,2,Dem.,Williams,NA
+LINCOLN,2nd District,2,Dem.,Williams,114
+MADISON,2nd District,2,Dem.,Williams,299
+MINIDOKA,2nd District,2,Dem.,Williams,472
+NEZ PERCE,2nd District,2,Dem.,Williams,NA
+ONEIDA,2nd District,2,Dem.,Williams,276
+OWYHEE,2nd District,2,Dem.,Williams,NA
+PAYETTE,2nd District,2,Dem.,Williams,NA
+POWER,2nd District,2,Dem.,Williams,307
+SHOSHONE,2nd District,2,Dem.,Williams,NA
+TETON,2nd District,2,Dem.,Williams,173
+TWIN FALLS,2nd District,2,Dem.,Williams,1054
+VALLEY,2nd District,2,Dem.,Williams,NA
+WASHINGTON,2nd District,2,Dem.,Williams,NA
+ADA,2nd District,2,Rep.,Crapo,6077
+ADAMS,2nd District,2,Rep.,Crapo,NA
+BANNOCK,2nd District,2,Rep.,Crapo,2325
+BEAR LAKE,2nd District,2,Rep.,Crapo,516
+BENEWAH,2nd District,2,Rep.,Crapo,NA
+BINGHAM,2nd District,2,Rep.,Crapo,3827
+BLAINE,2nd District,2,Rep.,Crapo,470
+BOISE,2nd District,2,Rep.,Crapo,NA
+BONNER,2nd District,2,Rep.,Crapo,NA
+BONNEVILLE,2nd District,2,Rep.,Crapo,9608
+BOUNDARY,2nd District,2,Rep.,Crapo,NA
+BUTTE,2nd District,2,Rep.,Crapo,244
+CAMAS,2nd District,2,Rep.,Crapo,111
+CANYON,2nd District,2,Rep.,Crapo,NA
+CARIBOU,2nd District,2,Rep.,Crapo,632
+CASSIA,2nd District,2,Rep.,Crapo,1412
+CLARK,2nd District,2,Rep.,Crapo,143
+CLEARWATER,2nd District,2,Rep.,Crapo,NA
+CUSTER,2nd District,2,Rep.,Crapo,458
+ELMORE,2nd District,2,Rep.,Crapo,663
+FRANKLIN,2nd District,2,Rep.,Crapo,505
+FREMONT,2nd District,2,Rep.,Crapo,1285
+GEM,2nd District,2,Rep.,Crapo,NA
+GOODING,2nd District,2,Rep.,Crapo,1295
+IDAHO,2nd District,2,Rep.,Crapo,NA
+JEFFERSON,2nd District,2,Rep.,Crapo,1888
+JEROME,2nd District,2,Rep.,Crapo,1618
+KOOTENAI,2nd District,2,Rep.,Crapo,NA
+LATAH,2nd District,2,Rep.,Crapo,NA
+LEMHI,2nd District,2,Rep.,Crapo,846
+LEWIS,2nd District,2,Rep.,Crapo,NA
+LINCOLN,2nd District,2,Rep.,Crapo,424
+MADISON,2nd District,2,Rep.,Crapo,2646
+MINIDOKA,2nd District,2,Rep.,Crapo,2228
+NEZ PERCE,2nd District,2,Rep.,Crapo,NA
+ONEIDA,2nd District,2,Rep.,Crapo,394
+OWYHEE,2nd District,2,Rep.,Crapo,NA
+PAYETTE,2nd District,2,Rep.,Crapo,NA
+POWER,2nd District,2,Rep.,Crapo,320
+SHOSHONE,2nd District,2,Rep.,Crapo,NA
+TETON,2nd District,2,Rep.,Crapo,465
+TWIN FALLS,2nd District,2,Rep.,Crapo,5062
+VALLEY,2nd District,2,Rep.,Crapo,NA
+WASHINGTON,2nd District,2,Rep.,Crapo,NA
+ADA,2nd District,2,Rep.,Glenn,2797
+ADAMS,2nd District,2,Rep.,Glenn,NA
+BANNOCK,2nd District,2,Rep.,Glenn,1160
+BEAR LAKE,2nd District,2,Rep.,Glenn,754
+BENEWAH,2nd District,2,Rep.,Glenn,NA
+BINGHAM,2nd District,2,Rep.,Glenn,1588
+BLAINE,2nd District,2,Rep.,Glenn,282
+BOISE,2nd District,2,Rep.,Glenn,NA
+BONNER,2nd District,2,Rep.,Glenn,NA
+BONNEVILLE,2nd District,2,Rep.,Glenn,2992
+BOUNDARY,2nd District,2,Rep.,Glenn,NA
+BUTTE,2nd District,2,Rep.,Glenn,114
+CAMAS,2nd District,2,Rep.,Glenn,66
+CANYON,2nd District,2,Rep.,Glenn,NA
+CARIBOU,2nd District,2,Rep.,Glenn,363
+CASSIA,2nd District,2,Rep.,Glenn,635
+CLARK,2nd District,2,Rep.,Glenn,126
+CLEARWATER,2nd District,2,Rep.,Glenn,NA
+CUSTER,2nd District,2,Rep.,Glenn,410
+ELMORE,2nd District,2,Rep.,Glenn,727
+FRANKLIN,2nd District,2,Rep.,Glenn,324
+FREMONT,2nd District,2,Rep.,Glenn,521
+GEM,2nd District,2,Rep.,Glenn,NA
+GOODING,2nd District,2,Rep.,Glenn,798
+IDAHO,2nd District,2,Rep.,Glenn,NA
+JEFFERSON,2nd District,2,Rep.,Glenn,1134
+JEROME,2nd District,2,Rep.,Glenn,772
+KOOTENAI,2nd District,2,Rep.,Glenn,NA
+LATAH,2nd District,2,Rep.,Glenn,NA
+LEMHI,2nd District,2,Rep.,Glenn,670
+LEWIS,2nd District,2,Rep.,Glenn,NA
+LINCOLN,2nd District,2,Rep.,Glenn,240
+MADISON,2nd District,2,Rep.,Glenn,1054
+MINIDOKA,2nd District,2,Rep.,Glenn,1223
+NEZ PERCE,2nd District,2,Rep.,Glenn,NA
+ONEIDA,2nd District,2,Rep.,Glenn,376
+OWYHEE,2nd District,2,Rep.,Glenn,NA
+PAYETTE,2nd District,2,Rep.,Glenn,NA
+POWER,2nd District,2,Rep.,Glenn,203
+SHOSHONE,2nd District,2,Rep.,Glenn,NA
+TETON,2nd District,2,Rep.,Glenn,222
+TWIN FALLS,2nd District,2,Rep.,Glenn,1892
+VALLEY,2nd District,2,Rep.,Glenn,NA
+WASHINGTON,2nd District,2,Rep.,Glenn,NA

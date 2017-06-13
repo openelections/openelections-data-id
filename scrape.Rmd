@@ -1,0 +1,124 @@
+---
+title: "Idaho election data scraping, parsing, and tidying"
+output: html_notebook
+---
+
+```{r scrape}
+library(rvest)
+library(tidyverse)
+
+url <- 'http://www.sos.idaho.gov/ELECT/results/index.html'
+
+html <- url %>% read_html()
+```
+
+```{r parse}
+links <- html %>% 
+    html_nodes('h4 ~ table tr') %>% 
+    map(html_nodes, 'td a') %>% 
+    map_df(~data_frame(election = html_text(.x), 
+                       href = html_attr(.x, 'href')))
+
+links <- links %>% mutate(year = as.integer(gsub('(^\\d{4}).*', '\\1', href)))
+
+links_wanted <- links %>% filter(grepl('Statewide|Legislature', election))
+```
+
+
+```{r download, eval=FALSE}
+base_url <- 'http://www.sos.idaho.gov/ELECT/results/'
+
+dir.create('source-files')
+
+### WARNING: This will download a lot of files
+links_wanted$href %>% paste0(base_url, .) %>% 
+    walk(~download.file(.x, paste0('source-files/', basename(.x)), method = 'curl'))
+###
+```
+
+
+```{r read}
+elections <- links_wanted %>% 
+    mutate(data = map(paste0('source-files/', basename(href)), 
+                      readxl::read_excel, col_names = FALSE, na = c('', '-')))
+```
+
+```{r}
+tidy_stwd <- function(.data, subdivision = c('county', 'precinct')){
+    subdivision <- match.arg(subdivision)
+    skip <- max(which(is.na(.data[[1]][1:4]))[1] - 1,
+                grep('issued', pmap_chr(.data[1:2, 1:4], paste), ignore.case = TRUE),
+                na.rm = TRUE)
+    na_runs <- rle(is.na(.data[[1]]))
+    header_rows <- na_runs$lengths[which(na_runs$values)[1]] + 1
+    if (grepl('ada', .data[[1]][skip + header_rows], ignore.case = TRUE)) {
+        header_rows <- header_rows - 1
+    }
+    
+    candidates <- .data %>% 
+        select(-1) %>% 
+        slice(seq(header_rows) + skip) %>% 
+        t() %>% as_data_frame() %>%
+        rowwise() %>%
+        mutate(office = ifelse(all(is.na(c(!!!rlang::syms(paste0('V', seq(header_rows - 2)))))), 
+                               NA_character_,
+                               paste(na.omit(c(!!!rlang::syms(paste0('V', seq(header_rows - 2))))), collapse = ' '))) %>% 
+        ungroup() %>% 
+        fill(office) %>% 
+        select(-seq(header_rows - 2)) %>% 
+        set_names('party', 'candidate', 'office') %>% 
+        filter(!grepl('vot|court|succeed|amend', office, ignore.case = TRUE)) %>% 
+        mutate(district = suppressWarnings(as.integer(sub('.*(\\d+).*', '\\1', office))))
+    
+    votes <- .data %>% 
+        select_if(~!is.na(.x[header_rows + skip]) & 
+                      !grepl('yes|no', .x[header_rows + skip], ignore.case = TRUE)) %>%
+        set_names(c(subdivision, unlist(.[header_rows + skip, -1]))) %>% 
+        .[-seq(header_rows + skip), ] %>% {
+            if (subdivision == 'precinct') {
+                mutate(., 
+                       county = if_else(rowSums(!is.na(.[-1])) == 0, precinct, NA_character_),
+                       county = sub(' \\(Continued\\)', '', county, ignore.case = TRUE)) %>% 
+                    fill(county) %>% 
+                    filter(!grepl('total|dist|cong', precinct, ignore.case = TRUE),
+                           rowSums(!is.na(.[c(-1, -length(.))])) > 0) %>% 
+                     gather(candidate, votes, -county, -precinct)
+            } else {
+                gather(., candidate, votes, -county) %>% 
+                    filter(!grepl('total|plurality|percentage|state|cong|county|part', 
+                                  county, ignore.case = TRUE))
+            }
+        } %>% 
+        mutate(votes = as.integer(votes),)
+    
+    header <- c('county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes')
+    if (subdivision == 'county') header <- header[-2]
+    
+    inner_join(candidates, votes, by = 'candidate') %>% 
+        mutate(candidate = gsub('\\s+', ' ', candidate)) %>%    # remove newlines
+        select(header)
+}
+
+statewide <- elections %>% 
+    rownames_to_column('index') %>%    # save for easy subsetting of unfinished work
+    filter(grepl('tatew', election),    # only statewide
+           # skip a file that didn't read and one split in two tables on one worksheet
+           map_lgl(data, ~nrow(.x) != 0 & (nrow(.x) < 100 | nrow(.x) > 500))) %>%
+    mutate(subdivision = ifelse(map_int(data, nrow) > 100, 'precinct', 'county'), 
+           tidy_data = map2(data, subdivision, tidy_stwd))
+```
+
+
+```{r writing}
+dir.create('statewide')
+
+statewide %>% 
+    mutate(filename = tolower(sub('(^\\d{4})/(\\w+).*', '\\10101__id__\\2__', href)), 
+           filename = paste0(filename, subdivision, '.csv'),
+           filename = sub('presidentialprimary', 'primary__presidential', filename)) %>% {
+               walk2(.$tidy_data, .$filename, ~write_csv(.x, paste0('statewide/', .y)))
+           }
+```
+
+
+
