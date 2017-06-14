@@ -1,0 +1,661 @@
+county,office,district,party,candidate,votes
+Ada,United States President,NA,Lib.,Harry Browne,948
+Adams,United States President,NA,Lib.,Harry Browne,19
+Bannock,United States President,NA,Lib.,Harry Browne,203
+Bear Lake,United States President,NA,Lib.,Harry Browne,10
+Benewah,United States President,NA,Lib.,Harry Browne,36
+Bingham,United States President,NA,Lib.,Harry Browne,60
+Blaine,United States President,NA,Lib.,Harry Browne,77
+Boise,United States President,NA,Lib.,Harry Browne,34
+Bonner,United States President,NA,Lib.,Harry Browne,121
+Bonneville,United States President,NA,Lib.,Harry Browne,225
+Boundary,United States President,NA,Lib.,Harry Browne,33
+Butte,United States President,NA,Lib.,Harry Browne,1
+Camas,United States President,NA,Lib.,Harry Browne,5
+Canyon,United States President,NA,Lib.,Harry Browne,280
+Caribou,United States President,NA,Lib.,Harry Browne,10
+Cassia,United States President,NA,Lib.,Harry Browne,36
+Clark,United States President,NA,Lib.,Harry Browne,2
+Clearwater,United States President,NA,Lib.,Harry Browne,28
+Custer,United States President,NA,Lib.,Harry Browne,16
+Elmore,United States President,NA,Lib.,Harry Browne,28
+Franklin,United States President,NA,Lib.,Harry Browne,25
+Fremont,United States President,NA,Lib.,Harry Browne,17
+Gem,United States President,NA,Lib.,Harry Browne,26
+Gooding,United States President,NA,Lib.,Harry Browne,21
+Idaho,United States President,NA,Lib.,Harry Browne,42
+Jefferson,United States President,NA,Lib.,Harry Browne,27
+Jerome,United States President,NA,Lib.,Harry Browne,28
+Kootenai,United States President,NA,Lib.,Harry Browne,276
+Latah,United States President,NA,Lib.,Harry Browne,203
+Lemhi,United States President,NA,Lib.,Harry Browne,23
+Lewis,United States President,NA,Lib.,Harry Browne,17
+Lincoln,United States President,NA,Lib.,Harry Browne,9
+Madison,United States President,NA,Lib.,Harry Browne,27
+Minidoka,United States President,NA,Lib.,Harry Browne,47
+Nez Perce,United States President,NA,Lib.,Harry Browne,60
+Oneida,United States President,NA,Lib.,Harry Browne,10
+Owyhee,United States President,NA,Lib.,Harry Browne,16
+Payette,United States President,NA,Lib.,Harry Browne,23
+Power,United States President,NA,Lib.,Harry Browne,9
+Shoshone,United States President,NA,Lib.,Harry Browne,51
+Teton,United States President,NA,Lib.,Harry Browne,19
+Twin Falls,United States President,NA,Lib.,Harry Browne,129
+Valley,United States President,NA,Lib.,Harry Browne,26
+Washington,United States President,NA,Lib.,Harry Browne,22
+Ada,United States President,NA,Dem.,Bill Clinton,43040
+Adams,United States President,NA,Dem.,Bill Clinton,537
+Bannock,United States President,NA,Dem.,Bill Clinton,12806
+Bear Lake,United States President,NA,Dem.,Bill Clinton,805
+Benewah,United States President,NA,Dem.,Bill Clinton,1488
+Bingham,United States President,NA,Dem.,Bill Clinton,4304
+Blaine,United States President,NA,Dem.,Bill Clinton,3840
+Boise,United States President,NA,Dem.,Bill Clinton,879
+Bonner,United States President,NA,Dem.,Bill Clinton,5294
+Bonneville,United States President,NA,Dem.,Bill Clinton,9013
+Boundary,United States President,NA,Dem.,Bill Clinton,1194
+Butte,United States President,NA,Dem.,Bill Clinton,507
+Camas,United States President,NA,Dem.,Bill Clinton,156
+Canyon,United States President,NA,Dem.,Bill Clinton,11800
+Caribou,United States President,NA,Dem.,Bill Clinton,841
+Cassia,United States President,NA,Dem.,Bill Clinton,1596
+Clark,United States President,NA,Dem.,Bill Clinton,117
+Clearwater,United States President,NA,Dem.,Bill Clinton,1507
+Custer,United States President,NA,Dem.,Bill Clinton,635
+Elmore,United States President,NA,Dem.,Bill Clinton,2324
+Franklin,United States President,NA,Dem.,Bill Clinton,807
+Fremont,United States President,NA,Dem.,Bill Clinton,1114
+Gem,United States President,NA,Dem.,Bill Clinton,1968
+Gooding,United States President,NA,Dem.,Bill Clinton,1503
+Idaho,United States President,NA,Dem.,Bill Clinton,1979
+Jefferson,United States President,NA,Dem.,Bill Clinton,1427
+Jerome,United States President,NA,Dem.,Bill Clinton,1679
+Kootenai,United States President,NA,Dem.,Bill Clinton,13627
+Latah,United States President,NA,Dem.,Bill Clinton,7741
+Lemhi,United States President,NA,Dem.,Bill Clinton,1015
+Lewis,United States President,NA,Dem.,Bill Clinton,674
+Lincoln,United States President,NA,Dem.,Bill Clinton,478
+Madison,United States President,NA,Dem.,Bill Clinton,1216
+Minidoka,United States President,NA,Dem.,Bill Clinton,1977
+Nez Perce,United States President,NA,Dem.,Bill Clinton,7491
+Oneida,United States President,NA,Dem.,Bill Clinton,429
+Owyhee,United States President,NA,Dem.,Bill Clinton,895
+Payette,United States President,NA,Dem.,Bill Clinton,2119
+Power,United States President,NA,Dem.,Bill Clinton,1070
+Shoshone,United States President,NA,Dem.,Bill Clinton,2981
+Teton,United States President,NA,Dem.,Bill Clinton,866
+Twin Falls,United States President,NA,Dem.,Bill Clinton,6826
+Valley,United States President,NA,Dem.,Bill Clinton,1564
+Washington,United States President,NA,Dem.,Bill Clinton,1314
+Ada,United States President,NA,Rep.,Bob Dole,61811
+Adams,United States President,NA,Rep.,Bob Dole,1053
+Bannock,United States President,NA,Rep.,Bob Dole,14058
+Bear Lake,United States President,NA,Rep.,Bob Dole,1583
+Benewah,United States President,NA,Rep.,Bob Dole,1667
+Bingham,United States President,NA,Rep.,Bob Dole,8391
+Blaine,United States President,NA,Rep.,Bob Dole,3003
+Boise,United States President,NA,Rep.,Bob Dole,1576
+Bonner,United States President,NA,Rep.,Bob Dole,6207
+Bonneville,United States President,NA,Rep.,Bob Dole,19977
+Boundary,United States President,NA,Rep.,Bob Dole,1937
+Butte,United States President,NA,Rep.,Bob Dole,741
+Camas,United States President,NA,Rep.,Bob Dole,283
+Canyon,United States President,NA,Rep.,Bob Dole,23988
+Caribou,United States President,NA,Rep.,Bob Dole,1740
+Cassia,United States President,NA,Rep.,Bob Dole,4663
+Clark,United States President,NA,Rep.,Bob Dole,266
+Clearwater,United States President,NA,Rep.,Bob Dole,1658
+Custer,United States President,NA,Rep.,Bob Dole,1249
+Elmore,United States President,NA,Rep.,Bob Dole,3668
+Franklin,United States President,NA,Rep.,Bob Dole,2435
+Fremont,United States President,NA,Rep.,Bob Dole,3042
+Gem,United States President,NA,Rep.,Bob Dole,3362
+Gooding,United States President,NA,Rep.,Bob Dole,2637
+Idaho,United States President,NA,Rep.,Bob Dole,3871
+Jefferson,United States President,NA,Rep.,Bob Dole,4925
+Jerome,United States President,NA,Rep.,Bob Dole,3358
+Kootenai,United States President,NA,Rep.,Bob Dole,18740
+Latah,United States President,NA,Rep.,Bob Dole,6311
+Lemhi,United States President,NA,Rep.,Bob Dole,2334
+Lewis,United States President,NA,Rep.,Bob Dole,861
+Lincoln,United States President,NA,Rep.,Bob Dole,744
+Madison,United States President,NA,Rep.,Bob Dole,5706
+Minidoka,United States President,NA,Rep.,Bob Dole,4008
+Nez Perce,United States President,NA,Rep.,Bob Dole,6675
+Oneida,United States President,NA,Rep.,Bob Dole,993
+Owyhee,United States President,NA,Rep.,Bob Dole,2033
+Payette,United States President,NA,Rep.,Bob Dole,3901
+Power,United States President,NA,Rep.,Bob Dole,1501
+Shoshone,United States President,NA,Rep.,Bob Dole,1588
+Teton,United States President,NA,Rep.,Bob Dole,1251
+Twin Falls,United States President,NA,Rep.,Bob Dole,12393
+Valley,United States President,NA,Rep.,Bob Dole,2089
+Washington,United States President,NA,Rep.,Bob Dole,2318
+Ada,United States President,NA,Nat.,John Hagelin,420
+Adams,United States President,NA,Nat.,John Hagelin,3
+Bannock,United States President,NA,Nat.,John Hagelin,76
+Bear Lake,United States President,NA,Nat.,John Hagelin,4
+Benewah,United States President,NA,Nat.,John Hagelin,10
+Bingham,United States President,NA,Nat.,John Hagelin,46
+Blaine,United States President,NA,Nat.,John Hagelin,77
+Boise,United States President,NA,Nat.,John Hagelin,11
+Bonner,United States President,NA,Nat.,John Hagelin,76
+Bonneville,United States President,NA,Nat.,John Hagelin,85
+Boundary,United States President,NA,Nat.,John Hagelin,68
+Butte,United States President,NA,Nat.,John Hagelin,5
+Camas,United States President,NA,Nat.,John Hagelin,4
+Canyon,United States President,NA,Nat.,John Hagelin,106
+Caribou,United States President,NA,Nat.,John Hagelin,8
+Cassia,United States President,NA,Nat.,John Hagelin,27
+Clark,United States President,NA,Nat.,John Hagelin,1
+Clearwater,United States President,NA,Nat.,John Hagelin,12
+Custer,United States President,NA,Nat.,John Hagelin,7
+Elmore,United States President,NA,Nat.,John Hagelin,13
+Franklin,United States President,NA,Nat.,John Hagelin,17
+Fremont,United States President,NA,Nat.,John Hagelin,8
+Gem,United States President,NA,Nat.,John Hagelin,13
+Gooding,United States President,NA,Nat.,John Hagelin,12
+Idaho,United States President,NA,Nat.,John Hagelin,22
+Jefferson,United States President,NA,Nat.,John Hagelin,7
+Jerome,United States President,NA,Nat.,John Hagelin,11
+Kootenai,United States President,NA,Nat.,John Hagelin,109
+Latah,United States President,NA,Nat.,John Hagelin,85
+Lemhi,United States President,NA,Nat.,John Hagelin,11
+Lewis,United States President,NA,Nat.,John Hagelin,3
+Lincoln,United States President,NA,Nat.,John Hagelin,9
+Madison,United States President,NA,Nat.,John Hagelin,11
+Minidoka,United States President,NA,Nat.,John Hagelin,14
+Nez Perce,United States President,NA,Nat.,John Hagelin,39
+Oneida,United States President,NA,Nat.,John Hagelin,2
+Owyhee,United States President,NA,Nat.,John Hagelin,11
+Payette,United States President,NA,Nat.,John Hagelin,21
+Power,United States President,NA,Nat.,John Hagelin,3
+Shoshone,United States President,NA,Nat.,John Hagelin,19
+Teton,United States President,NA,Nat.,John Hagelin,23
+Twin Falls,United States President,NA,Nat.,John Hagelin,60
+Valley,United States President,NA,Nat.,John Hagelin,19
+Washington,United States President,NA,Nat.,John Hagelin,12
+Ada,United States President,NA,Ref.,Ross Perot,11171
+Adams,United States President,NA,Ref.,Ross Perot,311
+Bannock,United States President,NA,Ref.,Ross Perot,4158
+Bear Lake,United States President,NA,Ref.,Ross Perot,396
+Benewah,United States President,NA,Ref.,Ross Perot,701
+Bingham,United States President,NA,Ref.,Ross Perot,2021
+Blaine,United States President,NA,Ref.,Ross Perot,1193
+Boise,United States President,NA,Ref.,Ross Perot,440
+Bonner,United States President,NA,Ref.,Ross Perot,2669
+Bonneville,United States President,NA,Ref.,Ross Perot,3921
+Boundary,United States President,NA,Ref.,Ross Perot,626
+Butte,United States President,NA,Ref.,Ross Perot,233
+Camas,United States President,NA,Ref.,Ross Perot,95
+Canyon,United States President,NA,Ref.,Ross Perot,3956
+Caribou,United States President,NA,Ref.,Ross Perot,501
+Cassia,United States President,NA,Ref.,Ross Perot,976
+Clark,United States President,NA,Ref.,Ross Perot,45
+Clearwater,United States President,NA,Ref.,Ross Perot,650
+Custer,United States President,NA,Ref.,Ross Perot,400
+Elmore,United States President,NA,Ref.,Ross Perot,845
+Franklin,United States President,NA,Ref.,Ross Perot,589
+Fremont,United States President,NA,Ref.,Ross Perot,630
+Gem,United States President,NA,Ref.,Ross Perot,833
+Gooding,United States President,NA,Ref.,Ross Perot,980
+Idaho,United States President,NA,Ref.,Ross Perot,1083
+Jefferson,United States President,NA,Ref.,Ross Perot,994
+Jerome,United States President,NA,Ref.,Ross Perot,1014
+Kootenai,United States President,NA,Ref.,Ross Perot,6083
+Latah,United States President,NA,Ref.,Ross Perot,1828
+Lemhi,United States President,NA,Ref.,Ross Perot,461
+Lewis,United States President,NA,Ref.,Ross Perot,316
+Lincoln,United States President,NA,Ref.,Ross Perot,319
+Madison,United States President,NA,Ref.,Ross Perot,744
+Minidoka,United States President,NA,Ref.,Ross Perot,977
+Nez Perce,United States President,NA,Ref.,Ross Perot,2385
+Oneida,United States President,NA,Ref.,Ross Perot,285
+Owyhee,United States President,NA,Ref.,Ross Perot,354
+Payette,United States President,NA,Ref.,Ross Perot,906
+Power,United States President,NA,Ref.,Ross Perot,344
+Shoshone,United States President,NA,Ref.,Ross Perot,1283
+Teton,United States President,NA,Ref.,Ross Perot,326
+Twin Falls,United States President,NA,Ref.,Ross Perot,3383
+Valley,United States President,NA,Ref.,Ross Perot,568
+Washington,United States President,NA,Ref.,Ross Perot,525
+Ada,United States President,NA,Ust.,Howard Phillips,353
+Adams,United States President,NA,Ust.,Howard Phillips,26
+Bannock,United States President,NA,Ust.,Howard Phillips,76
+Bear Lake,United States President,NA,Ust.,Howard Phillips,10
+Benewah,United States President,NA,Ust.,Howard Phillips,17
+Bingham,United States President,NA,Ust.,Howard Phillips,59
+Blaine,United States President,NA,Ust.,Howard Phillips,27
+Boise,United States President,NA,Ust.,Howard Phillips,19
+Bonner,United States President,NA,Ust.,Howard Phillips,69
+Bonneville,United States President,NA,Ust.,Howard Phillips,129
+Boundary,United States President,NA,Ust.,Howard Phillips,12
+Butte,United States President,NA,Ust.,Howard Phillips,4
+Camas,United States President,NA,Ust.,Howard Phillips,1
+Canyon,United States President,NA,Ust.,Howard Phillips,198
+Caribou,United States President,NA,Ust.,Howard Phillips,20
+Cassia,United States President,NA,Ust.,Howard Phillips,28
+Clark,United States President,NA,Ust.,Howard Phillips,3
+Clearwater,United States President,NA,Ust.,Howard Phillips,28
+Custer,United States President,NA,Ust.,Howard Phillips,9
+Elmore,United States President,NA,Ust.,Howard Phillips,26
+Franklin,United States President,NA,Ust.,Howard Phillips,19
+Fremont,United States President,NA,Ust.,Howard Phillips,24
+Gem,United States President,NA,Ust.,Howard Phillips,29
+Gooding,United States President,NA,Ust.,Howard Phillips,13
+Idaho,United States President,NA,Ust.,Howard Phillips,101
+Jefferson,United States President,NA,Ust.,Howard Phillips,23
+Jerome,United States President,NA,Ust.,Howard Phillips,35
+Kootenai,United States President,NA,Ust.,Howard Phillips,351
+Latah,United States President,NA,Ust.,Howard Phillips,122
+Lemhi,United States President,NA,Ust.,Howard Phillips,24
+Lewis,United States President,NA,Ust.,Howard Phillips,9
+Lincoln,United States President,NA,Ust.,Howard Phillips,3
+Madison,United States President,NA,Ust.,Howard Phillips,24
+Minidoka,United States President,NA,Ust.,Howard Phillips,32
+Nez Perce,United States President,NA,Ust.,Howard Phillips,46
+Oneida,United States President,NA,Ust.,Howard Phillips,7
+Owyhee,United States President,NA,Ust.,Howard Phillips,14
+Payette,United States President,NA,Ust.,Howard Phillips,48
+Power,United States President,NA,Ust.,Howard Phillips,9
+Shoshone,United States President,NA,Ust.,Howard Phillips,32
+Teton,United States President,NA,Ust.,Howard Phillips,3
+Twin Falls,United States President,NA,Ust.,Howard Phillips,105
+Valley,United States President,NA,Ust.,Howard Phillips,12
+Washington,United States President,NA,Ust.,Howard Phillips,31
+Ada,United States Senate,NA,Ind.,Mary J. Charbonneau,1710
+Adams,United States Senate,NA,Ind.,Mary J. Charbonneau,34
+Bannock,United States Senate,NA,Ind.,Mary J. Charbonneau,1127
+Bear Lake,United States Senate,NA,Ind.,Mary J. Charbonneau,69
+Benewah,United States Senate,NA,Ind.,Mary J. Charbonneau,73
+Bingham,United States Senate,NA,Ind.,Mary J. Charbonneau,492
+Blaine,United States Senate,NA,Ind.,Mary J. Charbonneau,116
+Boise,United States Senate,NA,Ind.,Mary J. Charbonneau,58
+Bonner,United States Senate,NA,Ind.,Mary J. Charbonneau,307
+Bonneville,United States Senate,NA,Ind.,Mary J. Charbonneau,1032
+Boundary,United States Senate,NA,Ind.,Mary J. Charbonneau,86
+Butte,United States Senate,NA,Ind.,Mary J. Charbonneau,52
+Camas,United States Senate,NA,Ind.,Mary J. Charbonneau,10
+Canyon,United States Senate,NA,Ind.,Mary J. Charbonneau,692
+Caribou,United States Senate,NA,Ind.,Mary J. Charbonneau,76
+Cassia,United States Senate,NA,Ind.,Mary J. Charbonneau,177
+Clark,United States Senate,NA,Ind.,Mary J. Charbonneau,13
+Clearwater,United States Senate,NA,Ind.,Mary J. Charbonneau,65
+Custer,United States Senate,NA,Ind.,Mary J. Charbonneau,62
+Elmore,United States Senate,NA,Ind.,Mary J. Charbonneau,141
+Franklin,United States Senate,NA,Ind.,Mary J. Charbonneau,107
+Fremont,United States Senate,NA,Ind.,Mary J. Charbonneau,121
+Gem,United States Senate,NA,Ind.,Mary J. Charbonneau,101
+Gooding,United States Senate,NA,Ind.,Mary J. Charbonneau,140
+Idaho,United States Senate,NA,Ind.,Mary J. Charbonneau,112
+Jefferson,United States Senate,NA,Ind.,Mary J. Charbonneau,185
+Jerome,United States Senate,NA,Ind.,Mary J. Charbonneau,137
+Kootenai,United States Senate,NA,Ind.,Mary J. Charbonneau,682
+Latah,United States Senate,NA,Ind.,Mary J. Charbonneau,293
+Lemhi,United States Senate,NA,Ind.,Mary J. Charbonneau,90
+Lewis,United States Senate,NA,Ind.,Mary J. Charbonneau,25
+Lincoln,United States Senate,NA,Ind.,Mary J. Charbonneau,29
+Madison,United States Senate,NA,Ind.,Mary J. Charbonneau,114
+Minidoka,United States Senate,NA,Ind.,Mary J. Charbonneau,203
+Nez Perce,United States Senate,NA,Ind.,Mary J. Charbonneau,214
+Oneida,United States Senate,NA,Ind.,Mary J. Charbonneau,41
+Owyhee,United States Senate,NA,Ind.,Mary J. Charbonneau,56
+Payette,United States Senate,NA,Ind.,Mary J. Charbonneau,111
+Power,United States Senate,NA,Ind.,Mary J. Charbonneau,98
+Shoshone,United States Senate,NA,Ind.,Mary J. Charbonneau,143
+Teton,United States Senate,NA,Ind.,Mary J. Charbonneau,69
+Twin Falls,United States Senate,NA,Ind.,Mary J. Charbonneau,558
+Valley,United States Senate,NA,Ind.,Mary J. Charbonneau,57
+Washington,United States Senate,NA,Ind.,Mary J. Charbonneau,59
+Ada,United States Senate,NA,Rep.,Larry Craig,61244
+Adams,United States Senate,NA,Rep.,Larry Craig,1340
+Bannock,United States Senate,NA,Rep.,Larry Craig,15862
+Bear Lake,United States Senate,NA,Rep.,Larry Craig,1843
+Benewah,United States Senate,NA,Rep.,Larry Craig,2093
+Bingham,United States Senate,NA,Rep.,Larry Craig,9437
+Blaine,United States Senate,NA,Rep.,Larry Craig,2796
+Boise,United States Senate,NA,Rep.,Larry Craig,1781
+Bonner,United States Senate,NA,Rep.,Larry Craig,7405
+Bonneville,United States Senate,NA,Rep.,Larry Craig,22759
+Boundary,United States Senate,NA,Rep.,Larry Craig,2318
+Butte,United States Senate,NA,Rep.,Larry Craig,920
+Camas,United States Senate,NA,Rep.,Larry Craig,339
+Canyon,United States Senate,NA,Rep.,Larry Craig,25128
+Caribou,United States Senate,NA,Rep.,Larry Craig,2125
+Cassia,United States Senate,NA,Rep.,Larry Craig,5321
+Clark,United States Senate,NA,Rep.,Larry Craig,323
+Clearwater,United States Senate,NA,Rep.,Larry Craig,2230
+Custer,United States Senate,NA,Rep.,Larry Craig,1589
+Elmore,United States Senate,NA,Rep.,Larry Craig,4124
+Franklin,United States Senate,NA,Rep.,Larry Craig,2941
+Fremont,United States Senate,NA,Rep.,Larry Craig,3442
+Gem,United States Senate,NA,Rep.,Larry Craig,3799
+Gooding,United States Senate,NA,Rep.,Larry Craig,3277
+Idaho,United States Senate,NA,Rep.,Larry Craig,4677
+Jefferson,United States Senate,NA,Rep.,Larry Craig,5382
+Jerome,United States Senate,NA,Rep.,Larry Craig,3865
+Kootenai,United States Senate,NA,Rep.,Larry Craig,21611
+Latah,United States Senate,NA,Rep.,Larry Craig,7721
+Lemhi,United States Senate,NA,Rep.,Larry Craig,2753
+Lewis,United States Senate,NA,Rep.,Larry Craig,1078
+Lincoln,United States Senate,NA,Rep.,Larry Craig,912
+Madison,United States Senate,NA,Rep.,Larry Craig,6054
+Minidoka,United States Senate,NA,Rep.,Larry Craig,4662
+Nez Perce,United States Senate,NA,Rep.,Larry Craig,8425
+Oneida,United States Senate,NA,Rep.,Larry Craig,1153
+Owyhee,United States Senate,NA,Rep.,Larry Craig,2234
+Payette,United States Senate,NA,Rep.,Larry Craig,4331
+Power,United States Senate,NA,Rep.,Larry Craig,1710
+Shoshone,United States Senate,NA,Rep.,Larry Craig,2491
+Teton,United States Senate,NA,Rep.,Larry Craig,1384
+Twin Falls,United States Senate,NA,Rep.,Larry Craig,13599
+Valley,United States Senate,NA,Rep.,Larry Craig,2421
+Washington,United States Senate,NA,Rep.,Larry Craig,2633
+Ada,United States Senate,NA,Dem.,Walt Minnick,54748
+Adams,United States Senate,NA,Dem.,Walt Minnick,565
+Bannock,United States Senate,NA,Dem.,Walt Minnick,14400
+Bear Lake,United States Senate,NA,Dem.,Walt Minnick,798
+Benewah,United States Senate,NA,Dem.,Walt Minnick,1641
+Bingham,United States Senate,NA,Dem.,Walt Minnick,4945
+Blaine,United States Senate,NA,Dem.,Walt Minnick,5266
+Boise,United States Senate,NA,Dem.,Walt Minnick,1072
+Bonner,United States Senate,NA,Dem.,Walt Minnick,6841
+Bonneville,United States Senate,NA,Dem.,Walt Minnick,9352
+Boundary,United States Senate,NA,Dem.,Walt Minnick,1406
+Butte,United States Senate,NA,Dem.,Walt Minnick,458
+Camas,United States Senate,NA,Dem.,Walt Minnick,170
+Canyon,United States Senate,NA,Dem.,Walt Minnick,14727
+Caribou,United States Senate,NA,Dem.,Walt Minnick,863
+Cassia,United States Senate,NA,Dem.,Walt Minnick,1880
+Clark,United States Senate,NA,Dem.,Walt Minnick,96
+Clearwater,United States Senate,NA,Dem.,Walt Minnick,1610
+Custer,United States Senate,NA,Dem.,Walt Minnick,604
+Elmore,United States Senate,NA,Dem.,Walt Minnick,2687
+Franklin,United States Senate,NA,Dem.,Walt Minnick,877
+Fremont,United States Senate,NA,Dem.,Walt Minnick,1333
+Gem,United States Senate,NA,Dem.,Walt Minnick,2407
+Gooding,United States Senate,NA,Dem.,Walt Minnick,1783
+Idaho,United States Senate,NA,Dem.,Walt Minnick,2254
+Jefferson,United States Senate,NA,Dem.,Walt Minnick,1835
+Jerome,United States Senate,NA,Dem.,Walt Minnick,2221
+Kootenai,United States Senate,NA,Dem.,Walt Minnick,17262
+Latah,United States Senate,NA,Dem.,Walt Minnick,8364
+Lemhi,United States Senate,NA,Dem.,Walt Minnick,955
+Lewis,United States Senate,NA,Dem.,Walt Minnick,742
+Lincoln,United States Senate,NA,Dem.,Walt Minnick,583
+Madison,United States Senate,NA,Dem.,Walt Minnick,1594
+Minidoka,United States Senate,NA,Dem.,Walt Minnick,2251
+Nez Perce,United States Senate,NA,Dem.,Walt Minnick,8113
+Oneida,United States Senate,NA,Dem.,Walt Minnick,495
+Owyhee,United States Senate,NA,Dem.,Walt Minnick,951
+Payette,United States Senate,NA,Dem.,Walt Minnick,2634
+Power,United States Senate,NA,Dem.,Walt Minnick,1083
+Shoshone,United States Senate,NA,Dem.,Walt Minnick,3300
+Teton,United States Senate,NA,Dem.,Walt Minnick,958
+Twin Falls,United States Senate,NA,Dem.,Walt Minnick,9014
+Valley,United States Senate,NA,Dem.,Walt Minnick,1840
+Washington,United States Senate,NA,Dem.,Walt Minnick,1444
+Ada,United States Senate,NA,Nat.,Susan Vegors,1201
+Adams,United States Senate,NA,Nat.,Susan Vegors,7
+Bannock,United States Senate,NA,Nat.,Susan Vegors,504
+Bear Lake,United States Senate,NA,Nat.,Susan Vegors,27
+Benewah,United States Senate,NA,Nat.,Susan Vegors,32
+Bingham,United States Senate,NA,Nat.,Susan Vegors,225
+Blaine,United States Senate,NA,Nat.,Susan Vegors,83
+Boise,United States Senate,NA,Nat.,Susan Vegors,48
+Bonner,United States Senate,NA,Nat.,Susan Vegors,152
+Bonneville,United States Senate,NA,Nat.,Susan Vegors,379
+Boundary,United States Senate,NA,Nat.,Susan Vegors,45
+Butte,United States Senate,NA,Nat.,Susan Vegors,18
+Camas,United States Senate,NA,Nat.,Susan Vegors,8
+Canyon,United States Senate,NA,Nat.,Susan Vegors,360
+Caribou,United States Senate,NA,Nat.,Susan Vegors,31
+Cassia,United States Senate,NA,Nat.,Susan Vegors,81
+Clark,United States Senate,NA,Nat.,Susan Vegors,6
+Clearwater,United States Senate,NA,Nat.,Susan Vegors,32
+Custer,United States Senate,NA,Nat.,Susan Vegors,24
+Elmore,United States Senate,NA,Nat.,Susan Vegors,65
+Franklin,United States Senate,NA,Nat.,Susan Vegors,48
+Fremont,United States Senate,NA,Nat.,Susan Vegors,64
+Gem,United States Senate,NA,Nat.,Susan Vegors,57
+Gooding,United States Senate,NA,Nat.,Susan Vegors,83
+Idaho,United States Senate,NA,Nat.,Susan Vegors,58
+Jefferson,United States Senate,NA,Nat.,Susan Vegors,92
+Jerome,United States Senate,NA,Nat.,Susan Vegors,79
+Kootenai,United States Senate,NA,Nat.,Susan Vegors,272
+Latah,United States Senate,NA,Nat.,Susan Vegors,138
+Lemhi,United States Senate,NA,Nat.,Susan Vegors,36
+Lewis,United States Senate,NA,Nat.,Susan Vegors,12
+Lincoln,United States Senate,NA,Nat.,Susan Vegors,19
+Madison,United States Senate,NA,Nat.,Susan Vegors,74
+Minidoka,United States Senate,NA,Nat.,Susan Vegors,89
+Nez Perce,United States Senate,NA,Nat.,Susan Vegors,101
+Oneida,United States Senate,NA,Nat.,Susan Vegors,15
+Owyhee,United States Senate,NA,Nat.,Susan Vegors,24
+Payette,United States Senate,NA,Nat.,Susan Vegors,72
+Power,United States Senate,NA,Nat.,Susan Vegors,50
+Shoshone,United States Senate,NA,Nat.,Susan Vegors,65
+Teton,United States Senate,NA,Nat.,Susan Vegors,52
+Twin Falls,United States Senate,NA,Nat.,Susan Vegors,235
+Valley,United States Senate,NA,Nat.,Susan Vegors,39
+Washington,United States Senate,NA,Nat.,Susan Vegors,40
+Ada,U.S. Representative 1st District,1,Nat.,Marion Ellis,2167
+Adams,U.S. Representative 1st District,1,Nat.,Marion Ellis,56
+Bannock,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Bear Lake,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Benewah,U.S. Representative 1st District,1,Nat.,Marion Ellis,74
+Bingham,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Blaine,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Boise,U.S. Representative 1st District,1,Nat.,Marion Ellis,102
+Bonner,U.S. Representative 1st District,1,Nat.,Marion Ellis,355
+Bonneville,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Boundary,U.S. Representative 1st District,1,Nat.,Marion Ellis,103
+Butte,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Camas,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Canyon,U.S. Representative 1st District,1,Nat.,Marion Ellis,1115
+Caribou,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Cassia,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Clark,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Clearwater,U.S. Representative 1st District,1,Nat.,Marion Ellis,65
+Custer,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Elmore,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Franklin,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Fremont,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Gem,U.S. Representative 1st District,1,Nat.,Marion Ellis,226
+Gooding,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Idaho,U.S. Representative 1st District,1,Nat.,Marion Ellis,109
+Jefferson,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Jerome,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Kootenai,U.S. Representative 1st District,1,Nat.,Marion Ellis,846
+Latah,U.S. Representative 1st District,1,Nat.,Marion Ellis,397
+Lemhi,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Lewis,U.S. Representative 1st District,1,Nat.,Marion Ellis,32
+Lincoln,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Madison,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Minidoka,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Nez Perce,U.S. Representative 1st District,1,Nat.,Marion Ellis,298
+Oneida,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Owyhee,U.S. Representative 1st District,1,Nat.,Marion Ellis,68
+Payette,U.S. Representative 1st District,1,Nat.,Marion Ellis,230
+Power,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Shoshone,U.S. Representative 1st District,1,Nat.,Marion Ellis,139
+Teton,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Twin Falls,U.S. Representative 1st District,1,Nat.,Marion Ellis,NA
+Valley,U.S. Representative 1st District,1,Nat.,Marion Ellis,78
+Washington,U.S. Representative 1st District,1,Nat.,Marion Ellis,75
+Ada,U.S. Representative 1st District,1,Dem.,Dan Williams,38033
+Adams,U.S. Representative 1st District,1,Dem.,Dan Williams,669
+Bannock,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Bear Lake,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Benewah,U.S. Representative 1st District,1,Dem.,Dan Williams,1688
+Bingham,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Blaine,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Boise,U.S. Representative 1st District,1,Dem.,Dan Williams,1266
+Bonner,U.S. Representative 1st District,1,Dem.,Dan Williams,7209
+Bonneville,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Boundary,U.S. Representative 1st District,1,Dem.,Dan Williams,1550
+Butte,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Camas,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Canyon,U.S. Representative 1st District,1,Dem.,Dan Williams,16779
+Caribou,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Cassia,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Clark,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Clearwater,U.S. Representative 1st District,1,Dem.,Dan Williams,1872
+Custer,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Elmore,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Franklin,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Fremont,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Gem,U.S. Representative 1st District,1,Dem.,Dan Williams,2733
+Gooding,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Idaho,U.S. Representative 1st District,1,Dem.,Dan Williams,2568
+Jefferson,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Jerome,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Kootenai,U.S. Representative 1st District,1,Dem.,Dan Williams,19002
+Latah,U.S. Representative 1st District,1,Dem.,Dan Williams,10122
+Lemhi,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Lewis,U.S. Representative 1st District,1,Dem.,Dan Williams,835
+Lincoln,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Madison,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Minidoka,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Nez Perce,U.S. Representative 1st District,1,Dem.,Dan Williams,9567
+Oneida,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Owyhee,U.S. Representative 1st District,1,Dem.,Dan Williams,1088
+Payette,U.S. Representative 1st District,1,Dem.,Dan Williams,3112
+Power,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Shoshone,U.S. Representative 1st District,1,Dem.,Dan Williams,3798
+Teton,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Twin Falls,U.S. Representative 1st District,1,Dem.,Dan Williams,NA
+Valley,U.S. Representative 1st District,1,Dem.,Dan Williams,2237
+Washington,U.S. Representative 1st District,1,Dem.,Dan Williams,1771
+Ada,U.S. Representative 2nd District,2,Nat.,John Butler,777
+Adams,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Bannock,U.S. Representative 2nd District,2,Nat.,John Butler,561
+Bear Lake,U.S. Representative 2nd District,2,Nat.,John Butler,47
+Benewah,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Bingham,U.S. Representative 2nd District,2,Nat.,John Butler,231
+Blaine,U.S. Representative 2nd District,2,Nat.,John Butler,180
+Boise,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Bonner,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Bonneville,U.S. Representative 2nd District,2,Nat.,John Butler,448
+Boundary,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Butte,U.S. Representative 2nd District,2,Nat.,John Butler,20
+Camas,U.S. Representative 2nd District,2,Nat.,John Butler,21
+Canyon,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Caribou,U.S. Representative 2nd District,2,Nat.,John Butler,55
+Cassia,U.S. Representative 2nd District,2,Nat.,John Butler,142
+Clark,U.S. Representative 2nd District,2,Nat.,John Butler,7
+Clearwater,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Custer,U.S. Representative 2nd District,2,Nat.,John Butler,64
+Elmore,U.S. Representative 2nd District,2,Nat.,John Butler,122
+Franklin,U.S. Representative 2nd District,2,Nat.,John Butler,135
+Fremont,U.S. Representative 2nd District,2,Nat.,John Butler,53
+Gem,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Gooding,U.S. Representative 2nd District,2,Nat.,John Butler,106
+Idaho,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Jefferson,U.S. Representative 2nd District,2,Nat.,John Butler,91
+Jerome,U.S. Representative 2nd District,2,Nat.,John Butler,92
+Kootenai,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Latah,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Lemhi,U.S. Representative 2nd District,2,Nat.,John Butler,61
+Lewis,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Lincoln,U.S. Representative 2nd District,2,Nat.,John Butler,24
+Madison,U.S. Representative 2nd District,2,Nat.,John Butler,85
+Minidoka,U.S. Representative 2nd District,2,Nat.,John Butler,149
+Nez Perce,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Oneida,U.S. Representative 2nd District,2,Nat.,John Butler,33
+Owyhee,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Payette,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Power,U.S. Representative 2nd District,2,Nat.,John Butler,42
+Shoshone,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Teton,U.S. Representative 2nd District,2,Nat.,John Butler,65
+Twin Falls,U.S. Representative 2nd District,2,Nat.,John Butler,366
+Valley,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Washington,U.S. Representative 2nd District,2,Nat.,John Butler,NA
+Ada,U.S. Representative 2nd District,2,Rep.,Mike Crapo,23906
+Adams,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Bannock,U.S. Representative 2nd District,2,Rep.,Mike Crapo,18059
+Bear Lake,U.S. Representative 2nd District,2,Rep.,Mike Crapo,2064
+Benewah,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Bingham,U.S. Representative 2nd District,2,Rep.,Mike Crapo,10560
+Blaine,U.S. Representative 2nd District,2,Rep.,Mike Crapo,4156
+Boise,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Bonner,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Bonneville,U.S. Representative 2nd District,2,Rep.,Mike Crapo,25956
+Boundary,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Butte,U.S. Representative 2nd District,2,Rep.,Mike Crapo,987
+Camas,U.S. Representative 2nd District,2,Rep.,Mike Crapo,371
+Canyon,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Caribou,U.S. Representative 2nd District,2,Rep.,Mike Crapo,2407
+Cassia,U.S. Representative 2nd District,2,Rep.,Mike Crapo,5648
+Clark,U.S. Representative 2nd District,2,Rep.,Mike Crapo,335
+Clearwater,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Custer,U.S. Representative 2nd District,2,Rep.,Mike Crapo,1701
+Elmore,U.S. Representative 2nd District,2,Rep.,Mike Crapo,5042
+Franklin,U.S. Representative 2nd District,2,Rep.,Mike Crapo,3212
+Fremont,U.S. Representative 2nd District,2,Rep.,Mike Crapo,4017
+Gem,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Gooding,U.S. Representative 2nd District,2,Rep.,Mike Crapo,3480
+Idaho,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Jefferson,U.S. Representative 2nd District,2,Rep.,Mike Crapo,6075
+Jerome,U.S. Representative 2nd District,2,Rep.,Mike Crapo,4256
+Kootenai,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Latah,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Lemhi,U.S. Representative 2nd District,2,Rep.,Mike Crapo,2888
+Lewis,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Lincoln,U.S. Representative 2nd District,2,Rep.,Mike Crapo,972
+Madison,U.S. Representative 2nd District,2,Rep.,Mike Crapo,6823
+Minidoka,U.S. Representative 2nd District,2,Rep.,Mike Crapo,5006
+Nez Perce,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Oneida,U.S. Representative 2nd District,2,Rep.,Mike Crapo,1287
+Owyhee,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Payette,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Power,U.S. Representative 2nd District,2,Rep.,Mike Crapo,1793
+Shoshone,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Teton,U.S. Representative 2nd District,2,Rep.,Mike Crapo,1586
+Twin Falls,U.S. Representative 2nd District,2,Rep.,Mike Crapo,15059
+Valley,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Washington,U.S. Representative 2nd District,2,Rep.,Mike Crapo,NA
+Ada,U.S. Representative 2nd District,2,Dem.,John D. Seidl,13286
+Adams,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Bannock,U.S. Representative 2nd District,2,Dem.,John D. Seidl,13163
+Bear Lake,U.S. Representative 2nd District,2,Dem.,John D. Seidl,583
+Benewah,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Bingham,U.S. Representative 2nd District,2,Dem.,John D. Seidl,4253
+Blaine,U.S. Representative 2nd District,2,Dem.,John D. Seidl,3790
+Boise,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Bonner,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Bonneville,U.S. Representative 2nd District,2,Dem.,John D. Seidl,7207
+Boundary,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Butte,U.S. Representative 2nd District,2,Dem.,John D. Seidl,433
+Camas,U.S. Representative 2nd District,2,Dem.,John D. Seidl,132
+Canyon,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Caribou,U.S. Representative 2nd District,2,Dem.,John D. Seidl,611
+Cassia,U.S. Representative 2nd District,2,Dem.,John D. Seidl,1617
+Clark,U.S. Representative 2nd District,2,Dem.,John D. Seidl,87
+Clearwater,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Custer,U.S. Representative 2nd District,2,Dem.,John D. Seidl,474
+Elmore,U.S. Representative 2nd District,2,Dem.,John D. Seidl,1751
+Franklin,U.S. Representative 2nd District,2,Dem.,John D. Seidl,564
+Fremont,U.S. Representative 2nd District,2,Dem.,John D. Seidl,888
+Gem,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Gooding,U.S. Representative 2nd District,2,Dem.,John D. Seidl,1667
+Idaho,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Jefferson,U.S. Representative 2nd District,2,Dem.,John D. Seidl,1290
+Jerome,U.S. Representative 2nd District,2,Dem.,John D. Seidl,1855
+Kootenai,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Latah,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Lemhi,U.S. Representative 2nd District,2,Dem.,John D. Seidl,797
+Lewis,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Lincoln,U.S. Representative 2nd District,2,Dem.,John D. Seidl,535
+Madison,U.S. Representative 2nd District,2,Dem.,John D. Seidl,936
+Minidoka,U.S. Representative 2nd District,2,Dem.,John D. Seidl,1997
+Nez Perce,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Oneida,U.S. Representative 2nd District,2,Dem.,John D. Seidl,348
+Owyhee,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Payette,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Power,U.S. Representative 2nd District,2,Dem.,John D. Seidl,1048
+Shoshone,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Teton,U.S. Representative 2nd District,2,Dem.,John D. Seidl,782
+Twin Falls,U.S. Representative 2nd District,2,Dem.,John D. Seidl,7531
+Valley,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Washington,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA

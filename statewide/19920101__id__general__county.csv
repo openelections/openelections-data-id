@@ -1,0 +1,766 @@
+county,office,district,party,candidate,votes
+49000,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,31941
+754,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,457
+12016,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,11091
+1419,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,562
+1223,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1270
+7333,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,3565
+2243,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,2865
+912,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,623
+3937,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,4995
+16557,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,7014
+1479,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1095
+602,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,433
+202,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,134
+19220,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,9095
+1350,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,562
+4052,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1351
+195,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,95
+1152,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1433
+829,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,564
+3087,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1858
+2115,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,524
+2333,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,903
+2455,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1609
+2178,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1530
+2709,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1974
+3471,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,978
+2972,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1739
+13065,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,11553
+5353,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,7233
+1540,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,996
+593,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,674
+656,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,514
+4591,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,741
+3304,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1815
+5431,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,7069
+713,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,351
+1469,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,686
+2895,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1656
+1352,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,837
+1441,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,3182
+762,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,472
+10335,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,6593
+1548,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1259
+1802,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,1122
+202645,UNITED STATES PRESIDENT,NA,Dem.,Bill Clinton,137013
+49000,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,681
+754,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,27
+12016,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,861
+1419,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,179
+1223,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,25
+7333,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,886
+2243,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,57
+912,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,22
+3937,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,168
+16557,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,1433
+1479,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,46
+602,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,73
+202,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,2
+19220,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,431
+1350,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,230
+4052,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,413
+195,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,14
+1152,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,22
+829,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,38
+3087,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,63
+2115,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,502
+2333,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,361
+2455,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,89
+2178,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,251
+2709,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,121
+3471,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,472
+2972,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,215
+13065,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,262
+5353,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,47
+1540,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,91
+593,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,8
+656,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,83
+4591,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,489
+3304,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,389
+5431,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,51
+713,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,210
+1469,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,53
+2895,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,99
+1352,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,84
+1441,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,22
+762,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,73
+10335,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,479
+1548,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,14
+1802,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,145
+202645,UNITED STATES PRESIDENT,NA,Indept.,Bo Gritz,10281
+49000,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,258
+754,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,2
+12016,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,74
+1419,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,6
+1223,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,10
+7333,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,37
+2243,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,19
+912,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,7
+3937,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,55
+16557,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,98
+1479,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,9
+602,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,1
+202,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,3
+19220,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,77
+1350,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,3
+4052,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,11
+195,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,0
+1152,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,19
+829,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,1
+3087,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,7
+2115,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,10
+2333,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,5
+2455,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,9
+2178,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,6
+2709,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,15
+3471,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,20
+2972,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,15
+13065,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,114
+5353,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,69
+1540,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,15
+593,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,9
+656,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,1
+4591,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,19
+3304,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,15
+5431,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,31
+713,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,1
+1469,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,1
+2895,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,36
+1352,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,4
+1441,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,17
+762,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,3
+10335,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,33
+1548,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,17
+1802,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,5
+202645,UNITED STATES PRESIDENT,NA,Lib.,Andre Marrou,1167
+49000,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,28192
+754,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,695
+12016,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,8116
+1419,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,684
+1223,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1165
+7333,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,4144
+2243,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,2831
+912,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,754
+3937,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,4645
+16557,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,10241
+1479,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1136
+602,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,392
+202,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,145
+19220,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,8974
+1350,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1088
+4052,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1785
+195,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,119
+1152,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1098
+829,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,729
+3087,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1867
+2115,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,890
+2333,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1349
+2455,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1555
+2178,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1591
+2709,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1900
+3471,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,2164
+2972,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1768
+13065,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,11261
+5353,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,3602
+1540,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1175
+593,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,491
+656,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,441
+4591,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1920
+3304,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1875
+5431,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,4363
+713,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,590
+1469,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,862
+2895,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,2055
+1352,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,697
+1441,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1878
+762,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,608
+10335,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,6043
+1548,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1313
+1802,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,1204
+202645,UNITED STATES PRESIDENT,NA,Indept.,Ross Perot,130395
+49000,U.S. SENATE,NA,Rep.,Dirk Kempthorne,67517
+754,U.S. SENATE,NA,Rep.,Dirk Kempthorne,1272
+12016,U.S. SENATE,NA,Rep.,Dirk Kempthorne,14465
+1419,U.S. SENATE,NA,Rep.,Dirk Kempthorne,1995
+1223,U.S. SENATE,NA,Rep.,Dirk Kempthorne,1789
+7333,U.S. SENATE,NA,Rep.,Dirk Kempthorne,8408
+2243,U.S. SENATE,NA,Rep.,Dirk Kempthorne,3667
+912,U.S. SENATE,NA,Rep.,Dirk Kempthorne,1458
+3937,U.S. SENATE,NA,Rep.,Dirk Kempthorne,6541
+16557,U.S. SENATE,NA,Rep.,Dirk Kempthorne,20767
+1479,U.S. SENATE,NA,Rep.,Dirk Kempthorne,2005
+602,U.S. SENATE,NA,Rep.,Dirk Kempthorne,708
+202,U.S. SENATE,NA,Rep.,Dirk Kempthorne,250
+19220,U.S. SENATE,NA,Rep.,Dirk Kempthorne,26168
+1350,U.S. SENATE,NA,Rep.,Dirk Kempthorne,1970
+4052,U.S. SENATE,NA,Rep.,Dirk Kempthorne,3981
+195,U.S. SENATE,NA,Rep.,Dirk Kempthorne,257
+1152,U.S. SENATE,NA,Rep.,Dirk Kempthorne,1717
+829,U.S. SENATE,NA,Rep.,Dirk Kempthorne,1279
+3087,U.S. SENATE,NA,Rep.,Dirk Kempthorne,3982
+2115,U.S. SENATE,NA,Rep.,Dirk Kempthorne,2634
+2333,U.S. SENATE,NA,Rep.,Dirk Kempthorne,2875
+2455,U.S. SENATE,NA,Rep.,Dirk Kempthorne,3611
+2178,U.S. SENATE,NA,Rep.,Dirk Kempthorne,2678
+2709,U.S. SENATE,NA,Rep.,Dirk Kempthorne,3975
+3471,U.S. SENATE,NA,Rep.,Dirk Kempthorne,4487
+2972,U.S. SENATE,NA,Rep.,Dirk Kempthorne,3297
+13065,U.S. SENATE,NA,Rep.,Dirk Kempthorne,20403
+5353,U.S. SENATE,NA,Rep.,Dirk Kempthorne,7905
+1540,U.S. SENATE,NA,Rep.,Dirk Kempthorne,2328
+593,U.S. SENATE,NA,Rep.,Dirk Kempthorne,862
+656,U.S. SENATE,NA,Rep.,Dirk Kempthorne,691
+4591,U.S. SENATE,NA,Rep.,Dirk Kempthorne,4352
+3304,U.S. SENATE,NA,Rep.,Dirk Kempthorne,3387
+5431,U.S. SENATE,NA,Rep.,Dirk Kempthorne,7851
+713,U.S. SENATE,NA,Rep.,Dirk Kempthorne,857
+1469,U.S. SENATE,NA,Rep.,Dirk Kempthorne,2046
+2895,U.S. SENATE,NA,Rep.,Dirk Kempthorne,4506
+1352,U.S. SENATE,NA,Rep.,Dirk Kempthorne,1337
+1441,U.S. SENATE,NA,Rep.,Dirk Kempthorne,2329
+762,U.S. SENATE,NA,Rep.,Dirk Kempthorne,902
+10335,U.S. SENATE,NA,Rep.,Dirk Kempthorne,11708
+1548,U.S. SENATE,NA,Rep.,Dirk Kempthorne,2568
+1802,U.S. SENATE,NA,Rep.,Dirk Kempthorne,2683
+202645,U.S. SENATE,NA,Rep.,Dirk Kempthorne,270468
+49000,U.S. SENATE,NA,Dem.,Richard Stallings,42875
+754,U.S. SENATE,NA,Dem.,Richard Stallings,636
+12016,U.S. SENATE,NA,Dem.,Richard Stallings,17953
+1419,U.S. SENATE,NA,Dem.,Richard Stallings,862
+1223,U.S. SENATE,NA,Dem.,Richard Stallings,1762
+7333,U.S. SENATE,NA,Dem.,Richard Stallings,7652
+2243,U.S. SENATE,NA,Dem.,Richard Stallings,4309
+912,U.S. SENATE,NA,Dem.,Richard Stallings,820
+3937,U.S. SENATE,NA,Dem.,Richard Stallings,6741
+16557,U.S. SENATE,NA,Dem.,Richard Stallings,14633
+1479,U.S. SENATE,NA,Dem.,Richard Stallings,1600
+602,U.S. SENATE,NA,Dem.,Richard Stallings,793
+202,U.S. SENATE,NA,Dem.,Richard Stallings,232
+19220,U.S. SENATE,NA,Dem.,Richard Stallings,11819
+1350,U.S. SENATE,NA,Dem.,Richard Stallings,1265
+4052,U.S. SENATE,NA,Dem.,Richard Stallings,3715
+195,U.S. SENATE,NA,Dem.,Richard Stallings,162
+1152,U.S. SENATE,NA,Dem.,Richard Stallings,1973
+829,U.S. SENATE,NA,Dem.,Richard Stallings,843
+3087,U.S. SENATE,NA,Dem.,Richard Stallings,2474
+2115,U.S. SENATE,NA,Dem.,Richard Stallings,1433
+2333,U.S. SENATE,NA,Dem.,Richard Stallings,2041
+2455,U.S. SENATE,NA,Dem.,Richard Stallings,2216
+2178,U.S. SENATE,NA,Dem.,Richard Stallings,2628
+2709,U.S. SENATE,NA,Dem.,Richard Stallings,2529
+3471,U.S. SENATE,NA,Dem.,Richard Stallings,2672
+2972,U.S. SENATE,NA,Dem.,Richard Stallings,3199
+13065,U.S. SENATE,NA,Dem.,Richard Stallings,15202
+5353,U.S. SENATE,NA,Dem.,Richard Stallings,8317
+1540,U.S. SENATE,NA,Dem.,Richard Stallings,1272
+593,U.S. SENATE,NA,Dem.,Richard Stallings,860
+656,U.S. SENATE,NA,Dem.,Richard Stallings,984
+4591,U.S. SENATE,NA,Dem.,Richard Stallings,3281
+3304,U.S. SENATE,NA,Dem.,Richard Stallings,4125
+5431,U.S. SENATE,NA,Dem.,Richard Stallings,9049
+713,U.S. SENATE,NA,Dem.,Richard Stallings,899
+1469,U.S. SENATE,NA,Dem.,Richard Stallings,977
+2895,U.S. SENATE,NA,Dem.,Richard Stallings,2245
+1352,U.S. SENATE,NA,Dem.,Richard Stallings,1600
+1441,U.S. SENATE,NA,Dem.,Richard Stallings,4135
+762,U.S. SENATE,NA,Dem.,Richard Stallings,989
+10335,U.S. SENATE,NA,Dem.,Richard Stallings,11251
+1548,U.S. SENATE,NA,Dem.,Richard Stallings,1501
+1802,U.S. SENATE,NA,Dem.,Richard Stallings,1512
+202645,U.S. SENATE,NA,Dem.,Richard Stallings,208036
+49000,U.S. CONG. 1st DIST,1,Indept.,John Abel,1980
+754,U.S. CONG. 1st DIST,1,Indept.,John Abel,42
+12016,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+1419,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+1223,U.S. CONG. 1st DIST,1,Indept.,John Abel,65
+7333,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+2243,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+912,U.S. CONG. 1st DIST,1,Indept.,John Abel,70
+3937,U.S. CONG. 1st DIST,1,Indept.,John Abel,452
+16557,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+1479,U.S. CONG. 1st DIST,1,Indept.,John Abel,70
+602,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+202,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+19220,U.S. CONG. 1st DIST,1,Indept.,John Abel,1097
+1350,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+4052,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+195,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+1152,U.S. CONG. 1st DIST,1,Indept.,John Abel,88
+829,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+3087,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+2115,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+2333,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+2455,U.S. CONG. 1st DIST,1,Indept.,John Abel,175
+2178,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+2709,U.S. CONG. 1st DIST,1,Indept.,John Abel,163
+3471,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+2972,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+13065,U.S. CONG. 1st DIST,1,Indept.,John Abel,734
+5353,U.S. CONG. 1st DIST,1,Indept.,John Abel,367
+1540,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+593,U.S. CONG. 1st DIST,1,Indept.,John Abel,46
+656,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+4591,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+3304,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+5431,U.S. CONG. 1st DIST,1,Indept.,John Abel,319
+713,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+1469,U.S. CONG. 1st DIST,1,Indept.,John Abel,62
+2895,U.S. CONG. 1st DIST,1,Indept.,John Abel,190
+1352,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+1441,U.S. CONG. 1st DIST,1,Indept.,John Abel,143
+762,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+10335,U.S. CONG. 1st DIST,1,Indept.,John Abel,NA
+1548,U.S. CONG. 1st DIST,1,Indept.,John Abel,83
+1802,U.S. CONG. 1st DIST,1,Indept.,John Abel,109
+202645,U.S. CONG. 1st DIST,1,Indept.,John Abel,6255
+49000,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,26203
+754,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,820
+12016,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+1419,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+1223,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,1180
+7333,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+2243,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+912,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,839
+3937,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,4493
+16557,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+1479,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,1456
+602,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+202,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+19220,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,16642
+1350,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+4052,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+195,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+1152,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,1234
+829,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+3087,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+2115,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+2333,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+2455,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,2219
+2178,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+2709,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,2951
+3471,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+2972,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+13065,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,13921
+5353,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,4743
+1540,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+593,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,587
+656,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+4591,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+3304,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+5431,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,4972
+713,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+1469,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,1426
+2895,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,2809
+1352,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+1441,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,1411
+762,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+10335,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,NA
+1548,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,1408
+1802,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,1669
+202645,U.S. CONG. 1st DIST,1,Rep.,Rachel Gilbert,90983
+49000,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,1143
+754,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,35
+12016,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+1419,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+1223,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,72
+7333,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+2243,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+912,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,48
+3937,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,360
+16557,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+1479,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,66
+602,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+202,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+19220,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,632
+1350,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+4052,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+195,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+1152,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,85
+829,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+3087,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+2115,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+2333,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+2455,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,130
+2178,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+2709,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,132
+3471,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+2972,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+13065,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,831
+5353,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,258
+1540,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+593,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,27
+656,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+4591,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+3304,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+5431,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,227
+713,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+1469,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,48
+2895,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,162
+1352,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+1441,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,166
+762,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+10335,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,NA
+1548,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,52
+1802,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,93
+202645,U.S. CONG. 1st DIST,1,Indept.,Henry Sonny Kinsey,4567
+49000,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,41827
+754,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,979
+12016,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+1419,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+1223,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,2246
+7333,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+2243,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+912,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,1293
+3937,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,8019
+16557,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+1479,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,2007
+602,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+202,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+19220,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,18855
+1350,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+4052,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+195,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+1152,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,2266
+829,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+3087,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+2115,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+2333,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+2455,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,3222
+2178,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+2709,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,3235
+3471,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+2972,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+13065,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,19890
+5353,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,10487
+1540,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+593,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,1069
+656,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+4591,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+3304,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+5431,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,11196
+713,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+1469,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,1436
+2895,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,3487
+1352,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+1441,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,4740
+762,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+10335,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,NA
+1548,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,2469
+1802,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,2262
+202645,U.S. CONG. 1st DIST,1,Dem.,Larry LaRocco,140985
+49000,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,21417
+754,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+12016,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,15805
+1419,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,1756
+1223,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+7333,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,9470
+2243,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,3836
+912,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+3937,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+16557,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,24170
+1479,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+602,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,797
+202,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,295
+19220,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+1350,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,1973
+4052,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,5159
+195,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,255
+1152,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+829,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,1267
+3087,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,3875
+2115,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,2145
+2333,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,3329
+2455,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+2178,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,3306
+2709,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+3471,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,4950
+2972,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,4349
+13065,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+5353,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+1540,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,2246
+593,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+656,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,882
+4591,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,5873
+3304,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,4490
+5431,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+713,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,669
+1469,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+2895,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+1352,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,1358
+1441,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+762,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,1086
+10335,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,15025
+1548,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+1802,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,NA
+202645,U.S. CONG. 2nd DIST,2,Rep.,Michael Crapo,139783
+49000,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,575
+754,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+12016,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,590
+1419,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,38
+1223,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+7333,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,640
+2243,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,144
+912,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+3937,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+16557,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,806
+1479,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+602,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,31
+202,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,8
+19220,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+1350,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,69
+4052,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,116
+195,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,12
+1152,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+829,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,46
+3087,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,112
+2115,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,86
+2333,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,143
+2455,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+2178,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,87
+2709,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+3471,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,232
+2972,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,86
+13065,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+5353,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+1540,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,213
+593,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+656,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,18
+4591,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,301
+3304,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,147
+5431,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+713,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,20
+1469,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+2895,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+1352,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,32
+1441,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+762,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,47
+10335,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,318
+1548,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+1802,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,NA
+202645,U.S. CONG. 2nd DIST,2,Indept.,Steven Kauer,4917
+49000,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,604
+754,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+12016,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,467
+1419,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,48
+1223,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+7333,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,215
+2243,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,160
+912,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+3937,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+16557,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,624
+1479,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+602,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,33
+202,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,7
+19220,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+1350,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,85
+4052,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,105
+195,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,6
+1152,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+829,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,53
+3087,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,153
+2115,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,67
+2333,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,91
+2455,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+2178,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,103
+2709,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+3471,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,143
+2972,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,110
+13065,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+5353,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+1540,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,57
+593,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+656,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,34
+4591,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,71
+3304,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,125
+5431,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+713,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,34
+1469,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+2895,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+1352,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,48
+1441,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+762,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,38
+10335,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,326
+1548,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+1802,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,NA
+202645,U.S. CONG. 2nd DIST,2,Indept.,David Wm. Mansfield,3807
+49000,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,14346
+754,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+12016,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,14775
+1419,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,965
+1223,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+7333,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,5559
+2243,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,3504
+912,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+3937,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+16557,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,9202
+1479,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+602,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,613
+202,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,160
+19220,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+1350,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,1040
+4052,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,2149
+195,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,141
+1152,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+829,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,714
+3087,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,2500
+2115,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,1683
+2333,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,1324
+2455,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+2178,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,1962
+2709,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+3471,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,1735
+2972,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,2095
+13065,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+5353,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+1540,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,1192
+593,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+656,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,727
+4591,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,1496
+3304,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,2577
+5431,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+713,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,1126
+1469,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+2895,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+1352,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,1510
+1441,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+762,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,677
+10335,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,7678
+1548,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+1802,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,NA
+202645,U.S. CONG. 2nd DIST,2,Dem.,J.D. Williams,81450
+49000,PROPOSITION,NA,NA,Reg Voters,136808
+754,PROPOSITION,NA,NA,Reg Voters,2396
+12016,PROPOSITION,NA,NA,Reg Voters,40942
+1419,PROPOSITION,NA,NA,Reg Voters,3593
+1223,PROPOSITION,NA,NA,Reg Voters,4788
+7333,PROPOSITION,NA,NA,Reg Voters,20304
+2243,PROPOSITION,NA,NA,Reg Voters,10261
+912,PROPOSITION,NA,NA,Reg Voters,2759
+3937,PROPOSITION,NA,NA,Reg Voters,17419
+16557,PROPOSITION,NA,NA,Reg Voters,43408
+1479,PROPOSITION,NA,NA,Reg Voters,4946
+602,PROPOSITION,NA,NA,Reg Voters,1829
+202,PROPOSITION,NA,NA,Reg Voters,584
+19220,PROPOSITION,NA,NA,Reg Voters,48013
+1350,PROPOSITION,NA,NA,Reg Voters,3900
+4052,PROPOSITION,NA,NA,Reg Voters,9485
+195,PROPOSITION,NA,NA,Reg Voters,555
+1152,PROPOSITION,NA,NA,Reg Voters,5093
+829,PROPOSITION,NA,NA,Reg Voters,2679
+3087,PROPOSITION,NA,NA,Reg Voters,9128
+2115,PROPOSITION,NA,NA,Reg Voters,5022
+2333,PROPOSITION,NA,NA,Reg Voters,6045
+2455,PROPOSITION,NA,NA,Reg Voters,7287
+2178,PROPOSITION,NA,NA,Reg Voters,6961
+2709,PROPOSITION,NA,NA,Reg Voters,8392
+3471,PROPOSITION,NA,NA,Reg Voters,8654
+2972,PROPOSITION,NA,NA,Reg Voters,8501
+13065,PROPOSITION,NA,NA,Reg Voters,46971
+5353,PROPOSITION,NA,NA,Reg Voters,22516
+1540,PROPOSITION,NA,NA,Reg Voters,4847
+593,PROPOSITION,NA,NA,Reg Voters,2250
+656,PROPOSITION,NA,NA,Reg Voters,1986
+4591,PROPOSITION,NA,NA,Reg Voters,9631
+3304,PROPOSITION,NA,NA,Reg Voters,9401
+5431,PROPOSITION,NA,NA,Reg Voters,21906
+713,PROPOSITION,NA,NA,Reg Voters,2220
+1469,PROPOSITION,NA,NA,Reg Voters,3866
+2895,PROPOSITION,NA,NA,Reg Voters,8682
+1352,PROPOSITION,NA,NA,Reg Voters,3870
+1441,PROPOSITION,NA,NA,Reg Voters,8948
+762,PROPOSITION,NA,NA,Reg Voters,2326
+10335,PROPOSITION,NA,NA,Reg Voters,31257
+1548,PROPOSITION,NA,NA,Reg Voters,5402
+1802,PROPOSITION,NA,NA,Reg Voters,5290
+202645,PROPOSITION,NA,NA,Reg Voters,611121
+49000,PROPOSITION,NA,NA,Ballots Cast,111798
+754,PROPOSITION,NA,NA,Ballots Cast,1948
+12016,PROPOSITION,NA,NA,Ballots Cast,32806
+1419,PROPOSITION,NA,NA,Ballots Cast,3025
+1223,PROPOSITION,NA,NA,Ballots Cast,3788
+7333,PROPOSITION,NA,NA,Ballots Cast,16339
+2243,PROPOSITION,NA,NA,Ballots Cast,8124
+912,PROPOSITION,NA,NA,Ballots Cast,2329
+3937,PROPOSITION,NA,NA,Ballots Cast,14055
+16557,PROPOSITION,NA,NA,Ballots Cast,35837
+1479,PROPOSITION,NA,NA,Ballots Cast,3850
+602,PROPOSITION,NA,NA,Ballots Cast,1529
+202,PROPOSITION,NA,NA,Ballots Cast,495
+19220,PROPOSITION,NA,NA,Ballots Cast,38588
+1350,PROPOSITION,NA,NA,Ballots Cast,3367
+4052,PROPOSITION,NA,NA,Ballots Cast,7791
+195,PROPOSITION,NA,NA,Ballots Cast,450
+1152,PROPOSITION,NA,NA,Ballots Cast,3852
+829,PROPOSITION,NA,NA,Ballots Cast,2201
+3087,PROPOSITION,NA,NA,Ballots Cast,7025
+2115,PROPOSITION,NA,NA,Ballots Cast,4151
+2333,PROPOSITION,NA,NA,Ballots Cast,5039
+2455,PROPOSITION,NA,NA,Ballots Cast,5945
+2178,PROPOSITION,NA,NA,Ballots Cast,5709
+2709,PROPOSITION,NA,NA,Ballots Cast,6869
+3471,PROPOSITION,NA,NA,Ballots Cast,7268
+2972,PROPOSITION,NA,NA,Ballots Cast,6898
+13065,PROPOSITION,NA,NA,Ballots Cast,36999
+5353,PROPOSITION,NA,NA,Ballots Cast,16707
+1540,PROPOSITION,NA,NA,Ballots Cast,3877
+593,PROPOSITION,NA,NA,Ballots Cast,1814
+656,PROPOSITION,NA,NA,Ballots Cast,1724
+4591,PROPOSITION,NA,NA,Ballots Cast,7891
+3304,PROPOSITION,NA,NA,Ballots Cast,7620
+5431,PROPOSITION,NA,NA,Ballots Cast,17389
+713,PROPOSITION,NA,NA,Ballots Cast,1907
+1469,PROPOSITION,NA,NA,Ballots Cast,3138
+2895,PROPOSITION,NA,NA,Ballots Cast,6938
+1352,PROPOSITION,NA,NA,Ballots Cast,3035
+1441,PROPOSITION,NA,NA,Ballots Cast,6770
+762,PROPOSITION,NA,NA,Ballots Cast,1957
+10335,PROPOSITION,NA,NA,Ballots Cast,24262
+1548,PROPOSITION,NA,NA,Ballots Cast,4210
+1802,PROPOSITION,NA,NA,Ballots Cast,4411
+202645,PROPOSITION,NA,NA,Ballots Cast,491725
+49000,PROPOSITION,NA,NA,Percent,0
+754,PROPOSITION,NA,NA,Percent,0
+12016,PROPOSITION,NA,NA,Percent,0
+1419,PROPOSITION,NA,NA,Percent,0
+1223,PROPOSITION,NA,NA,Percent,0
+7333,PROPOSITION,NA,NA,Percent,0
+2243,PROPOSITION,NA,NA,Percent,0
+912,PROPOSITION,NA,NA,Percent,0
+3937,PROPOSITION,NA,NA,Percent,0
+16557,PROPOSITION,NA,NA,Percent,0
+1479,PROPOSITION,NA,NA,Percent,0
+602,PROPOSITION,NA,NA,Percent,0
+202,PROPOSITION,NA,NA,Percent,0
+19220,PROPOSITION,NA,NA,Percent,0
+1350,PROPOSITION,NA,NA,Percent,0
+4052,PROPOSITION,NA,NA,Percent,0
+195,PROPOSITION,NA,NA,Percent,0
+1152,PROPOSITION,NA,NA,Percent,0
+829,PROPOSITION,NA,NA,Percent,0
+3087,PROPOSITION,NA,NA,Percent,0
+2115,PROPOSITION,NA,NA,Percent,0
+2333,PROPOSITION,NA,NA,Percent,0
+2455,PROPOSITION,NA,NA,Percent,0
+2178,PROPOSITION,NA,NA,Percent,0
+2709,PROPOSITION,NA,NA,Percent,0
+3471,PROPOSITION,NA,NA,Percent,0
+2972,PROPOSITION,NA,NA,Percent,0
+13065,PROPOSITION,NA,NA,Percent,0
+5353,PROPOSITION,NA,NA,Percent,0
+1540,PROPOSITION,NA,NA,Percent,0
+593,PROPOSITION,NA,NA,Percent,0
+656,PROPOSITION,NA,NA,Percent,0
+4591,PROPOSITION,NA,NA,Percent,0
+3304,PROPOSITION,NA,NA,Percent,0
+5431,PROPOSITION,NA,NA,Percent,0
+713,PROPOSITION,NA,NA,Percent,0
+1469,PROPOSITION,NA,NA,Percent,0
+2895,PROPOSITION,NA,NA,Percent,0
+1352,PROPOSITION,NA,NA,Percent,0
+1441,PROPOSITION,NA,NA,Percent,0
+762,PROPOSITION,NA,NA,Percent,0
+10335,PROPOSITION,NA,NA,Percent,0
+1548,PROPOSITION,NA,NA,Percent,0
+1802,PROPOSITION,NA,NA,Percent,0
+202645,PROPOSITION,NA,NA,Percent,0
