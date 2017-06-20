@@ -9,9 +9,9 @@ library(readxl)
 ```
 
 ```{r reading data}
-#if user does not already have the data, download it.  Then, load it.  Data is split into two sheets, one for the Republicans and one for the Constitution Party.
-#The second sheet also has some extra data that we will discard.  We're using range to discard this data and excess cells with whtiespace orother extraneous inputs.
-#Download code recycled from *name*'s general election tidying.
+#if user does not already have the data, download it.  Then, load it.  Data is split into two sheets, one for the Republicans and 
+#one for the Constitution Party. The second sheet also has some extra data that we will discard. We're using range to discard this data
+#and excess cells with whitespace orother extraneous inputs. Download code recycled from *name*'s general election tidying.
 if(file.exists("input/16Pres_pri_stwd_cnty.xlsx") == FALSE) {
   url <- *url*
   download.file(url, "input/16Pres_pri_stwd_cnty.xlsx") 
@@ -22,5 +22,14 @@ initial_con_data <- readxl::read_xlsx("input/16Pres_pri_stwd_cnty.xlsx", range =
 ```
 
 ```{r tidying data}
-#restructure
+#Restructure data so votes and candidates are column values.  Then add columns for district ("" since all candidates are for national office),
+#party, and office. Lastly, rename and reorder columns to match requested formatting.
+final_gop_data <- initial_gop_data %>% tidyr::gather(candidate, votes, -Counties) %>% mutate(district = "", party = "Republican", office = "President") %>% 
+        select(county = Counties, office, district, party, candidate, votes)
+
+final_con_data <- initial_con_data %>% tidyr::gather(candidate, votes, -Counties) %>% mutate(district = "", party = "Constitution", office = "President") %>% 
+        select(county = Counties, office, district, party, candidate, votes)
+
+#Join the two data frames into one so they can be written to a csv file.
+final_data <- dplyr::bind_rows(final_gop_data, final_con_data)
 ```
