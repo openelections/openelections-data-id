@@ -1,0 +1,26 @@
+---
+title: '2016 Presidental Primary: County Level Data'
+output: html_notebook
+---
+
+```{r libraries}
+library(tidyverse)
+library(readxl)
+```
+
+```{r reading data}
+#if user does not already have the data, download it.  Then, load it.  Data is split into two sheets, one for the Republicans and one for the Constitution Party.
+#The second sheet also has some extra data that we will discard.  We're using range to discard this data and excess cells with whtiespace orother extraneous inputs.
+#Download code recycled from *name*'s general election tidying.
+if(file.exists("input/16Pres_pri_stwd_cnty.xlsx") == FALSE) {
+  url <- *url*
+  download.file(url, "input/16Pres_pri_stwd_cnty.xlsx") 
+}
+
+initial_gop_data <- readxl::read_xlsx("input/16Pres_pri_stwd_cnty.xlsx", range = "President!A6:N50")
+initial_con_data <- readxl::read_xlsx("input/16Pres_pri_stwd_cnty.xlsx", range = "Voting Stats!A6:D50")
+```
+
+```{r tidying data}
+#restructure
+```
