@@ -33,3 +33,8 @@ final_con_data <- initial_con_data %>% tidyr::gather(candidate, votes, -Counties
 #Join the two data frames into one so they can be written to a csv file.
 final_data <- dplyr::bind_rows(final_gop_data, final_con_data)
 ```
+
+```{r write}
+#write data to csv file
+readr::write_csv(final_data, "output/2016mmdd__id__primary__president__county.csv")
+```
