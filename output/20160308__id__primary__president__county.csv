@@ -1,0 +1,749 @@
+county,office,district,party,candidate,votes
+Ada,President,,Republican,Jeb Bush,172
+Adams,President,,Republican,Jeb Bush,4
+Bannock,President,,Republican,Jeb Bush,34
+Bear Lake,President,,Republican,Jeb Bush,14
+Benewah,President,,Republican,Jeb Bush,6
+Bingham,President,,Republican,Jeb Bush,39
+Blaine,President,,Republican,Jeb Bush,11
+Boise,President,,Republican,Jeb Bush,7
+Bonner,President,,Republican,Jeb Bush,23
+Bonneville,President,,Republican,Jeb Bush,59
+Boundary,President,,Republican,Jeb Bush,6
+Butte,President,,Republican,Jeb Bush,3
+Camas,President,,Republican,Jeb Bush,1
+Canyon,President,,Republican,Jeb Bush,80
+Caribou,President,,Republican,Jeb Bush,12
+Cassia,President,,Republican,Jeb Bush,68
+Clark,President,,Republican,Jeb Bush,0
+Clearwater,President,,Republican,Jeb Bush,4
+Custer,President,,Republican,Jeb Bush,8
+Elmore,President,,Republican,Jeb Bush,18
+Franklin,President,,Republican,Jeb Bush,21
+Fremont,President,,Republican,Jeb Bush,10
+Gem,President,,Republican,Jeb Bush,10
+Gooding,President,,Republican,Jeb Bush,11
+Idaho,President,,Republican,Jeb Bush,38
+Jefferson,President,,Republican,Jeb Bush,12
+Jerome,President,,Republican,Jeb Bush,10
+Kootenai,President,,Republican,Jeb Bush,68
+Latah,President,,Republican,Jeb Bush,15
+Lemhi,President,,Republican,Jeb Bush,8
+Lewis,President,,Republican,Jeb Bush,5
+Lincoln,President,,Republican,Jeb Bush,3
+Madison,President,,Republican,Jeb Bush,22
+Minidoka,President,,Republican,Jeb Bush,16
+Nez Perce,President,,Republican,Jeb Bush,19
+Oneida,President,,Republican,Jeb Bush,2
+Owyhee,President,,Republican,Jeb Bush,6
+Payette,President,,Republican,Jeb Bush,13
+Power,President,,Republican,Jeb Bush,8
+Shoshone,President,,Republican,Jeb Bush,11
+Teton,President,,Republican,Jeb Bush,4
+Twin Falls,President,,Republican,Jeb Bush,36
+Valley,President,,Republican,Jeb Bush,7
+Washington,President,,Republican,Jeb Bush,15
+Ada,President,,Republican,Ben Carson,724
+Adams,President,,Republican,Ben Carson,5
+Bannock,President,,Republican,Ben Carson,160
+Bear Lake,President,,Republican,Ben Carson,42
+Benewah,President,,Republican,Ben Carson,14
+Bingham,President,,Republican,Ben Carson,138
+Blaine,President,,Republican,Ben Carson,23
+Boise,President,,Republican,Ben Carson,31
+Bonner,President,,Republican,Ben Carson,107
+Bonneville,President,,Republican,Ben Carson,231
+Boundary,President,,Republican,Ben Carson,39
+Butte,President,,Republican,Ben Carson,6
+Camas,President,,Republican,Ben Carson,11
+Canyon,President,,Republican,Ben Carson,410
+Caribou,President,,Republican,Ben Carson,35
+Cassia,President,,Republican,Ben Carson,144
+Clark,President,,Republican,Ben Carson,5
+Clearwater,President,,Republican,Ben Carson,29
+Custer,President,,Republican,Ben Carson,22
+Elmore,President,,Republican,Ben Carson,40
+Franklin,President,,Republican,Ben Carson,66
+Fremont,President,,Republican,Ben Carson,46
+Gem,President,,Republican,Ben Carson,42
+Gooding,President,,Republican,Ben Carson,36
+Idaho,President,,Republican,Ben Carson,134
+Jefferson,President,,Republican,Ben Carson,84
+Jerome,President,,Republican,Ben Carson,36
+Kootenai,President,,Republican,Ben Carson,336
+Latah,President,,Republican,Ben Carson,90
+Lemhi,President,,Republican,Ben Carson,51
+Lewis,President,,Republican,Ben Carson,18
+Lincoln,President,,Republican,Ben Carson,15
+Madison,President,,Republican,Ben Carson,131
+Minidoka,President,,Republican,Ben Carson,43
+Nez Perce,President,,Republican,Ben Carson,93
+Oneida,President,,Republican,Ben Carson,14
+Owyhee,President,,Republican,Ben Carson,15
+Payette,President,,Republican,Ben Carson,55
+Power,President,,Republican,Ben Carson,20
+Shoshone,President,,Republican,Ben Carson,32
+Teton,President,,Republican,Ben Carson,20
+Twin Falls,President,,Republican,Ben Carson,167
+Valley,President,,Republican,Ben Carson,25
+Washington,President,,Republican,Ben Carson,68
+Ada,President,,Republican,Chris Christie,68
+Adams,President,,Republican,Chris Christie,3
+Bannock,President,,Republican,Chris Christie,9
+Bear Lake,President,,Republican,Chris Christie,3
+Benewah,President,,Republican,Chris Christie,3
+Bingham,President,,Republican,Chris Christie,14
+Blaine,President,,Republican,Chris Christie,1
+Boise,President,,Republican,Chris Christie,8
+Bonner,President,,Republican,Chris Christie,14
+Bonneville,President,,Republican,Chris Christie,29
+Boundary,President,,Republican,Chris Christie,3
+Butte,President,,Republican,Chris Christie,0
+Camas,President,,Republican,Chris Christie,1
+Canyon,President,,Republican,Chris Christie,32
+Caribou,President,,Republican,Chris Christie,3
+Cassia,President,,Republican,Chris Christie,12
+Clark,President,,Republican,Chris Christie,1
+Clearwater,President,,Republican,Chris Christie,8
+Custer,President,,Republican,Chris Christie,4
+Elmore,President,,Republican,Chris Christie,6
+Franklin,President,,Republican,Chris Christie,5
+Fremont,President,,Republican,Chris Christie,6
+Gem,President,,Republican,Chris Christie,8
+Gooding,President,,Republican,Chris Christie,3
+Idaho,President,,Republican,Chris Christie,7
+Jefferson,President,,Republican,Chris Christie,5
+Jerome,President,,Republican,Chris Christie,8
+Kootenai,President,,Republican,Chris Christie,23
+Latah,President,,Republican,Chris Christie,9
+Lemhi,President,,Republican,Chris Christie,5
+Lewis,President,,Republican,Chris Christie,2
+Lincoln,President,,Republican,Chris Christie,0
+Madison,President,,Republican,Chris Christie,6
+Minidoka,President,,Republican,Chris Christie,0
+Nez Perce,President,,Republican,Chris Christie,6
+Oneida,President,,Republican,Chris Christie,1
+Owyhee,President,,Republican,Chris Christie,1
+Payette,President,,Republican,Chris Christie,2
+Power,President,,Republican,Chris Christie,0
+Shoshone,President,,Republican,Chris Christie,4
+Teton,President,,Republican,Chris Christie,2
+Twin Falls,President,,Republican,Chris Christie,18
+Valley,President,,Republican,Chris Christie,4
+Washington,President,,Republican,Chris Christie,6
+Ada,President,,Republican,Ted Cruz,20156
+Adams,President,,Republican,Ted Cruz,292
+Bannock,President,,Republican,Ted Cruz,4404
+Bear Lake,President,,Republican,Ted Cruz,643
+Benewah,President,,Republican,Ted Cruz,671
+Bingham,President,,Republican,Ted Cruz,3471
+Blaine,President,,Republican,Ted Cruz,370
+Boise,President,,Republican,Ted Cruz,531
+Bonner,President,,Republican,Ted Cruz,3132
+Bonneville,President,,Republican,Ted Cruz,7794
+Boundary,President,,Republican,Ted Cruz,901
+Butte,President,,Republican,Ted Cruz,275
+Camas,President,,Republican,Ted Cruz,75
+Canyon,President,,Republican,Ted Cruz,11164
+Caribou,President,,Republican,Ted Cruz,602
+Cassia,President,,Republican,Ted Cruz,2095
+Clark,President,,Republican,Ted Cruz,62
+Clearwater,President,,Republican,Ted Cruz,477
+Custer,President,,Republican,Ted Cruz,285
+Elmore,President,,Republican,Ted Cruz,892
+Franklin,President,,Republican,Ted Cruz,1173
+Fremont,President,,Republican,Ted Cruz,1434
+Gem,President,,Republican,Ted Cruz,1391
+Gooding,President,,Republican,Ted Cruz,863
+Idaho,President,,Republican,Ted Cruz,1495
+Jefferson,President,,Republican,Ted Cruz,3080
+Jerome,President,,Republican,Ted Cruz,1164
+Kootenai,President,,Republican,Ted Cruz,11924
+Latah,President,,Republican,Ted Cruz,2102
+Lemhi,President,,Republican,Ted Cruz,597
+Lewis,President,,Republican,Ted Cruz,263
+Lincoln,President,,Republican,Ted Cruz,279
+Madison,President,,Republican,Ted Cruz,4079
+Minidoka,President,,Republican,Ted Cruz,1163
+Nez Perce,President,,Republican,Ted Cruz,1583
+Oneida,President,,Republican,Ted Cruz,473
+Owyhee,President,,Republican,Ted Cruz,717
+Payette,President,,Republican,Ted Cruz,1364
+Power,President,,Republican,Ted Cruz,421
+Shoshone,President,,Republican,Ted Cruz,591
+Teton,President,,Republican,Ted Cruz,465
+Twin Falls,President,,Republican,Ted Cruz,4717
+Valley,President,,Republican,Ted Cruz,476
+Washington,President,,Republican,Ted Cruz,783
+Ada,President,,Republican,Carly Fiorina,53
+Adams,President,,Republican,Carly Fiorina,2
+Bannock,President,,Republican,Carly Fiorina,10
+Bear Lake,President,,Republican,Carly Fiorina,1
+Benewah,President,,Republican,Carly Fiorina,3
+Bingham,President,,Republican,Carly Fiorina,18
+Blaine,President,,Republican,Carly Fiorina,2
+Boise,President,,Republican,Carly Fiorina,2
+Bonner,President,,Republican,Carly Fiorina,8
+Bonneville,President,,Republican,Carly Fiorina,11
+Boundary,President,,Republican,Carly Fiorina,1
+Butte,President,,Republican,Carly Fiorina,1
+Camas,President,,Republican,Carly Fiorina,0
+Canyon,President,,Republican,Carly Fiorina,25
+Caribou,President,,Republican,Carly Fiorina,2
+Cassia,President,,Republican,Carly Fiorina,6
+Clark,President,,Republican,Carly Fiorina,0
+Clearwater,President,,Republican,Carly Fiorina,3
+Custer,President,,Republican,Carly Fiorina,3
+Elmore,President,,Republican,Carly Fiorina,4
+Franklin,President,,Republican,Carly Fiorina,9
+Fremont,President,,Republican,Carly Fiorina,4
+Gem,President,,Republican,Carly Fiorina,1
+Gooding,President,,Republican,Carly Fiorina,0
+Idaho,President,,Republican,Carly Fiorina,3
+Jefferson,President,,Republican,Carly Fiorina,4
+Jerome,President,,Republican,Carly Fiorina,3
+Kootenai,President,,Republican,Carly Fiorina,13
+Latah,President,,Republican,Carly Fiorina,4
+Lemhi,President,,Republican,Carly Fiorina,2
+Lewis,President,,Republican,Carly Fiorina,1
+Lincoln,President,,Republican,Carly Fiorina,0
+Madison,President,,Republican,Carly Fiorina,5
+Minidoka,President,,Republican,Carly Fiorina,1
+Nez Perce,President,,Republican,Carly Fiorina,4
+Oneida,President,,Republican,Carly Fiorina,2
+Owyhee,President,,Republican,Carly Fiorina,0
+Payette,President,,Republican,Carly Fiorina,3
+Power,President,,Republican,Carly Fiorina,0
+Shoshone,President,,Republican,Carly Fiorina,3
+Teton,President,,Republican,Carly Fiorina,0
+Twin Falls,President,,Republican,Carly Fiorina,13
+Valley,President,,Republican,Carly Fiorina,5
+Washington,President,,Republican,Carly Fiorina,7
+Ada,President,,Republican,Lindsey Graham,14
+Adams,President,,Republican,Lindsey Graham,1
+Bannock,President,,Republican,Lindsey Graham,5
+Bear Lake,President,,Republican,Lindsey Graham,0
+Benewah,President,,Republican,Lindsey Graham,1
+Bingham,President,,Republican,Lindsey Graham,1
+Blaine,President,,Republican,Lindsey Graham,3
+Boise,President,,Republican,Lindsey Graham,0
+Bonner,President,,Republican,Lindsey Graham,7
+Bonneville,President,,Republican,Lindsey Graham,5
+Boundary,President,,Republican,Lindsey Graham,3
+Butte,President,,Republican,Lindsey Graham,0
+Camas,President,,Republican,Lindsey Graham,2
+Canyon,President,,Republican,Lindsey Graham,9
+Caribou,President,,Republican,Lindsey Graham,0
+Cassia,President,,Republican,Lindsey Graham,2
+Clark,President,,Republican,Lindsey Graham,0
+Clearwater,President,,Republican,Lindsey Graham,0
+Custer,President,,Republican,Lindsey Graham,2
+Elmore,President,,Republican,Lindsey Graham,4
+Franklin,President,,Republican,Lindsey Graham,1
+Fremont,President,,Republican,Lindsey Graham,0
+Gem,President,,Republican,Lindsey Graham,0
+Gooding,President,,Republican,Lindsey Graham,0
+Idaho,President,,Republican,Lindsey Graham,2
+Jefferson,President,,Republican,Lindsey Graham,2
+Jerome,President,,Republican,Lindsey Graham,0
+Kootenai,President,,Republican,Lindsey Graham,2
+Latah,President,,Republican,Lindsey Graham,0
+Lemhi,President,,Republican,Lindsey Graham,1
+Lewis,President,,Republican,Lindsey Graham,0
+Lincoln,President,,Republican,Lindsey Graham,0
+Madison,President,,Republican,Lindsey Graham,3
+Minidoka,President,,Republican,Lindsey Graham,0
+Nez Perce,President,,Republican,Lindsey Graham,2
+Oneida,President,,Republican,Lindsey Graham,0
+Owyhee,President,,Republican,Lindsey Graham,1
+Payette,President,,Republican,Lindsey Graham,1
+Power,President,,Republican,Lindsey Graham,0
+Shoshone,President,,Republican,Lindsey Graham,1
+Teton,President,,Republican,Lindsey Graham,0
+Twin Falls,President,,Republican,Lindsey Graham,4
+Valley,President,,Republican,Lindsey Graham,1
+Washington,President,,Republican,Lindsey Graham,0
+Ada,President,,Republican,Mike Huckabee,70
+Adams,President,,Republican,Mike Huckabee,1
+Bannock,President,,Republican,Mike Huckabee,12
+Bear Lake,President,,Republican,Mike Huckabee,5
+Benewah,President,,Republican,Mike Huckabee,3
+Bingham,President,,Republican,Mike Huckabee,15
+Blaine,President,,Republican,Mike Huckabee,6
+Boise,President,,Republican,Mike Huckabee,6
+Bonner,President,,Republican,Mike Huckabee,10
+Bonneville,President,,Republican,Mike Huckabee,14
+Boundary,President,,Republican,Mike Huckabee,4
+Butte,President,,Republican,Mike Huckabee,1
+Camas,President,,Republican,Mike Huckabee,0
+Canyon,President,,Republican,Mike Huckabee,29
+Caribou,President,,Republican,Mike Huckabee,0
+Cassia,President,,Republican,Mike Huckabee,4
+Clark,President,,Republican,Mike Huckabee,0
+Clearwater,President,,Republican,Mike Huckabee,4
+Custer,President,,Republican,Mike Huckabee,3
+Elmore,President,,Republican,Mike Huckabee,7
+Franklin,President,,Republican,Mike Huckabee,5
+Fremont,President,,Republican,Mike Huckabee,4
+Gem,President,,Republican,Mike Huckabee,7
+Gooding,President,,Republican,Mike Huckabee,3
+Idaho,President,,Republican,Mike Huckabee,21
+Jefferson,President,,Republican,Mike Huckabee,4
+Jerome,President,,Republican,Mike Huckabee,3
+Kootenai,President,,Republican,Mike Huckabee,24
+Latah,President,,Republican,Mike Huckabee,10
+Lemhi,President,,Republican,Mike Huckabee,9
+Lewis,President,,Republican,Mike Huckabee,7
+Lincoln,President,,Republican,Mike Huckabee,3
+Madison,President,,Republican,Mike Huckabee,10
+Minidoka,President,,Republican,Mike Huckabee,5
+Nez Perce,President,,Republican,Mike Huckabee,6
+Oneida,President,,Republican,Mike Huckabee,1
+Owyhee,President,,Republican,Mike Huckabee,4
+Payette,President,,Republican,Mike Huckabee,5
+Power,President,,Republican,Mike Huckabee,3
+Shoshone,President,,Republican,Mike Huckabee,6
+Teton,President,,Republican,Mike Huckabee,1
+Twin Falls,President,,Republican,Mike Huckabee,17
+Valley,President,,Republican,Mike Huckabee,2
+Washington,President,,Republican,Mike Huckabee,4
+Ada,President,,Republican,John R. Kasich,5306
+Adams,President,,Republican,John R. Kasich,64
+Bannock,President,,Republican,John R. Kasich,494
+Bear Lake,President,,Republican,John R. Kasich,92
+Benewah,President,,Republican,John R. Kasich,80
+Bingham,President,,Republican,John R. Kasich,304
+Blaine,President,,Republican,John R. Kasich,358
+Boise,President,,Republican,John R. Kasich,142
+Bonner,President,,Republican,John R. Kasich,587
+Bonneville,President,,Republican,John R. Kasich,1070
+Boundary,President,,Republican,John R. Kasich,107
+Butte,President,,Republican,John R. Kasich,30
+Camas,President,,Republican,John R. Kasich,38
+Canyon,President,,Republican,John R. Kasich,1376
+Caribou,President,,Republican,John R. Kasich,87
+Cassia,President,,Republican,John R. Kasich,245
+Clark,President,,Republican,John R. Kasich,7
+Clearwater,President,,Republican,John R. Kasich,89
+Custer,President,,Republican,John R. Kasich,91
+Elmore,President,,Republican,John R. Kasich,209
+Franklin,President,,Republican,John R. Kasich,127
+Fremont,President,,Republican,John R. Kasich,155
+Gem,President,,Republican,John R. Kasich,159
+Gooding,President,,Republican,John R. Kasich,133
+Idaho,President,,Republican,John R. Kasich,266
+Jefferson,President,,Republican,John R. Kasich,189
+Jerome,President,,Republican,John R. Kasich,185
+Kootenai,President,,Republican,John R. Kasich,1528
+Latah,President,,Republican,John R. Kasich,324
+Lemhi,President,,Republican,John R. Kasich,198
+Lewis,President,,Republican,John R. Kasich,48
+Lincoln,President,,Republican,John R. Kasich,51
+Madison,President,,Republican,John R. Kasich,352
+Minidoka,President,,Republican,John R. Kasich,137
+Nez Perce,President,,Republican,John R. Kasich,323
+Oneida,President,,Republican,John R. Kasich,37
+Owyhee,President,,Republican,John R. Kasich,62
+Payette,President,,Republican,John R. Kasich,217
+Power,President,,Republican,John R. Kasich,57
+Shoshone,President,,Republican,John R. Kasich,86
+Teton,President,,Republican,John R. Kasich,101
+Twin Falls,President,,Republican,John R. Kasich,661
+Valley,President,,Republican,John R. Kasich,197
+Washington,President,,Republican,John R. Kasich,145
+Ada,President,,Republican,Peter Messina,2
+Adams,President,,Republican,Peter Messina,0
+Bannock,President,,Republican,Peter Messina,0
+Bear Lake,President,,Republican,Peter Messina,0
+Benewah,President,,Republican,Peter Messina,1
+Bingham,President,,Republican,Peter Messina,0
+Blaine,President,,Republican,Peter Messina,0
+Boise,President,,Republican,Peter Messina,1
+Bonner,President,,Republican,Peter Messina,0
+Bonneville,President,,Republican,Peter Messina,3
+Boundary,President,,Republican,Peter Messina,0
+Butte,President,,Republican,Peter Messina,0
+Camas,President,,Republican,Peter Messina,1
+Canyon,President,,Republican,Peter Messina,3
+Caribou,President,,Republican,Peter Messina,1
+Cassia,President,,Republican,Peter Messina,0
+Clark,President,,Republican,Peter Messina,0
+Clearwater,President,,Republican,Peter Messina,1
+Custer,President,,Republican,Peter Messina,1
+Elmore,President,,Republican,Peter Messina,0
+Franklin,President,,Republican,Peter Messina,0
+Fremont,President,,Republican,Peter Messina,0
+Gem,President,,Republican,Peter Messina,0
+Gooding,President,,Republican,Peter Messina,0
+Idaho,President,,Republican,Peter Messina,3
+Jefferson,President,,Republican,Peter Messina,0
+Jerome,President,,Republican,Peter Messina,1
+Kootenai,President,,Republican,Peter Messina,4
+Latah,President,,Republican,Peter Messina,0
+Lemhi,President,,Republican,Peter Messina,0
+Lewis,President,,Republican,Peter Messina,0
+Lincoln,President,,Republican,Peter Messina,0
+Madison,President,,Republican,Peter Messina,1
+Minidoka,President,,Republican,Peter Messina,0
+Nez Perce,President,,Republican,Peter Messina,0
+Oneida,President,,Republican,Peter Messina,0
+Owyhee,President,,Republican,Peter Messina,0
+Payette,President,,Republican,Peter Messina,1
+Power,President,,Republican,Peter Messina,0
+Shoshone,President,,Republican,Peter Messina,0
+Teton,President,,Republican,Peter Messina,0
+Twin Falls,President,,Republican,Peter Messina,1
+Valley,President,,Republican,Peter Messina,0
+Washington,President,,Republican,Peter Messina,3
+Ada,President,,Republican,Rand Paul,170
+Adams,President,,Republican,Rand Paul,5
+Bannock,President,,Republican,Rand Paul,21
+Bear Lake,President,,Republican,Rand Paul,6
+Benewah,President,,Republican,Rand Paul,8
+Bingham,President,,Republican,Rand Paul,22
+Blaine,President,,Republican,Rand Paul,7
+Boise,President,,Republican,Rand Paul,9
+Bonner,President,,Republican,Rand Paul,40
+Bonneville,President,,Republican,Rand Paul,59
+Boundary,President,,Republican,Rand Paul,7
+Butte,President,,Republican,Rand Paul,3
+Camas,President,,Republican,Rand Paul,3
+Canyon,President,,Republican,Rand Paul,83
+Caribou,President,,Republican,Rand Paul,8
+Cassia,President,,Republican,Rand Paul,26
+Clark,President,,Republican,Rand Paul,0
+Clearwater,President,,Republican,Rand Paul,4
+Custer,President,,Republican,Rand Paul,3
+Elmore,President,,Republican,Rand Paul,7
+Franklin,President,,Republican,Rand Paul,16
+Fremont,President,,Republican,Rand Paul,12
+Gem,President,,Republican,Rand Paul,14
+Gooding,President,,Republican,Rand Paul,6
+Idaho,President,,Republican,Rand Paul,30
+Jefferson,President,,Republican,Rand Paul,18
+Jerome,President,,Republican,Rand Paul,3
+Kootenai,President,,Republican,Rand Paul,88
+Latah,President,,Republican,Rand Paul,13
+Lemhi,President,,Republican,Rand Paul,12
+Lewis,President,,Republican,Rand Paul,3
+Lincoln,President,,Republican,Rand Paul,2
+Madison,President,,Republican,Rand Paul,23
+Minidoka,President,,Republican,Rand Paul,3
+Nez Perce,President,,Republican,Rand Paul,24
+Oneida,President,,Republican,Rand Paul,9
+Owyhee,President,,Republican,Rand Paul,4
+Payette,President,,Republican,Rand Paul,12
+Power,President,,Republican,Rand Paul,2
+Shoshone,President,,Republican,Rand Paul,11
+Teton,President,,Republican,Rand Paul,1
+Twin Falls,President,,Republican,Rand Paul,24
+Valley,President,,Republican,Rand Paul,3
+Washington,President,,Republican,Rand Paul,10
+Ada,President,,Republican,Marco Rubio,8074
+Adams,President,,Republican,Marco Rubio,97
+Bannock,President,,Republican,Marco Rubio,2017
+Bear Lake,President,,Republican,Marco Rubio,330
+Benewah,President,,Republican,Marco Rubio,87
+Bingham,President,,Republican,Marco Rubio,1761
+Blaine,President,,Republican,Marco Rubio,238
+Boise,President,,Republican,Marco Rubio,161
+Bonner,President,,Republican,Marco Rubio,509
+Bonneville,President,,Republican,Marco Rubio,4901
+Boundary,President,,Republican,Marco Rubio,131
+Butte,President,,Republican,Marco Rubio,117
+Camas,President,,Republican,Marco Rubio,47
+Canyon,President,,Republican,Marco Rubio,2987
+Caribou,President,,Republican,Marco Rubio,299
+Cassia,President,,Republican,Marco Rubio,819
+Clark,President,,Republican,Marco Rubio,56
+Clearwater,President,,Republican,Marco Rubio,149
+Custer,President,,Republican,Marco Rubio,174
+Elmore,President,,Republican,Marco Rubio,378
+Franklin,President,,Republican,Marco Rubio,495
+Fremont,President,,Republican,Marco Rubio,595
+Gem,President,,Republican,Marco Rubio,353
+Gooding,President,,Republican,Marco Rubio,210
+Idaho,President,,Republican,Marco Rubio,361
+Jefferson,President,,Republican,Marco Rubio,1323
+Jerome,President,,Republican,Marco Rubio,231
+Kootenai,President,,Republican,Marco Rubio,1880
+Latah,President,,Republican,Marco Rubio,430
+Lemhi,President,,Republican,Marco Rubio,335
+Lewis,President,,Republican,Marco Rubio,75
+Lincoln,President,,Republican,Marco Rubio,77
+Madison,President,,Republican,Marco Rubio,1925
+Minidoka,President,,Republican,Marco Rubio,376
+Nez Perce,President,,Republican,Marco Rubio,461
+Oneida,President,,Republican,Marco Rubio,110
+Owyhee,President,,Republican,Marco Rubio,149
+Payette,President,,Republican,Marco Rubio,396
+Power,President,,Republican,Marco Rubio,183
+Shoshone,President,,Republican,Marco Rubio,146
+Teton,President,,Republican,Marco Rubio,196
+Twin Falls,President,,Republican,Marco Rubio,1202
+Valley,President,,Republican,Marco Rubio,188
+Washington,President,,Republican,Marco Rubio,261
+Ada,President,,Republican,Rick Santorum,45
+Adams,President,,Republican,Rick Santorum,1
+Bannock,President,,Republican,Rick Santorum,12
+Bear Lake,President,,Republican,Rick Santorum,8
+Benewah,President,,Republican,Rick Santorum,1
+Bingham,President,,Republican,Rick Santorum,8
+Blaine,President,,Republican,Rick Santorum,1
+Boise,President,,Republican,Rick Santorum,1
+Bonner,President,,Republican,Rick Santorum,5
+Bonneville,President,,Republican,Rick Santorum,13
+Boundary,President,,Republican,Rick Santorum,0
+Butte,President,,Republican,Rick Santorum,0
+Camas,President,,Republican,Rick Santorum,2
+Canyon,President,,Republican,Rick Santorum,16
+Caribou,President,,Republican,Rick Santorum,1
+Cassia,President,,Republican,Rick Santorum,8
+Clark,President,,Republican,Rick Santorum,1
+Clearwater,President,,Republican,Rick Santorum,3
+Custer,President,,Republican,Rick Santorum,3
+Elmore,President,,Republican,Rick Santorum,1
+Franklin,President,,Republican,Rick Santorum,4
+Fremont,President,,Republican,Rick Santorum,3
+Gem,President,,Republican,Rick Santorum,4
+Gooding,President,,Republican,Rick Santorum,1
+Idaho,President,,Republican,Rick Santorum,6
+Jefferson,President,,Republican,Rick Santorum,4
+Jerome,President,,Republican,Rick Santorum,2
+Kootenai,President,,Republican,Rick Santorum,10
+Latah,President,,Republican,Rick Santorum,1
+Lemhi,President,,Republican,Rick Santorum,2
+Lewis,President,,Republican,Rick Santorum,1
+Lincoln,President,,Republican,Rick Santorum,0
+Madison,President,,Republican,Rick Santorum,6
+Minidoka,President,,Republican,Rick Santorum,4
+Nez Perce,President,,Republican,Rick Santorum,8
+Oneida,President,,Republican,Rick Santorum,0
+Owyhee,President,,Republican,Rick Santorum,3
+Payette,President,,Republican,Rick Santorum,5
+Power,President,,Republican,Rick Santorum,0
+Shoshone,President,,Republican,Rick Santorum,1
+Teton,President,,Republican,Rick Santorum,1
+Twin Falls,President,,Republican,Rick Santorum,12
+Valley,President,,Republican,Rick Santorum,0
+Washington,President,,Republican,Rick Santorum,3
+Ada,President,,Republican,Donald J. Trump,15191
+Adams,President,,Republican,Donald J. Trump,354
+Bannock,President,,Republican,Donald J. Trump,1711
+Bear Lake,President,,Republican,Donald J. Trump,363
+Benewah,President,,Republican,Donald J. Trump,427
+Bingham,President,,Republican,Donald J. Trump,1191
+Blaine,President,,Republican,Donald J. Trump,543
+Boise,President,,Republican,Donald J. Trump,681
+Bonner,President,,Republican,Donald J. Trump,2410
+Bonneville,President,,Republican,Donald J. Trump,2702
+Boundary,President,,Republican,Donald J. Trump,788
+Butte,President,,Republican,Donald J. Trump,138
+Camas,President,,Republican,Donald J. Trump,130
+Canyon,President,,Republican,Donald J. Trump,7341
+Caribou,President,,Republican,Donald J. Trump,304
+Cassia,President,,Republican,Donald J. Trump,1025
+Clark,President,,Republican,Donald J. Trump,44
+Clearwater,President,,Republican,Donald J. Trump,629
+Custer,President,,Republican,Donald J. Trump,415
+Elmore,President,,Republican,Donald J. Trump,1252
+Franklin,President,,Republican,Donald J. Trump,399
+Fremont,President,,Republican,Donald J. Trump,498
+Gem,President,,Republican,Donald J. Trump,1230
+Gooding,President,,Republican,Donald J. Trump,679
+Idaho,President,,Republican,Donald J. Trump,1667
+Jefferson,President,,Republican,Donald J. Trump,853
+Jerome,President,,Republican,Donald J. Trump,754
+Kootenai,President,,Republican,Donald J. Trump,6516
+Latah,President,,Republican,Donald J. Trump,894
+Lemhi,President,,Republican,Donald J. Trump,757
+Lewis,President,,Republican,Donald J. Trump,286
+Lincoln,President,,Republican,Donald J. Trump,248
+Madison,President,,Republican,Donald J. Trump,539
+Minidoka,President,,Republican,Donald J. Trump,755
+Nez Perce,President,,Republican,Donald J. Trump,1419
+Oneida,President,,Republican,Donald J. Trump,141
+Owyhee,President,,Republican,Donald J. Trump,708
+Payette,President,,Republican,Donald J. Trump,1289
+Power,President,,Republican,Donald J. Trump,184
+Shoshone,President,,Republican,Donald J. Trump,632
+Teton,President,,Republican,Donald J. Trump,238
+Twin Falls,President,,Republican,Donald J. Trump,2757
+Valley,President,,Republican,Donald J. Trump,575
+Washington,President,,Republican,Donald J. Trump,756
+Ada,President,,Constitution,Scott Copeland,48
+Adams,President,,Constitution,Scott Copeland,1
+Bannock,President,,Constitution,Scott Copeland,12
+Bear Lake,President,,Constitution,Scott Copeland,1
+Benewah,President,,Constitution,Scott Copeland,0
+Bingham,President,,Constitution,Scott Copeland,10
+Blaine,President,,Constitution,Scott Copeland,2
+Boise,President,,Constitution,Scott Copeland,2
+Bonner,President,,Constitution,Scott Copeland,17
+Bonneville,President,,Constitution,Scott Copeland,26
+Boundary,President,,Constitution,Scott Copeland,1
+Butte,President,,Constitution,Scott Copeland,0
+Camas,President,,Constitution,Scott Copeland,1
+Canyon,President,,Constitution,Scott Copeland,42
+Caribou,President,,Constitution,Scott Copeland,0
+Cassia,President,,Constitution,Scott Copeland,1
+Clark,President,,Constitution,Scott Copeland,0
+Clearwater,President,,Constitution,Scott Copeland,2
+Custer,President,,Constitution,Scott Copeland,0
+Elmore,President,,Constitution,Scott Copeland,2
+Franklin,President,,Constitution,Scott Copeland,3
+Fremont,President,,Constitution,Scott Copeland,1
+Gem,President,,Constitution,Scott Copeland,8
+Gooding,President,,Constitution,Scott Copeland,0
+Idaho,President,,Constitution,Scott Copeland,4
+Jefferson,President,,Constitution,Scott Copeland,5
+Jerome,President,,Constitution,Scott Copeland,7
+Kootenai,President,,Constitution,Scott Copeland,23
+Latah,President,,Constitution,Scott Copeland,3
+Lemhi,President,,Constitution,Scott Copeland,0
+Lewis,President,,Constitution,Scott Copeland,0
+Lincoln,President,,Constitution,Scott Copeland,0
+Madison,President,,Constitution,Scott Copeland,3
+Minidoka,President,,Constitution,Scott Copeland,3
+Nez Perce,President,,Constitution,Scott Copeland,9
+Oneida,President,,Constitution,Scott Copeland,0
+Owyhee,President,,Constitution,Scott Copeland,2
+Payette,President,,Constitution,Scott Copeland,0
+Power,President,,Constitution,Scott Copeland,0
+Shoshone,President,,Constitution,Scott Copeland,1
+Teton,President,,Constitution,Scott Copeland,2
+Twin Falls,President,,Constitution,Scott Copeland,5
+Valley,President,,Constitution,Scott Copeland,2
+Washington,President,,Constitution,Scott Copeland,1
+Ada,President,,Constitution,J.R. Myers,23
+Adams,President,,Constitution,J.R. Myers,1
+Bannock,President,,Constitution,J.R. Myers,2
+Bear Lake,President,,Constitution,J.R. Myers,2
+Benewah,President,,Constitution,J.R. Myers,1
+Bingham,President,,Constitution,J.R. Myers,4
+Blaine,President,,Constitution,J.R. Myers,0
+Boise,President,,Constitution,J.R. Myers,2
+Bonner,President,,Constitution,J.R. Myers,9
+Bonneville,President,,Constitution,J.R. Myers,14
+Boundary,President,,Constitution,J.R. Myers,2
+Butte,President,,Constitution,J.R. Myers,0
+Camas,President,,Constitution,J.R. Myers,1
+Canyon,President,,Constitution,J.R. Myers,26
+Caribou,President,,Constitution,J.R. Myers,1
+Cassia,President,,Constitution,J.R. Myers,0
+Clark,President,,Constitution,J.R. Myers,0
+Clearwater,President,,Constitution,J.R. Myers,2
+Custer,President,,Constitution,J.R. Myers,0
+Elmore,President,,Constitution,J.R. Myers,0
+Franklin,President,,Constitution,J.R. Myers,0
+Fremont,President,,Constitution,J.R. Myers,4
+Gem,President,,Constitution,J.R. Myers,1
+Gooding,President,,Constitution,J.R. Myers,0
+Idaho,President,,Constitution,J.R. Myers,3
+Jefferson,President,,Constitution,J.R. Myers,2
+Jerome,President,,Constitution,J.R. Myers,1
+Kootenai,President,,Constitution,J.R. Myers,7
+Latah,President,,Constitution,J.R. Myers,3
+Lemhi,President,,Constitution,J.R. Myers,1
+Lewis,President,,Constitution,J.R. Myers,1
+Lincoln,President,,Constitution,J.R. Myers,1
+Madison,President,,Constitution,J.R. Myers,5
+Minidoka,President,,Constitution,J.R. Myers,0
+Nez Perce,President,,Constitution,J.R. Myers,5
+Oneida,President,,Constitution,J.R. Myers,1
+Owyhee,President,,Constitution,J.R. Myers,1
+Payette,President,,Constitution,J.R. Myers,3
+Power,President,,Constitution,J.R. Myers,0
+Shoshone,President,,Constitution,J.R. Myers,1
+Teton,President,,Constitution,J.R. Myers,0
+Twin Falls,President,,Constitution,J.R. Myers,8
+Valley,President,,Constitution,J.R. Myers,1
+Washington,President,,Constitution,J.R. Myers,0
+Ada,President,,Constitution,"Patrick Anthony 
+Ockander",18
+Adams,President,,Constitution,"Patrick Anthony 
+Ockander",1
+Bannock,President,,Constitution,"Patrick Anthony 
+Ockander",2
+Bear Lake,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Benewah,President,,Constitution,"Patrick Anthony 
+Ockander",1
+Bingham,President,,Constitution,"Patrick Anthony 
+Ockander",4
+Blaine,President,,Constitution,"Patrick Anthony 
+Ockander",1
+Boise,President,,Constitution,"Patrick Anthony 
+Ockander",2
+Bonner,President,,Constitution,"Patrick Anthony 
+Ockander",3
+Bonneville,President,,Constitution,"Patrick Anthony 
+Ockander",9
+Boundary,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Butte,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Camas,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Canyon,President,,Constitution,"Patrick Anthony 
+Ockander",17
+Caribou,President,,Constitution,"Patrick Anthony 
+Ockander",1
+Cassia,President,,Constitution,"Patrick Anthony 
+Ockander",3
+Clark,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Clearwater,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Custer,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Elmore,President,,Constitution,"Patrick Anthony 
+Ockander",1
+Franklin,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Fremont,President,,Constitution,"Patrick Anthony 
+Ockander",3
+Gem,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Gooding,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Idaho,President,,Constitution,"Patrick Anthony 
+Ockander",2
+Jefferson,President,,Constitution,"Patrick Anthony 
+Ockander",2
+Jerome,President,,Constitution,"Patrick Anthony 
+Ockander",2
+Kootenai,President,,Constitution,"Patrick Anthony 
+Ockander",12
+Latah,President,,Constitution,"Patrick Anthony 
+Ockander",1
+Lemhi,President,,Constitution,"Patrick Anthony 
+Ockander",1
+Lewis,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Lincoln,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Madison,President,,Constitution,"Patrick Anthony 
+Ockander",1
+Minidoka,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Nez Perce,President,,Constitution,"Patrick Anthony 
+Ockander",5
+Oneida,President,,Constitution,"Patrick Anthony 
+Ockander",1
+Owyhee,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Payette,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Power,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Shoshone,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Teton,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Twin Falls,President,,Constitution,"Patrick Anthony 
+Ockander",3
+Valley,President,,Constitution,"Patrick Anthony 
+Ockander",0
+Washington,President,,Constitution,"Patrick Anthony 
+Ockander",0

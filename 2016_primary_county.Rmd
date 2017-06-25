@@ -11,9 +11,9 @@ library(readxl)
 ```{r reading data}
 #if user does not already have the data, download it.  Then, load it.  Data is split into two sheets, one for the Republicans and 
 #one for the Constitution Party. The second sheet also has some extra data that we will discard. We're using range to discard this data
-#and excess cells with whitespace orother extraneous inputs. Download code recycled from *name*'s general election tidying.
+#and excess cells with whitespace orother extraneous inputs. Download code recycled from restrellado's 2016 general election tidying.
 if(file.exists("input/16Pres_pri_stwd_cnty.xlsx") == FALSE) {
-  url <- *url*
+  url <- "http://www.sos.idaho.gov/ELECT/results/2016/PresidentialPrimary/16Pres_pri_stwd_cnty.xlsx"
   download.file(url, "input/16Pres_pri_stwd_cnty.xlsx") 
 }
 
@@ -36,5 +36,5 @@ final_data <- dplyr::bind_rows(final_gop_data, final_con_data)
 
 ```{r write}
 #write data to csv file
-readr::write_csv(final_data, "output/2016mmdd__id__primary__president__county.csv")
+readr::write_csv(final_data, "output/20160308__id__primary__president__county.csv")
 ```
