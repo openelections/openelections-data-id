@@ -1,0 +1,2087 @@
+county,office,district,party,candidate,votes
+Boundary,State Senate,1,R,Shawn A. Keough,1280
+Boundary,State Senate,1,R,Glenn Rohrer,904
+Boundary,State Senate,1,D,Steve Tanner,80
+Bonner,State Senate,1,R,Shawn A. Keough,2861
+Bonner,State Senate,1,R,Glenn Rohrer,2387
+Bonner,State Senate,1,D,Steve Tanner,469
+Boundary,State Representative A,1,R,Heather Scott,1773
+Boundary,State Representative A,1,D,Kate McAlister,167
+Bonner,State Representative A,1,R,Heather Scott,3828
+Bonner,State Representative A,1,D,Kate McAlister,773
+Boundary,State Representative B,1,W/I,Stephen F. Howlett,116
+Boundary,State Representative B,1,R,Sage G. Dixon,1756
+Boundary,State Representative B,1,D,Bob Vickaryous,78
+Bonner,State Representative B,1,W/I,Stephen F. Howlett,295
+Bonner,State Representative B,1,R,Sage G. Dixon,3786
+Bonner,State Representative B,1,D,Bob Vickaryous,314
+Kootenai,State Senate,2,R,Steve Vick,4267
+Kootenai,State Representative A,2,R,Vito Barbieri,3250
+Kootenai,State Representative A,2,R,Fritz Wiedenhoff,1539
+Kootenai,State Representative A,2,D,Kathy (Kraack) Kahn,630
+Kootenai,State Representative B,2,D,Richard Kohles,417
+Kootenai,State Representative B,2,R,Alan Littlejohn,1691
+Kootenai,State Representative B,2,R,Eric Redman,2890
+Kootenai,State Representative B,2,D,Cooper Coyle,191
+Kootenai,State Senate,3,R,Bob Nonini,3254
+Kootenai,State Representative A,3,R,Ron Mendive,3350
+Kootenai,State Representative B,3,R,Peter Riggs,1801
+Kootenai,State Representative B,3,R,Don Cheatham,1865
+Kootenai,State Senate,4,R,Mary Souza,3198
+Kootenai,State Senate,4,D,Kristi Milan,862
+Kootenai,State Representative A,4,D,Turns To The East,178
+Kootenai,State Representative A,4,R,Arthur B. Macomber,1614
+Kootenai,State Representative A,4,R,"Lucas ""Luke"" Malek",2263
+Kootenai,State Representative A,4,D,Patrick P Mitchell,675
+Kootenai,State Representative B,4,R,Paul Amador,2020
+Kootenai,State Representative B,4,R,Kathleen Sims,1893
+Kootenai,State Representative B,4,D,Tom Hearn,879
+Latah,State Senate,5,R,John Freeland (Wanvig),1601
+Latah,State Senate,5,D,Dan J Schmidt,1283
+Benewah,State Senate,5,R,John Freeland (Wanvig),390
+Benewah,State Senate,5,D,Dan J Schmidt,175
+Latah,State Representative A,5,R,Carl Berglund,1111
+Latah,State Representative A,5,R,William (Bill) Goesling,1201
+Latah,State Representative A,5,D,Paulette E. Jordan,1266
+Benewah,State Representative A,5,R,Carl Berglund,430
+Benewah,State Representative A,5,R,William (Bill) Goesling,145
+Benewah,State Representative A,5,D,Paulette E. Jordan,178
+Latah,State Representative B,5,R,Caroline Nilsson Troy,1908
+Latah,State Representative B,5,D,Laurene Sorensen,1165
+Benewah,State Representative B,5,R,Caroline Nilsson Troy,374
+Benewah,State Representative B,5,D,Laurene Sorensen,156
+Nez Perce,State Senate,6,R,Dan Johnson,1923
+Lewis,State Senate,6,R,Dan Johnson,560
+Nez Perce,State Representative A,6,R,Thyra K. Stevenson,1636
+Nez Perce,State Representative A,6,D,Bob Blakey,930
+Lewis,State Representative A,6,R,Thyra K. Stevenson,512
+Lewis,State Representative A,6,D,Bob Blakey,54
+Nez Perce,State Representative B,6,R,Mike Kingsley,1779
+Nez Perce,State Representative B,6,D,John Rusche,990
+Lewis,State Representative B,6,R,Mike Kingsley,515
+Lewis,State Representative B,6,D,John Rusche,63
+Clearwater,State Senate,7,R,Carl G Crabtree,293
+Clearwater,State Senate,7,R,Sheryl L Nuxoll,344
+Clearwater,State Senate,7,D,Ken Meyers,148
+Idaho,State Senate,7,R,Carl G Crabtree,1722
+Idaho,State Senate,7,R,Sheryl L Nuxoll,1523
+Idaho,State Senate,7,D,Ken Meyers,282
+Shoshone,State Senate,7,R,Carl G Crabtree,166
+Shoshone,State Senate,7,R,Sheryl L Nuxoll,193
+Shoshone,State Senate,7,D,Ken Meyers,1890
+Bonner,State Senate,7,R,Carl G Crabtree,313
+Bonner,State Senate,7,R,Sheryl L Nuxoll,323
+Bonner,State Senate,7,D,Ken Meyers,85
+Clearwater,State Representative A,7,R,Priscilla Giddings,300
+Clearwater,State Representative A,7,R,Shannon McMillan,288
+Clearwater,State Representative A,7,D,Jessica Chilcott,148
+Idaho,State Representative A,7,R,Priscilla Giddings,2204
+Idaho,State Representative A,7,R,Shannon McMillan,881
+Idaho,State Representative A,7,D,Jessica Chilcott,275
+Shoshone,State Representative A,7,R,Priscilla Giddings,116
+Shoshone,State Representative A,7,R,Shannon McMillan,238
+Shoshone,State Representative A,7,D,Jessica Chilcott,1924
+Bonner,State Representative A,7,R,Priscilla Giddings,208
+Bonner,State Representative A,7,R,Shannon McMillan,391
+Bonner,State Representative A,7,D,Jessica Chilcott,88
+Clearwater,State Representative B,7,R,Kris L. Steneck,148
+Clearwater,State Representative B,7,R,Paul E Shepherd,453
+Idaho,State Representative B,7,R,Kris L. Steneck,740
+Idaho,State Representative B,7,R,Paul E Shepherd,2211
+Shoshone,State Representative B,7,R,Kris L. Steneck,89
+Shoshone,State Representative B,7,R,Paul E Shepherd,243
+Bonner,State Representative B,7,R,Kris L. Steneck,216
+Bonner,State Representative B,7,R,Paul E Shepherd,344
+Custer,State Senate,8,R,Steven P. Thayn,943
+Custer,State Senate,8,C,Kirsten Faith Richardson,0
+Gem,State Senate,8,R,Steven P. Thayn,1993
+Gem,State Senate,8,C,Kirsten Faith Richardson,5
+Lemhi,State Senate,8,R,Steven P. Thayn,1193
+Lemhi,State Senate,8,C,Kirsten Faith Richardson,1
+Valley,State Senate,8,R,Steven P. Thayn,709
+Valley,State Senate,8,C,Kirsten Faith Richardson,2
+Boise,State Senate,8,R,Steven P. Thayn,1083
+Boise,State Senate,8,C,Kirsten Faith Richardson,5
+Custer,State Representative A,8,R,Terry Gestrin,932
+Custer,State Representative A,8,D,Jocelyn Plass,46
+Gem,State Representative A,8,R,Terry Gestrin,2040
+Gem,State Representative A,8,D,Jocelyn Plass,150
+Lemhi,State Representative A,8,R,Terry Gestrin,1171
+Lemhi,State Representative A,8,D,Jocelyn Plass,82
+Valley,State Representative A,8,R,Terry Gestrin,757
+Valley,State Representative A,8,D,Jocelyn Plass,193
+Boise,State Representative A,8,R,Terry Gestrin,1099
+Boise,State Representative A,8,D,Jocelyn Plass,95
+Custer,State Representative B,8,R,Merrill Beyeler,432
+Custer,State Representative B,8,R,Dorothy Moon,732
+Custer,State Representative B,8,C,Ammon Emanuel Prolife,0
+Gem,State Representative B,8,R,Merrill Beyeler,886
+Gem,State Representative B,8,R,Dorothy Moon,1521
+Gem,State Representative B,8,C,Ammon Emanuel Prolife,6
+Lemhi,State Representative B,8,R,Merrill Beyeler,739
+Lemhi,State Representative B,8,R,Dorothy Moon,810
+Lemhi,State Representative B,8,C,Ammon Emanuel Prolife,1
+Valley,State Representative B,8,R,Merrill Beyeler,485
+Valley,State Representative B,8,R,Dorothy Moon,392
+Valley,State Representative B,8,C,Ammon Emanuel Prolife,1
+Boise,State Representative B,8,R,Merrill Beyeler,509
+Boise,State Representative B,8,R,Dorothy Moon,863
+Boise,State Representative B,8,C,Ammon Emanuel Prolife,3
+Canyon,State Senate,9,R,Abby Lee,468
+Canyon,State Senate,9,R,Viki Purdy,444
+Canyon,State Senate,9,D,Carol Bogue,70
+Payette,State Senate,9,R,Abby Lee,1439
+Payette,State Senate,9,R,Viki Purdy,1024
+Payette,State Senate,9,D,Carol Bogue,143
+Washington,State Senate,9,R,Abby Lee,814
+Washington,State Senate,9,R,Viki Purdy,848
+Washington,State Senate,9,D,Carol Bogue,103
+Adams,State Senate,9,R,Abby Lee,224
+Adams,State Senate,9,R,Viki Purdy,595
+Adams,State Senate,9,D,Carol Bogue,79
+Canyon,State Representative A,9,R,Ryan Kerby,569
+Canyon,State Representative A,9,R,Jake Stephens,293
+Canyon,State Representative A,9,D,Rejeana A. Goolsby,71
+Payette,State Representative A,9,R,Ryan Kerby,1629
+Payette,State Representative A,9,R,Jake Stephens,794
+Payette,State Representative A,9,D,Rejeana A. Goolsby,141
+Washington,State Representative A,9,R,Ryan Kerby,1025
+Washington,State Representative A,9,R,Jake Stephens,596
+Washington,State Representative A,9,D,Rejeana A. Goolsby,104
+Adams,State Representative A,9,R,Ryan Kerby,453
+Adams,State Representative A,9,R,Jake Stephens,297
+Adams,State Representative A,9,D,Rejeana A. Goolsby,79
+Canyon,State Representative B,9,R,Judy Boyle,501
+Canyon,State Representative B,9,R,Michael Dolton,378
+Canyon,State Representative B,9,D,R. T. Loyd,70
+Payette,State Representative B,9,R,Judy Boyle,1299
+Payette,State Representative B,9,R,Michael Dolton,1145
+Payette,State Representative B,9,D,R. T. Loyd,141
+Washington,State Representative B,9,R,Judy Boyle,1031
+Washington,State Representative B,9,R,Michael Dolton,623
+Washington,State Representative B,9,D,R. T. Loyd,99
+Adams,State Representative B,9,R,Judy Boyle,602
+Adams,State Representative B,9,R,Michael Dolton,201
+Adams,State Representative B,9,D,R. T. Loyd,75
+Canyon,State Senate,10,R,Jim Rice,1855
+Canyon,State Senate,10,D,Ydalia Yado,403
+Canyon,State Representative A,10,R,Brandon Hixon,1751
+Canyon,State Representative A,10,D,Jeremy Lopett,380
+Canyon,State Representative B,10,R,Greg Chaney,1778
+Canyon,State Representative B,10,D,Warren Timothy Stevens,383
+Canyon,State Senate,11,R,Zach Brooks,2166
+Canyon,State Senate,11,R,Patti Anne Lodge,2429
+Canyon,State Senate,11,D,Pat Day Hartwell,337
+Canyon,State Representative A,11,R,Myron Amsden,184
+Canyon,State Representative A,11,R,Marty Galvin,497
+Canyon,State Representative A,11,R,Tammy Nichols,1437
+Canyon,State Representative A,11,R,Mike Pullin,185
+Canyon,State Representative A,11,R,Scott Syme,2056
+Canyon,State Representative A,11,D,Edward Savala,332
+Canyon,State Representative B,11,R,Christy Perry,3375
+Canyon,State Representative B,11,R,Kathryn Ralstin,916
+Canyon,State Representative B,11,D,Rita J. Burns,332
+Canyon,State Senate,12,R,Todd Lakey,1917
+Canyon,State Senate,12,D,Chelle Gluch,286
+Canyon,State Representative A,12,R,Robert E. Anderst,1876
+Canyon,State Representative A,12,D,Maria Gonzalez Mabbutt,291
+Canyon,State Representative B,12,R,Rick D. Youngblood,1911
+Canyon,State Representative B,12,D,Shana Tremaine,288
+Canyon,State Senate,13,R,Jeff C. Agenbroad,2091
+Canyon,State Senate,13,D,Carl Davis,333
+Canyon,State Representative A,13,R,Brent J. Crane,2221
+Canyon,State Representative B,13,R,Alan C. Jones,697
+Canyon,State Representative B,13,R,Gary E. Collins,1695
+Ada,State Senate,14,R,Marv Hagedorn,3585
+Ada,State Senate,14,D,Miranda Gold,803
+Ada,State Representative A,14,R,Michael Greenway,972
+Ada,State Representative A,14,R,Mike Moyle,3106
+Ada,State Representative A,14,D,Jane M. Rohling,810
+Ada,State Representative B,14,R,Gayann DeMordaunt,2825
+Ada,State Representative B,14,R,Douglas R. Jones,1212
+Ada,State Representative B,14,D,Glida Bothwell,801
+Ada,State Senate,15,R,Fred S. Martin,2186
+Ada,State Senate,15,D,Laura Metzler,1066
+Ada,State Representative A,15,R,Lynn M. Luker,2134
+Ada,State Representative A,15,D,Steve Berch,1079
+Ada,State Representative B,15,R,Rod W. Beck,1029
+Ada,State Representative B,15,R,Patrick McDonald,1418
+Ada,State Representative B,15,D,Jake Ellis,1055
+Ada,State Senate,16,R,Ryan McDonald,1570
+Ada,State Senate,16,D,Grant Burgoyne,1697
+Ada,State Representative A,16,D,Geoff Stephenson,282
+Ada,State Representative A,16,R,Joel H Robinson,1592
+Ada,State Representative A,16,D,John McCrostie,1449
+Ada,State Representative B,16,D,Hy Kloc,1704
+Ada,State Senate,17,R,Robert Herrin III,976
+Ada,State Senate,17,D,Maryanne Jordan,1288
+Ada,State Representative A,17,R,Kreed Ray Kleinkopf,968
+Ada,State Representative A,17,D,John Gannon,1295
+Ada,State Representative B,17,R,Tabby Jolley,955
+Ada,State Representative B,17,D,Sue Chew,1323
+Ada,State Senate,18,D,Engelking,1522
+Ada,State Representative A,18,D,Ilana Rubel,1497
+Ada,State Representative B,18,D,Phylis King,1508
+Ada,State Senate,19,D,Webb,2923
+Ada,State Representative A,19,R,Mark Patten,1155
+Ada,State Representative A,19,D,Mathew Erpelding,2863
+Ada,State Representative B,19,R,Jane McClaran,1162
+Ada,State Representative B,19,D,Melissa Wintrow,2833
+Ada,State Senate,20,R,Chuck Winder,2e3
+Ada,State Senate,20,W/I,William (Bill) Rutherford,129
+Ada,State Representative A,20,R,Joe A. Palmer,1981
+Ada,State Representative A,20,C,Daniel S. Weston,3
+Ada,State Representative B,20,W/I,Randy Drew Johnson,26
+Ada,State Representative B,20,R,James Holtzclaw,1967
+Ada,State Senate,21,R,"Clifford R. ""Cliff"" Bayer",2234
+Ada,State Representative A,21,R,Steven C. Harris,2190
+Ada,State Representative A,21,D,Robert Winder,596
+Ada,State Representative B,21,R,"Thomas E. ""Tom"" Dayley",2223
+Ada,State Representative B,21,D,Cindy Thorngren,612
+Ada,State Senate,22,R,Charles Pratt Porter,567
+Ada,State Senate,22,R,"Robert ""Ernie"" Terrell",185
+Ada,State Senate,22,R,Lori Den Hartog,1761
+Ada,State Representative A,22,R,John Vander Woude,2292
+Ada,State Representative B,22,R,Jason A. Monks,2213
+Owyhee,State Senate,23,R,Bert Brackett,947
+Twin Falls,State Senate,23,R,Bert Brackett,646
+Elmore,State Senate,23,R,Bert Brackett,2459
+Owyhee,State Representative A,23,R,Rich Wills,482
+Owyhee,State Representative A,23,R,Christy Zito,555
+Owyhee,State Representative A,23,D,Mary Ann Richards,63
+Twin Falls,State Representative A,23,R,Rich Wills,345
+Twin Falls,State Representative A,23,R,Christy Zito,337
+Twin Falls,State Representative A,23,D,Mary Ann Richards,41
+Elmore,State Representative A,23,R,Rich Wills,1259
+Elmore,State Representative A,23,R,Christy Zito,1668
+Elmore,State Representative A,23,D,Mary Ann Richards,294
+Owyhee,State Representative B,23,R,Justin M Freeman,84
+Owyhee,State Representative B,23,R,Pete Nielsen,299
+Owyhee,State Representative B,23,R,Megan C. Blanksma,662
+Twin Falls,State Representative B,23,R,Justin M Freeman,47
+Twin Falls,State Representative B,23,R,Pete Nielsen,137
+Twin Falls,State Representative B,23,R,Megan C. Blanksma,522
+Elmore,State Representative B,23,R,Justin M Freeman,198
+Elmore,State Representative B,23,R,Pete Nielsen,616
+Elmore,State Representative B,23,R,Megan C. Blanksma,2203
+Twin Falls,State Senate,24,R,Lee Heider,3082
+Twin Falls,State Senate,24,D,Deborah Silver,457
+Twin Falls,State Representative A,24,R,Lance Clow,3157
+Twin Falls,State Representative A,24,D,Dale Varney,429
+Twin Falls,State Representative B,24,R,Mary C. Bello,1462
+Twin Falls,State Representative B,24,R,Stephen Hartgen,2103
+Twin Falls,State Representative B,24,D,Catherine Talkington,465
+Twin Falls,State Senate,25,R,Jim Patrick,2703
+Twin Falls,State Senate,25,D,Scott F. McClure,190
+Jerome,State Senate,25,R,Jim Patrick,1584
+Jerome,State Senate,25,D,Scott F. McClure,126
+Twin Falls,State Representative A,25,R,Maxine T Bell,1976
+Twin Falls,State Representative A,25,R,Reggy A. Sternes,984
+Twin Falls,State Representative A,25,W/I,Rudy Cordova,3
+Jerome,State Representative A,25,R,Maxine T Bell,1291
+Jerome,State Representative A,25,R,Reggy A. Sternes,509
+Jerome,State Representative A,25,W/I,Rudy Cordova,16
+Twin Falls,State Representative B,25,R,Clark Kauffman,2678
+Jerome,State Representative B,25,R,Clark Kauffman,1579
+Camas,State Senate,26,R,Dale Ewersen,190
+Camas,State Senate,26,D,Michelle Stennett,15
+Gooding,State Senate,26,R,Dale Ewersen,1236
+Gooding,State Senate,26,D,Michelle Stennett,162
+Lincoln,State Senate,26,R,Dale Ewersen,692
+Lincoln,State Senate,26,D,Michelle Stennett,60
+Blaine,State Senate,26,R,Dale Ewersen,478
+Blaine,State Senate,26,D,Michelle Stennett,2045
+Camas,State Representative A,26,R,Steve Miller,213
+Camas,State Representative A,26,D,Kathleen J. Eder,14
+Gooding,State Representative A,26,R,Steve Miller,1279
+Gooding,State Representative A,26,D,Kathleen J. Eder,153
+Lincoln,State Representative A,26,R,Steve Miller,710
+Lincoln,State Representative A,26,D,Kathleen J. Eder,54
+Blaine,State Representative A,26,R,Steve Miller,477
+Blaine,State Representative A,26,D,Kathleen J. Eder,1759
+Camas,State Representative B,26,R,Alex Sutter,185
+Camas,State Representative B,26,D,Sally Toone,14
+Gooding,State Representative B,26,R,Alex Sutter,1243
+Gooding,State Representative B,26,D,Sally Toone,157
+Lincoln,State Representative B,26,R,Alex Sutter,646
+Lincoln,State Representative B,26,D,Sally Toone,55
+Blaine,State Representative B,26,R,Alex Sutter,440
+Blaine,State Representative B,26,D,Sally Toone,1626
+Minidoka,State Senate,27,R,Kelly Arthur Anthon,1703
+Cassia,State Senate,27,R,Kelly Arthur Anthon,2976
+Minidoka,State Representative A,27,R,Scott Bedke,1674
+Cassia,State Representative A,27,R,Scott Bedke,2957
+Minidoka,State Representative B,27,R,Fred Wood,1673
+Cassia,State Representative B,27,R,Fred Wood,2945
+Power,State Senate,28,R,Jim Guthrie,861
+Power,State Senate,28,D,Mike Saville,159
+Bannock,State Senate,28,R,Jim Guthrie,2964
+Bannock,State Senate,28,D,Mike Saville,562
+Power,State Representative A,28,R,Randy Armstrong,434
+Power,State Representative A,28,R,Kay Jenkins,93
+Power,State Representative A,28,R,Tari L Jensen,172
+Power,State Representative A,28,R,Lance Kolbet,128
+Power,State Representative A,28,D,Steve Landon,154
+Bannock,State Representative A,28,R,Randy Armstrong,1573
+Bannock,State Representative A,28,R,Kay Jenkins,638
+Bannock,State Representative A,28,R,Tari L Jensen,585
+Bannock,State Representative A,28,R,Lance Kolbet,509
+Bannock,State Representative A,28,D,Steve Landon,569
+Power,State Representative B,28,R,Kelley Packer,565
+Power,State Representative B,28,R,Jason West,357
+Power,State Representative B,28,W/I,Louis Archuleta,3
+Bannock,State Representative B,28,R,Kelley Packer,1978
+Bannock,State Representative B,28,R,Jason West,1578
+Bannock,State Representative B,28,W/I,Louis Archuleta,92
+Bannock,State Senate,29,W/I,Tom Katsilometes,74
+Bannock,State Senate,29,D,Mark Nye,951
+Bannock,State Representative A,29,R,Dustin Whitney Manwaring,1414
+Bannock,State Representative A,29,D,David H. Maguire,922
+Bannock,State Representative B,29,D,Elaine Smith,940
+Bonneville,State Senate,30,R,Dean M. Mortimer,3198
+Bonneville,State Representative A,30,R,Jeff Thompson,3080
+Bonneville,State Representative A,30,D,Matt P. Dance,181
+Bonneville,State Representative B,30,R,Randy Neal,1169
+Bonneville,State Representative B,30,R,Wendy Horman,2502
+Bingham,State Senate,31,R,R. Steven Bair,2461
+Bingham,State Representative A,31,R,David L. Esplin,898
+Bingham,State Representative A,31,R,Neil A Anderson,1855
+Bingham,State Representative B,31,R,Julie VanOrden,2488
+Bonneville,State Senate,32,R,Mark R. Harris,437
+Bonneville,State Senate,32,D,Bob Fitzgerald,11
+Caribou,State Senate,32,R,Mark R. Harris,1335
+Caribou,State Senate,32,D,Bob Fitzgerald,19
+Franklin,State Senate,32,R,Mark R. Harris,1184
+Franklin,State Senate,32,D,Bob Fitzgerald,23
+Oneida,State Senate,32,R,Mark R. Harris,1032
+Oneida,State Senate,32,D,Bob Fitzgerald,16
+Teton,State Senate,32,R,Mark R. Harris,955
+Teton,State Senate,32,D,Bob Fitzgerald,326
+Bear Lake,State Senate,32,R,Mark R. Harris,1766
+Bear Lake,State Senate,32,D,Bob Fitzgerald,18
+Bonneville,State Representative A,32,R,Marc Gibbs,435
+Caribou,State Representative A,32,R,Marc Gibbs,1359
+Franklin,State Representative A,32,R,Marc Gibbs,1210
+Oneida,State Representative A,32,R,Marc Gibbs,1026
+Teton,State Representative A,32,R,Marc Gibbs,951
+Bear Lake,State Representative A,32,R,Marc Gibbs,1740
+Bonneville,State Representative B,32,R,Tom Loertscher,441
+Caribou,State Representative B,32,R,Tom Loertscher,1287
+Franklin,State Representative B,32,R,Tom Loertscher,1192
+Oneida,State Representative B,32,R,Tom Loertscher,1008
+Teton,State Representative B,32,R,Tom Loertscher,963
+Bear Lake,State Representative B,32,R,Tom Loertscher,1743
+Bonneville,State Senate,33,R,Bart M. Davis,2392
+Bonneville,State Representative A,33,R,Janet Trujillo,2286
+Bonneville,State Representative A,33,D,Jim De Angelis,319
+Bonneville,State Representative B,33,R,David M Smith,1202
+Bonneville,State Representative B,33,R,Bryan N. Zollinger,1542
+Bonneville,State Representative B,33,D,George P. Morrison,312
+Madison,State Senate,34,R,Brent Hill,3859
+Bonneville,State Senate,34,R,Brent Hill,689
+Madison,State Representative A,34,R,Doug Ricks,2096
+Madison,State Representative A,34,R,Ron Nate,2191
+Bonneville,State Representative A,34,R,Doug Ricks,369
+Bonneville,State Representative A,34,R,Ron Nate,441
+Madison,State Representative B,34,R,Dell Raybould,2934
+Madison,State Representative B,34,R,Chick Heileson,1226
+Bonneville,State Representative B,34,R,Dell Raybould,367
+Bonneville,State Representative B,34,R,Chick Heileson,436
+Clark,State Senate,35,R,Jeff C. Siddoway,170
+Fremont,State Senate,35,R,Jeff C. Siddoway,2344
+Jefferson,State Senate,35,R,Jeff C. Siddoway,3314
+Butte,State Senate,35,R,Jeff C. Siddoway,419
+Clark,State Representative A,35,R,Daniel H Davis,33
+Clark,State Representative A,35,R,Van Burtenshaw,155
+Fremont,State Representative A,35,R,Daniel H Davis,923
+Fremont,State Representative A,35,R,Van Burtenshaw,1454
+Jefferson,State Representative A,35,R,Daniel H Davis,973
+Jefferson,State Representative A,35,R,Van Burtenshaw,2665
+Butte,State Representative A,35,R,Daniel H Davis,110
+Butte,State Representative A,35,R,Van Burtenshaw,327
+Clark,State Representative B,35,R,Paul Romrell,87
+Clark,State Representative B,35,R,Karey Hanks,94
+Fremont,State Representative B,35,R,Paul Romrell,1152
+Fremont,State Representative B,35,R,Karey Hanks,1361
+Jefferson,State Representative B,35,R,Paul Romrell,1832
+Jefferson,State Representative B,35,R,Karey Hanks,1838
+Butte,State Representative B,35,R,Paul Romrell,217
+Butte,State Representative B,35,R,Karey Hanks,242
+Boundary,State Senate,1,R,Shawn A. Keough,1071
+Boundary,State Senate,1,C,Christian Fioravanti,9
+Boundary,State Senate,1,C,Jack Mervin,3
+Boundary,State Senate,1,R,Danielle Ahrens,784
+Bonner,State Senate,1,R,Shawn A. Keough,2413
+Bonner,State Senate,1,C,Christian Fioravanti,23
+Bonner,State Senate,1,C,Jack Mervin,4
+Bonner,State Senate,1,R,Danielle Ahrens,2213
+Boundary,State Representative A,1,D,Steve Tanner,56
+Boundary,State Representative A,1,R,Heather Scott,1146
+Boundary,State Representative A,1,R,Stephen T. Snedden,656
+Boundary,State Representative A,1,D,Laura Bry,136
+Bonner,State Representative A,1,D,Steve Tanner,170
+Bonner,State Representative A,1,R,Heather Scott,2982
+Bonner,State Representative A,1,R,Stephen T. Snedden,1687
+Bonner,State Representative A,1,D,Laura Bry,387
+Boundary,State Representative B,1,D,Bob Vickaryous,67
+Boundary,State Representative B,1,R,Sage Dixon,933
+Boundary,State Representative B,1,R,George E. Eskridge,905
+Boundary,State Representative B,1,D,Andrew C Sorg,121
+Bonner,State Representative B,1,D,Bob Vickaryous,166
+Bonner,State Representative B,1,R,Sage Dixon,2511
+Bonner,State Representative B,1,R,George E. Eskridge,2090
+Bonner,State Representative B,1,D,Andrew C Sorg,373
+Kootenai,State Senate,2,R,Steve Vick,4173
+Kootenai,State Representative A,2,R,Vito Barbieri,3253
+Kootenai,State Representative A,2,R,Fritz Wiedenhoff,1568
+Kootenai,State Representative A,2,D,Cheryl Stransky,616
+Kootenai,State Representative B,2,R,Eric Redman,2897
+Kootenai,State Representative B,2,R,Ed Morse,1849
+Kootenai,State Senate,3,R,Bob Nonini,2461
+Kootenai,State Senate,3,R,Patrick Whalen,1345
+Kootenai,State Senate,3,D,Jerry Shriner,432
+Kootenai,State Representative A,3,R,Ron Mendive,2408
+Kootenai,State Representative A,3,R,Terry C. Werner,1260
+Kootenai,State Representative A,3,D,Michelle Lippert,451
+Kootenai,State Representative B,3,R,Greg Gfeller,1e3
+Kootenai,State Representative B,3,R,Jeff Ward,1037
+Kootenai,State Representative B,3,R,Don Cheatham,1450
+Kootenai,State Senate,4,R,Mary Souza,1853
+Kootenai,State Senate,4,R,John W Goedde,1587
+Kootenai,State Representative A,4,R,Toby Schindelbeck,1571
+Kootenai,State Representative A,4,R,"Lucas ""Luke"" Malek",1751
+Kootenai,State Representative B,4,R,"Elmer ""Rick"" Currie",1318
+Kootenai,State Representative B,4,R,Kathleen Sims,2077
+Kootenai,State Representative B,4,D,Anne Nesse,787
+Latah,State Senate,5,R,John Carlson,1310
+Latah,State Senate,5,D,Dan J Schmidt,1244
+Benewah,State Senate,5,R,John Carlson,579
+Benewah,State Senate,5,D,Dan J Schmidt,216
+Latah,State Representative A,5,R,Lucinda L. Agidius,1333
+Latah,State Representative A,5,D,Paulette E. Jordan,1164
+Benewah,State Representative A,5,R,Lucinda L. Agidius,612
+Benewah,State Representative A,5,D,Paulette E. Jordan,213
+Latah,State Representative B,5,D,Gary Osborn,995
+Latah,State Representative B,5,R,Caroline Nilsson Troy,1281
+Latah,State Representative B,5,D,"James C. ""Jim"" Minser",167
+Benewah,State Representative B,5,D,Gary Osborn,100
+Benewah,State Representative B,5,R,Caroline Nilsson Troy,537
+Benewah,State Representative B,5,D,"James C. ""Jim"" Minser",145
+Nez Perce,State Senate,6,R,Dan Johnson,1772
+Nez Perce,State Senate,6,D,Pete Gertonson,898
+Lewis,State Senate,6,R,Dan Johnson,461
+Lewis,State Senate,6,D,Pete Gertonson,94
+Nez Perce,State Representative A,6,R,Thyra K. Stevenson,1539
+Nez Perce,State Representative A,6,D,Dan Rudolph,906
+Lewis,State Representative A,6,R,Thyra K. Stevenson,399
+Lewis,State Representative A,6,D,Dan Rudolph,84
+Nez Perce,State Representative B,6,W/I,Mike Kingsley,178
+Nez Perce,State Representative B,6,D,John Rusche,933
+Lewis,State Representative B,6,W/I,Mike Kingsley,11
+Lewis,State Representative B,6,D,John Rusche,99
+Clearwater,State Senate,7,R,Sheryl L. Nuxoll,627
+Clearwater,State Senate,7,D,Casey Drews,186
+Idaho,State Senate,7,R,Sheryl L. Nuxoll,2622
+Idaho,State Senate,7,D,Casey Drews,311
+Shoshone,State Senate,7,R,Sheryl L. Nuxoll,490
+Shoshone,State Senate,7,D,Casey Drews,528
+Bonner,State Senate,7,R,Sheryl L. Nuxoll,487
+Bonner,State Senate,7,D,Casey Drews,51
+Clearwater,State Representative A,7,R,Shauna Hillman,201
+Clearwater,State Representative A,7,R,Shannon McMillan,430
+Clearwater,State Representative A,7,D,Jessica Chilcott,178
+Idaho,State Representative A,7,R,Shauna Hillman,857
+Idaho,State Representative A,7,R,Shannon McMillan,1800
+Idaho,State Representative A,7,D,Jessica Chilcott,318
+Shoshone,State Representative A,7,R,Shauna Hillman,368
+Shoshone,State Representative A,7,R,Shannon McMillan,241
+Shoshone,State Representative A,7,D,Jessica Chilcott,498
+Bonner,State Representative A,7,R,Shauna Hillman,188
+Bonner,State Representative A,7,R,Shannon McMillan,351
+Bonner,State Representative A,7,D,Jessica Chilcott,52
+Clearwater,State Representative B,7,R,Paul E. Shepherd,612
+Clearwater,State Representative B,7,D,Kenneth Murray Meyers,178
+Idaho,State Representative B,7,R,Paul E. Shepherd,2629
+Idaho,State Representative B,7,D,Kenneth Murray Meyers,306
+Shoshone,State Representative B,7,R,Paul E. Shepherd,495
+Shoshone,State Representative B,7,D,Kenneth Murray Meyers,492
+Bonner,State Representative B,7,R,Paul E. Shepherd,481
+Bonner,State Representative B,7,D,Kenneth Murray Meyers,52
+Custer,State Senate,8,R,Steven P. Thayn,944
+Gem,State Senate,8,R,Steven P. Thayn,2084
+Lemhi,State Senate,8,R,Steven P. Thayn,1489
+Valley,State Senate,8,R,Steven P. Thayn,907
+Boise,State Senate,8,R,Steven P. Thayn,965
+Custer,State Representative A,8,R,Ernest Walker,364
+Custer,State Representative A,8,R,Terry F. Gestrin,596
+Gem,State Representative A,8,R,Ernest Walker,856
+Gem,State Representative A,8,R,Terry F. Gestrin,1481
+Lemhi,State Representative A,8,R,Ernest Walker,700
+Lemhi,State Representative A,8,R,Terry F. Gestrin,801
+Valley,State Representative A,8,R,Ernest Walker,300
+Valley,State Representative A,8,R,Terry F. Gestrin,863
+Boise,State Representative A,8,R,Ernest Walker,398
+Boise,State Representative A,8,R,Terry F. Gestrin,702
+Custer,State Representative B,8,R,Brent Adamson,187
+Custer,State Representative B,8,R,Lenore Hardy Barrett,527
+Custer,State Representative B,8,R,Merrill Beyeler,445
+Custer,State Representative B,8,D,Jocelyn Francis Plass,57
+Gem,State Representative B,8,R,Brent Adamson,424
+Gem,State Representative B,8,R,Lenore Hardy Barrett,812
+Gem,State Representative B,8,R,Merrill Beyeler,1163
+Gem,State Representative B,8,D,Jocelyn Francis Plass,142
+Lemhi,State Representative B,8,R,Brent Adamson,110
+Lemhi,State Representative B,8,R,Lenore Hardy Barrett,711
+Lemhi,State Representative B,8,R,Merrill Beyeler,1148
+Lemhi,State Representative B,8,D,Jocelyn Francis Plass,103
+Valley,State Representative B,8,R,Brent Adamson,228
+Valley,State Representative B,8,R,Lenore Hardy Barrett,293
+Valley,State Representative B,8,R,Merrill Beyeler,570
+Valley,State Representative B,8,D,Jocelyn Francis Plass,139
+Boise,State Representative B,8,R,Brent Adamson,550
+Boise,State Representative B,8,R,Lenore Hardy Barrett,333
+Boise,State Representative B,8,R,Merrill Beyeler,318
+Boise,State Representative B,8,D,Jocelyn Francis Plass,96
+Canyon,State Senate,9,R,Monty J. Pearce,486
+Canyon,State Senate,9,R,Abby Lee,493
+Payette,State Senate,9,R,Monty J. Pearce,1129
+Payette,State Senate,9,R,Abby Lee,1941
+Washington,State Senate,9,R,Monty J. Pearce,862
+Washington,State Senate,9,R,Abby Lee,966
+Adams,State Senate,9,R,Monty J. Pearce,444
+Adams,State Senate,9,R,Abby Lee,263
+Canyon,State Representative A,9,R,Ryan Kerby,523
+Canyon,State Representative A,9,R,Howard Rynearson,369
+Canyon,State Representative A,9,D,Steve Worthley,34
+Payette,State Representative A,9,R,Ryan Kerby,1609
+Payette,State Representative A,9,R,Howard Rynearson,1385
+Payette,State Representative A,9,D,Steve Worthley,214
+Washington,State Representative A,9,R,Ryan Kerby,925
+Washington,State Representative A,9,R,Howard Rynearson,846
+Washington,State Representative A,9,D,Steve Worthley,103
+Adams,State Representative A,9,R,Ryan Kerby,378
+Adams,State Representative A,9,R,Howard Rynearson,277
+Adams,State Representative A,9,D,Steve Worthley,51
+Canyon,State Representative B,9,R,Jeri Soulier,222
+Canyon,State Representative B,9,R,Judy Boyle,679
+Payette,State Representative B,9,R,Jeri Soulier,1041
+Payette,State Representative B,9,R,Judy Boyle,1879
+Washington,State Representative B,9,R,Jeri Soulier,733
+Washington,State Representative B,9,R,Judy Boyle,1071
+Adams,State Representative B,9,R,Jeri Soulier,188
+Adams,State Representative B,9,R,Judy Boyle,503
+Canyon,State Senate,10,R,Jim Rice,2088
+Canyon,State Senate,10,D,Micheal E. DeCoria,274
+Canyon,State Representative A,10,R,Brandon Hixon,1896
+Canyon,State Representative A,10,D,Travis Manning,283
+Canyon,State Representative B,10,R,Greg Chaney,1208
+Canyon,State Representative B,10,W/I,Brian Darnall Bishop,596
+Canyon,State Representative B,10,W/I,Kent Marmon,251
+Canyon,State Representative B,10,D,Leif Skyving,290
+Canyon,State Senate,11,R,Gregory L. Collett,1767
+Canyon,State Senate,11,R,Patti Anne Lodge,3046
+Canyon,State Senate,11,D,Rita Burns,246
+Canyon,State Representative A,11,R,Gayle L. Batt,4217
+Canyon,State Representative B,11,R,Christy Perry,4162
+Canyon,State Senate,12,R,Todd Lakey,2269
+Canyon,State Senate,12,R,Lee Rice,920
+Canyon,State Senate,12,W/I,Heidi J. Knittel,93
+Canyon,State Representative A,12,R,Robert Anderst,1598
+Canyon,State Representative A,12,R,Roger L. Hunt,1507
+Canyon,State Representative A,12,D,Maria Gonzalez Mabbutt,291
+Canyon,State Representative B,12,R,Robert Muse,996
+Canyon,State Representative B,12,R,Rick D. Youngblood,2184
+Canyon,State Representative B,12,D,F. Lawrence Dawson,286
+Canyon,State Senate,13,R,Curt McKenzie,2389
+Canyon,State Senate,13,R,Grant Miller,1059
+Canyon,State Senate,13,D,Carl Davis,300
+Canyon,State Representative A,13,R,Patrick N O'Brien,895
+Canyon,State Representative A,13,R,Brent J. Crane,2592
+Canyon,State Representative B,13,R,Alan C. Jones,893
+Canyon,State Representative B,13,R,Gary E. Collins,2429
+Ada,State Senator,14,R,Marv Hagedorn,3746
+Ada,State Senator,14,D,Robert D Spencer,460
+Ada,State Representative A,14,R,Mike Moyle,3826
+Ada,State Representative A,14,D,Jane M. Rohling,470
+Ada,State Representative B,14,R,Reed DeMordaunt,3728
+Ada,State Representative B,14,D,Rob Spencer,467
+Ada,State Senate,15,R,Fred S. Martin,2034
+Ada,State Senate,15,R,Diego Rodriguez,1339
+Ada,State Senate,15,D,Richard Keller,551
+Ada,State Representative A,15,R,Lynn M. Luker,2829
+Ada,State Representative A,15,D,Steve Berch,574
+Ada,State Representative B,15,R,Patrick McDonald,1978
+Ada,State Representative B,15,R,Jason Joel Robinson,1058
+Ada,State Representative B,15,D,John Hart,540
+Ada,State Senate,16,R,Joel Robinson,2289
+Ada,State Senate,16,D,Grant Burgoyne,1806
+Ada,State Representative A,16,D,John McCrostie,1048
+Ada,State Representative A,16,D,Jeff Stephenson,104
+Ada,State Representative A,16,R,Rosann Wiltse,2272
+Ada,State Representative A,16,D,Jimmy Farris,842
+Ada,State Representative B,16,R,Jim Silsby,2252
+Ada,State Representative B,16,D,Hy Kloc,1819
+Ada,State Senator,17,D,Elliot Werk,1483
+Ada,State Representative A,17,D,Carrie Semmelroth,540
+Ada,State Representative A,17,D,John Gannon,1009
+Ada,State Representative B,17,D,Sue Chew,1496
+Ada,State Senate,18,R,Edward Dindinger,2104
+Ada,State Senate,18,D,Engelking,1065
+Ada,State Representative A,18,R,Ryan D. Jenks,2095
+Ada,State Representative A,18,D,Ilana Rubel,999
+Ada,State Representative B,18,R,Domenico Gelsomino,2033
+Ada,State Representative B,18,D,Phylis King,1051
+Ada,State Senate,19,R,Tony Snesko,1760
+Ada,State Senate,19,D,Webb,2795
+Ada,State Representative A,19,R,Mitchell Berger,1729
+Ada,State Representative A,19,D,"Mathew ""Mat"" Erpelding",2627
+Ada,State Representative B,19,D,Melissa Wintrow,1540
+Ada,State Representative B,19,D,Troy Rohn,1390
+Ada,State Senate,20,R,Chuck Winder,2642
+Ada,State Representative A,20,R,Joe A Palmer,2594
+Ada,State Representative B,20,R,James Holtzclaw,2569
+Ada,State Senate,21,R,"Clifford R. ""Cliff"" Bayer",3172
+Ada,State Representative A,21,R,Steven C. Harris,3138
+Ada,State Representative B,21,R,"Thomas E. ""Tom"" Dayley",2521
+Ada,State Representative B,21,R,Ricky L. Bowman,889
+Ada,State Senate,22,R,Charles Pratt Porter,1690
+Ada,State Senate,22,R,Lori DenHartog,1943
+Ada,State Representative A,22,R,John Vander Woude,3377
+Ada,State Representative B,22,R,Jason Monks,3281
+Owyhee,State Senate,23,R,Bert Brackett,1094
+Twin Falls,State Senate,23,R,Bert Brackett,644
+Elmore,State Senate,23,R,Bert Brackett,1835
+Owyhee,State Representative A,23,R,Rich Wills,1046
+Owyhee,State Representative A,23,D,Mary Ann Richards,75
+Twin Falls,State Representative A,23,R,Rich Wills,595
+Twin Falls,State Representative A,23,D,Mary Ann Richards,37
+Elmore,State Representative A,23,R,Rich Wills,1880
+Elmore,State Representative A,23,D,Mary Ann Richards,256
+Owyhee,State Representative B,23,R,Steven Millington,482
+Owyhee,State Representative B,23,R,Pete Nielsen,690
+Owyhee,State Representative B,23,D,"""Spike"" R.L. Ericson",75
+Twin Falls,State Representative B,23,R,Steven Millington,437
+Twin Falls,State Representative B,23,R,Pete Nielsen,258
+Twin Falls,State Representative B,23,D,"""Spike"" R.L. Ericson",37
+Elmore,State Representative B,23,R,Steven Millington,1046
+Elmore,State Representative B,23,R,Pete Nielsen,1100
+Elmore,State Representative B,23,D,"""Spike"" R.L. Ericson",234
+Twin Falls,State Senate,24,R,Lee Heider,2767
+Twin Falls,State Senate,24,D,Shelley M. Gardner,344
+Twin Falls,State Representative A,24,R,Lance W. Clow,2805
+Twin Falls,State Representative A,24,D,Dale Varney,333
+Twin Falls,State Representative B,24,R,Stephen Hartgen,2699
+Twin Falls,State Representative B,24,D,Catherine Talkington,359
+Twin Falls,State Senate,25,R,Jim Patrick,2039
+Jerome,State Senate,25,R,Jim Patrick,1678
+Twin Falls,State Representative A,25,R,Maxine T Bell,2065
+Jerome,State Representative A,25,R,Maxine T Bell,1790
+Twin Falls,State Representative B,25,R,Clark Kauffman,2067
+Jerome,State Representative B,25,R,Clark Kauffman,1667
+Camas,State Senate,26,R,Dale Ewersen,212
+Camas,State Senate,26,D,Michelle Stennett,2
+Gooding,State Senate,26,R,Dale Ewersen,1373
+Gooding,State Senate,26,D,Michelle Stennett,170
+Lincoln,State Senate,26,R,Dale Ewersen,544
+Lincoln,State Senate,26,D,Michelle Stennett,56
+Blaine,State Senate,26,R,Dale Ewersen,855
+Blaine,State Senate,26,D,Michelle Stennett,798
+Camas,State Representative A,26,R,Steve Miller,255
+Camas,State Representative A,26,D,Richard Fosbury,2
+Gooding,State Representative A,26,R,Steve Miller,1408
+Gooding,State Representative A,26,D,Richard Fosbury,148
+Lincoln,State Representative A,26,R,Steve Miller,568
+Lincoln,State Representative A,26,D,Richard Fosbury,45
+Blaine,State Representative A,26,R,Steve Miller,816
+Blaine,State Representative A,26,D,Richard Fosbury,764
+Camas,State Representative B,26,R,Don Hudson,201
+Camas,State Representative B,26,D,Donna Pence,2
+Gooding,State Representative B,26,R,Don Hudson,1360
+Gooding,State Representative B,26,D,Donna Pence,178
+Lincoln,State Representative B,26,R,Don Hudson,547
+Lincoln,State Representative B,26,D,Donna Pence,55
+Blaine,State Representative B,26,R,Don Hudson,776
+Blaine,State Representative B,26,D,Donna Pence,752
+Minidoka,State Senate,27,R,Dean L. Cameron,2448
+Cassia,State Senate,27,R,Dean L. Cameron,2586
+Minidoka,State Representative A,27,R,Scott Bedke,2408
+Cassia,State Representative A,27,R,Scott Bedke,2556
+Minidoka,State Representative B,27,R,Fred Wood,2375
+Cassia,State Representative B,27,R,Fred Wood,2588
+Power,State Senate,28,R,Jim Guthrie,699
+Power,State Senate,28,D,Lin Whitworth,233
+Bannock,State Senate,28,R,Jim Guthrie,3772
+Bannock,State Senate,28,D,Lin Whitworth,1051
+Power,State Representative A,28,R,Ken Andrus,677
+Power,State Representative A,28,D,Marshall D. Evans,206
+Bannock,State Representative A,28,R,Ken Andrus,3752
+Bannock,State Representative A,28,D,Marshall D. Evans,1005
+Power,State Representative B,28,R,Lance Earl,212
+Power,State Representative B,28,R,Kelley Packer,497
+Power,State Representative B,28,D,Peggy Evans,204
+Bannock,State Representative B,28,R,Lance Earl,1454
+Bannock,State Representative B,28,R,Kelley Packer,2615
+Bannock,State Representative B,28,D,Peggy Evans,1017
+Bannock,State Senate,29,W/I,Kert Howard,518
+Bannock,State Senate,29,W/I,Tom Katsilometes,142
+Bannock,State Senate,29,D,Roy Lacey,2307
+Bannock,State Representative A,29,R,Matthew Bloxham,2885
+Bannock,State Representative A,29,D,Mark Nye,2268
+Bannock,State Representative B,29,R,"Terrel ""Ned"" Tovey",2802
+Bannock,State Representative B,29,D,Elaine Smith,2328
+Bonneville,State Senate,30,R,Dean M. Mortimer,4308
+Bonneville,State Representative A,30,R,Steve Yeates,2323
+Bonneville,State Representative A,30,R,Jeff Thompson,2431
+Bonneville,State Representative B,30,R,Wendy Horman,4161
+Bingham,State Senate,31,R,Steve Bair,5071
+Bingham,State Representative A,31,R,Neil A Anderson,5117
+Bingham,State Representative B,31,R,Julie VanOrden,5144
+Bonneville,State Senate,32,R,John H. Tippets,573
+Bonneville,State Senate,32,D,Bob Fitzgerald,18
+Caribou,State Senate,32,R,John H. Tippets,1535
+Caribou,State Senate,32,D,Bob Fitzgerald,59
+Franklin,State Senate,32,R,John H. Tippets,1631
+Franklin,State Senate,32,D,Bob Fitzgerald,42
+Oneida,State Senate,32,R,John H. Tippets,468
+Oneida,State Senate,32,D,Bob Fitzgerald,30
+Teton,State Senate,32,R,John H. Tippets,841
+Teton,State Senate,32,D,Bob Fitzgerald,386
+Bear Lake,State Senate,32,R,John H. Tippets,1246
+Bear Lake,State Senate,32,D,Bob Fitzgerald,58
+Bonneville,State Representative A,32,R,Marc Gibbs,565
+Bonneville,State Representative A,32,D,Alice Stevenson,18
+Caribou,State Representative A,32,R,Marc Gibbs,1552
+Caribou,State Representative A,32,D,Alice Stevenson,58
+Franklin,State Representative A,32,R,Marc Gibbs,1645
+Franklin,State Representative A,32,D,Alice Stevenson,41
+Oneida,State Representative A,32,R,Marc Gibbs,467
+Oneida,State Representative A,32,D,Alice Stevenson,29
+Teton,State Representative A,32,R,Marc Gibbs,846
+Teton,State Representative A,32,D,Alice Stevenson,496
+Bear Lake,State Representative A,32,R,Marc Gibbs,1162
+Bear Lake,State Representative A,32,D,Alice Stevenson,57
+Bonneville,State Representative B,32,R,Tom Loertscher,578
+Bonneville,State Representative B,32,D,Ashlee F. Stalcup,18
+Caribou,State Representative B,32,R,Tom Loertscher,1506
+Caribou,State Representative B,32,D,Ashlee F. Stalcup,59
+Franklin,State Representative B,32,R,Tom Loertscher,1629
+Franklin,State Representative B,32,D,Ashlee F. Stalcup,39
+Oneida,State Representative B,32,R,Tom Loertscher,465
+Oneida,State Representative B,32,D,Ashlee F. Stalcup,29
+Teton,State Representative B,32,R,Tom Loertscher,858
+Teton,State Representative B,32,D,Ashlee F. Stalcup,402
+Bear Lake,State Representative B,32,R,Tom Loertscher,1171
+Bear Lake,State Representative B,32,D,Ashlee F. Stalcup,56
+Bonneville,State Senate,33,R,Bart M. Davis,3635
+Bonneville,State Representative A,33,R,Janet Trujillo,3489
+Bonneville,State Representative A,33,D,John Boyd Radford,364
+Bonneville,State Representative B,33,R,Linden B. Bateman,3560
+Bonneville,State Representative B,33,D,Jim De Angelis,362
+Madison,State Senate,34,R,Scott O. Smith,899
+Madison,State Senate,34,R,Brent Hill,3122
+Bonneville,State Senate,34,R,Scott O. Smith,249
+Bonneville,State Senate,34,R,Brent Hill,744
+Madison,State Representative A,34,R,Ronald M. Nate,2080
+Madison,State Representative A,34,R,Douglas A. Hancey,1872
+Bonneville,State Representative A,34,R,Ronald M. Nate,630
+Bonneville,State Representative A,34,R,Douglas A. Hancey,318
+Madison,State Representative B,34,R,Dell Raybould,3548
+Bonneville,State Representative B,34,R,Dell Raybould,826
+Clark,State. Senate,35,R,Jeff C. Siddoway,219
+Fremont,State. Senate,35,R,Jeff C. Siddoway,2364
+Jefferson,State. Senate,35,R,Jeff C. Siddoway,3785
+Butte,State. Senate,35,R,Jeff C. Siddoway,669
+Clark,State Representative A,35,R,Danny G. Ferguson,45
+Clark,State Representative A,35,R,Van Burtenshaw,196
+Fremont,State Representative A,35,R,Danny G. Ferguson,1068
+Fremont,State Representative A,35,R,Van Burtenshaw,1316
+Jefferson,State Representative A,35,R,Danny G. Ferguson,2189
+Jefferson,State Representative A,35,R,Van Burtenshaw,1965
+Butte,State Representative A,35,R,Danny G. Ferguson,245
+Butte,State Representative A,35,R,Van Burtenshaw,439
+Clark,State Representative B,35,R,Paul Romrell,210
+Fremont,State Representative B,35,R,Paul Romrell,2188
+Jefferson,State Representative B,35,R,Paul Romrell,3674
+Butte,State Representative B,35,R,Paul Romrell,636
+Boundary,State Senate,1,R,Steve Tanner,468
+Boundary,State Senate,1,R,Shawn A. Keough,1008
+Bonner,State Senate,1,R,Steve Tanner,857
+Bonner,State Senate,1,R,Shawn A. Keough,3272
+Boundary,State Representative A,1,R,Eric Anderson,1123
+Bonner,State Representative A,1,R,Eric Anderson,3295
+Boundary,State Representative B,1,R,George E. Eskridge,1135
+Bonner,State Representative B,1,R,George E. Eskridge,3492
+Bonner,State Senate,2,R,Dennis Engelhardt,525
+Bonner,State Senate,2,R,James Stivers,275
+Bonner,State Senate,2,R,Joyce M. Broadsword,590
+Kootenai,State Senate,2,R,Dennis Engelhardt,68
+Kootenai,State Senate,2,R,James Stivers,75
+Kootenai,State Senate,2,R,Joyce M. Broadsword,121
+Shoshone,State Senate,2,R,Dennis Engelhardt,212
+Shoshone,State Senate,2,R,James Stivers,86
+Shoshone,State Senate,2,R,Joyce M. Broadsword,446
+Benewah,State Senate,2,R,Dennis Engelhardt,403
+Benewah,State Senate,2,R,James Stivers,117
+Benewah,State Senate,2,R,Joyce M. Broadsword,535
+Bonner,State Representative A,2,R,Shannon McMillan,1085
+Bonner,State Representative A,2,D,Mary Lou Shepherd,123
+Kootenai,State Representative A,2,R,Shannon McMillan,207
+Kootenai,State Representative A,2,D,Mary Lou Shepherd,29
+Shoshone,State Representative A,2,R,Shannon McMillan,603
+Shoshone,State Representative A,2,D,Mary Lou Shepherd,1248
+Benewah,State Representative A,2,R,Shannon McMillan,701
+Benewah,State Representative A,2,D,Mary Lou Shepherd,308
+Bonner,State Representative B,2,R,"R.J. ""Dick"" Harwood",1159
+Bonner,State Representative B,2,D,Jon Ruggles,120
+Kootenai,State Representative B,2,R,"R.J. ""Dick"" Harwood",221
+Kootenai,State Representative B,2,D,Jon Ruggles,27
+Shoshone,State Representative B,2,R,"R.J. ""Dick"" Harwood",664
+Shoshone,State Representative B,2,D,Jon Ruggles,948
+Benewah,State Representative B,2,R,"R.J. ""Dick"" Harwood",929
+Benewah,State Representative B,2,D,Jon Ruggles,254
+Kootenai,State Senate,3,R,Steve Vick,3132
+Kootenai,State Senate,3,R,Mike Jorgenson,2132
+Kootenai,State Representative A,3,R,Jeri J. DeLange,1057
+Kootenai,State Representative A,3,R,Fred Meckel,794
+Kootenai,State Representative A,3,R,Duane Rasmussen,1298
+Kootenai,State Representative A,3,R,Vito Barbieri,2047
+Kootenai,State Representative B,3,R,Phil Hart,4329
+Kootenai,State Senate,4,R,John W Goedde,2739
+Kootenai,State Representative A,4,R,Marge Chadderdon,2815
+Kootenai,State Representative A,4,D,Mike Bullard,543
+Kootenai,State Representative B,4,R,Kathleen Sims,2720
+Kootenai,State Representative B,4,D,Paula Marano,572
+Kootenai,State Senate,5,R,Jim Hammond,2048
+Kootenai,State Senate,5,R,Jack Schroeder,486
+Kootenai,State Senate,5,R,John Green,1511
+Kootenai,State Representative A,5,R,Bob Nonini,3413
+Kootenai,State Representative A,5,D,David Larsen,99
+Kootenai,State Representative B,5,R,Frank N. Henderson,3416
+Latah,State Senate,6,R,Gresham Dale Bouma,2095
+Latah,State Senate,6,R,Gary J. Schroeder,1551
+Latah,State Senate,6,D,Dan J Schmidt,1234
+Latah,State Representative A,6,R,Tom Trail,2709
+Latah,State Representative A,6,D,Judith L. Brown,1244
+Latah,State Representative B,6,R,David R. Klingenberg,1341
+Latah,State Representative B,6,R,"Isaac ""Ike"" Young",1446
+Latah,State Representative B,6,D,Shirley G. Ringo,1309
+Nez Perce,State Senate,7,R,Joe Stegner,1946
+Nez Perce,State Representative A,7,R,Jeff Nesset,1835
+Nez Perce,State Representative A,7,D,Liz Chavez,1539
+Nez Perce,State Representative B,7,D,John Rusche,1552
+Idaho,State Senate,8,R,"Leland G. ""Lee"" Heinrich",1172
+Idaho,State Senate,8,R,Sheryl L. Nuxoll,2041
+Idaho,State Senate,8,D,Leta Strauss,282
+Lewis,State Senate,8,R,"Leland G. ""Lee"" Heinrich",205
+Lewis,State Senate,8,R,Sheryl L. Nuxoll,351
+Lewis,State Senate,8,D,Leta Strauss,85
+Valley,State Senate,8,R,"Leland G. ""Lee"" Heinrich",1047
+Valley,State Senate,8,R,Sheryl L. Nuxoll,852
+Valley,State Senate,8,D,Leta Strauss,165
+Clearwater,State Senate,8,R,"Leland G. ""Lee"" Heinrich",472
+Clearwater,State Senate,8,R,Sheryl L. Nuxoll,581
+Clearwater,State Senate,8,D,Leta Strauss,290
+Idaho,State Representative A,8,R,Ken A. Roberts,2293
+Idaho,State Representative A,8,R,Gordon Conrad,636
+Lewis,State Representative A,8,R,Ken A. Roberts,392
+Lewis,State Representative A,8,R,Gordon Conrad,134
+Valley,State Representative A,8,R,Ken A. Roberts,989
+Valley,State Representative A,8,R,Gordon Conrad,906
+Clearwater,State Representative A,8,R,Ken A. Roberts,723
+Clearwater,State Representative A,8,R,Gordon Conrad,245
+Idaho,State Representative B,8,R,Paul E. Shepherd,2380
+Idaho,State Representative B,8,D,Jerry Lockhart,271
+Lewis,State Representative B,8,R,Paul E. Shepherd,429
+Lewis,State Representative B,8,D,Jerry Lockhart,89
+Valley,State Representative B,8,R,Paul E. Shepherd,1439
+Valley,State Representative B,8,D,Jerry Lockhart,170
+Clearwater,State Representative B,8,R,Paul E. Shepherd,862
+Clearwater,State Representative B,8,D,Jerry Lockhart,277
+Canyon,State Senate,9,R,Monty J. Pearce,90
+Canyon,State Senate,9,D,Wayne Fuller,6
+Payette,State Senate,9,R,Monty J. Pearce,1741
+Payette,State Senate,9,D,Wayne Fuller,182
+Washington,State Senate,9,R,Monty J. Pearce,1635
+Washington,State Senate,9,D,Wayne Fuller,128
+Adams,State Senate,9,R,Monty J. Pearce,783
+Adams,State Senate,9,D,Wayne Fuller,74
+Canyon,State Representative A,9,R,Lawerence E. Denney,86
+Canyon,State Representative A,9,D,Lynn Webster,6
+Payette,State Representative A,9,R,Lawerence E. Denney,1763
+Payette,State Representative A,9,D,Lynn Webster,181
+Washington,State Representative A,9,R,Lawerence E. Denney,1671
+Washington,State Representative A,9,D,Lynn Webster,111
+Adams,State Representative A,9,R,Lawerence E. Denney,771
+Adams,State Representative A,9,D,Lynn Webster,72
+Canyon,State Representative B,9,R,Judy Boyle,89
+Payette,State Representative B,9,R,Judy Boyle,1718
+Washington,State Representative B,9,R,Judy Boyle,1540
+Adams,State Representative B,9,R,Judy Boyle,767
+Canyon,State Senate,10,R,Greg Collett,927
+Canyon,State Senate,10,R,John McGee,2807
+Canyon,State Senate,10,D,Leif Skyving,310
+Canyon,State Representative A,10,R,Pat Takasugi,3301
+Canyon,State Representative A,10,D,Judy Willmorth Ferro,315
+Canyon,State Representative B,10,R,Kent A. Marmon,934
+Canyon,State Representative B,10,R,Darrell Bolz,2658
+Gem,State Senate,11,R,Melinda S. Smyser,2085
+Gem,State Senate,11,D,Shannon L. Forrester,178
+Canyon,State Senate,11,R,Melinda S. Smyser,2441
+Canyon,State Senate,11,D,Shannon L. Forrester,213
+Gem,State Representative A,11,R,Steven Thayn,1606
+Gem,State Representative A,11,R,Mike Pullin,955
+Canyon,State Representative A,11,R,Steven Thayn,1858
+Canyon,State Representative A,11,R,Mike Pullin,901
+Gem,State Representative B,11,R,Carlos Bilbao,1706
+Gem,State Representative B,11,R,Thomas Munds,916
+Gem,State Representative B,11,D,Sheri Burke,37
+Canyon,State Representative B,11,R,Carlos Bilbao,1475
+Canyon,State Representative B,11,R,Thomas Munds,1341
+Canyon,State Representative B,11,D,Sheri Burke,51
+Canyon,State Senate,12,R,Curtis D. McKenzie,1997
+Canyon,State Senate,12,D,Leta Neustaedter,269
+Canyon,State Representative A,12,R,Robert E. Schaefer,1979
+Canyon,State Representative A,12,D,Maria G. Mabbutt,265
+Canyon,State Representative B,12,R,Gary E. Collins,2033
+Canyon,State Representative B,12,D,Melissa Sue Robinson,256
+Canyon,State Senate,13,R,Patti Anne Lodge,5178
+Canyon,State Senate,13,D,Chris Breshears,337
+Canyon,State Representative A,13,R,Brent Crane,5147
+Canyon,State Representative B,13,R,Christy Perry,3398
+Canyon,State Representative B,13,R,Steve A. Kren,2602
+Ada,State Senator,14,R,Chuck Winder,6762
+Ada,State Representative A,14,R,Mike Moyle,6574
+Ada,State Representative A,14,D,William J. Young,610
+Ada,State Representative B,14,R,Reed DeMordaunt,3910
+Ada,State Representative B,14,R,"Christopher ""Mac"" MacCloud",972
+Ada,State Representative B,14,R,Nathan Mitchell,2342
+Ada,State Representative B,14,D,Steve Berch,612
+Ada,State Senate,15,R,John C Andreason,2916
+Ada,State Senate,15,D,Warren W. Bean,449
+Ada,State Representative A,15,R,Lynn M. Luker,2237
+Ada,State Representative A,15,R,Jen Stanko,1008
+Ada,State Representative A,15,D,Brenda Lovell,455
+Ada,State Representative B,15,R,Mark Patterson,1437
+Ada,State Representative B,15,R,Max C. Black,2007
+Ada,State Senate,16,R,Bill Eisenbarth,2383
+Ada,State Senate,16,D,Les Bock,786
+Ada,State Representative A,16,R,Ralph D. Perez,2347
+Ada,State Representative A,16,D,Grant Burgoyne,771
+Ada,State Representative B,16,R,Mark Ruff,2329
+Ada,State Representative B,16,D,Elfreda Higgins,778
+Ada,State Senator,17,R,Lucas V. Baumbach,1087
+Ada,State Senator,17,R,T. Allen Hoover,889
+Ada,State Senator,17,D,Elliot Werk,761
+Ada,State Representative A,17,R,Craig Thomas,1782
+Ada,State Representative A,17,D,Bill Killen,740
+Ada,State Representative B,17,R,Dan Loughrey,1787
+Ada,State Representative B,17,D,Sue Chew,766
+Ada,State Senate,18,R,Robert N. Lauritsen,371
+Ada,State Senate,18,R,Dean E. Sorensen,1324
+Ada,State Senate,18,R,Mitch Toryanski,1478
+Ada,State Senate,18,D,Branden J. Durst,745
+Ada,State Representative A,18,R,Julie Ellsworth,2024
+Ada,State Representative A,18,R,Gregory E. Ferch,1115
+Ada,State Representative A,18,D,Engelking,735
+Ada,State Representative B,18,R,Trevor Grigg,2342
+Ada,State Representative B,18,D,Phylis K King,767
+Ada,State Senate,19,R,Debra S. Miller,2032
+Ada,State Senate,19,D,Nicole LeFavour,2538
+Ada,State Representative A,19,D,David Cadwell,564
+Ada,State Representative A,19,D,J. Dallas Gudgell,29
+Ada,State Representative A,19,R,Jim Morland,2016
+Ada,State Representative A,19,D,Webb,2158
+Ada,State Representative B,19,R,John Magnan,2012
+Ada,State Representative B,19,D,Brian C. Cronin,2310
+Ada,State Senate,20,R,Mike Vuittonet,1868
+Ada,State Senate,20,R,Shirley McKague,2819
+Ada,State Representative A,20,R,Shaun Wardle,2084
+Ada,State Representative A,20,R,Joe A. Palmer,2445
+Ada,State Representative B,20,R,Marv Hagedorn,3907
+Ada,State Senate,21,R,Russell M. Fulcher,4077
+Ada,State Senate,21,R,Steven Keith Ricks,1731
+Ada,State Senate,21,D,Kelly J. Victorine,413
+Ada,State Representative A,21,R,Rich Jarvis,2202
+Ada,State Representative A,21,R,Michael D. Roy,808
+Ada,State Representative A,21,R,John Vander Woude,2740
+Ada,State Representative A,21,D,Sharon L. Fisher,424
+Ada,State Representative B,21,R,"Clifford R. ""Cliff"" Bayer",3437
+Ada,State Representative B,21,R,Thomas E. Dayley,2034
+Ada,State Representative B,21,D,Sean Carrick,412
+Elmore,State Senate,22,R,Tim Corder,1486
+Elmore,State Senate,22,R,Marla S. Lawson,1326
+Elmore,State Senate,22,D,Henry E. Hibbert,265
+Boise,State Senate,22,R,Tim Corder,1049
+Boise,State Senate,22,R,Marla S. Lawson,488
+Boise,State Senate,22,D,Henry E. Hibbert,84
+Elmore,State Representative A,22,R,Rich Wills,2258
+Boise,State Representative A,22,R,Rich Wills,1084
+Elmore,State Representative B,22,R,Pete Nielsen,2127
+Boise,State Representative B,22,R,Pete Nielsen,1086
+Twin Falls,State Senate,23,R,Bert Brackett,2675
+Owyhee,State Senate,23,R,Bert Brackett,1381
+Twin Falls,State Representative A,23,R,Jim Patrick,2660
+Owyhee,State Representative A,23,R,Jim Patrick,1343
+Twin Falls,State Representative B,23,R,Stephen Hartgen,2565
+Twin Falls,State Representative B,23,D,Bill Chisholm,308
+Owyhee,State Representative B,23,R,Stephen Hartgen,1316
+Owyhee,State Representative B,23,D,Bill Chisholm,72
+Twin Falls,State Senate,24,R,Lee Heider,2630
+Twin Falls,State Senate,24,R,Charles Coiner,1965
+Twin Falls,State Representative A,24,R,Rusty E Satterwhite,1311
+Twin Falls,State Representative A,24,R,Leon Smith,2169
+Twin Falls,State Representative A,24,R,Mark Goodman,997
+Twin Falls,State Representative B,24,R,Sharon Block,3874
+Camas,State Senate,25,D,David P. Maestas,4
+Camas,State Senate,25,D,Michelle Stennett,10
+Camas,State Senate,25,R,Jim Donoval,266
+Camas,State Senate,25,D,Robert John Blakeley,2
+Gooding,State Senate,25,D,David P. Maestas,78
+Gooding,State Senate,25,D,Michelle Stennett,154
+Gooding,State Senate,25,R,Jim Donoval,1216
+Gooding,State Senate,25,D,Robert John Blakeley,10
+Lincoln,State Senate,25,D,David P. Maestas,40
+Lincoln,State Senate,25,D,Michelle Stennett,64
+Lincoln,State Senate,25,R,Jim Donoval,528
+Lincoln,State Senate,25,D,Robert John Blakeley,10
+Blaine,State Senate,25,D,David P. Maestas,122
+Blaine,State Senate,25,D,Michelle Stennett,1950
+Blaine,State Senate,25,R,Jim Donoval,926
+Blaine,State Senate,25,D,Robert John Blakeley,80
+Camas,State Representative A,25,D,Wendy Jaquet,18
+Gooding,State Representative A,25,D,Wendy Jaquet,241
+Lincoln,State Representative A,25,D,Wendy Jaquet,105
+Blaine,State Representative A,25,D,Wendy Jaquet,2061
+Camas,State Representative B,25,R,Alex Sutter,256
+Camas,State Representative B,25,D,Donna Pence,18
+Gooding,State Representative B,25,R,Alex Sutter,1216
+Gooding,State Representative B,25,D,Donna Pence,235
+Lincoln,State Representative B,25,R,Alex Sutter,538
+Lincoln,State Representative B,25,D,Donna Pence,97
+Blaine,State Representative B,25,R,Alex Sutter,892
+Blaine,State Representative B,25,D,Donna Pence,1860
+Minidoka,State Senate,26,R,Harold Mohlman,666
+Minidoka,State Senate,26,R,Dean L. Cameron,1932
+Jerome,State Senate,26,R,Harold Mohlman,360
+Jerome,State Senate,26,R,Dean L. Cameron,1713
+Minidoka,State Representative A,26,R,"John A. ""Bert"" Stevenson",2391
+Minidoka,State Representative A,26,D,Scott F. McClure,152
+Jerome,State Representative A,26,R,"John A. ""Bert"" Stevenson",1866
+Jerome,State Representative A,26,D,Scott F. McClure,188
+Minidoka,State Representative B,26,R,Maxine T Bell,2412
+Minidoka,State Representative B,26,D,Cindy Shotswell,145
+Jerome,State Representative B,26,R,Maxine T Bell,1929
+Jerome,State Representative B,26,D,Cindy Shotswell,182
+Cassia,State Senate,27,R,Denton Darrington,3441
+Oneida,State Senate,27,R,Denton Darrington,567
+Power,State Senate,27,R,Denton Darrington,869
+Bingham,State Senate,27,R,Denton Darrington,340
+Cassia,State Representative A,27,R,Scott Bedke,3541
+Oneida,State Representative A,27,R,Scott Bedke,585
+Power,State Representative A,27,R,Scott Bedke,898
+Bingham,State Representative A,27,R,Scott Bedke,339
+Cassia,State Representative B,27,R,Fred Wood,3574
+Oneida,State Representative B,27,R,Fred Wood,549
+Power,State Representative B,27,R,Fred Wood,861
+Bingham,State Representative B,27,R,Fred Wood,328
+Bingham,State Senate,28,R,R. Steven Bair,5157
+Bingham,State Representative A,28,R,Dennis M. Lake,4868
+Bingham,State Representative A,28,D,Marlene F. Shurtz,307
+Bingham,State Representative B,28,R,Jim Marriott,5092
+Bannock,State Senate,29,R,Lance B Kolbet,2627
+Bannock,State Senate,29,D,Diane Bilyeu,1965
+Bannock,State Representative A,29,R,Ken Andrus,2791
+Bannock,State Representative A,29,D,"James (""Jim"") W. Allen",1779
+Bannock,State Representative B,29,R,Jim Guthrie,2820
+Bannock,State Representative B,29,D,Greg Anderson,1855
+Bannock,State Senate,30,R,Terry Andersen,1456
+Bannock,State Senate,30,D,Edgar J. Malepeai,1432
+Bannock,State Representative A,30,R,Brian P. Nugent,1405
+Bannock,State Representative A,30,D,Roy Lacey,1404
+Bannock,State Representative B,30,R,David G. Bowen,111
+Bannock,State Representative B,30,D,Elaine Smith,1418
+Bonneville,State Senate,31,R,Robert L. Geddes,1078
+Caribou,State Senate,31,R,Robert L. Geddes,1187
+Franklin,State Senate,31,R,Robert L. Geddes,1899
+Teton,State Senate,31,R,Robert L. Geddes,551
+Bear Lake,State Senate,31,R,Robert L. Geddes,1417
+Bonneville,State Representative A,31,R,Marc Gibbs,1065
+Caribou,State Representative A,31,R,Marc Gibbs,1163
+Franklin,State Representative A,31,R,Marc Gibbs,1864
+Teton,State Representative A,31,R,Marc Gibbs,549
+Bear Lake,State Representative A,31,R,Marc Gibbs,1389
+Bonneville,State Representative B,31,R,Tom Loertscher,1127
+Bonneville,State Representative B,31,D,Ralph Mossman,69
+Caribou,State Representative B,31,R,Tom Loertscher,1104
+Caribou,State Representative B,31,D,Ralph Mossman,40
+Franklin,State Representative B,31,R,Tom Loertscher,1840
+Franklin,State Representative B,31,D,Ralph Mossman,80
+Teton,State Representative B,31,R,Tom Loertscher,559
+Teton,State Representative B,31,D,Ralph Mossman,1112
+Bear Lake,State Representative B,31,R,Tom Loertscher,1373
+Bear Lake,State Representative B,31,D,Ralph Mossman,79
+Bonneville,State Senate,32,R,Dean M. Mortimer,4669
+Bonneville,State Representative A,32,R,Janice McGeachin,4564
+Bonneville,State Representative B,32,R,Erik Simpson,4511
+Bonneville,State Senate,33,R,Bart M. Davis,3173
+Bonneville,State Senate,33,D,Neil M Williams,551
+Bonneville,State Representative A,33,R,Jeff Thompson,3078
+Bonneville,State Representative A,33,D,Jerry Shively,578
+Bonneville,State Representative B,33,R,Linden B. Bateman,2465
+Bonneville,State Representative B,33,R,Dane Watkins,1227
+Bonneville,State Representative B,33,D,John McGimpsey,534
+Madison,State Senate,34,R,Brent Hill,4071
+Fremont,State Senate,34,R,Brent Hill,2221
+Madison,State Representative A,34,R,Mack G. Shirley,2977
+Madison,State Representative A,34,R,Dan Roberts,1628
+Fremont,State Representative A,34,R,Mack G. Shirley,1595
+Fremont,State Representative A,34,R,Dan Roberts,982
+Madison,State Representative B,34,R,Dell Raybould,3962
+Fremont,State Representative B,34,R,Dell Raybould,2202
+Clark,State. Senate,35,R,Jeff C Siddoway,278
+Custer,State. Senate,35,R,Jeff C Siddoway,878
+Fremont,State. Senate,35,R,Jeff C Siddoway,181
+Jefferson,State. Senate,35,R,Jeff C Siddoway,3263
+Lemhi,State. Senate,35,R,Jeff C Siddoway,1414
+Butte,State. Senate,35,R,Jeff C Siddoway,428
+Clark,State Representative A,35,R,JoAn E. Wood,249
+Custer,State Representative A,35,R,JoAn E. Wood,887
+Fremont,State Representative A,35,R,JoAn E. Wood,179
+Jefferson,State Representative A,35,R,JoAn E. Wood,3215
+Lemhi,State Representative A,35,R,JoAn E. Wood,1473
+Butte,State Representative A,35,R,JoAn E. Wood,413
+Clark,State Representative B,35,R,Lenore Hardy Barrett,126
+Clark,State Representative B,35,R,Robert E. Cope,143
+Clark,State Representative B,35,R,Joel M. Lloyd,26
+Clark,State Representative B,35,D,Jerry L. Browne,7
+Custer,State Representative B,35,R,Lenore Hardy Barrett,599
+Custer,State Representative B,35,R,Robert E. Cope,437
+Custer,State Representative B,35,R,Joel M. Lloyd,69
+Custer,State Representative B,35,D,Jerry L. Browne,62
+Fremont,State Representative B,35,R,Lenore Hardy Barrett,104
+Fremont,State Representative B,35,R,Robert E. Cope,67
+Fremont,State Representative B,35,R,Joel M. Lloyd,29
+Fremont,State Representative B,35,D,Jerry L. Browne,18
+Jefferson,State Representative B,35,R,Lenore Hardy Barrett,2112
+Jefferson,State Representative B,35,R,Robert E. Cope,893
+Jefferson,State Representative B,35,R,Joel M. Lloyd,526
+Jefferson,State Representative B,35,D,Jerry L. Browne,156
+Lemhi,State Representative B,35,R,Lenore Hardy Barrett,875
+Lemhi,State Representative B,35,R,Robert E. Cope,891
+Lemhi,State Representative B,35,R,Joel M. Lloyd,98
+Lemhi,State Representative B,35,D,Jerry L. Browne,83
+Butte,State Representative B,35,R,Lenore Hardy Barrett,287
+Butte,State Representative B,35,R,Robert E. Cope,103
+Butte,State Representative B,35,R,Joel M. Lloyd,77
+Butte,State Representative B,35,D,Jerry L. Browne,34
+Boundary,State Senate,1,D,Jim Ramsey,170
+Boundary,State Senate,1,R,Shawn A. Keough,908
+Bonner,State Senate,1,D,Jim Ramsey,712
+Bonner,State Senate,1,R,Shawn A. Keough,2958
+Boundary,State Representative A,1,D,Steve Elgar,177
+Boundary,State Representative A,1,R,Eric Anderson,783
+Bonner,State Representative A,1,D,Steve Elgar,740
+Bonner,State Representative A,1,R,Eric Anderson,2586
+Boundary,State Representative B,1,D,Bob Wynhausen,160
+Boundary,State Representative B,1,R,George E. Eskridge,795
+Bonner,State Representative B,1,D,Bob Wynhausen,702
+Bonner,State Representative B,1,R,George E. Eskridge,2784
+Bonner,State Senate,2,D,Steve Johnson,198
+Bonner,State Senate,2,R,Joyce M. Broadsword,853
+Kootenai,State Senate,2,D,Steve Johnson,84
+Kootenai,State Senate,2,R,Joyce M. Broadsword,192
+Shoshone,State Senate,2,D,Steve Johnson,1269
+Shoshone,State Senate,2,R,Joyce M. Broadsword,439
+Benewah,State Senate,2,D,Steve Johnson,529
+Benewah,State Senate,2,R,Joyce M. Broadsword,540
+Bonner,State Representative A,2,D,Mary Lou Shepherd,199
+Kootenai,State Representative A,2,D,Mary Lou Shepherd,91
+Shoshone,State Representative A,2,D,Mary Lou Shepherd,1491
+Benewah,State Representative A,2,D,Mary Lou Shepherd,595
+Bonner,State Representative B,2,D,Richard T. Taniguchi,182
+Bonner,State Representative B,2,R,R.J. Dick Harwood,830
+Kootenai,State Representative B,2,D,Richard T. Taniguchi,82
+Kootenai,State Representative B,2,R,R.J. Dick Harwood,172
+Shoshone,State Representative B,2,D,Richard T. Taniguchi,1194
+Shoshone,State Representative B,2,R,R.J. Dick Harwood,425
+Benewah,State Representative B,2,D,Richard T. Taniguchi,486
+Benewah,State Representative B,2,R,R.J. Dick Harwood,497
+Kootenai,State Senate,3,R,Mike Jorgenson,2963
+Kootenai,State Senate,3,D,Ian Stenseng,738
+Kootenai,State Senate,3,R,Kent Bailey,1436
+Kootenai,State Representative A,3,R,Jeri J. DeLange,1734
+Kootenai,State Representative A,3,D,William H. Kersting,729
+Kootenai,State Representative A,3,R,James W. Clark,2576
+Kootenai,State Representative B,3,R,Wayne R. Meyer,1993
+Kootenai,State Representative B,3,R,Phil Hart,2645
+Kootenai,State Senate,4,D,Steven L. Foxx,1142
+Kootenai,State Senate,4,R,John W Goedde,2805
+Kootenai,State Representative A,4,D,Bonnie Douglas,1164
+Kootenai,State Representative A,4,R,Marge Chadderdon,2871
+Kootenai,State Representative B,4,D,George C. Sayler,1211
+Kootenai,State Representative B,4,R,Sharon Culbreth,2678
+Kootenai,State Senate,5,D,"Charles W. ""Chuck"" Thomas",740
+Kootenai,State Senate,5,R,Jim Hammond,2783
+Kootenai,State Representative A,5,D,David Larsen,748
+Kootenai,State Representative A,5,R,Bob Nonini,2851
+Kootenai,State Representative B,5,D,Lyndon Harriman,727
+Kootenai,State Representative B,5,R,Frank N. Henderson,2862
+Latah,State Senate,6,R,Gary J. Schroeder,1810
+Latah,State Representative A,6,R,Tom Trail,1892
+Latah,State Representative B,6,D,Shirley G. Ringo,1086
+Latah,State Representative B,6,R,L. Roger Falen,1567
+Nez Perce,State Senate,7,D,Mike Naccarato,1273
+Nez Perce,State Senate,7,R,Joe Stegner,1775
+Nez Perce,State Representative A,7,D,Liz Chavez,1198
+Nez Perce,State Representative A,7,R,Tony R. Snodderly,1636
+Nez Perce,State Representative B,7,D,John Rusche,1256
+Idaho,State Senate,8,R,Ronn Julian,683
+Idaho,State Senate,8,D,Dave Holland,291
+Idaho,State Senate,8,D,Scott McLeod,386
+Idaho,State Senate,8,R,"Leland G. ""Lee"" Heinrich",1348
+Lewis,State Senate,8,R,Ronn Julian,158
+Lewis,State Senate,8,D,Dave Holland,38
+Lewis,State Senate,8,D,Scott McLeod,210
+Lewis,State Senate,8,R,"Leland G. ""Lee"" Heinrich",295
+Valley,State Senate,8,R,Ronn Julian,1044
+Valley,State Senate,8,D,Dave Holland,178
+Valley,State Senate,8,D,Scott McLeod,57
+Valley,State Senate,8,R,"Leland G. ""Lee"" Heinrich",898
+Clearwater,State Senate,8,R,Ronn Julian,184
+Clearwater,State Senate,8,D,Dave Holland,174
+Clearwater,State Senate,8,D,Scott McLeod,219
+Clearwater,State Senate,8,R,"Leland G. ""Lee"" Heinrich",439
+Idaho,State Representative A,8,D,Darcy James,661
+Idaho,State Representative A,8,R,Ken A. Roberts,1878
+Lewis,State Representative A,8,D,Darcy James,202
+Lewis,State Representative A,8,R,Ken A. Roberts,398
+Valley,State Representative A,8,D,Darcy James,199
+Valley,State Representative A,8,R,Ken A. Roberts,1326
+Clearwater,State Representative A,8,D,Darcy James,360
+Clearwater,State Representative A,8,R,Ken A. Roberts,556
+Idaho,State Representative B,8,D,Charlene Douglas,567
+Idaho,State Representative B,8,R,Paul E. Shepherd,1811
+Lewis,State Representative B,8,D,Charlene Douglas,172
+Lewis,State Representative B,8,R,Paul E. Shepherd,392
+Valley,State Representative B,8,D,Charlene Douglas,186
+Valley,State Representative B,8,R,Paul E. Shepherd,1342
+Clearwater,State Representative B,8,D,Charlene Douglas,299
+Clearwater,State Representative B,8,R,Paul E. Shepherd,558
+Canyon,State Senate,9,D,"Robert ""Bob"" Barowsky",12
+Canyon,State Senate,9,R,Monty J. Pearce,97
+Payette,State Senate,9,D,"Robert ""Bob"" Barowsky",252
+Payette,State Senate,9,R,Monty J. Pearce,1416
+Washington,State Senate,9,D,"Robert ""Bob"" Barowsky",157
+Washington,State Senate,9,R,Monty J. Pearce,1461
+Adams,State Senate,9,D,"Robert ""Bob"" Barowsky",110
+Adams,State Senate,9,R,Monty J. Pearce,851
+Canyon,State Representative A,9,R,Lawerence E. Denney,91
+Payette,State Representative A,9,R,Lawerence E. Denney,1410
+Washington,State Representative A,9,R,Lawerence E. Denney,1490
+Adams,State Representative A,9,R,Lawerence E. Denney,851
+Canyon,State Representative B,9,R,Clete Edmunson,90
+Payette,State Representative B,9,R,Clete Edmunson,1343
+Washington,State Representative B,9,R,Clete Edmunson,1408
+Adams,State Representative B,9,R,Clete Edmunson,920
+Canyon,State Senate,10,R,John McGee,3290
+Canyon,State Representative A,10,R,Robert 'Bob' Ring,2264
+Canyon,State Representative A,10,R,Rob Oates,1523
+Canyon,State Representative B,10,D,Darlene Madsen,433
+Canyon,State Representative B,10,R,Darrell Bolz,3306
+Gem,State Senate,11,R,Brad Little,2027
+Canyon,State Senate,11,R,Brad Little,2471
+Gem,State Representative A,11,R,Steven Thayn,1360
+Gem,State Representative A,11,R,Kathy Skippen,1140
+Canyon,State Representative A,11,R,Steven Thayn,1399
+Canyon,State Representative A,11,R,Kathy Skippen,1373
+Gem,State Representative B,11,R,Carlos Bilbao,1706
+Gem,State Representative B,11,R,Gary W. Bauer,750
+Canyon,State Representative B,11,R,Carlos Bilbao,1201
+Canyon,State Representative B,11,R,Gary W. Bauer,1563
+Canyon,State Senate,12,D,Donald McMurrian,453
+Canyon,State Senate,12,R,Curt McKenzie,2436
+Canyon,State Representative A,12,D,Richard Mabbutt,442
+Canyon,State Representative A,12,R,Robert E Schaefer,2418
+Canyon,State Representative B,12,D,Genz,435
+Canyon,State Representative B,12,R,Gary E. Collins,2435
+Canyon,State Senate,13,D,Rohn F. Webb,569
+Canyon,State Senate,13,R,Patti Anne Lodge,5032
+Canyon,State Representative A,13,R,Brent Crane,3296
+Canyon,State Representative A,13,D,Douglas Yarbrough,557
+Canyon,State Representative A,13,R,Jim Barnes,2434
+Canyon,State Representative B,13,R,Irene Gans,2065
+Canyon,State Representative B,13,R,"W.W. ""Bill"" Deal",3711
+Ada,State Senator,14,R,Rod Beck,2622
+Ada,State Senator,14,D,Glida Bothwell,570
+Ada,State Senator,14,R,Stan Bastian,2929
+Ada,State Representative A,14,R,Mike Moyle,4723
+Ada,State Representative B,14,R,Raul R. Labrador,2448
+Ada,State Representative B,14,R,John R. Tomkinson,1535
+Ada,State Representative B,14,D,Daniel S. Weston,611
+Ada,State Representative B,14,R,Jim Borton,1292
+Ada,State Senate,15,R,Dennis Mansfield,1424
+Ada,State Senate,15,D,Jennifer Ellis,623
+Ada,State Senate,15,R,John C Andreason,2428
+Ada,State Representative A,15,R,Lynn M. Luker,1793
+Ada,State Representative A,15,R,Jeremy D. Olson,662
+Ada,State Representative A,15,D,Jerry Peterson,616
+Ada,State Representative A,15,R,Bob Jacobson,913
+Ada,State Representative B,15,R,Max C. Black,3247
+Ada,State Senate,16,D,David Langhorst,953
+Ada,State Representative A,16,D,Margaret Henbest,966
+Ada,State Representative B,16,D,Les Bock,898
+Ada,State Representative B,16,R,Jana M. Kemp,2423
+Ada,State Senator,17,D,Elliot Werk,941
+Ada,State Senator,17,R,Tim Flaherty,1835
+Ada,State Representative A,17,D,Bill Killen,873
+Ada,State Representative A,17,R,Kathie Garrett,1936
+Ada,State Representative B,17,D,Sue Chew,875
+Ada,State Representative B,17,R,Janet J. Miller,1948
+Ada,State Senate,18,D,Kate Kelly,1e3
+Ada,State Senate,18,R,Brad Bolicek,2211
+Ada,State Representative A,18,D,Branden J. Durst,911
+Ada,State Representative A,18,R,Debbie Field,2308
+Ada,State Representative B,18,D,Phylis K King,940
+Ada,State Representative B,18,R,Julie Ellsworth,2325
+Ada,State Senate,19,D,Mike Burkett,1653
+Ada,State Senate,19,R,Charles E Seldon,1982
+Ada,State Representative A,19,D,Stuart,1633
+Ada,State Representative B,19,D,Nicole LeFavour,1659
+Ada,State Senate,20,D,Laurynda A. Williams,427
+Ada,State Senate,20,R,Gerry Sweet,2717
+Ada,State Representative A,20,R,Mark A. Snodgrass,2038
+Ada,State Representative A,20,R,Marv Hagedorn,1402
+Ada,State Representative B,20,D,Chuck Oxley,410
+Ada,State Representative B,20,R,Shirley McKague,2936
+Ada,State Senate,21,R,Russell M. Fulcher,2091
+Ada,State Senate,21,R,Steven Ricks,1961
+Ada,State Senate,21,R,Patrick J. Avella,502
+Ada,State Representative A,21,R,Don W Johnson,1310
+Ada,State Representative A,21,R,Michael Law,814
+Ada,State Representative A,21,R,John Vander Woude,1640
+Ada,State Representative A,21,R,Daniel L. Dunham,452
+Ada,State Representative B,21,R,"Clifford R. ""Cliff"" Bayer",3786
+Elmore,State Senate,22,D,Henry Hibbert,400
+Elmore,State Senate,22,R,Tim Corder,1262
+Boise,State Senate,22,D,Henry Hibbert,136
+Boise,State Senate,22,R,Tim Corder,1202
+Elmore,State Representative A,22,D,Karen M. Schindele,433
+Elmore,State Representative A,22,R,Rich Wills,1319
+Boise,State Representative A,22,D,Karen M. Schindele,132
+Boise,State Representative A,22,R,Rich Wills,1116
+Elmore,State Representative B,22,D,Dawn D. Best,444
+Elmore,State Representative B,22,R,Pete Nielsen,1184
+Boise,State Representative B,22,D,Dawn D. Best,132
+Boise,State Representative B,22,R,Pete Nielsen,1119
+Twin Falls,State Senate,23,D,Bill Chisholm,580
+Twin Falls,State Senate,23,R,Tom Gannon,3613
+Owyhee,State Senate,23,D,Bill Chisholm,77
+Owyhee,State Senate,23,R,Tom Gannon,1133
+Twin Falls,State Representative A,23,R,Jim Patrick,2351
+Twin Falls,State Representative A,23,D,Peter Rickards,552
+Twin Falls,State Representative A,23,R,Jim Conder,1389
+Owyhee,State Representative A,23,R,Jim Patrick,790
+Owyhee,State Representative A,23,D,Peter Rickards,71
+Owyhee,State Representative A,23,R,Jim Conder,400
+Twin Falls,State Representative B,23,R,Bert Brackett,3508
+Owyhee,State Representative B,23,R,Bert Brackett,1206
+Twin Falls,State Senate,24,R,Charles Coiner,4438
+Twin Falls,State Representative A,24,D,Will Buhler,734
+Twin Falls,State Representative A,24,R,Leon Smith,4559
+Twin Falls,State Representative B,24,R,Sharon L. Block,4465
+Camas,State Senate,25,D,Clint Stennett,14
+Gooding,State Senate,25,D,Clint Stennett,226
+Lincoln,State Senate,25,D,Clint Stennett,102
+Blaine,State Senate,25,D,Clint Stennett,1377
+Camas,State Representative A,25,D,Wendy Jaquet,14
+Gooding,State Representative A,25,D,Wendy Jaquet,225
+Lincoln,State Representative A,25,D,Wendy Jaquet,95
+Blaine,State Representative A,25,D,Wendy Jaquet,1372
+Camas,State Representative B,25,D,Donna Pence,14
+Gooding,State Representative B,25,D,Donna Pence,224
+Lincoln,State Representative B,25,D,Donna Pence,93
+Blaine,State Representative B,25,D,Donna Pence,1308
+Minidoka,State Senate,26,R,Dean L. Cameron,1507
+Jerome,State Senate,26,R,Dean L. Cameron,1670
+Minidoka,State Representative A,26,R,"John A. ""Bert"" Stevenson",1388
+Minidoka,State Representative A,26,D,Scott F. McClure,180
+Minidoka,State Representative A,26,R,Lee J. Halper,219
+Jerome,State Representative A,26,R,"John A. ""Bert"" Stevenson",1229
+Jerome,State Representative A,26,D,Scott F. McClure,146
+Jerome,State Representative A,26,R,Lee J. Halper,598
+Minidoka,State Representative B,26,R,Maxine T. Bell,1525
+Jerome,State Representative B,26,R,Maxine T. Bell,1680
+Cassia,State Senate,27,R,Denton Darrington,2779
+Oneida,State Senate,27,R,Denton Darrington,819
+Power,State Senate,27,R,Denton Darrington,586
+Bingham,State Senate,27,R,Denton Darrington,230
+Cassia,State Representative A,27,R,Scott Bedke,2888
+Oneida,State Representative A,27,R,Scott Bedke,828
+Power,State Representative A,27,R,Scott Bedke,585
+Bingham,State Representative A,27,R,Scott Bedke,227
+Cassia,State Representative B,27,R,Ben W. Maggart,153
+Cassia,State Representative B,27,R,E. Jim Paskett,549
+Cassia,State Representative B,27,R,Fred Wood,2018
+Cassia,State Representative B,27,R,Timothy P. Deeg,444
+Oneida,State Representative B,27,R,Ben W. Maggart,35
+Oneida,State Representative B,27,R,E. Jim Paskett,87
+Oneida,State Representative B,27,R,Fred Wood,176
+Oneida,State Representative B,27,R,Timothy P. Deeg,615
+Power,State Representative B,27,R,Ben W. Maggart,7
+Power,State Representative B,27,R,E. Jim Paskett,17
+Power,State Representative B,27,R,Fred Wood,84
+Power,State Representative B,27,R,Timothy P. Deeg,589
+Bingham,State Representative B,27,R,Ben W. Maggart,10
+Bingham,State Representative B,27,R,E. Jim Paskett,15
+Bingham,State Representative B,27,R,Fred Wood,30
+Bingham,State Representative B,27,R,Timothy P. Deeg,189
+Bingham,State Senate,28,R,Paul Clark,1588
+Bingham,State Senate,28,D,"John ""Butch"" Hulse",690
+Bingham,State Senate,28,R,R. Steven Bair,2658
+Bingham,State Representative A,28,D,Beverly Beach (W/I),169
+Bingham,State Representative A,28,R,Dennis M. Lake,3776
+Bingham,State Representative B,28,R,R. Scott Reese,1561
+Bingham,State Representative B,28,R,Kirk G. Sheppard,810
+Bingham,State Representative B,28,D,Jane Bingham Lamprecht (W/I),140
+Bingham,State Representative B,28,R,Jim Marriott,2033
+Bannock,State Senate,29,D,Diane Bilyeu,1606
+Bannock,State Senate,29,R,Jim Guthrie,2055
+Bannock,State Representative A,29,D,Allen R. Andersen,1554
+Bannock,State Representative A,29,R,Ken Andrus,2034
+Bannock,State Representative B,29,R,Lance Kolbet,469
+Bannock,State Representative B,29,D,James D. Ruchti,1527
+Bannock,State Representative B,29,R,Richard D. Kirkham,1722
+Bannock,State Senate,30,D,Edgar J. Malepeai,1416
+Bannock,State Representative A,30,D,Donna Boe,1403
+Bannock,State Representative B,30,D,Elaine Smith,1389
+Bannock,State Representative B,30,R,Joshua R. Thompson,1013
+Bonneville,State Senate,31,R,Robert L. Geddes,725
+Caribou,State Senate,31,R,Robert L. Geddes,1266
+Franklin,State Senate,31,R,Robert L. Geddes,2075
+Teton,State Senate,31,R,Robert L. Geddes,703
+Bear Lake,State Senate,31,R,Robert L. Geddes,1203
+Bonneville,State Representative A,31,R,Clair Cheirrett,282
+Bonneville,State Representative A,31,R,Larry C. Bradford,480
+Caribou,State Representative A,31,R,Clair Cheirrett,696
+Caribou,State Representative A,31,R,Larry C. Bradford,615
+Franklin,State Representative A,31,R,Clair Cheirrett,601
+Franklin,State Representative A,31,R,Larry C. Bradford,1643
+Teton,State Representative A,31,R,Clair Cheirrett,285
+Teton,State Representative A,31,R,Larry C. Bradford,478
+Bear Lake,State Representative A,31,R,Clair Cheirrett,650
+Bear Lake,State Representative A,31,R,Larry C. Bradford,733
+Bonneville,State Representative B,31,R,Tom Loertscher,668
+Bonneville,State Representative B,31,R,Eulalie Teichert Langford,160
+Caribou,State Representative B,31,R,Tom Loertscher,728
+Caribou,State Representative B,31,R,Eulalie Teichert Langford,576
+Franklin,State Representative B,31,R,Tom Loertscher,1274
+Franklin,State Representative B,31,R,Eulalie Teichert Langford,931
+Teton,State Representative B,31,R,Tom Loertscher,457
+Teton,State Representative B,31,R,Eulalie Teichert Langford,371
+Bear Lake,State Representative B,31,R,Tom Loertscher,570
+Bear Lake,State Representative B,31,R,Eulalie Teichert Langford,835
+Bonneville,State Senate,32,D,Tom Holm,274
+Bonneville,State Senate,32,R,"Melvin ""Mel"" Richardson",3628
+Bonneville,State Representative A,32,D,Scott L. Cannon,272
+Bonneville,State Representative A,32,R,Janice K. McGeachin,3495
+Bonneville,State Representative B,32,R,Ann Rydalch,1812
+Bonneville,State Representative B,32,R,Dean M. Mortimer,2251
+Bonneville,State Senate,33,R,Kenneth R. Walton,811
+Bonneville,State Senate,33,D,Neil M Williams,242
+Bonneville,State Senate,33,R,Bart M. Davis,1950
+Bonneville,State Representative A,33,R,Peter G. Welliver,777
+Bonneville,State Representative A,33,D,Jerry Shively,263
+Bonneville,State Representative A,33,R,Jack T. Barraclough,2015
+Bonneville,State Representative B,33,D,John McGimpsey,238
+Bonneville,State Representative B,33,R,Russ Mathews,2481
+Madison,State Senate,34,R,Brent Hill,3042
+Fremont,State Senate,34,R,Brent Hill,2041
+Madison,State Representative A,34,R,Mack G. Shirley,3034
+Fremont,State Representative A,34,R,Mack G. Shirley,2051
+Madison,State Representative B,34,R,Dell Raybould,2940
+Fremont,State Representative B,34,R,Dell Raybould,1966
+Clark,State. Senate,35,R,George E. Ellsworth,43
+Clark,State. Senate,35,R,Jeff C. Siddoway,242
+Clark,State. Senate,35,D,Luke Prange,3
+Clark,State. Senate,35,R,Leon D. Clark,26
+Custer,State. Senate,35,R,George E. Ellsworth,233
+Custer,State. Senate,35,R,Jeff C. Siddoway,528
+Custer,State. Senate,35,D,Luke Prange,78
+Custer,State. Senate,35,R,Leon D. Clark,130
+Fremont,State. Senate,35,R,George E. Ellsworth,34
+Fremont,State. Senate,35,R,Jeff C. Siddoway,83
+Fremont,State. Senate,35,D,Luke Prange,10
+Fremont,State. Senate,35,R,Leon D. Clark,40
+Jefferson,State. Senate,35,R,George E. Ellsworth,553
+Jefferson,State. Senate,35,R,Jeff C. Siddoway,1092
+Jefferson,State. Senate,35,D,Luke Prange,194
+Jefferson,State. Senate,35,R,Leon D. Clark,1327
+Lemhi,State. Senate,35,R,George E. Ellsworth,500
+Lemhi,State. Senate,35,R,Jeff C. Siddoway,720
+Lemhi,State. Senate,35,D,Luke Prange,171
+Lemhi,State. Senate,35,R,Leon D. Clark,145
+Butte,State. Senate,35,R,George E. Ellsworth,147
+Butte,State. Senate,35,R,Jeff C. Siddoway,395
+Butte,State. Senate,35,D,Luke Prange,49
+Butte,State. Senate,35,R,Leon D. Clark,92
+Clark,State Representative A,35,R,Jo An E. Wood,258
+Custer,State Representative A,35,R,Jo An E. Wood,785
+Fremont,State Representative A,35,R,Jo An E. Wood,137
+Jefferson,State Representative A,35,R,Jo An E. Wood,2693
+Lemhi,State Representative A,35,R,Jo An E. Wood,1212
+Butte,State Representative A,35,R,Jo An E. Wood,564
+Clark,State Representative B,35,D,Jon Winegarner,3
+Clark,State Representative B,35,R,Lenore Hardy Barrett,261
+Custer,State Representative B,35,D,Jon Winegarner,78
+Custer,State Representative B,35,R,Lenore Hardy Barrett,760
+Fremont,State Representative B,35,D,Jon Winegarner,10
+Fremont,State Representative B,35,R,Lenore Hardy Barrett,134
+Jefferson,State Representative B,35,D,Jon Winegarner,199
+Jefferson,State Representative B,35,R,Lenore Hardy Barrett,2704
+Lemhi,State Representative B,35,D,Jon Winegarner,158
+Lemhi,State Representative B,35,R,Lenore Hardy Barrett,1194
+Butte,State Representative B,35,D,Jon Winegarner,48
+Butte,State Representative B,35,R,Lenore Hardy Barrett,527
+Boundary,State Senate,1,R,Shawn A. Keough,1260
+Boundary,State Senate,1,D,Gary L. Pietsch,140
+Bonner,State Senate,1,R,Shawn A. Keough,2396
+Bonner,State Senate,1,D,Gary L. Pietsch,1115
+Boundary,State Representative A,1,R,John L. Campbell,1054
+Boundary,State Representative A,1,D,Dale Van Stone,130
+Bonner,State Representative A,1,R,John L. Campbell,2130
+Bonner,State Representative A,1,D,Dale Van Stone,1178
+Boundary,State Representative B,1,R,George E. Eskridge,1063
+Boundary,State Representative B,1,D,Sandra J. Lamson,130
+Bonner,State Representative B,1,R,George E. Eskridge,2205
+Bonner,State Representative B,1,D,Sandra J. Lamson,1014
+Bonner,State Senate,2,R,J. Russell Lowry,590
+Bonner,State Senate,2,D,"Martha ""Marti"" Calabretta",290
+Kootenai,State Senate,2,R,J. Russell Lowry,151
+Kootenai,State Senate,2,D,"Martha ""Marti"" Calabretta",70
+Shoshone,State Senate,2,R,J. Russell Lowry,554
+Shoshone,State Senate,2,D,"Martha ""Marti"" Calabretta",1282
+Benewah,State Senate,2,R,J. Russell Lowry,422
+Benewah,State Senate,2,D,"Martha ""Marti"" Calabretta",590
+Bonner,State Representative A,2,L,Andy Jolliff,12
+Bonner,State Representative A,2,R,Michael W. Stevenson,576
+Bonner,State Representative A,2,D,Mary Lou Shepherd,288
+Kootenai,State Representative A,2,L,Andy Jolliff,3
+Kootenai,State Representative A,2,R,Michael W. Stevenson,149
+Kootenai,State Representative A,2,D,Mary Lou Shepherd,70
+Shoshone,State Representative A,2,L,Andy Jolliff,8
+Shoshone,State Representative A,2,R,Michael W. Stevenson,451
+Shoshone,State Representative A,2,D,Mary Lou Shepherd,1437
+Benewah,State Representative A,2,L,Andy Jolliff,19
+Benewah,State Representative A,2,R,Michael W. Stevenson,385
+Benewah,State Representative A,2,D,Mary Lou Shepherd,681
+Bonner,State Representative B,2,D,June E. Judd,169
+Bonner,State Representative B,2,R,"R.J. ""Dick"" Harwood",592
+Bonner,State Representative B,2,D,Steve Johnson,166
+Kootenai,State Representative B,2,D,June E. Judd,54
+Kootenai,State Representative B,2,R,"R.J. ""Dick"" Harwood",153
+Kootenai,State Representative B,2,D,Steve Johnson,18
+Shoshone,State Representative B,2,D,June E. Judd,933
+Shoshone,State Representative B,2,R,"R.J. ""Dick"" Harwood",555
+Shoshone,State Representative B,2,D,Steve Johnson,506
+Benewah,State Representative B,2,D,June E. Judd,648
+Benewah,State Representative B,2,R,"R.J. ""Dick"" Harwood",494
+Benewah,State Representative B,2,D,Steve Johnson,230
+Kootenai,State Senate,3,R,Kent M. Bailey,2082
+Kootenai,State Senate,3,R,Clyde Boatright,1810
+Kootenai,State Senate,3,D,JoAnn Harvey,831
+Kootenai,State Representative A,3,R,James W. Clark,3144
+Kootenai,State Representative A,3,L(wi),Kevin T. Jorgensen,10
+Kootenai,State Representative B,3,R,Wayne R. Meyer,3129
+Kootenai,State Senate,4,L,Dan Gookin,126
+Kootenai,State Senate,4,R,John W Goedde,1883
+Kootenai,State Senate,4,R,Kathy Sims,1852
+Kootenai,State Senate,4,D,David James Hunt,1009
+Kootenai,State Representative A,4,L,Mark Bechthold,124
+Kootenai,State Representative A,4,R,Jim Hollingsworth,2915
+Kootenai,State Representative A,4,D,Bonnie Douglas,1022
+Kootenai,State Representative B,4,L,Stan Smith,125
+Kootenai,State Representative B,4,R,"Kristina ""Kris"" Ellis",2881
+Kootenai,State Representative B,4,D,George Sayler,1034
+Kootenai,State Senate,5,R,Dick Compton,2007
+Kootenai,State Senate,5,R,Joyce C. Nowacki,1258
+Kootenai,State Senate,5,D,Wally Wright,788
+Kootenai,State Representative A,5,R,Hilde Kellogg,2740
+Kootenai,State Representative A,5,D,Kristy Reed Johnson,801
+Kootenai,State Representative B,5,D,Lee Pittmon,382
+Kootenai,State Representative B,5,R,Charles Eberle,1675
+Kootenai,State Representative B,5,R,Don Pischner,1515
+Kootenai,State Representative B,5,D,Lyndon Harriman,396
+Latah,State Senate,6,R,Gary J Schroeder,1524
+Latah,State Senate,6,D,Duncan Palmatier,1287
+Latah,State Representative A,6,R,Tom Trail,1554
+Latah,State Representative A,6,D,Kelley Racicot,1254
+Latah,State Representative B,6,R,Gary F. Young,1523
+Latah,State Representative B,6,D,Shirley G. Ringo,1353
+Nez Perce,State Senate,7,R,Joe Stegner,1852
+Nez Perce,State Senate,7,D,Dick Riggs,2011
+Nez Perce,State Representative A,7,L,Glenn H. Grubb,29
+Nez Perce,State Representative A,7,R,Frank Bruneel,1817
+Nez Perce,State Representative A,7,D,Carla HighEagle,1760
+Nez Perce,State Representative B,7,R,Earl J. Ferguson,998
+Nez Perce,State Representative B,7,R,Ray Sanders,974
+Nez Perce,State Representative B,7,D,Mike Naccarato,1827
+Idaho,State Senate,8,R,"R. Skipper ""Skip"" Brandt",2290
+Idaho,State Senate,8,R,Almon Manes,1197
+Idaho,State Senate,8,D,Dave Holland,331
+Lewis,State Senate,8,R,"R. Skipper ""Skip"" Brandt",315
+Lewis,State Senate,8,R,Almon Manes,102
+Lewis,State Senate,8,D,Dave Holland,197
+Valley,State Senate,8,R,"R. Skipper ""Skip"" Brandt",912
+Valley,State Senate,8,R,Almon Manes,330
+Valley,State Senate,8,D,Dave Holland,259
+Clearwater,State Senate,8,R,"R. Skipper ""Skip"" Brandt",928
+Clearwater,State Senate,8,R,Almon Manes,315
+Clearwater,State Senate,8,D,Dave Holland,538
+Idaho,State Representative A,8,R,Ken A. Roberts,2420
+Idaho,State Representative A,8,D,Jerry Lockhart,338
+Lewis,State Representative A,8,R,Ken A. Roberts,309
+Lewis,State Representative A,8,D,Jerry Lockhart,201
+Valley,State Representative A,8,R,Ken A. Roberts,1290
+Valley,State Representative A,8,D,Jerry Lockhart,249
+Clearwater,State Representative A,8,R,Ken A. Roberts,944
+Clearwater,State Representative A,8,D,Jerry Lockhart,532
+Idaho,State Representative B,8,D,George F. Stockton,135
+Idaho,State Representative B,8,R,Michael S. Fischer,382
+Idaho,State Representative B,8,R,Twila L. Hornbeck,1123
+Idaho,State Representative B,8,R,Dan Proskine,641
+Idaho,State Representative B,8,R,Lot Smith,1412
+Idaho,State Representative B,8,D,Charles D. Cuddy,225
+Lewis,State Representative B,8,D,George F. Stockton,72
+Lewis,State Representative B,8,R,Michael S. Fischer,85
+Lewis,State Representative B,8,R,Twila L. Hornbeck,150
+Lewis,State Representative B,8,R,Dan Proskine,65
+Lewis,State Representative B,8,R,Lot Smith,104
+Lewis,State Representative B,8,D,Charles D. Cuddy,204
+Valley,State Representative B,8,D,George F. Stockton,134
+Valley,State Representative B,8,R,Michael S. Fischer,218
+Valley,State Representative B,8,R,Twila L. Hornbeck,750
+Valley,State Representative B,8,R,Dan Proskine,249
+Valley,State Representative B,8,R,Lot Smith,293
+Valley,State Representative B,8,D,Charles D. Cuddy,115
+Clearwater,State Representative B,8,D,George F. Stockton,118
+Clearwater,State Representative B,8,R,Michael S. Fischer,164
+Clearwater,State Representative B,8,R,Twila L. Hornbeck,425
+Clearwater,State Representative B,8,R,Dan Proskine,292
+Clearwater,State Representative B,8,R,Lot Smith,267
+Clearwater,State Representative B,8,D,Charles D. Cuddy,532
+Canyon,State Senate,9,R,Roger Fairchild,56
+Canyon,State Senate,9,R,James W. Grunke,12
+Canyon,State Senate,9,R,Monty J. Pearce,37
+Canyon,State Senate,9,D,Barbara K. Wilson,17
+Payette,State Senate,9,R,Roger Fairchild,1275
+Payette,State Senate,9,R,James W. Grunke,481
+Payette,State Senate,9,R,Monty J. Pearce,1357
+Payette,State Senate,9,D,Barbara K. Wilson,314
+Washington,State Senate,9,R,Roger Fairchild,523
+Washington,State Senate,9,R,James W. Grunke,761
+Washington,State Senate,9,R,Monty J. Pearce,631
+Washington,State Senate,9,D,Barbara K. Wilson,217
+Adams,State Senate,9,R,Roger Fairchild,357
+Adams,State Senate,9,R,James W. Grunke,210
+Adams,State Senate,9,R,Monty J. Pearce,308
+Adams,State Senate,9,D,Barbara K. Wilson,72
+Canyon,State Representative A,9,R,Lawerence E. Denney,89
+Canyon,State Representative A,9,D,Lori Ann Steiniker,15
+Payette,State Representative A,9,R,Lawerence E. Denney,2589
+Payette,State Representative A,9,D,Lori Ann Steiniker,318
+Washington,State Representative A,9,R,Lawerence E. Denney,1513
+Washington,State Representative A,9,D,Lori Ann Steiniker,214
+Adams,State Representative A,9,R,Lawerence E. Denney,655
+Adams,State Representative A,9,D,Lori Ann Steiniker,69
+Canyon,State Representative B,9,R,Kent L. Banner,54
+Canyon,State Representative B,9,R,Clete Edmunson,47
+Canyon,State Representative B,9,L,Caryl A. Whitlatch,0
+Payette,State Representative B,9,R,Kent L. Banner,1480
+Payette,State Representative B,9,R,Clete Edmunson,1504
+Payette,State Representative B,9,L,Caryl A. Whitlatch,16
+Washington,State Representative B,9,R,Kent L. Banner,857
+Washington,State Representative B,9,R,Clete Edmunson,857
+Washington,State Representative B,9,L,Caryl A. Whitlatch,4
+Adams,State Representative B,9,R,Kent L. Banner,275
+Adams,State Representative B,9,R,Clete Edmunson,617
+Adams,State Representative B,9,L,Caryl A. Whitlatch,3
+Canyon,State Senate,10,R,Ron McWilliams,2090
+Canyon,State Senate,10,R,Darrel Deide,1656
+Canyon,State Representative A,10,R,John H. Lee,586
+Canyon,State Representative A,10,R,"Robert ""Bob"" Ring",2181
+Canyon,State Representative A,10,R,Thomas J. Tingey,865
+Canyon,State Representative A,10,D,Loren Dale Kenyon,494
+Canyon,State Representative B,10,R,Darrell Bolz,3262
+Gem,State Senate,11,R,Mike Pullin,737
+Gem,State Senate,11,R,Brad Little,2298
+Canyon,State Senate,11,R,Mike Pullin,761
+Canyon,State Senate,11,R,Brad Little,1567
+Gem,State Representative A,11,R,Terry A. Jones,930
+Gem,State Representative A,11,R,Kathy Skippen,1013
+Gem,State Representative A,11,R,Jonna Weber,660
+Gem,State Representative A,11,R,"Louis E. ""Ed"" Falkenstien",410
+Canyon,State Representative A,11,R,Terry A. Jones,513
+Canyon,State Representative A,11,R,Kathy Skippen,503
+Canyon,State Representative A,11,R,Jonna Weber,790
+Canyon,State Representative A,11,R,"Louis E. ""Ed"" Falkenstien",556
+Gem,State Representative B,11,R,Roger L. Reynoldson,841
+Gem,State Representative B,11,R,Gary W. Bauer,1768
+Canyon,State Representative B,11,R,Roger L. Reynoldson,1141
+Canyon,State Representative B,11,R,Gary W. Bauer,1181
+Canyon,State Senate,12,L,Daniel L. Fackrell,30
+Canyon,State Senate,12,R,Curt McKenzie,1061
+Canyon,State Senate,12,R,Wanda A. Musgrave,818
+Canyon,State Senate,12,R,Garth Smith,735
+Canyon,State Senate,12,D,Karl Malott,563
+Canyon,State Representative A,12,R,Gregory D. Chaney,1118
+Canyon,State Representative A,12,R,Robert E Schaefer,1364
+Canyon,State Representative A,12,L,Jay Riddle,31
+Canyon,State Representative B,12,D,Donald McMurrian,168
+Canyon,State Representative B,12,R,Gary E. Collins,2279
+Canyon,State Representative B,12,D,Amanda Brown,407
+Canyon,State Senate,13,R,Wendall F Cass,1642
+Canyon,State Senate,13,R,Patti Anne Lodge,3057
+Canyon,State Senate,13,D,Corrine Tafoya Fisher,691
+Canyon,State Representative A,13,L,Ted Dunlap,19
+Canyon,State Representative A,13,R,Dolores J. Crow,2416
+Canyon,State Representative A,13,R,Scott B. McDonald,2376
+Canyon,State Representative A,13,D,Robbie Elwood Allen,676
+Canyon,State Representative B,13,R,"W.W. ""Bill"" Deal",3964
+Ada,State Senator,14,L,George D. Emerson,30
+Ada,State Senator,14,R,Rod Beck,2353
+Ada,State Senator,14,R,Hal Bunderson,2478
+Ada,State Senator,14,R,Daniel S. Weston,712
+Ada,State Senator,14,D,Denny Freeburn,925
+Ada,State Representative A,14,R,Mike Moyle,3094
+Ada,State Representative A,14,R,Dean Van Engelen,2268
+Ada,State Representative A,14,D,Claude Shubert,915
+Ada,State Representatiave B,14,L,Jon Busack,30
+Ada,State Representatiave B,14,R,Corey S. Christensen,1213
+Ada,State Representatiave B,14,R,Henry Kulczyk,1547
+Ada,State Representatiave B,14,R,Morgan Masner,881
+Ada,State Representatiave B,14,R,Kimm Rhoades,1323
+Ada,State Representatiave B,14,R,Stanley R. Swanson,529
+Ada,State Representatiave B,14,D,Sue Stadler,935
+Ada,State Senate,15,L,Bill E Anderson,36
+Ada,State Senate,15,R,John C Andreason,2654
+Ada,State Senate,15,R,Dennis Mansfield,1919
+Ada,State Senate,15,D,Jerry Peterson,1038
+Ada,State Representative A,15,L,Tami Anderson,33
+Ada,State Representative A,15,R,Tom LeClaire,1125
+Ada,State Representative A,15,R,Steve Smylie,3324
+Ada,State Representative A,15,D,Sue D. Sharp,1044
+Ada,State Representative B,15,L,Marvin Gardner,16
+Ada,State Representative B,15,L,"Randal ""Randy"" Williamson",12
+Ada,State Representative B,15,R,Max C. Black,2386
+Ada,State Representative B,15,R,Jack Friesz,2074
+Ada,State Representative B,15,D,Kathy Waddell,1044
+Ada,State Senate,16,L,Mark Shumaker,45
+Ada,State Senate,16,R,Cecil D. Ingram,3223
+Ada,State Senate,16,D,Gino White,1412
+Ada,State Representative A,16,L,John Bischoff,43
+Ada,State Representative A,16,R,Hank Harris,2917
+Ada,State Representative A,16,D,Margaret Henbest,1542
+Ada,State Representative B,16,L,Kathleen Shumaker,43
+Ada,State Representative B,16,R,"Horace B. ""Hod"" Pomeroy",3031
+Ada,State Representative B,16,D,David Langhorst,1394
+Ada,State Senator,17,L,David H. Slack,43
+Ada,State Senator,17,R,T. Allen Hoover,1143
+Ada,State Senator,17,R,Grant R. Ipsen,2217
+Ada,State Senator,17,D,Elliot Werk,1315
+Ada,State Representative A,17,L,David J. Sheehe,38
+Ada,State Representative A,17,R,Kathie Garrett,2745
+Ada,State Representative A,17,D,Bryan E. Goold,1296
+Ada,State Representative B,17,D,John Gannon,697
+Ada,State Representative B,17,R,Jesse S. Berain,1019
+Ada,State Representative B,17,R,Heather A. Cunningham,1041
+Ada,State Representative B,17,R,Janet J. Miller,1287
+Ada,State Representative B,17,D,Linda S. Emery,717
+Ada,State Senate,18,R,Sheila A. Sorensen,3317
+Ada,State Representative A,18,R,Debbie Field,3219
+Ada,State Representative A,18,L,David Zimlich,33
+Ada,State Representative B,18,R,Julie Ellsworth,2552
+Ada,State Representative B,18,R,Michael Law,470
+Ada,State Representative B,18,R,Cheryl A. Miller,878
+Ada,State Representative B,18,D,Phylis King,1442
+Ada,State Senate,19,D,Stuart,1907
+Ada,State Senate,19,R,Myrtle Mae Christensen,1285
+Ada,State Senate,19,R,Joan Cloonan,1871
+Ada,State Senate,19,D,Mike Burkett,2058
+Ada,State Representative A,19,L,Phyllis A. Schatz,14
+Ada,State Representative A,19,L,Brooke Wilmoth,17
+Ada,State Representative A,19,D,David H. Bieter,3541
+Ada,State Representative B,19,D,Ken Robison,3149
+Ada,State Representative B,19,L,Howard Olivier,44
+Ada,State Representative B,19,D,Gordon Conrad,516
+Ada,State Senate,20,L,David R. Falash,26
+Ada,State Senate,20,R,Bob Haley,1398
+Ada,State Senate,20,R,Darrel McRoberts,460
+Ada,State Senate,20,R,Gerry Sweet,2102
+Ada,State Senate,20,D,Sam C. McEvoy,727
+Ada,State Representative A,20,L,Wendy Lieberman,27
+Ada,State Representative A,20,R,Sean D. Moorhouse,1681
+Ada,State Representative A,20,R,Mark A. Snodgrass,2058
+Ada,State Representative A,20,D,Wayne Foster,718
+Ada,State Representative B,20,L,David Lieberman,26
+Ada,State Representative B,20,R,Shirley McKague,3237
+Ada,State Representative B,20,D,Chris Wallace,722
+Ada,State Senate,21,L,Valerie Crump,46
+Ada,State Senate,21,R,W. Greg Nelson,1548
+Ada,State Senate,21,R,Jack Noble,2840
+Ada,State Senate,21,R,David Owen,479
+Ada,State Senate,21,D,Eileen A. Thornburgh,928
+Ada,State Representative A,21,L,Judy J. Morris,42
+Ada,State Representative A,21,R,Stephen G. Bright,1999
+Ada,State Representative A,21,R,"William T. ""Bill"" Sali",2875
+Ada,State Representative A,21,D,Scott Erskine,896
+Ada,State Representative B,21,D,Joe Tawney,289
+Ada,State Representative B,21,L,Teddi Hyde,45
+Ada,State Representative B,21,R,Clifford R. Bayer,1905
+Ada,State Representative B,21,R,Fred Tilman,2853
+Ada,State Representative B,21,D,James D. (Jay) Gooden,595
+Elmore,State Senate,22,L,Mark Joseph Shuster,23
+Elmore,State Senate,22,R,Robbi Barrutia,778
+Elmore,State Senate,22,R,Sher Sellman,1303
+Elmore,State Senate,22,D,Fred Kennedy,575
+Boise,State Senate,22,L,Mark Joseph Shuster,12
+Boise,State Senate,22,R,Robbi Barrutia,409
+Boise,State Senate,22,R,Sher Sellman,484
+Boise,State Senate,22,D,Fred Kennedy,180
+Elmore,State Representative A,22,R,Craig McCurry,1652
+Boise,State Representative A,22,R,Craig McCurry,694
+Elmore,State Representative B,22,R,Peter Nielsen,1087
+Elmore,State Representative B,22,R,Bangeman,767
+Elmore,State Representative B,22,D,David Phillips,514
+Boise,State Representative B,22,R,Peter Nielsen,487
+Boise,State Representative B,22,R,Bangeman,278
+Boise,State Representative B,22,D,David Phillips,162
+Twin Falls,State Senate,23,L(wi),George Anthony,1
+Twin Falls,State Senate,23,R,Tom Gannon,1027
+Twin Falls,State Senate,23,R,Jim Patrick,1127
+Twin Falls,State Senate,23,R,Rex W. Reed,370
+Twin Falls,State Senate,23,D,William K. (Bill) Chisholm,340
+Owyhee,State Senate,23,L(wi),George Anthony,0
+Owyhee,State Senate,23,R,Tom Gannon,591
+Owyhee,State Senate,23,R,Jim Patrick,276
+Owyhee,State Senate,23,R,Rex W. Reed,185
+Owyhee,State Senate,23,D,William K. (Bill) Chisholm,126
+Twin Falls,State Representative A,23,R,Frances Field,1945
+Twin Falls,State Representative A,23,D,Mike Ihler,322
+Owyhee,State Representative A,23,R,Frances Field,1063
+Owyhee,State Representative A,23,D,Mike Ihler,116
+Twin Falls,State Representative B,23,R,Douglas R. Jones,1327
+Twin Falls,State Representative B,23,R,John L. Wiggins,1233
+Twin Falls,State Representative B,23,D,Grant R. Atkinson,309
+Owyhee,State Representative B,23,R,Douglas R. Jones,554
+Owyhee,State Representative B,23,R,John L. Wiggins,429
+Owyhee,State Representative B,23,D,Grant R. Atkinson,113
+Twin Falls,State Senate,24,R,Laird Noh,2858
+Twin Falls,State Senate,24,D(wi),Frank R. Mascari,19
+Twin Falls,State Representative A,24,R,Leon Smith,2780
+Twin Falls,State Representative B,24,R,Ron Black,982
+Twin Falls,State Representative B,24,R,Sharon Block,2209
+Twin Falls,State Representative B,24,D,Will Buhler,430
+Camas,State Senate,25,R,Tom Faulkner,120
+Camas,State Senate,25,D,Clint Stennett,24
+Gooding,State Senate,25,R,Tom Faulkner,1361
+Gooding,State Senate,25,D,Clint Stennett,292
+Lincoln,State Senate,25,R,Tom Faulkner,372
+Lincoln,State Senate,25,D,Clint Stennett,132
+Blaine,State Senate,25,R,Tom Faulkner,496
+Blaine,State Senate,25,D,Clint Stennett,956
+Camas,State Representative A,25,D,Wendy Jaquet,26
+Gooding,State Representative A,25,D,Wendy Jaquet,289
+Lincoln,State Representative A,25,D,Wendy Jaquet,98
+Blaine,State Representative A,25,D,Wendy Jaquet,952
+Camas,State Representative B,25,R,Tim Ridinger,142
+Camas,State Representative B,25,D,Donna Pence,21
+Gooding,State Representative B,25,R,Tim Ridinger,1411
+Gooding,State Representative B,25,D,Donna Pence,276
+Lincoln,State Representative B,25,R,Tim Ridinger,381
+Lincoln,State Representative B,25,D,Donna Pence,84
+Blaine,State Representative B,25,R,Tim Ridinger,514
+Blaine,State Representative B,25,D,Donna Pence,825
+Minidoka,State Senate,26,R,Dean L. Cameron,1831
+Minidoka,State Senate,26,D,Douglas S. Jones,225
+Jerome,State Senate,26,R,Dean L. Cameron,1143
+Jerome,State Senate,26,D,Douglas S. Jones,189
+Minidoka,State Representative A,26,R,"John A. ""Bert"" Stevenson",1872
+Jerome,State Representative A,26,R,"John A. ""Bert"" Stevenson",1084
+Minidoka,State Representative B,26,R,Maxine T. Bell,1853
+Jerome,State Representative B,26,R,Maxine T. Bell,1149
+Cassia,State Senate,27,R,Denton Darrington,2535
+Cassia,State Senate,27,R,Moon Wheeler,1055
+Cassia,State Senate,27,D,Ron Funk,159
+Oneida,State Senate,27,R,Denton Darrington,333
+Oneida,State Senate,27,R,Moon Wheeler,313
+Oneida,State Senate,27,D,Ron Funk,35
+Power,State Senate,27,R,Denton Darrington,191
+Power,State Senate,27,R,Moon Wheeler,545
+Power,State Senate,27,D,Ron Funk,179
+Bingham,State Senate,27,R,Denton Darrington,82
+Bingham,State Senate,27,R,Moon Wheeler,218
+Bingham,State Senate,27,D,Ron Funk,50
+Cassia,State Representative A,27,R,Scott C. Bedke,2823
+Cassia,State Representative A,27,R,Tim Willie,737
+Cassia,State Representative A,27,D,Dan Ralphs,149
+Oneida,State Representative A,27,R,Scott C. Bedke,326
+Oneida,State Representative A,27,R,Tim Willie,437
+Oneida,State Representative A,27,D,Dan Ralphs,33
+Power,State Representative A,27,R,Scott C. Bedke,458
+Power,State Representative A,27,R,Tim Willie,155
+Power,State Representative A,27,D,Dan Ralphs,171
+Bingham,State Representative A,27,R,Scott C. Bedke,197
+Bingham,State Representative A,27,R,Tim Willie,67
+Bingham,State Representative A,27,D,Dan Ralphs,49
+Cassia,State Representative B,27,R,Bruce Newcomb,3170
+Cassia,State Representative B,27,D,Charles Woodworth,149
+Oneida,State Representative B,27,R,Bruce Newcomb,546
+Oneida,State Representative B,27,D,Charles Woodworth,34
+Power,State Representative B,27,R,Bruce Newcomb,532
+Power,State Representative B,27,D,Charles Woodworth,171
+Bingham,State Representative B,27,R,Bruce Newcomb,255
+Bingham,State Representative B,27,D,Charles Woodworth,47
+Bingham,State Senate,28,R,J. Stanley Williams,4955
+Bingham,State Senate,28,D,Farrell D. Cammack,579
+Bingham,State Representative A,28,R,Dennis M Lake,4586
+Bingham,State Representative A,28,D,Beverly Stecklein Beach,569
+Bingham,State Representative B,28,R,Joseph S. Cannon,2899
+Bingham,State Representative B,28,R,Becky Lim,1614
+Bingham,State Representative B,28,R,Ronald P. Reese,1037
+Bingham,State Representative B,28,D,Delbert Farmer,562
+Bannock,State Senate,29,R,Kent S. Kunz,2895
+Bannock,State Senate,29,D,Bert Marley,1819
+Bannock,State Representative A,29,R,Tari L. Jensen,2747
+Bannock,State Representative A,29,D,Allen R. Andersen,1723
+Bannock,State Representative B,29,R,Tony R. Hancock,913
+Bannock,State Representative B,29,R,Sherril Tillotson,1037
+Bannock,State Representative B,29,R,Vern Tilton,1123
+Bannock,State Representative B,29,D,Elmer Martinez,1754
+Bannock,State Senate,30,R,Dan R Rainey,1934
+Bannock,State Senate,30,D,Edgar J. Malepeai,2131
+Bannock,State Representative A,30,R,Leslie Streeper Romriell,1958
+Bannock,State Representative A,30,D,Donna Boe,2188
+Bannock,State Representative B,30,R,Farhana Hibbert,1843
+Bannock,State Representative B,30,D,Elaine Smith,2078
+Bonneville,State Senate,31,R,Robert L. Geddes,895
+Bonneville,State Senate,31,D,Galen Woelk,92
+Caribou,State Senate,31,R,Robert L. Geddes,862
+Caribou,State Senate,31,D,Galen Woelk,88
+Franklin,State Senate,31,R,Robert L. Geddes,2147
+Franklin,State Senate,31,D,Galen Woelk,79
+Teton,State Senate,31,R,Robert L. Geddes,746
+Teton,State Senate,31,D,Galen Woelk,205
+Bear Lake,State Senate,31,R,Robert L. Geddes,1355
+Bear Lake,State Senate,31,D,Galen Woelk,145
+Bonneville,State Representative A,31,R,Larry Bradford,215
+Bonneville,State Representative A,31,R,Tom Loertscher,817
+Bonneville,State Representative A,31,D,R. Kirk Olsen,92
+Caribou,State Representative A,31,R,Larry Bradford,466
+Caribou,State Representative A,31,R,Tom Loertscher,384
+Caribou,State Representative A,31,D,R. Kirk Olsen,92
+Franklin,State Representative A,31,R,Larry Bradford,1681
+Franklin,State Representative A,31,R,Tom Loertscher,750
+Franklin,State Representative A,31,D,R. Kirk Olsen,77
+Teton,State Representative A,31,R,Larry Bradford,408
+Teton,State Representative A,31,R,Tom Loertscher,447
+Teton,State Representative A,31,D,R. Kirk Olsen,196
+Bear Lake,State Representative A,31,R,Larry Bradford,600
+Bear Lake,State Representative A,31,R,Tom Loertscher,836
+Bear Lake,State Representative A,31,D,R. Kirk Olsen,131
+Bonneville,State Representative B,31,R,Clifton D Davis,277
+Bonneville,State Representative B,31,R,Eulalie Teichert Langford,147
+Bonneville,State Representative B,31,R,Cameron Wheeler,578
+Bonneville,State Representative B,31,D,Marden K. Phelps,92
+Caribou,State Representative B,31,R,Clifton D Davis,107
+Caribou,State Representative B,31,R,Eulalie Teichert Langford,412
+Caribou,State Representative B,31,R,Cameron Wheeler,384
+Caribou,State Representative B,31,D,Marden K. Phelps,92
+Franklin,State Representative B,31,R,Clifton D Davis,402
+Franklin,State Representative B,31,R,Eulalie Teichert Langford,898
+Franklin,State Representative B,31,R,Cameron Wheeler,965
+Franklin,State Representative B,31,D,Marden K. Phelps,75
+Teton,State Representative B,31,R,Clifton D Davis,593
+Teton,State Representative B,31,R,Eulalie Teichert Langford,89
+Teton,State Representative B,31,R,Cameron Wheeler,342
+Teton,State Representative B,31,D,Marden K. Phelps,178
+Bear Lake,State Representative B,31,R,Clifton D Davis,192
+Bear Lake,State Representative B,31,R,Eulalie Teichert Langford,1048
+Bear Lake,State Representative B,31,R,Cameron Wheeler,290
+Bear Lake,State Representative B,31,D,Marden K. Phelps,149
+Bonneville,State Senate,32,R,"Melvin ""Mel"" Richardson",2816
+Bonneville,State Senate,32,R,Willis H Welker,1098
+Bonneville,State Senate,32,D,Tom Holm,564
+Bonneville,State Representative A,32,R,Janice McGeachin,3355
+Bonneville,State Representative B,32,R,Jonathan H. Haines,1445
+Bonneville,State Representative B,32,R,Ann Rydalch,2360
+Bonneville,State Representative B,32,D,Jan Brown,566
+Bonneville,State Senate,33,R,Bart M. Davis,3140
+Bonneville,State Senate,33,D,Elenore L. (Ellie) Hampton,841
+Bonneville,State Representative A,33,R,Jack T. Barraclough,2155
+Bonneville,State Representative A,33,R,Kent A. Higgins,1450
+Bonneville,State Representative A,33,D,Parrish L Worrell,827
+Bonneville,State Representative B,33,R,Lee Gagner,1835
+Bonneville,State Representative B,33,R,Russ Mathews,1774
+Bonneville,State Representative B,33,D,Maureen McFadden,855
+Madison,State Senate,34,R,Brent Hill,3273
+Fremont,State Senate,34,R,Brent Hill,1715
+Madison,State Representative A,34,R,Max C. Mortensen,236
+Madison,State Representative A,34,R,Rex Rammell,583
+Madison,State Representative A,34,R,Diana S. Richman,626
+Madison,State Representative A,34,R,Mack G. Shirley,1837
+Madison,State Representative A,34,R,S. Lynn Loosli,374
+Fremont,State Representative A,34,R,Max C. Mortensen,323
+Fremont,State Representative A,34,R,Rex Rammell,252
+Fremont,State Representative A,34,R,Diana S. Richman,507
+Fremont,State Representative A,34,R,Mack G. Shirley,373
+Fremont,State Representative A,34,R,S. Lynn Loosli,590
+Madison,State Representative B,34,R,Dell Raybould,3164
+Fremont,State Representative B,34,R,Dell Raybould,1649
+Clark,State. Senate,35,R,Don M. Burtenshaw,264
+Clark,State. Senate,35,R,Richard A. Ward,39
+Clark,State. Senate,35,D,Jerry L. Browne,2
+Custer,State. Senate,35,R,Don M. Burtenshaw,710
+Custer,State. Senate,35,R,Richard A. Ward,285
+Custer,State. Senate,35,D,Jerry L. Browne,46
+Fremont,State. Senate,35,R,Don M. Burtenshaw,84
+Fremont,State. Senate,35,R,Richard A. Ward,39
+Fremont,State. Senate,35,D,Jerry L. Browne,11
+Jefferson,State. Senate,35,R,Don M. Burtenshaw,2168
+Jefferson,State. Senate,35,R,Richard A. Ward,706
+Jefferson,State. Senate,35,D,Jerry L. Browne,186
+Lemhi,State. Senate,35,R,Don M. Burtenshaw,1156
+Lemhi,State. Senate,35,R,Richard A. Ward,427
+Lemhi,State. Senate,35,D,Jerry L. Browne,60
+Butte,State. Senate,35,R,Don M. Burtenshaw,492
+Butte,State. Senate,35,R,Richard A. Ward,164
+Butte,State. Senate,35,D,Jerry L. Browne,47
+Clark,State Representative A,35,R,Jacques Marcotte,61
+Clark,State Representative A,35,R,JoAn E. Wood,242
+Clark,State Representative A,35,D,Lenard J Van Eps,2
+Custer,State Representative A,35,R,Jacques Marcotte,340
+Custer,State Representative A,35,R,JoAn E. Wood,684
+Custer,State Representative A,35,D,Lenard J Van Eps,46
+Fremont,State Representative A,35,R,Jacques Marcotte,29
+Fremont,State Representative A,35,R,JoAn E. Wood,95
+Fremont,State Representative A,35,D,Lenard J Van Eps,11
+Jefferson,State Representative A,35,R,Jacques Marcotte,737
+Jefferson,State Representative A,35,R,JoAn E. Wood,2137
+Jefferson,State Representative A,35,D,Lenard J Van Eps,181
+Lemhi,State Representative A,35,R,Jacques Marcotte,370
+Lemhi,State Representative A,35,R,JoAn E. Wood,1232
+Lemhi,State Representative A,35,D,Lenard J Van Eps,57
+Butte,State Representative A,35,R,Jacques Marcotte,269
+Butte,State Representative A,35,R,JoAn E. Wood,444
+Butte,State Representative A,35,D,Lenard J Van Eps,40
+Clark,State Representative B,35,R,Lenore Hardy Barrett,196
+Clark,State Representative B,35,R,Janet Arave Aikele,101
+Custer,State Representative B,35,R,Lenore Hardy Barrett,567
+Custer,State Representative B,35,R,Janet Arave Aikele,540
+Fremont,State Representative B,35,R,Lenore Hardy Barrett,60
+Fremont,State Representative B,35,R,Janet Arave Aikele,58
+Jefferson,State Representative B,35,R,Lenore Hardy Barrett,1683
+Jefferson,State Representative B,35,R,Janet Arave Aikele,1170
+Lemhi,State Representative B,35,R,Lenore Hardy Barrett,990
+Lemhi,State Representative B,35,R,Janet Arave Aikele,658
+Butte,State Representative B,35,R,Lenore Hardy Barrett,259
+Butte,State Representative B,35,R,Janet Arave Aikele,480

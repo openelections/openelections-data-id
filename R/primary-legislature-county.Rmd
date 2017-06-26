@@ -1,0 +1,162 @@
+---
+title: Parse the primary, legislature elections at county level
+author: Duncan Garmonsway
+output: html_document
+---
+
+First, run `/R/download.R` to download the source files.
+
+```{r, echo = TRUE}
+library(tidyverse)
+library(stringr)
+library(stringi)
+library(tidyxl)
+library(unpivotr)
+library(here)
+
+sources_path <- here("sources")
+output_path <- here("output")
+xlsx_dir <- here("xlsx")
+csv_dir <- here("csv")
+idaho_home <- "http://www.sos.idaho.gov/ELECT/results/"
+idaho_url <- paste0(idaho_home, "index.html")
+url_table_path <- file.path(sources_path, "url-table.html")
+working_dir <- here("working")
+files_path <- file.path(working_dir, "files.csv")
+county_files_path <- file.path(working_dir, "county_files.csv")
+```
+
+The various kinds of files to work with.  This script handles statewide,
+primary, county.  The numbers are the number of files of the given kind.
+
+```{r, echo = TRUE}
+files <- read_csv(files_path)
+files %>%
+  select(scope, election, geography) %>%
+  ftable(row.vars = 1:2, col.vars = 3)
+```
+
+A function to import the data from a single table on a single sheet, where each
+office is treated as a different table.
+
+```{r, echo = TRUE}
+office_votes <- function(office, district, counties, cells) {
+  cat("office: ", office$office, "\n")
+  candidates <-
+    office %>%
+    offset_S(cells, 1) %>%
+    extend_S(cells, boundary = ~ is.na(character)) %>%
+    mutate(candidate = str_trim(character)) %>%
+    select(row, col, candidate)
+  votes <-
+    cells %>%
+    semi_join(candidates, by = "row") %>%
+    semi_join(counties, by = "col") %>%
+    filter(!is.na(numeric)) %>%
+    mutate(votes = numeric) %>%
+    select(row, col, votes)
+  votes %>%
+    NNW(district) %>%
+    NNW(office) %>%
+    W(candidates) %>%
+    N(counties) %>%
+    select(county, office, district, candidate, votes)
+}
+```
+
+A function to import the data for all offices from a single district on a single
+sheet.
+
+```{r, echo = TRUE}
+district_votes <- function(district, cells) {
+  cat("district: ", district$district, "\n")
+  offices <-
+    district %>%
+    offset_S(cells, 1) %>%
+    extend_S(cells,
+             boundary = ~ ifelse(row > max(cells$row),
+                                 TRUE,
+                                 str_detect(tolower(str_trim(character)),
+                                            "^leg district [0-9]+$"))) %>%
+    filter(str_detect(tolower(str_trim(character)), "^state")) %>%
+    mutate(office = str_trim(character)) %>%
+    select(row, col, office) %>%
+    split(.$row)
+  counties <-
+    district %>%
+    offset_E(cells, 1) %>%
+    extend_E(cells, boundary = ~ is.na(character)) %>%
+    mutate(county = str_trim(character)) %>%
+    select(row, col, county)
+  map_df(offices,
+          office_votes,
+          district,
+          counties,
+          cells)
+}
+```
+
+A function to import the data for all districts on a single sheet.
+
+```{r, echo = TRUE}
+sheet_votes <- function(name, cells) {
+  cat("sheet: ", name, "\n")
+  districts <-
+    cells %>%
+    filter(col == 1, str_detect(tolower(str_trim(character)),
+                                "^leg district [0-9]+$")) %>%
+    mutate(district = parse_number(character)) %>%
+    select(row, col, district) %>%
+    split(.$row)
+  map_df(districts,
+         district_votes,
+         cells)
+}
+```
+
+A function to import the data for all sheets in a file.
+
+```{r, echo = TRUE}
+book_votes <- function(path) {
+  cat("book: ", path, "\n")
+  book <- tidy_xlsx(path)
+  sheets <- book$data
+  map2_df(names(sheets), sheets, sheet_votes)
+}
+```
+
+Apply the above functions to every legislature , primary, county file.
+
+```{r, echo = TRUE}
+votes <-
+  files %>%
+  filter(scope %in% c("legislature", "state legislature"),
+         election == "primary",
+         geography == "county") %>%
+  pull(xlsx_path) %>%
+  set_names(.) %>%
+  map_df(book_votes, .id = "book") %>%
+  mutate(party = str_extract(candidate, "[^-]+(?=-)"),
+         candidate = str_replace(candidate, ".+-", "")) %>%
+  select(county, office, district, party, candidate, votes)
+```
+
+Check the data quality by listing unique values in each field. Not perfect, and
+beyond my expertise to map these values to standard, correct ones.
+
+```{r, echo = TRUE}
+votes %>%
+  select(-votes) %>%
+  map(~ .x %>%
+      str_replace("\\n", " ") %>%
+      str_trim() %>%
+      unique() %>%
+      sort())
+```
+
+Write to output file.
+
+```{r, echo = TRUE}
+votes %>%
+  write_csv(file.path(output_path, "yyyymmdd__id__primary__county__legislature.csv"))
+```
