@@ -1,0 +1,214 @@
+---
+title: Parse the primary, statewide elections at county level
+author: Duncan Garmonsway
+output: html_document
+---
+
+First, run /R/download.R to download the source files.
+
+```{r, echo = TRUE}
+library(tidyverse)
+library(stringr)
+library(stringi)
+library(tidyxl)
+library(unpivotr)
+library(here)
+
+sources_path <- here("sources")
+output_path <- here("output")
+xlsx_dir <- here("xlsx")
+csv_dir <- here("csv")
+idaho_home <- "http://www.sos.idaho.gov/ELECT/results/"
+idaho_url <- paste0(idaho_home, "index.html")
+url_table_path <- file.path(sources_path, "url-table.html")
+working_dir <- here("working")
+files_path <- file.path(working_dir, "files.csv")
+county_files_path <- file.path(working_dir, "county_files.csv")
+```
+
+The various kinds of files to work with.  This script handles statewide,
+primary, county.  The numbers are the number of files of the given kind.
+
+```{r, echo = TRUE}
+files <- read_csv(files_path)
+files %>%
+  select(scope, election, geography) %>%
+  ftable(row.vars = 1:2, col.vars = 3)
+```
+
+Functions to pull the district number from strings like:
+
+* "REPRESENTATIVE DISTRICT 1"
+* "Representative District 2"
+* "1st DISTRICT REPRESENTATIVE"
+* "2nd District Representative"
+
+```{r, echo = TRUE}
+get_district <- function(x) {
+  map_dbl(x,
+          function(y) {
+            if (str_detect(y, "[0-9]")) {
+              y %>%
+                str_replace_all("\\.", "") %>%
+                parse_number()
+            } else {
+              NA
+            }
+          })
+}
+forget_district <- function(x) {
+  str_replace_all(x, " [0-9]+.*$", "")
+}
+```
+
+A function to import the data from a single table on a single sheet (98prcnty.xlsx
+has two tables on the same sheet)
+
+```{r, echo = TRUE}
+table_votes <- function(corner, cells, bold, top_border) {
+  county <-
+    corner %>%
+    offset_S(cells, 1) %>%
+    extend_S(cells, boundary = ~ str_detect(character, "TOTAL")) %>%
+    filter(!is.na(character)) %>%
+    mutate(county = str_trim(character)) %>%
+    select(row, col, county)
+
+  party <-
+    cells %>%
+    filter(row == corner$row - 1,
+           col != 1,
+           local_format_id %in% unlist(top_border),
+           !is.na(character)) %>%
+    mutate(party = str_trim(character)) %>%
+    select(row, col, party)
+
+  if (nrow(party) == 0) party <- data_frame(row = 1, col = 1, party = NA)
+
+  candidate <-
+    cells %>%
+    filter(row == corner$row, col != 1,
+           !is.na(character)) %>%
+    mutate(candidate = str_trim(character)) %>%
+    select(row, col, candidate)
+
+  office <-
+    cells %>%
+    filter(row < corner$row,
+           row > corner$row - 5,
+           col != 1,
+           local_format_id %in% unlist(bold),
+           !is.na(character)) %>%
+    mutate(office = str_trim(character)) %>%
+    select(row, col, office) %>%
+    group_by(col) %>%
+    arrange(col, row) %>%
+    summarise(office = paste(office, collapse = " ")) %>%
+    mutate(district = get_district(office),
+           office = forget_district(office)) %>%
+    mutate(row = 1L) %>%
+    select(row, col, office, district)
+
+  statistics_col <-
+    office %>%
+    filter(str_detect(office, "STATISTIC")) %>%
+    pull(col) %>%
+    min(Inf)
+
+  votes <-
+    cells %>%
+    semi_join(county, by = "row") %>%
+    semi_join(candidate, by = "col") %>%
+    filter(col < statistics_col,
+           !is.na(content)) %>%
+    mutate(votes = parse_number(content)) %>%
+    select(row, col, votes)
+
+  votes %>%
+    W(county) %>%
+    NNW(office) %>%
+    NNW(party) %>%
+    N(candidate) %>%
+    select(county, office, district, party, candidate, votes)
+}
+```
+
+A function to iterate over many tables on a single sheet (98prcnty.xlsx has two
+tables on the same sheet)
+
+```{r, echo = TRUE}
+sheet_votes <- function(cells, name, bold, top_border) {
+  if (name %in% c("sheet1")) {
+    # There's one of these in 04_pri_cnty.xlsx, and it can be skipped because it
+    # is simply 'working' for the actual data in the previous sheet.
+    cat("  skipping sheet: ", name, "\n")
+    return(data_frame(county = character(),
+                      office = character(),
+                      district = character(),
+                      party = character(),
+                      candidate = character(),
+                      votes = numeric()))
+  }
+  cat("  sheet: ", name, "\n")
+
+  # The cell with the string 'counties' is reliably the top-left corner cell of
+  # a table.
+  counties <-
+    cells %>%
+    filter(col == 1,
+           str_trim(tolower(character)) == "counties") %>%
+    split(.$address)
+
+  map_df(counties, table_votes, cells, bold, top_border)
+}
+```
+
+A function to iterate over all the sheets in a workbook.
+
+```{r, echo = TRUE}
+book_votes <- function(x) {
+  cat("book: ", x, "\n")
+  x <- tidy_xlsx(x)
+  top_border <- list(which(!is.na(x$formats$local$border$top$style)))
+  bold <- list(which(x$formats$local$font$bold))
+  pmap_df(list(x$data,
+               str_trim(tolower(names(x$data))),
+               bold,
+               top_border),
+          sheet_votes, .id = "sheet")
+}
+```
+
+Apply the above functions to every statewide, primary, county file.
+
+```{r, echo = TRUE}
+votes <-
+  files %>%
+  filter(scope == "statewide",
+         election == "primary",
+         geography == "county") %>%
+  pull(xlsx_path) %>%
+  set_names(.) %>%
+  map_df(book_votes, .id = "book")
+```
+
+Check the data quality by listing unique values in each field. Not perfect, and
+beyond my expertise to map these values to standard, correct ones.
+
+```{r, echo = TRUE}
+votes %>%
+  select(-votes) %>%
+  map(~ .x %>%
+      str_replace("\\n", " ") %>%
+      str_trim() %>%
+      unique() %>%
+      sort())
+```
+
+Write to output file.
+
+```{r, echo = TRUE}
+votes %>%
+  write_csv(file.path(output_path,
+                      "yyyymmdd__id__primary__county__statewide.csv"))
+```
