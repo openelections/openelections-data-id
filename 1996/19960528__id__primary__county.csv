@@ -1,0 +1,909 @@
+county,office,district,party,candidate,votes
+Ada,United States President,NA,Republican,Pat Buchanan,4223
+Adams,United States President,NA,Republican,Pat Buchanan,359
+Bannock,United States President,NA,Republican,Pat Buchanan,798
+Bear Lake,United States President,NA,Republican,Pat Buchanan,385
+Benewah,United States President,NA,Republican,Pat Buchanan,177
+Bingham,United States President,NA,Republican,Pat Buchanan,1540
+Blaine,United States President,NA,Republican,Pat Buchanan,162
+Boise,United States President,NA,Republican,Pat Buchanan,320
+Bonner,United States President,NA,Republican,Pat Buchanan,747
+Bonneville,United States President,NA,Republican,Pat Buchanan,2354
+Boundary,United States President,NA,Republican,Pat Buchanan,208
+Butte,United States President,NA,Republican,Pat Buchanan,197
+Camas,United States President,NA,Republican,Pat Buchanan,131
+Canyon,United States President,NA,Republican,Pat Buchanan,2147
+Caribou,United States President,NA,Republican,Pat Buchanan,135
+Cassia,United States President,NA,Republican,Pat Buchanan,655
+Clark,United States President,NA,Republican,Pat Buchanan,68
+Clearwater,United States President,NA,Republican,Pat Buchanan,161
+Custer,United States President,NA,Republican,Pat Buchanan,271
+Elmore,United States President,NA,Republican,Pat Buchanan,389
+Franklin,United States President,NA,Republican,Pat Buchanan,102
+Fremont,United States President,NA,Republican,Pat Buchanan,521
+Gem,United States President,NA,Republican,Pat Buchanan,593
+Gooding,United States President,NA,Republican,Pat Buchanan,773
+Idaho,United States President,NA,Republican,Pat Buchanan,666
+Jefferson,United States President,NA,Republican,Pat Buchanan,552
+Jerome,United States President,NA,Republican,Pat Buchanan,774
+Kootenai,United States President,NA,Republican,Pat Buchanan,1315
+Latah,United States President,NA,Republican,Pat Buchanan,373
+Lemhi,United States President,NA,Republican,Pat Buchanan,333
+Lewis,United States President,NA,Republican,Pat Buchanan,62
+Lincoln,United States President,NA,Republican,Pat Buchanan,209
+Madison,United States President,NA,Republican,Pat Buchanan,793
+Minidoka,United States President,NA,Republican,Pat Buchanan,588
+Nez Perce,United States President,NA,Republican,Pat Buchanan,310
+Oneida,United States President,NA,Republican,Pat Buchanan,44
+Owyhee,United States President,NA,Republican,Pat Buchanan,457
+Payette,United States President,NA,Republican,Pat Buchanan,299
+Power,United States President,NA,Republican,Pat Buchanan,131
+Shoshone,United States President,NA,Republican,Pat Buchanan,87
+Teton,United States President,NA,Republican,Pat Buchanan,171
+Twin Falls,United States President,NA,Republican,Pat Buchanan,1122
+Valley,United States President,NA,Republican,Pat Buchanan,403
+Washington,United States President,NA,Republican,Pat Buchanan,356
+Ada,United States President,NA,NA,Bob Dole,14816
+Adams,United States President,NA,NA,Bob Dole,639
+Bannock,United States President,NA,NA,Bob Dole,2114
+Bear Lake,United States President,NA,NA,Bob Dole,1235
+Benewah,United States President,NA,NA,Bob Dole,444
+Bingham,United States President,NA,NA,Bob Dole,3823
+Blaine,United States President,NA,NA,Bob Dole,1076
+Boise,United States President,NA,NA,Bob Dole,738
+Bonner,United States President,NA,NA,Bob Dole,2629
+Bonneville,United States President,NA,NA,Bob Dole,6377
+Boundary,United States President,NA,NA,Bob Dole,671
+Butte,United States President,NA,NA,Bob Dole,423
+Camas,United States President,NA,NA,Bob Dole,222
+Canyon,United States President,NA,NA,Bob Dole,5465
+Caribou,United States President,NA,NA,Bob Dole,452
+Cassia,United States President,NA,NA,Bob Dole,1900
+Clark,United States President,NA,NA,Bob Dole,156
+Clearwater,United States President,NA,NA,Bob Dole,363
+Custer,United States President,NA,NA,Bob Dole,754
+Elmore,United States President,NA,NA,Bob Dole,1087
+Franklin,United States President,NA,NA,Bob Dole,393
+Fremont,United States President,NA,NA,Bob Dole,1306
+Gem,United States President,NA,NA,Bob Dole,1308
+Gooding,United States President,NA,NA,Bob Dole,1262
+Idaho,United States President,NA,NA,Bob Dole,1475
+Jefferson,United States President,NA,NA,Bob Dole,1262
+Jerome,United States President,NA,NA,Bob Dole,1488
+Kootenai,United States President,NA,NA,Bob Dole,4470
+Latah,United States President,NA,NA,Bob Dole,1664
+Lemhi,United States President,NA,NA,Bob Dole,1053
+Lewis,United States President,NA,NA,Bob Dole,192
+Lincoln,United States President,NA,NA,Bob Dole,344
+Madison,United States President,NA,NA,Bob Dole,2291
+Minidoka,United States President,NA,NA,Bob Dole,1505
+Nez Perce,United States President,NA,NA,Bob Dole,1481
+Oneida,United States President,NA,NA,Bob Dole,187
+Owyhee,United States President,NA,NA,Bob Dole,1059
+Payette,United States President,NA,NA,Bob Dole,763
+Power,United States President,NA,NA,Bob Dole,323
+Shoshone,United States President,NA,NA,Bob Dole,228
+Teton,United States President,NA,NA,Bob Dole,485
+Twin Falls,United States President,NA,NA,Bob Dole,1879
+Valley,United States President,NA,NA,Bob Dole,1282
+Washington,United States President,NA,NA,Bob Dole,927
+Ada,United States President,NA,Democrat,Bill Clinton,7408
+Adams,United States President,NA,Democrat,Bill Clinton,101
+Bannock,United States President,NA,Democrat,Bill Clinton,3340
+Bear Lake,United States President,NA,Democrat,Bill Clinton,231
+Benewah,United States President,NA,Democrat,Bill Clinton,617
+Bingham,United States President,NA,Democrat,Bill Clinton,701
+Blaine,United States President,NA,Democrat,Bill Clinton,1937
+Boise,United States President,NA,Democrat,Bill Clinton,132
+Bonner,United States President,NA,Democrat,Bill Clinton,1657
+Bonneville,United States President,NA,Democrat,Bill Clinton,1100
+Boundary,United States President,NA,Democrat,Bill Clinton,295
+Butte,United States President,NA,Democrat,Bill Clinton,99
+Camas,United States President,NA,Democrat,Bill Clinton,10
+Canyon,United States President,NA,Democrat,Bill Clinton,1454
+Caribou,United States President,NA,Democrat,Bill Clinton,188
+Cassia,United States President,NA,Democrat,Bill Clinton,198
+Clark,United States President,NA,Democrat,Bill Clinton,23
+Clearwater,United States President,NA,Democrat,Bill Clinton,661
+Custer,United States President,NA,Democrat,Bill Clinton,90
+Elmore,United States President,NA,Democrat,Bill Clinton,619
+Franklin,United States President,NA,Democrat,Bill Clinton,96
+Fremont,United States President,NA,Democrat,Bill Clinton,293
+Gem,United States President,NA,Democrat,Bill Clinton,299
+Gooding,United States President,NA,Democrat,Bill Clinton,197
+Idaho,United States President,NA,Democrat,Bill Clinton,930
+Jefferson,United States President,NA,Democrat,Bill Clinton,159
+Jerome,United States President,NA,Democrat,Bill Clinton,140
+Kootenai,United States President,NA,Democrat,Bill Clinton,1777
+Latah,United States President,NA,Democrat,Bill Clinton,1613
+Lemhi,United States President,NA,Democrat,Bill Clinton,247
+Lewis,United States President,NA,Democrat,Bill Clinton,304
+Lincoln,United States President,NA,Democrat,Bill Clinton,150
+Madison,United States President,NA,Democrat,Bill Clinton,119
+Minidoka,United States President,NA,Democrat,Bill Clinton,240
+Nez Perce,United States President,NA,Democrat,Bill Clinton,2882
+Oneida,United States President,NA,Democrat,Bill Clinton,84
+Owyhee,United States President,NA,Democrat,Bill Clinton,148
+Payette,United States President,NA,Democrat,Bill Clinton,422
+Power,United States President,NA,Democrat,Bill Clinton,276
+Shoshone,United States President,NA,Democrat,Bill Clinton,2392
+Teton,United States President,NA,Democrat,Bill Clinton,355
+Twin Falls,United States President,NA,Democrat,Bill Clinton,753
+Valley,United States President,NA,Democrat,Bill Clinton,131
+Washington,United States President,NA,Democrat,Bill Clinton,409
+Ada,United States Senate,NA,Rep.,Larry Craig,19732
+Adams,United States Senate,NA,Rep.,Larry Craig,1154
+Bannock,United States Senate,NA,Rep.,Larry Craig,2927
+Bear Lake,United States Senate,NA,Rep.,Larry Craig,1839
+Benewah,United States Senate,NA,Rep.,Larry Craig,688
+Bingham,United States Senate,NA,Rep.,Larry Craig,5903
+Blaine,United States Senate,NA,Rep.,Larry Craig,1257
+Boise,United States Senate,NA,Rep.,Larry Craig,1141
+Bonner,United States Senate,NA,Rep.,Larry Craig,3758
+Bonneville,United States Senate,NA,Rep.,Larry Craig,9033
+Boundary,United States Senate,NA,Rep.,Larry Craig,968
+Butte,United States Senate,NA,Rep.,Larry Craig,657
+Camas,United States Senate,NA,Rep.,Larry Craig,396
+Canyon,United States Senate,NA,Rep.,Larry Craig,8113
+Caribou,United States Senate,NA,Rep.,Larry Craig,606
+Cassia,United States Senate,NA,Rep.,Larry Craig,2830
+Clark,United States Senate,NA,Rep.,Larry Craig,244
+Clearwater,United States Senate,NA,Rep.,Larry Craig,572
+Custer,United States Senate,NA,Rep.,Larry Craig,1147
+Elmore,United States Senate,NA,Rep.,Larry Craig,1565
+Franklin,United States Senate,NA,Rep.,Larry Craig,537
+Fremont,United States Senate,NA,Rep.,Larry Craig,1911
+Gem,United States Senate,NA,Rep.,Larry Craig,2027
+Gooding,United States Senate,NA,Rep.,Larry Craig,2119
+Idaho,United States Senate,NA,Rep.,Larry Craig,2296
+Jefferson,United States Senate,NA,Rep.,Larry Craig,1908
+Jerome,United States Senate,NA,Rep.,Larry Craig,2347
+Kootenai,United States Senate,NA,Rep.,Larry Craig,6240
+Latah,United States Senate,NA,Rep.,Larry Craig,2433
+Lemhi,United States Senate,NA,Rep.,Larry Craig,1497
+Lewis,United States Senate,NA,Rep.,Larry Craig,261
+Lincoln,United States Senate,NA,Rep.,Larry Craig,563
+Madison,United States Senate,NA,Rep.,Larry Craig,3207
+Minidoka,United States Senate,NA,Rep.,Larry Craig,2321
+Nez Perce,United States Senate,NA,Rep.,Larry Craig,1996
+Oneida,United States Senate,NA,Rep.,Larry Craig,252
+Owyhee,United States Senate,NA,Rep.,Larry Craig,1631
+Payette,United States Senate,NA,Rep.,Larry Craig,1107
+Power,United States Senate,NA,Rep.,Larry Craig,467
+Shoshone,United States Senate,NA,Rep.,Larry Craig,359
+Teton,United States Senate,NA,Rep.,Larry Craig,668
+Twin Falls,United States Senate,NA,Rep.,Larry Craig,2896
+Valley,United States Senate,NA,Rep.,Larry Craig,1900
+Washington,United States Senate,NA,Rep.,Larry Craig,1344
+Ada,United States Senate,NA,Dem.,Walt Minnick,7495
+Adams,United States Senate,NA,Dem.,Walt Minnick,84
+Bannock,United States Senate,NA,Dem.,Walt Minnick,3497
+Bear Lake,United States Senate,NA,Dem.,Walt Minnick,199
+Benewah,United States Senate,NA,Dem.,Walt Minnick,589
+Bingham,United States Senate,NA,Dem.,Walt Minnick,703
+Blaine,United States Senate,NA,Dem.,Walt Minnick,1899
+Boise,United States Senate,NA,Dem.,Walt Minnick,128
+Bonner,United States Senate,NA,Dem.,Walt Minnick,1470
+Bonneville,United States Senate,NA,Dem.,Walt Minnick,1107
+Boundary,United States Senate,NA,Dem.,Walt Minnick,236
+Butte,United States Senate,NA,Dem.,Walt Minnick,90
+Camas,United States Senate,NA,Dem.,Walt Minnick,9
+Canyon,United States Senate,NA,Dem.,Walt Minnick,1458
+Caribou,United States Senate,NA,Dem.,Walt Minnick,166
+Cassia,United States Senate,NA,Dem.,Walt Minnick,198
+Clark,United States Senate,NA,Dem.,Walt Minnick,19
+Clearwater,United States Senate,NA,Dem.,Walt Minnick,667
+Custer,United States Senate,NA,Dem.,Walt Minnick,79
+Elmore,United States Senate,NA,Dem.,Walt Minnick,586
+Franklin,United States Senate,NA,Dem.,Walt Minnick,91
+Fremont,United States Senate,NA,Dem.,Walt Minnick,327
+Gem,United States Senate,NA,Dem.,Walt Minnick,295
+Gooding,United States Senate,NA,Dem.,Walt Minnick,187
+Idaho,United States Senate,NA,Dem.,Walt Minnick,900
+Jefferson,United States Senate,NA,Dem.,Walt Minnick,161
+Jerome,United States Senate,NA,Dem.,Walt Minnick,126
+Kootenai,United States Senate,NA,Dem.,Walt Minnick,1640
+Latah,United States Senate,NA,Dem.,Walt Minnick,1495
+Lemhi,United States Senate,NA,Dem.,Walt Minnick,207
+Lewis,United States Senate,NA,Dem.,Walt Minnick,295
+Lincoln,United States Senate,NA,Dem.,Walt Minnick,147
+Madison,United States Senate,NA,Dem.,Walt Minnick,114
+Minidoka,United States Senate,NA,Dem.,Walt Minnick,217
+Nez Perce,United States Senate,NA,Dem.,Walt Minnick,2867
+Oneida,United States Senate,NA,Dem.,Walt Minnick,75
+Owyhee,United States Senate,NA,Dem.,Walt Minnick,140
+Payette,United States Senate,NA,Dem.,Walt Minnick,417
+Power,United States Senate,NA,Dem.,Walt Minnick,260
+Shoshone,United States Senate,NA,Dem.,Walt Minnick,2323
+Teton,United States Senate,NA,Dem.,Walt Minnick,340
+Twin Falls,United States Senate,NA,Dem.,Walt Minnick,745
+Valley,United States Senate,NA,Dem.,Walt Minnick,125
+Washington,United States Senate,NA,Dem.,Walt Minnick,378
+Ada,U.S. Representative 1st District,1,NA,William A. Levinger,5227
+Adams,U.S. Representative 1st District,1,NA,William A. Levinger,446
+Bannock,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Bear Lake,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Benewah,U.S. Representative 1st District,1,NA,William A. Levinger,141
+Bingham,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Blaine,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Boise,U.S. Representative 1st District,1,NA,William A. Levinger,528
+Bonner,U.S. Representative 1st District,1,NA,William A. Levinger,1339
+Bonneville,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Boundary,U.S. Representative 1st District,1,NA,William A. Levinger,224
+Butte,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Camas,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Canyon,U.S. Representative 1st District,1,NA,William A. Levinger,2504
+Caribou,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Cassia,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Clark,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Clearwater,U.S. Representative 1st District,1,NA,William A. Levinger,101
+Custer,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Elmore,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Franklin,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Fremont,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Gem,U.S. Representative 1st District,1,NA,William A. Levinger,811
+Gooding,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Idaho,U.S. Representative 1st District,1,NA,William A. Levinger,473
+Jefferson,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Jerome,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Kootenai,U.S. Representative 1st District,1,NA,William A. Levinger,2218
+Latah,U.S. Representative 1st District,1,NA,William A. Levinger,1018
+Lemhi,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Lewis,U.S. Representative 1st District,1,NA,William A. Levinger,39
+Lincoln,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Madison,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Minidoka,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Nez Perce,U.S. Representative 1st District,1,NA,William A. Levinger,543
+Oneida,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Owyhee,U.S. Representative 1st District,1,NA,William A. Levinger,509
+Payette,U.S. Representative 1st District,1,NA,William A. Levinger,357
+Power,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Shoshone,U.S. Representative 1st District,1,NA,William A. Levinger,77
+Teton,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Twin Falls,U.S. Representative 1st District,1,NA,William A. Levinger,NA
+Valley,U.S. Representative 1st District,1,NA,William A. Levinger,1058
+Washington,U.S. Representative 1st District,1,NA,William A. Levinger,441
+Ada,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,687
+Adams,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,32
+Bannock,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Bear Lake,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Benewah,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,196
+Bingham,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Blaine,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Boise,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,34
+Bonner,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,479
+Bonneville,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Boundary,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,62
+Butte,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Camas,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Canyon,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,319
+Caribou,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Cassia,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Clark,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Clearwater,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,141
+Custer,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Elmore,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Franklin,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Fremont,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Gem,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,61
+Gooding,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Idaho,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,234
+Jefferson,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Jerome,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Kootenai,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,374
+Latah,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,278
+Lemhi,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Lewis,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,85
+Lincoln,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Madison,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Minidoka,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Nez Perce,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,469
+Oneida,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Owyhee,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,37
+Payette,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,89
+Power,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Shoshone,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,903
+Teton,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Twin Falls,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,NA
+Valley,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,29
+Washington,U.S. Representative 1st District,1,Democrat,Matt Alan Lambert,85
+Ada,U.S. Representative 1st District,1,NA,Dan Williams,3161
+Adams,U.S. Representative 1st District,1,NA,Dan Williams,61
+Bannock,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Bear Lake,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Benewah,U.S. Representative 1st District,1,NA,Dan Williams,442
+Bingham,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Blaine,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Boise,U.S. Representative 1st District,1,NA,Dan Williams,92
+Bonner,U.S. Representative 1st District,1,NA,Dan Williams,1006
+Bonneville,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Boundary,U.S. Representative 1st District,1,NA,Dan Williams,193
+Butte,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Camas,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Canyon,U.S. Representative 1st District,1,NA,Dan Williams,1146
+Caribou,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Cassia,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Clark,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Clearwater,U.S. Representative 1st District,1,NA,Dan Williams,603
+Custer,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Elmore,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Franklin,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Fremont,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Gem,U.S. Representative 1st District,1,NA,Dan Williams,235
+Gooding,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Idaho,U.S. Representative 1st District,1,NA,Dan Williams,704
+Jefferson,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Jerome,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Kootenai,U.S. Representative 1st District,1,NA,Dan Williams,1316
+Latah,U.S. Representative 1st District,1,NA,Dan Williams,1211
+Lemhi,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Lewis,U.S. Representative 1st District,1,NA,Dan Williams,228
+Lincoln,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Madison,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Minidoka,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Nez Perce,U.S. Representative 1st District,1,NA,Dan Williams,2463
+Oneida,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Owyhee,U.S. Representative 1st District,1,NA,Dan Williams,104
+Payette,U.S. Representative 1st District,1,NA,Dan Williams,329
+Power,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Shoshone,U.S. Representative 1st District,1,NA,Dan Williams,1702
+Teton,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Twin Falls,U.S. Representative 1st District,1,NA,Dan Williams,NA
+Valley,U.S. Representative 1st District,1,NA,Dan Williams,89
+Washington,U.S. Representative 1st District,1,NA,Dan Williams,311
+Ada,U.S. Representative 2nd District,2,Republican,Mike Crapo,5614
+Adams,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Bannock,U.S. Representative 2nd District,2,Republican,Mike Crapo,2748
+Bear Lake,U.S. Representative 2nd District,2,Republican,Mike Crapo,1698
+Benewah,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Bingham,U.S. Representative 2nd District,2,Republican,Mike Crapo,5438
+Blaine,U.S. Representative 2nd District,2,Republican,Mike Crapo,1108
+Boise,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Bonner,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Bonneville,U.S. Representative 2nd District,2,Republican,Mike Crapo,8952
+Boundary,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Butte,U.S. Representative 2nd District,2,Republican,Mike Crapo,636
+Camas,U.S. Representative 2nd District,2,Republican,Mike Crapo,341
+Canyon,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Caribou,U.S. Representative 2nd District,2,Republican,Mike Crapo,575
+Cassia,U.S. Representative 2nd District,2,Republican,Mike Crapo,2493
+Clark,U.S. Representative 2nd District,2,Republican,Mike Crapo,220
+Clearwater,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Custer,U.S. Representative 2nd District,2,Republican,Mike Crapo,1099
+Elmore,U.S. Representative 2nd District,2,Republican,Mike Crapo,1409
+Franklin,U.S. Representative 2nd District,2,Republican,Mike Crapo,481
+Fremont,U.S. Representative 2nd District,2,Republican,Mike Crapo,1914
+Gem,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Gooding,U.S. Representative 2nd District,2,Republican,Mike Crapo,1911
+Idaho,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Jefferson,U.S. Representative 2nd District,2,Republican,Mike Crapo,1824
+Jerome,U.S. Representative 2nd District,2,Republican,Mike Crapo,2087
+Kootenai,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Latah,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Lemhi,U.S. Representative 2nd District,2,Republican,Mike Crapo,1456
+Lewis,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Lincoln,U.S. Representative 2nd District,2,Republican,Mike Crapo,515
+Madison,U.S. Representative 2nd District,2,Republican,Mike Crapo,3238
+Minidoka,U.S. Representative 2nd District,2,Republican,Mike Crapo,2053
+Nez Perce,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Oneida,U.S. Representative 2nd District,2,Republican,Mike Crapo,237
+Owyhee,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Payette,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Power,U.S. Representative 2nd District,2,Republican,Mike Crapo,427
+Shoshone,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Teton,U.S. Representative 2nd District,2,Republican,Mike Crapo,654
+Twin Falls,U.S. Representative 2nd District,2,Republican,Mike Crapo,2650
+Valley,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Washington,U.S. Representative 2nd District,2,Republican,Mike Crapo,NA
+Ada,U.S. Representative 2nd District,2,NA,Peter Rickards,1328
+Adams,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Bannock,U.S. Representative 2nd District,2,NA,Peter Rickards,399
+Bear Lake,U.S. Representative 2nd District,2,NA,Peter Rickards,253
+Benewah,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Bingham,U.S. Representative 2nd District,2,NA,Peter Rickards,776
+Blaine,U.S. Representative 2nd District,2,NA,Peter Rickards,255
+Boise,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Bonner,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Bonneville,U.S. Representative 2nd District,2,NA,Peter Rickards,997
+Boundary,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Butte,U.S. Representative 2nd District,2,NA,Peter Rickards,110
+Camas,U.S. Representative 2nd District,2,NA,Peter Rickards,96
+Canyon,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Caribou,U.S. Representative 2nd District,2,NA,Peter Rickards,50
+Cassia,U.S. Representative 2nd District,2,NA,Peter Rickards,455
+Clark,U.S. Representative 2nd District,2,NA,Peter Rickards,47
+Clearwater,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Custer,U.S. Representative 2nd District,2,NA,Peter Rickards,158
+Elmore,U.S. Representative 2nd District,2,NA,Peter Rickards,276
+Franklin,U.S. Representative 2nd District,2,NA,Peter Rickards,82
+Fremont,U.S. Representative 2nd District,2,NA,Peter Rickards,153
+Gem,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Gooding,U.S. Representative 2nd District,2,NA,Peter Rickards,499
+Idaho,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Jefferson,U.S. Representative 2nd District,2,NA,Peter Rickards,169
+Jerome,U.S. Representative 2nd District,2,NA,Peter Rickards,568
+Kootenai,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Latah,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Lemhi,U.S. Representative 2nd District,2,NA,Peter Rickards,143
+Lewis,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Lincoln,U.S. Representative 2nd District,2,NA,Peter Rickards,117
+Madison,U.S. Representative 2nd District,2,NA,Peter Rickards,240
+Minidoka,U.S. Representative 2nd District,2,NA,Peter Rickards,435
+Nez Perce,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Oneida,U.S. Representative 2nd District,2,NA,Peter Rickards,24
+Owyhee,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Payette,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Power,U.S. Representative 2nd District,2,NA,Peter Rickards,55
+Shoshone,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Teton,U.S. Representative 2nd District,2,NA,Peter Rickards,47
+Twin Falls,U.S. Representative 2nd District,2,NA,Peter Rickards,650
+Valley,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Washington,U.S. Representative 2nd District,2,NA,Peter Rickards,NA
+Ada,U.S. Representative 2nd District,2,Dem.,John D. Seidl,3104
+Adams,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Bannock,U.S. Representative 2nd District,2,Dem.,John D. Seidl,3362
+Bear Lake,U.S. Representative 2nd District,2,Dem.,John D. Seidl,190
+Benewah,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Bingham,U.S. Representative 2nd District,2,Dem.,John D. Seidl,645
+Blaine,U.S. Representative 2nd District,2,Dem.,John D. Seidl,1635
+Boise,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Bonner,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Bonneville,U.S. Representative 2nd District,2,Dem.,John D. Seidl,1104
+Boundary,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Butte,U.S. Representative 2nd District,2,Dem.,John D. Seidl,84
+Camas,U.S. Representative 2nd District,2,Dem.,John D. Seidl,8
+Canyon,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Caribou,U.S. Representative 2nd District,2,Dem.,John D. Seidl,154
+Cassia,U.S. Representative 2nd District,2,Dem.,John D. Seidl,169
+Clark,U.S. Representative 2nd District,2,Dem.,John D. Seidl,17
+Clearwater,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Custer,U.S. Representative 2nd District,2,Dem.,John D. Seidl,70
+Elmore,U.S. Representative 2nd District,2,Dem.,John D. Seidl,529
+Franklin,U.S. Representative 2nd District,2,Dem.,John D. Seidl,84
+Fremont,U.S. Representative 2nd District,2,Dem.,John D. Seidl,323
+Gem,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Gooding,U.S. Representative 2nd District,2,Dem.,John D. Seidl,171
+Idaho,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Jefferson,U.S. Representative 2nd District,2,Dem.,John D. Seidl,155
+Jerome,U.S. Representative 2nd District,2,Dem.,John D. Seidl,121
+Kootenai,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Latah,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Lemhi,U.S. Representative 2nd District,2,Dem.,John D. Seidl,197
+Lewis,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Lincoln,U.S. Representative 2nd District,2,Dem.,John D. Seidl,139
+Madison,U.S. Representative 2nd District,2,Dem.,John D. Seidl,109
+Minidoka,U.S. Representative 2nd District,2,Dem.,John D. Seidl,196
+Nez Perce,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Oneida,U.S. Representative 2nd District,2,Dem.,John D. Seidl,77
+Owyhee,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Payette,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Power,U.S. Representative 2nd District,2,Dem.,John D. Seidl,248
+Shoshone,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Teton,U.S. Representative 2nd District,2,Dem.,John D. Seidl,333
+Twin Falls,U.S. Representative 2nd District,2,Dem.,John D. Seidl,652
+Valley,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Washington,U.S. Representative 2nd District,2,Dem.,John D. Seidl,NA
+Bonner,State Senate,1,R,"Eugene R. ""Gene"" Brown",1391
+Boundary,State Senate,1,R,"Eugene R. ""Gene"" Brown",493
+Bonner,State Senate,1,R,Shawn Keough,2322
+Boundary,State Senate,1,R,Shawn Keough,497
+Bonner,State Senate,1,D,Tim Tucker,1168
+Boundary,State Senate,1,D,Tim Tucker,257
+Bonner,State Senate,1,D,Ed Worzala,314
+Boundary,State Senate,1,D,Ed Worzala,59
+Bonner,State Representative,1A,R,John L. Campbell,2812
+Boundary,State Representative,1A,R,John L. Campbell,716
+Bonner,State Representative,1A,D,Harvey Rush Balison,1205
+Boundary,State Representative,1A,D,Harvey Rush Balison,230
+Bonner,State Representative,1B,D,Jim Stoicheff,1465
+Boundary,State Representative,1B,D,Jim Stoicheff,288
+Bonner,State Senate,LEG.  DIST. 2,R,Clyde Boatright,231
+Kootenai,State Senate,LEG.  DIST. 2,R,Clyde Boatright,869
+Bonner,State Senate,LEG.  DIST. 2,R,Tom Daugherty,201
+Kootenai,State Senate,LEG.  DIST. 2,R,Tom Daugherty,729
+Bonner,State Senate,LEG.  DIST. 2,R,Ian James,65
+Kootenai,State Senate,LEG.  DIST. 2,R,Ian James,270
+Bonner,State Senate,LEG.  DIST. 2,D,Larry Kenck,198
+Kootenai,State Senate,LEG.  DIST. 2,D,Larry Kenck,454
+Bonner,State Representative,LEG.  DIST. 2A,R,Jay S. Jump,147
+Kootenai,State Representative,LEG.  DIST. 2A,R,Jay S. Jump,631
+Bonner,State Representative,LEG.  DIST. 2A,R,Hilde Kellogg,358
+Kootenai,State Representative,LEG.  DIST. 2A,R,Hilde Kellogg,1274
+Bonner,State Representative,LEG.  DIST. 2B,R,Wayne R. Meyer,436
+Kootenai,State Representative,LEG.  DIST. 2B,R,Wayne R. Meyer,1577
+Bonner,State Representative,LEG.  DIST. 2B,D,Marc McGregor,192
+Kootenai,State Representative,LEG.  DIST. 2B,D,Marc McGregor,448
+Kootenai,State Senate,3,R,Gordon Crow,2662
+Kootenai,State Senate,3,D,"D.E. ""Sam"" Sears",765
+Kootenai,State Representative,3A,R,Jim Clark,1650
+Kootenai,State Representative,3A,R,Curtis L Ellis,1111
+Kootenai,State Representative,3A,D,Marvin G Vandenberg,784
+Kootenai,State Representative,3B,R,"Jeffrey W. ""Jeff"" Alltus",2623
+Kootenai,State Representative,3B,D,"Cecil Kelly, III",730
+Benewah,State Senate,4,R,Jack Riggs,122
+Kootenai,State Senate,4,R,Jack Riggs,1391
+Shoshone,State Senate,4,R,Jack Riggs,303
+Benewah,State Senate,4,D,Mary Lou Reed,139
+Kootenai,State Senate,4,D,Mary Lou Reed,452
+Shoshone,State Senate,4,D,Mary Lou Reed,2692
+Benewah,State Representative,4:00 AM,R,Thomas B. Dorr,119
+Kootenai,State Representative,4:00 AM,R,Thomas B. Dorr,1322
+Shoshone,State Representative,4:00 AM,R,Thomas B. Dorr,309
+Benewah,State Representative,4:00 AM,D,Larry C. Watson,129
+Kootenai,State Representative,4:00 AM,D,Larry C. Watson,405
+Shoshone,State Representative,4:00 AM,D,Larry C. Watson,2605
+Benewah,State Representative,4 B,R,Don Pischner,116
+Kootenai,State Representative,4 B,R,Don Pischner,1398
+Shoshone,State Representative,4 B,R,Don Pischner,302
+Benewah,State Representative,4 B,D,Donald N. Heikkila,130
+Kootenai,State Representative,4 B,D,Donald N. Heikkila,412
+Shoshone,State Representative,4 B,D,Donald N. Heikkila,2461
+Latah,State Senate,5,R,Gary J. Schroeder,1817
+Latah,State Senate,5,R,Daniel B. Whiting,814
+Latah,State Senate,5,D,Sam M.W. Scripter,1400
+Latah,State Representative,5A,R,Buck Kimsey,605
+Latah,State Representative,5A,R,Tom Trail,1848
+Latah,State Representative,5A,D,Vera N. White,1434
+Latah,State Representative,5B,R,Maynard M. Miller,2267
+Nez Perce,State Senate,6,R,Joe Stegner,1657
+Nez Perce,State Senate,6,D,Bruce Sweeney,2962
+Nez Perce,State Representative,6A,R,Frank C. Bruneel,1714
+Nez Perce,State Representative,6A,D,Lovetta Eisele,2613
+Nez Perce,State Representative,6B,R,Dan Mader,1723
+Nez Perce,State Representative,6B,D,John Bradbury,2645
+Benewah,State Senate,7,R,John Ferris,367
+Clearwater,State Senate,7,R,John Ferris,326
+Idaho,State Senate,7,R,John Ferris,513
+Latah,State Senate,7,R,John Ferris,40
+Lewis,State Senate,7,R,John Ferris,140
+Nez Perce,State Senate,7,R,John Ferris,95
+Benewah,State Senate,7,R,Max Hale,142
+Clearwater,State Senate,7,R,Max Hale,155
+Idaho,State Senate,7,R,Max Hale,367
+Latah,State Senate,7,R,Max Hale,20
+Lewis,State Senate,7,R,Max Hale,75
+Nez Perce,State Senate,7,R,Max Hale,72
+Benewah,State Senate,7,D,Marguerite McLaughlin,577
+Clearwater,State Senate,7,D,Marguerite McLaughlin,848
+Idaho,State Senate,7,D,Marguerite McLaughlin,454
+Latah,State Senate,7,D,Marguerite McLaughlin,50
+Lewis,State Senate,7,D,Marguerite McLaughlin,366
+Nez Perce,State Senate,7,D,Marguerite McLaughlin,315
+Benewah,State Representative,7A,R,Homer Ferguson,382
+Clearwater,State Representative,7A,R,Homer Ferguson,477
+Idaho,State Representative,7A,R,Homer Ferguson,786
+Latah,State Representative,7A,R,Homer Ferguson,53
+Lewis,State Representative,7A,R,Homer Ferguson,185
+Nez Perce,State Representative,7A,R,Homer Ferguson,160
+Benewah,State Representative,7A,D,Charles D. Cuddy,529
+Clearwater,State Representative,7A,D,Charles D. Cuddy,793
+Idaho,State Representative,7A,D,Charles D. Cuddy,401
+Latah,State Representative,7A,D,Charles D. Cuddy,46
+Lewis,State Representative,7A,D,Charles D. Cuddy,336
+Nez Perce,State Representative,7A,D,Charles D. Cuddy,296
+Benewah,State Representative,7B,R,Patrick Petrie,417
+Clearwater,State Representative,7B,R,Patrick Petrie,443
+Idaho,State Representative,7B,R,Patrick Petrie,769
+Latah,State Representative,7B,R,Patrick Petrie,56
+Lewis,State Representative,7B,R,Patrick Petrie,181
+Nez Perce,State Representative,7B,R,Patrick Petrie,157
+Benewah,State Representative,7B,D,June E. Judd,617
+Clearwater,State Representative,7B,D,June E. Judd,776
+Idaho,State Representative,7B,D,June E. Judd,424
+Latah,State Representative,7B,D,June E. Judd,45
+Lewis,State Representative,7B,D,June E. Judd,344
+Nez Perce,State Representative,7B,D,June E. Judd,309
+Adams,State Senate,8,R,Judith Danielson,1206
+Boise,State Senate,8,R,Judith Danielson,1072
+Gem,State Senate,8,R,Judith Danielson,1401
+Idaho,State Senate,8,R,Judith Danielson,1019
+Valley,State Senate,8,R,Judith Danielson,1954
+Adams,State Representative,8A,R,Gayle A. Wilde,593
+Boise,State Representative,8A,R,Gayle A. Wilde,703
+Gem,State Representative,8A,R,Gayle A. Wilde,817
+Idaho,State Representative,8A,R,Gayle A. Wilde,476
+Valley,State Representative,8A,R,Gayle A. Wilde,1127
+Adams,State Representative,8A,R,B. Christian Zimmermann,647
+Boise,State Representative,8A,R,B. Christian Zimmermann,469
+Gem,State Representative,8A,R,B. Christian Zimmermann,706
+Idaho,State Representative,8A,R,B. Christian Zimmermann,692
+Valley,State Representative,8A,R,B. Christian Zimmermann,1242
+Adams,State Representative,8B,R,Twila L. Hornbeck,678
+Boise,State Representative,8B,R,Twila L. Hornbeck,666
+Gem,State Representative,8B,R,Twila L. Hornbeck,835
+Idaho,State Representative,8B,R,Twila L. Hornbeck,689
+Valley,State Representative,8B,R,Twila L. Hornbeck,1040
+Adams,State Representative,8B,R,Kathy Skippen,557
+Boise,State Representative,8B,R,Kathy Skippen,558
+Gem,State Representative,8B,R,Kathy Skippen,805
+Idaho,State Representative,8B,R,Kathy Skippen,598
+Valley,State Representative,8B,R,Kathy Skippen,1170
+Adams,State Representative,8B,D,Hugh W. Somerton,57
+Boise,State Representative,8B,D,Hugh W. Somerton,88
+Gem,State Representative,8B,D,Hugh W. Somerton,201
+Idaho,State Representative,8B,D,Hugh W. Somerton,379
+Valley,State Representative,8B,D,Hugh W. Somerton,119
+Gem,State Senate,9,R,Ric Branch,279
+Payette,State Senate,9,R,Ric Branch,756
+Washington,State Senate,9,R,Ric Branch,1164
+Gem,State Senate,9,R,Robert L. Bumgarner,259
+Payette,State Senate,9,R,Robert L. Bumgarner,376
+Washington,State Senate,9,R,Robert L. Bumgarner,279
+Gem,State Senate,9,D,David F. Dickerson,31
+Payette,State Senate,9,D,David F. Dickerson,172
+Washington,State Senate,9,D,David F. Dickerson,258
+Gem,State Senate,9,D,Donald M. Tallabas,24
+Payette,State Senate,9,D,Donald M. Tallabas,262
+Washington,State Senate,9,D,Donald M. Tallabas,161
+Gem,State Representative,9A,R,Arthur A. Correia,53
+Payette,State Representative,9A,R,Arthur A. Correia,148
+Washington,State Representative,9A,R,Arthur A. Correia,576
+Gem,State Representative,9A,R,Lawerence E. Denney,316
+Payette,State Representative,9A,R,Lawerence E. Denney,621
+Washington,State Representative,9A,R,Lawerence E. Denney,535
+Gem,State Representative,9A,R,J. Lynn Isaacson,49
+Payette,State Representative,9A,R,J. Lynn Isaacson,125
+Washington,State Representative,9A,R,J. Lynn Isaacson,244
+Gem,State Representative,9A,R,Elaine Pollock,103
+Payette,State Representative,9A,R,Elaine Pollock,174
+Washington,State Representative,9A,R,Elaine Pollock,122
+Gem,State Representative,9A,D,Vonnie D. Paul,59
+Payette,State Representative,9A,D,Vonnie D. Paul,385
+Washington,State Representative,9A,D,Vonnie D. Paul,344
+Gem,State Representative,9B,R,Donna M. Jones,472
+Payette,State Representative,9B,R,Donna M. Jones,1083
+Washington,State Representative,9B,R,Donna M. Jones,1249
+Canyon,State Senate,10,R,Darrel Deide,2149
+Canyon,State Senate,10,D,Arnold Hernandez,414
+Canyon,State Representative,10A,R,Ron Crane,2086
+Canyon,State Representative,10A,D,Loren Dale Kenyon,443
+Canyon,State Representative,10B,R,Dorothy L. Reynolds,2134
+Canyon,State Senate,11,R,Atwell Parry,2482
+Canyon,State Senate,11,D,Victor M. Torres,387
+Canyon,State Representative,11A,R,Robert E Schaefer,2316
+Canyon,State Representative,11B,R,"W.O. ""Bill"" Taylor",2229
+Canyon,State Representative,11B,D,Jack W. Fisher,425
+Canyon,State Senate,12,R,Cliff Eidemiller,1064
+Canyon,State Senate,12,R,"J.L. ""Jerry"" Thorne",2277
+Canyon,State Senate,12,D,Angelita Garcia Jimenez,483
+Canyon,State Representative,12A,R,Dolores J. Crow,2904
+Canyon,State Representative,12A,D,Deborah J. LiCalzi,492
+Canyon,State Representative,12B,R,"W.W. ""Bill"" Deal",2935
+Ada,State Senate,13,R,Sheila Sorensen,2489
+Ada,State Senate,13,D,Penny Fletcher,964
+Ada,State Representative,13A,R,Debbie Field,2295
+Ada,State Representative,13A,D,Ralph Sword,834
+Ada,State Representative,13B,R,Dave Baumann,1422
+Ada,State Representative,13B,R,Julie Ellsworth,1483
+Ada,State Representative,13B,D,Kathleen Roos,820
+Ada,State Senate,14,R,"Harold R. ""Hal"" Bunderson",3137
+Ada,State Senate,14,D,Jane E. Foreman,780
+Ada,State Representative,14A,R,Dave Bivens,2454
+Ada,State Representative,14A,R,Henry Kulczyk,1201
+Ada,State Representative,14State Representatiave B,R,Milt Erhart,1407
+Ada,State Representative,14State Representatiave B,R,WesLee Hoalst,735
+Ada,State Representative,14State Representatiave B,R,Shirley McKague,1761
+Ada,State Representative,14State Representatiave B,D,Glida Bothwell,670
+Ada,State Senate,15,R,John C Andreason,2096
+Ada,State Senate,15,R,Mark H. Stahl,1353
+Ada,State Senate,15,D,John F. Hart,686
+Ada,State Representative,15A,R,Paul Kjellander,2919
+Ada,State Representative,15B,R,Max C. Black,2092
+Ada,State Representative,15B,R,Dan A. Westmark,1352
+Ada,State Representative,15B,D,Debi Gier,677
+Ada,State Senate,16,R,Cecil D. Ingram,2470
+Ada,State Senate,16,D,Keith W. Tackman,788
+Ada,State Representative,16A,R,Ruth G. Grasser,1048
+Ada,State Representative,16A,R,Sylvia McKeeth,1648
+Ada,State Representative,16A,D,Margaret Henbest,813
+Ada,State Representative,16B,R,"Horace B. ""Hod"" Pomeroy",2376
+Ada,State Representative,16B,D,Christopher Carlton,717
+Ada,State Senate,17,R,Grant R. Ipsen,2530
+Ada,State Senate,17,D,Melanie L. Randolph,770
+Ada,State Representative,17A,R,David Callister,1829
+Ada,State Representative,17A,R,Ralph J. Gines,1250
+Ada,State Representative,17A,D,James Holden,716
+Ada,State Representative,17B,R,Donald O. Grabow,1060
+Ada,State Representative,17B,R,Ruby R. Stone,2074
+Ada,State Representative,17B,D,Ryan Hill,653
+Ada,State Senate,18,R,"Emil Loya, Jr",709
+Ada,State Senate,18,R,Jim Risch,2299
+Ada,State Senate,18,D,Donald Baumback,393
+Ada,State Representative,18A,R,"William T. ""Bill"" Sali",2430
+Ada,State Representative,18A,D,Cynthia B. Scanlin,478
+Ada,State Representative,18B,R,Fred D. Tilman,2446
+Ada,State Representative,18B,D,Robert M. Chase,373
+Ada,State Senate,19,R,Judy Peavey-Derr,1621
+Ada,State Senate,19,R,Gordon D. Trounson,1079
+Ada,State Senate,19,D,Betsy Dunklin,1893
+Ada,State Senate,19,D,Kendra S. Kenyon,418
+Ada,State Representative,19A,R,Myrtle Mae Christensen,574
+Ada,State Representative,19A,R,Don Howard,467
+Ada,State Representative,19A,R,William James Simonds,201
+Ada,State Representative,19A,R,Layle Wood,1210
+Ada,State Representative,19A,D,J. Patrick Bieter,2024
+Ada,State Representative,19B,R,Barbara D. Oldham,1850
+Ada,State Representative,19B,D,Ken Robison,2065
+Elmore,State Senate,20,R,Robbi L. King,1045
+Owyhee,State Senate,20,R,Robbi L. King,1215
+Elmore,State Senate,20,R,Pete Nielsen,602
+Owyhee,State Senate,20,R,Pete Nielsen,500
+Elmore,State Senate,20,D,Mary Ann Richards,499
+Owyhee,State Senate,20,D,Mary Ann Richards,134
+Elmore,State Representative,20A,R,Frances Field,1456
+Owyhee,State Representative,20A,R,Frances Field,1609
+Elmore,State Representative,20B,R,Jim Jones,782
+Owyhee,State Representative,20B,R,Jim Jones,736
+Elmore,State Representative,20B,R,James B Morrison,331
+Owyhee,State Representative,20B,R,James B Morrison,366
+Elmore,State Representative,20B,R,Steven D. Richards,340
+Owyhee,State Representative,20B,R,Steven D. Richards,409
+Elmore,State Representative,20B,D,Sher Sellman,556
+Owyhee,State Representative,20B,D,Sher Sellman,108
+Blaine,State Senate,21,D,Clint Stennett,2256
+Camas,State Senate,21,D,Clint Stennett,12
+Elmore,State Senate,21,D,Clint Stennett,43
+Gooding,State Senate,21,D,Clint Stennett,154
+Lincoln,State Senate,21,D,Clint Stennett,197
+Blaine,State Representative,21A,D,Wendy Jaquet,2232
+Camas,State Representative,21A,D,Wendy Jaquet,9
+Elmore,State Representative,21A,D,Wendy Jaquet,39
+Gooding,State Representative,21A,D,Wendy Jaquet,140
+Lincoln,State Representative,21A,D,Wendy Jaquet,170
+Blaine,State Representative,21B,R,Tim Ridinger,1186
+Camas,State Representative,21B,R,Tim Ridinger,317
+Elmore,State Representative,21B,R,Tim Ridinger,70
+Gooding,State Representative,21B,R,Tim Ridinger,1623
+Lincoln,State Representative,21B,R,Tim Ridinger,468
+Blaine,State Representative,21B,D,Darren Clemenhagen,1669
+Camas,State Representative,21B,D,Darren Clemenhagen,5
+Elmore,State Representative,21B,D,Darren Clemenhagen,34
+Gooding,State Representative,21B,D,Darren Clemenhagen,117
+Lincoln,State Representative,21B,D,Darren Clemenhagen,135
+Gooding,State Senate,22,R,John Sandy,325
+Twin Falls,State Senate,22,R,John Sandy,1178
+Gooding,State Senate,22,D,George Juker,39
+Twin Falls,State Senate,22,D,George Juker,346
+Gooding,State Representative,22A,R,Celia R. Gould,312
+Twin Falls,State Representative,22A,R,Celia R. Gould,1234
+Gooding,State Representative,22B,R,Douglas R. Jones,300
+Twin Falls,State Representative,22B,R,Douglas R. Jones,1158
+Twin Falls,State Senate,23,R,Laird Noh,1625
+Twin Falls,State Representative,23A,R,Ron Black,1457
+Twin Falls,State Representative,23A,D,Jeanne M. Meyer,360
+Twin Falls,State Representative,23B,R,Mark D. Stubbs,1526
+Twin Falls,State Representative,23B,D,Sandie Bjornson,337
+Jerome,State Senate,24,R,Dean L. Cameron,2294
+Minidoka,State Senate,24,R,Dean L. Cameron,1552
+Jerome,State Representative,24A,R,Harold Mohlman,750
+Minidoka,State Representative,24A,R,Harold Mohlman,530
+Jerome,State Representative,24A,R,"John A. ""Bert"" Stevenson",1290
+Minidoka,State Representative,24A,R,"John A. ""Bert"" Stevenson",1239
+Jerome,State Representative,24A,D,Michael Peck,112
+Minidoka,State Representative,24A,D,Michael Peck,138
+Jerome,State Representative,24B,R,Maxine T. Bell,2433
+Minidoka,State Representative,24B,R,Maxine T. Bell,1562
+Cassia,State Senate,25,R,Denton C Darrington,2095
+Minidoka,State Senate,25,R,Denton C Darrington,439
+Twin Falls,State Senate,25,R,Denton C Darrington,52
+Cassia,State Senate,25,R,Kelly Walton,1068
+Minidoka,State Senate,25,R,Kelly Walton,360
+Twin Falls,State Senate,25,R,Kelly Walton,37
+Cassia,State Representative,25A,R,Jim D. Kempton,2787
+Minidoka,State Representative,25A,R,Jim D. Kempton,690
+Twin Falls,State Representative,25A,R,Jim D. Kempton,75
+Cassia,State Representative,25B,R,Bruce  Newcomb,2873
+Minidoka,State Representative,25B,R,Bruce  Newcomb,706
+Twin Falls,State Representative,25B,R,Bruce  Newcomb,76
+Clark,State Senate,26,R,Rex L. Furness,186
+Custer,State Senate,26,R,Rex L. Furness,856
+Jefferson,State Senate,26,R,Rex L. Furness,1406
+Lemhi,State Senate,26,R,Rex L. Furness,1057
+Clark,State Representative,26A,R,JoAn E. Wood,248
+Custer,State Representative,26A,R,JoAn E. Wood,1074
+Jefferson,State Representative,26A,R,JoAn E. Wood,1831
+Lemhi,State Representative,26A,R,JoAn E. Wood,1383
+Clark,State Representative,26B,R,Lenore Hardy Barrett,230
+Custer,State Representative,26B,R,Lenore Hardy Barrett,1068
+Jefferson,State Representative,26B,R,Lenore Hardy Barrett,1763
+Lemhi,State Representative,26B,R,Lenore Hardy Barrett,1336
+Fremont,State Senate,27,R,Robert R. Lee,583
+Madison,State Senate,27,R,Robert R. Lee,3161
+Fremont,State Representative,27A,R,Diana S. Richman,574
+Madison,State Representative,27A,R,Diana S. Richman,2999
+Fremont,State Representative,27B,R,Golden C. Linford,575
+Madison,State Representative,27B,R,Golden C. Linford,3120
+Bonneville,State Senate,28,R,Stan Hawkins,1375
+Fremont,State Senate,28,R,Stan Hawkins,782
+Teton,State Senate,28,R,Stan Hawkins,427
+Bonneville,State Senate,28,R,S. Lynn Loosli,1067
+Fremont,State Senate,28,R,S. Lynn Loosli,669
+Teton,State Senate,28,R,S. Lynn Loosli,326
+Bonneville,State Senate,28,D,Dan Biggs,245
+Fremont,State Senate,28,D,Dan Biggs,183
+Teton,State Senate,28,D,Dan Biggs,320
+Bonneville,State Representative,28A,R,William Jackson,493
+Fremont,State Representative,28A,R,William Jackson,253
+Teton,State Representative,28A,R,William Jackson,227
+Bonneville,State Representative,28A,R,Max C. Mortensen,1721
+Fremont,State Representative,28A,R,Max C. Mortensen,1118
+Teton,State Representative,28A,R,Max C. Mortensen,458
+Bonneville,State Representative,28B,R,Cameron Wheeler,2054
+Fremont,State Representative,28B,R,Cameron Wheeler,1120
+Teton,State Representative,28B,R,Cameron Wheeler,526
+Bonneville,State Representative,28B,D,Lee Edlefsen,245
+Fremont,State Representative,28B,D,Lee Edlefsen,197
+Teton,State Representative,28B,D,Lee Edlefsen,295
+Bonneville,State Senate,29,R,John Hansen,2533
+Bonneville,State Senate,29,R,Kenneth R. Walton,885
+Bonneville,State Representative,29A,R,Jack T. Barraclough,2379
+Bonneville,State Representative,29B,R,Reed Hansen,2599
+Bonneville,State Senate,30,R,Mel Richardson,3583
+Bonneville,State Senate,30,D,Roseann Steen,460
+Bonneville,State Representative,30A,R,Lee Gagner,2946
+Bonneville,State Representative,30B,R,Ron Tyler Bird,1660
+Bonneville,State Representative,30B,R,Thomas F. Loertscher,2291
+Bonneville,State Representative,30B,D,Steven Fernandez,449
+Bingham,State Senate,31,R,Jerry T. Twiggs,4444
+Butte,State Senate,31,R,Jerry T. Twiggs,616
+Bingham,State Representative,31A,R,Dennis M. Lake,4083
+Butte,State Representative,31A,R,Dennis M. Lake,580
+Bingham,State Representative,31A,D,"Israel ""Is"" Merrill",499
+Butte,State Representative,31A,D,"Israel ""Is"" Merrill",83
+Bingham,State Representative,31B,R,Michael K. Simpson,4122
+Butte,State Representative,31B,R,Michael K. Simpson,570
+Bannock,State Senate,32,R,"Robert L. Geddes, Jr.",137
+Bear Lake,State Senate,32,R,"Robert L. Geddes, Jr.",1737
+Caribou,State Senate,32,R,"Robert L. Geddes, Jr.",596
+Franklin,State Senate,32,R,"Robert L. Geddes, Jr.",514
+Oneida,State Senate,32,R,"Robert L. Geddes, Jr.",232
+Bannock,State Representative,32A,R,Robert C. Geddes Sr.,131
+Bear Lake,State Representative,32A,R,Robert C. Geddes Sr.,1677
+Caribou,State Representative,32A,R,Robert C. Geddes Sr.,585
+Franklin,State Representative,32A,R,Robert C. Geddes Sr.,512
+Oneida,State Representative,32A,R,Robert C. Geddes Sr.,230
+Bannock,State Representative,32B,R,John H. Tippets,121
+Bear Lake,State Representative,32B,R,John H. Tippets,1904
+Caribou,State Representative,32B,R,John H. Tippets,554
+Franklin,State Representative,32B,R,John H. Tippets,502
+Oneida,State Representative,32B,R,John H. Tippets,224
+Bannock,State Senate,33,R,Gradyn Staley,1074
+Bannock,State Senate,33,D,Lin Whitworth,1761
+Bannock,State Representative,33A,D,John A. Alexander,1711
+Bannock,State Representative,33B,R,Earl Marvin Day,282
+Bannock,State Representative,33B,R,Dave Hall,870
+Bannock,State Representative,33B,D,Roger W. Chase,1168
+Bannock,State Representative,33B,D,Mary Ellen Lloyd,871
+Bannock,State Senate,34,R,Evan S. Frasure,1168
+Bannock,State Senate,34,D,Becky Hopkins,1493
+Bannock,State Representative,34A,R,Dale W. Wilkinson,1105
+Bannock,State Representative,34A,D,Donna H. Boe,1560
+Bannock,State Representative,34B,R,Kent S. Kunz,1091
+Bannock,State Representative,34B,D,Marian A. Jensen,353
+Bannock,State Representative,34B,D,John B. Kugler,287
+Bannock,State Representative,34B,D,Brandon W. Lenoir,584
+Bannock,State Representative,34B,D,Mark E. Packer,484
+Bannock,State Senate,35,R,"""Moon"" Wheeler",323
+Bingham,State Senate,35,R,"""Moon"" Wheeler",1400
+Power,State Senate,35,R,"""Moon"" Wheeler",428
+Bannock,State Senate,35,D,Phillip B. Christiansen,271
+Bingham,State Senate,35,D,Phillip B. Christiansen,248
+Power,State Senate,35,D,Phillip B. Christiansen,246
+Bannock,State Representative,35A,R,J. Steven Hadley,242
+Bingham,State Representative,35A,R,J. Steven Hadley,718
+Power,State Representative,35A,R,J. Steven Hadley,269
+Bannock,State Representative,35A,R,Richard Williams,98
+Bingham,State Representative,35A,R,Richard Williams,645
+Power,State Representative,35A,R,Richard Williams,141
+Bannock,State Representative,35A,D,Edna F. Garrett,258
+Bingham,State Representative,35A,D,Edna F. Garrett,251
+Power,State Representative,35A,D,Edna F. Garrett,258
+Bannock,State Representative,35B,R,Wayne Kendell,292
+Bingham,State Representative,35B,R,Wayne Kendell,1372
+Power,State Representative,35B,R,Wayne Kendell,439
+Bannock,State Representative,35B,D,David J. Archuleta,179
+Bingham,State Representative,35B,D,David J. Archuleta,156
+Power,State Representative,35B,D,David J. Archuleta,131
+Bannock,State Representative,35B,D,Shel Kovarsky,124
+Bingham,State Representative,35B,D,Shel Kovarsky,101
+Power,State Representative,35B,D,Shel Kovarsky,197

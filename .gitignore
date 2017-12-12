@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+state_leg.csv
+.DS_Store
