@@ -1,10 +1,12 @@
 import xlrd
-import csv
+import unicodecsv
 
 results = []
 
 book = xlrd.open_workbook("/Users/derekwillis/Downloads/96gnlgcn.xls")
+# let's use the first sheet (Python starts counting at 0)
 sheet = book.sheets()[0]
+# now we'll loop through all of the rows in that sheet - try print(sheet.nrows) before to see how many
 for row in range(sheet.nrows):
     if sheet.cell(row,0).value == 'District/Candidate':
         next
