@@ -673,16 +673,16 @@ Bonner,State Representative,1B,R,George E. Eskridge,3274
 Boundary,State Representative,1B,R,George E. Eskridge,1090
 Bonner,State Representative,1B,D,Jerry Stoicheff,702
 Boundary,State Representative,1B,D,Jerry Stoicheff,212
-Bonner,State Senate,LEG.  DIST. 2,R,Clyde Boatright,640
-Kootenai,State Senate,LEG.  DIST. 2,R,Clyde Boatright,3556
-Bonner,State Representative,LEG.  DIST. 2A,R,"A.A. ""Tina"" Jacobson",310
-Kootenai,State Representative,LEG.  DIST. 2A,R,"A.A. ""Tina"" Jacobson",1957
-Bonner,State Representative,LEG.  DIST. 2A,R,Hilde Kellogg,458
-Kootenai,State Representative,LEG.  DIST. 2A,R,Hilde Kellogg,2345
-Bonner,State Representative,LEG.  DIST. 2A,D,Kristy Reed Johnson,93
-Kootenai,State Representative,LEG.  DIST. 2A,D,Kristy Reed Johnson,708
-Bonner,State Representative,LEG.  DIST. 2B,R,Wayne R. Meyer,606
-Kootenai,State Representative,LEG.  DIST. 2B,R,Wayne R. Meyer,3390
+Bonner,State Senate,LEG. DIST. 2,R,Clyde Boatright,640
+Kootenai,State Senate,LEG. DIST. 2,R,Clyde Boatright,3556
+Bonner,State Representative,LEG. DIST. 2A,R,"A.A. ""Tina"" Jacobson",310
+Kootenai,State Representative,LEG. DIST. 2A,R,"A.A. ""Tina"" Jacobson",1957
+Bonner,State Representative,LEG. DIST. 2A,R,Hilde Kellogg,458
+Kootenai,State Representative,LEG. DIST. 2A,R,Hilde Kellogg,2345
+Bonner,State Representative,LEG. DIST. 2A,D,Kristy Reed Johnson,93
+Kootenai,State Representative,LEG. DIST. 2A,D,Kristy Reed Johnson,708
+Bonner,State Representative,LEG. DIST. 2B,R,Wayne R. Meyer,606
+Kootenai,State Representative,LEG. DIST. 2B,R,Wayne R. Meyer,3390
 Kootenai,State Senate,3,R,Curtis L. Ellis,2153
 Kootenai,State Senate,3,R,John W Goedde,3107
 Kootenai,State Representative,3A,R,James W. Clark,4072
@@ -772,11 +772,11 @@ Boise,State Representative,8A,D,Jerald (Jerry) Lockhart,107
 Gem,State Representative,8A,D,Jerald (Jerry) Lockhart,159
 Idaho,State Representative,8A,D,Jerald (Jerry) Lockhart,160
 Valley,State Representative,8A,D,Jerald (Jerry) Lockhart,124
-Adams,State Representative,8B,R,Glenn  Gore,213
-Boise,State Representative,8B,R,Glenn  Gore,426
-Gem,State Representative,8B,R,Glenn  Gore,525
-Idaho,State Representative,8B,R,Glenn  Gore,519
-Valley,State Representative,8B,R,Glenn  Gore,722
+Adams,State Representative,8B,R,Glenn Gore,213
+Boise,State Representative,8B,R,Glenn Gore,426
+Gem,State Representative,8B,R,Glenn Gore,525
+Idaho,State Representative,8B,R,Glenn Gore,519
+Valley,State Representative,8B,R,Glenn Gore,722
 Adams,State Representative,8B,R,Twila L. Hornbeck,683
 Boise,State Representative,8B,R,Twila L. Hornbeck,1104
 Gem,State Representative,8B,R,Twila L. Hornbeck,1338
@@ -932,9 +932,9 @@ Twin Falls,State Senate,25,R,Denton C Darrington,51
 Cassia,State Representative,25A,R,Jim D. Kempton,3591
 Minidoka,State Representative,25A,R,Jim D. Kempton,511
 Twin Falls,State Representative,25A,R,Jim D. Kempton,65
-Cassia,State Representative,25B,R,Bruce  Newcomb,3665
-Minidoka,State Representative,25B,R,Bruce  Newcomb,526
-Twin Falls,State Representative,25B,R,Bruce  Newcomb,68
+Cassia,State Representative,25B,R,Bruce Newcomb,3665
+Minidoka,State Representative,25B,R,Bruce Newcomb,526
+Twin Falls,State Representative,25B,R,Bruce Newcomb,68
 Clark,State Senate,26,R,Don M. Burtenshaw,252
 Custer,State Senate,26,R,Don M. Burtenshaw,1183
 Jefferson,State Senate,26,R,Don M. Burtenshaw,2560

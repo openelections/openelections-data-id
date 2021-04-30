@@ -598,18 +598,18 @@ Bonner,State Representative,1B,Rep,George E. Eskridge,5898
 Boundary,State Representative,1B,Rep,George E. Eskridge,2255
 Bonner,State Representative,1B,Dem,Jerry Stoicheff,5601
 Boundary,State Representative,1B,Dem,Jerry Stoicheff,1492
-Bonner,State Senate,LEG.  DIST. 2,Rep,Clyde Boatright,1552
-Kootenai,State Senate,LEG.  DIST. 2,Rep,Clyde Boatright,10960
-Bonner,State Senate,LEG.  DIST. 2,Con,Nelson Campbell,607
-Kootenai,State Senate,LEG.  DIST. 2,Con,Nelson Campbell,2249
-Bonner,State Senate,LEG.  DIST. 2,Ind,Don Hesselgesser,345
-Kootenai,State Senate,LEG.  DIST. 2,Ind,Don Hesselgesser,2529
-Bonner,State Representative,LEG.  DIST. 2A,Dem,Kristy Reed Johnson,817
-Kootenai,State Representative,LEG.  DIST. 2A,Dem,Kristy Reed Johnson,5916
-Bonner,State Representative,LEG.  DIST. 2A,Rep,Hilde Kellogg,1756
-Kootenai,State Representative,LEG.  DIST. 2A,Rep,Hilde Kellogg,10493
-Bonner,State Representative,LEG.  DIST. 2B,Rep,Wayne R. Meyer,2015
-Kootenai,State Representative,LEG.  DIST. 2B,Rep,Wayne R. Meyer,13531
+Bonner,State Senate,LEG. DIST. 2,Rep,Clyde Boatright,1552
+Kootenai,State Senate,LEG. DIST. 2,Rep,Clyde Boatright,10960
+Bonner,State Senate,LEG. DIST. 2,Con,Nelson Campbell,607
+Kootenai,State Senate,LEG. DIST. 2,Con,Nelson Campbell,2249
+Bonner,State Senate,LEG. DIST. 2,Ind,Don Hesselgesser,345
+Kootenai,State Senate,LEG. DIST. 2,Ind,Don Hesselgesser,2529
+Bonner,State Representative,LEG. DIST. 2A,Dem,Kristy Reed Johnson,817
+Kootenai,State Representative,LEG. DIST. 2A,Dem,Kristy Reed Johnson,5916
+Bonner,State Representative,LEG. DIST. 2A,Rep,Hilde Kellogg,1756
+Kootenai,State Representative,LEG. DIST. 2A,Rep,Hilde Kellogg,10493
+Bonner,State Representative,LEG. DIST. 2B,Rep,Wayne R. Meyer,2015
+Kootenai,State Representative,LEG. DIST. 2B,Rep,Wayne R. Meyer,13531
 Kootenai,State Senate,3,Con,Jim Gleixner,2803
 Kootenai,State Senate,3,Rep,John W Goedde,12843
 Kootenai,State Representative,3A,Rep,James W. Clark,13492
@@ -831,9 +831,9 @@ Twin Falls,State Senate,25,Rep,Denton Darrington,255
 Cassia,State Representative,25A,Rep,Jim D. Kempton,5933
 Minidoka,State Representative,25A,Rep,Jim D. Kempton,1529
 Twin Falls,State Representative,25A,Rep,Jim D. Kempton,239
-Cassia,State Representative,25B,Rep,Bruce  Newcomb,5896
-Minidoka,State Representative,25B,Rep,Bruce  Newcomb,1600
-Twin Falls,State Representative,25B,Rep,Bruce  Newcomb,245
+Cassia,State Representative,25B,Rep,Bruce Newcomb,5896
+Minidoka,State Representative,25B,Rep,Bruce Newcomb,1600
+Twin Falls,State Representative,25B,Rep,Bruce Newcomb,245
 Clark,State Senate,26,Rep,Don M. Burtenshaw,333
 Custer,State Senate,26,Rep,Don M. Burtenshaw,1769
 Jefferson,State Senate,26,Rep,Don M. Burtenshaw,6766

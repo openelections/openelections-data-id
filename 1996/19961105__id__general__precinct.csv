@@ -739,7 +739,7 @@ MADISON,5 Moody,President,NA,Lib.,Harry Browne,NA
 MADISON,6 Burton,President,NA,Lib.,Harry Browne,1
 MADISON,7 Rexburg,President,NA,Lib.,Harry Browne,4
 MADISON,8 Rexburg,President,NA,Lib.,Harry Browne,1
-MADISON,9  Rexburg,President,NA,Lib.,Harry Browne,3
+MADISON,9 Rexburg,President,NA,Lib.,Harry Browne,3
 MADISON,10 Rexburg,President,NA,Lib.,Harry Browne,2
 MADISON,11 Rexburg,President,NA,Lib.,Harry Browne,4
 MADISON,12 Rexburg,President,NA,Lib.,Harry Browne,1
@@ -1660,7 +1660,7 @@ MADISON,5 Moody,President,NA,Dem.,Bill Clinton,34
 MADISON,6 Burton,President,NA,Dem.,Bill Clinton,58
 MADISON,7 Rexburg,President,NA,Dem.,Bill Clinton,104
 MADISON,8 Rexburg,President,NA,Dem.,Bill Clinton,133
-MADISON,9  Rexburg,President,NA,Dem.,Bill Clinton,140
+MADISON,9 Rexburg,President,NA,Dem.,Bill Clinton,140
 MADISON,10 Rexburg,President,NA,Dem.,Bill Clinton,71
 MADISON,11 Rexburg,President,NA,Dem.,Bill Clinton,118
 MADISON,12 Rexburg,President,NA,Dem.,Bill Clinton,50
@@ -2581,7 +2581,7 @@ MADISON,5 Moody,President,NA,Rep.,Bob Dole,114
 MADISON,6 Burton,President,NA,Rep.,Bob Dole,356
 MADISON,7 Rexburg,President,NA,Rep.,Bob Dole,511
 MADISON,8 Rexburg,President,NA,Rep.,Bob Dole,497
-MADISON,9  Rexburg,President,NA,Rep.,Bob Dole,553
+MADISON,9 Rexburg,President,NA,Rep.,Bob Dole,553
 MADISON,10 Rexburg,President,NA,Rep.,Bob Dole,421
 MADISON,11 Rexburg,President,NA,Rep.,Bob Dole,669
 MADISON,12 Rexburg,President,NA,Rep.,Bob Dole,336
@@ -3502,7 +3502,7 @@ MADISON,5 Moody,President,NA,Nat.,John Hagelin,NA
 MADISON,6 Burton,President,NA,Nat.,John Hagelin,2
 MADISON,7 Rexburg,President,NA,Nat.,John Hagelin,3
 MADISON,8 Rexburg,President,NA,Nat.,John Hagelin,NA
-MADISON,9  Rexburg,President,NA,Nat.,John Hagelin,1
+MADISON,9 Rexburg,President,NA,Nat.,John Hagelin,1
 MADISON,10 Rexburg,President,NA,Nat.,John Hagelin,1
 MADISON,11 Rexburg,President,NA,Nat.,John Hagelin,NA
 MADISON,12 Rexburg,President,NA,Nat.,John Hagelin,NA
@@ -4423,7 +4423,7 @@ MADISON,5 Moody,President,NA,Ref.,Ross Perot,11
 MADISON,6 Burton,President,NA,Ref.,Ross Perot,58
 MADISON,7 Rexburg,President,NA,Ref.,Ross Perot,85
 MADISON,8 Rexburg,President,NA,Ref.,Ross Perot,83
-MADISON,9  Rexburg,President,NA,Ref.,Ross Perot,93
+MADISON,9 Rexburg,President,NA,Ref.,Ross Perot,93
 MADISON,10 Rexburg,President,NA,Ref.,Ross Perot,32
 MADISON,11 Rexburg,President,NA,Ref.,Ross Perot,48
 MADISON,12 Rexburg,President,NA,Ref.,Ross Perot,24
@@ -5344,7 +5344,7 @@ MADISON,5 Moody,President,NA,Ust.,Howard Phillips,NA
 MADISON,6 Burton,President,NA,Ust.,Howard Phillips,1
 MADISON,7 Rexburg,President,NA,Ust.,Howard Phillips,NA
 MADISON,8 Rexburg,President,NA,Ust.,Howard Phillips,1
-MADISON,9  Rexburg,President,NA,Ust.,Howard Phillips,2
+MADISON,9 Rexburg,President,NA,Ust.,Howard Phillips,2
 MADISON,10 Rexburg,President,NA,Ust.,Howard Phillips,1
 MADISON,11 Rexburg,President,NA,Ust.,Howard Phillips,NA
 MADISON,12 Rexburg,President,NA,Ust.,Howard Phillips,9
@@ -6265,7 +6265,7 @@ MADISON,5 Moody,United States Senate,NA,Ind.,Mary J. Charbonneau,2
 MADISON,6 Burton,United States Senate,NA,Ind.,Mary J. Charbonneau,7
 MADISON,7 Rexburg,United States Senate,NA,Ind.,Mary J. Charbonneau,15
 MADISON,8 Rexburg,United States Senate,NA,Ind.,Mary J. Charbonneau,7
-MADISON,9  Rexburg,United States Senate,NA,Ind.,Mary J. Charbonneau,19
+MADISON,9 Rexburg,United States Senate,NA,Ind.,Mary J. Charbonneau,19
 MADISON,10 Rexburg,United States Senate,NA,Ind.,Mary J. Charbonneau,8
 MADISON,11 Rexburg,United States Senate,NA,Ind.,Mary J. Charbonneau,7
 MADISON,12 Rexburg,United States Senate,NA,Ind.,Mary J. Charbonneau,3
@@ -7186,7 +7186,7 @@ MADISON,5 Moody,United States Senate,NA,Rep.,Larry Craig,129
 MADISON,6 Burton,United States Senate,NA,Rep.,Larry Craig,379
 MADISON,7 Rexburg,United States Senate,NA,Rep.,Larry Craig,547
 MADISON,8 Rexburg,United States Senate,NA,Rep.,Larry Craig,555
-MADISON,9  Rexburg,United States Senate,NA,Rep.,Larry Craig,583
+MADISON,9 Rexburg,United States Senate,NA,Rep.,Larry Craig,583
 MADISON,10 Rexburg,United States Senate,NA,Rep.,Larry Craig,392
 MADISON,11 Rexburg,United States Senate,NA,Rep.,Larry Craig,675
 MADISON,12 Rexburg,United States Senate,NA,Rep.,Larry Craig,372
@@ -8107,7 +8107,7 @@ MADISON,5 Moody,United States Senate,NA,Dem.,Walt Minnick,32
 MADISON,6 Burton,United States Senate,NA,Dem.,Walt Minnick,96
 MADISON,7 Rexburg,United States Senate,NA,Dem.,Walt Minnick,150
 MADISON,8 Rexburg,United States Senate,NA,Dem.,Walt Minnick,156
-MADISON,9  Rexburg,United States Senate,NA,Dem.,Walt Minnick,195
+MADISON,9 Rexburg,United States Senate,NA,Dem.,Walt Minnick,195
 MADISON,10 Rexburg,United States Senate,NA,Dem.,Walt Minnick,95
 MADISON,11 Rexburg,United States Senate,NA,Dem.,Walt Minnick,162
 MADISON,12 Rexburg,United States Senate,NA,Dem.,Walt Minnick,54
@@ -9028,7 +9028,7 @@ MADISON,5 Moody,United States Senate,NA,Nat.,Susan Vegors,3
 MADISON,6 Burton,United States Senate,NA,Nat.,Susan Vegors,7
 MADISON,7 Rexburg,United States Senate,NA,Nat.,Susan Vegors,13
 MADISON,8 Rexburg,United States Senate,NA,Nat.,Susan Vegors,7
-MADISON,9  Rexburg,United States Senate,NA,Nat.,Susan Vegors,6
+MADISON,9 Rexburg,United States Senate,NA,Nat.,Susan Vegors,6
 MADISON,10 Rexburg,United States Senate,NA,Nat.,Susan Vegors,4
 MADISON,11 Rexburg,United States Senate,NA,Nat.,Susan Vegors,7
 MADISON,12 Rexburg,United States Senate,NA,Nat.,Susan Vegors,4
@@ -9949,7 +9949,7 @@ MADISON,5 Moody,1st District,1,Nat.,Marion Ellis,NA
 MADISON,6 Burton,1st District,1,Nat.,Marion Ellis,NA
 MADISON,7 Rexburg,1st District,1,Nat.,Marion Ellis,NA
 MADISON,8 Rexburg,1st District,1,Nat.,Marion Ellis,NA
-MADISON,9  Rexburg,1st District,1,Nat.,Marion Ellis,NA
+MADISON,9 Rexburg,1st District,1,Nat.,Marion Ellis,NA
 MADISON,10 Rexburg,1st District,1,Nat.,Marion Ellis,NA
 MADISON,11 Rexburg,1st District,1,Nat.,Marion Ellis,NA
 MADISON,12 Rexburg,1st District,1,Nat.,Marion Ellis,NA
@@ -10870,7 +10870,7 @@ MADISON,5 Moody,1st District,1,Dem.,Dan Williams,NA
 MADISON,6 Burton,1st District,1,Dem.,Dan Williams,NA
 MADISON,7 Rexburg,1st District,1,Dem.,Dan Williams,NA
 MADISON,8 Rexburg,1st District,1,Dem.,Dan Williams,NA
-MADISON,9  Rexburg,1st District,1,Dem.,Dan Williams,NA
+MADISON,9 Rexburg,1st District,1,Dem.,Dan Williams,NA
 MADISON,10 Rexburg,1st District,1,Dem.,Dan Williams,NA
 MADISON,11 Rexburg,1st District,1,Dem.,Dan Williams,NA
 MADISON,12 Rexburg,1st District,1,Dem.,Dan Williams,NA
@@ -11791,7 +11791,7 @@ MADISON,5 Moody,2nd District,2,Nat.,John Butler,1
 MADISON,6 Burton,2nd District,2,Nat.,John Butler,4
 MADISON,7 Rexburg,2nd District,2,Nat.,John Butler,16
 MADISON,8 Rexburg,2nd District,2,Nat.,John Butler,5
-MADISON,9  Rexburg,2nd District,2,Nat.,John Butler,7
+MADISON,9 Rexburg,2nd District,2,Nat.,John Butler,7
 MADISON,10 Rexburg,2nd District,2,Nat.,John Butler,7
 MADISON,11 Rexburg,2nd District,2,Nat.,John Butler,4
 MADISON,12 Rexburg,2nd District,2,Nat.,John Butler,6
@@ -12712,7 +12712,7 @@ MADISON,5 Moody,2nd District,2,Rep.,Mike Crapo,139
 MADISON,6 Burton,2nd District,2,Rep.,Mike Crapo,423
 MADISON,7 Rexburg,2nd District,2,Rep.,Mike Crapo,623
 MADISON,8 Rexburg,2nd District,2,Rep.,Mike Crapo,644
-MADISON,9  Rexburg,2nd District,2,Rep.,Mike Crapo,679
+MADISON,9 Rexburg,2nd District,2,Rep.,Mike Crapo,679
 MADISON,10 Rexburg,2nd District,2,Rep.,Mike Crapo,439
 MADISON,11 Rexburg,2nd District,2,Rep.,Mike Crapo,740
 MADISON,12 Rexburg,2nd District,2,Rep.,Mike Crapo,400
@@ -13633,7 +13633,7 @@ MADISON,5 Moody,2nd District,2,Dem.,John D. Seidl,26
 MADISON,6 Burton,2nd District,2,Dem.,John D. Seidl,62
 MADISON,7 Rexburg,2nd District,2,Dem.,John D. Seidl,85
 MADISON,8 Rexburg,2nd District,2,Dem.,John D. Seidl,76
-MADISON,9  Rexburg,2nd District,2,Dem.,John D. Seidl,124
+MADISON,9 Rexburg,2nd District,2,Dem.,John D. Seidl,124
 MADISON,10 Rexburg,2nd District,2,Dem.,John D. Seidl,53
 MADISON,11 Rexburg,2nd District,2,Dem.,John D. Seidl,101
 MADISON,12 Rexburg,2nd District,2,Dem.,John D. Seidl,26
