@@ -722,7 +722,7 @@ MADISON,5 Moody,1st District,1,Dem.,Larry LaRocco,NA
 MADISON,6 Burton,1st District,1,Dem.,Larry LaRocco,NA
 MADISON,7 Rexburg,1st District,1,Dem.,Larry LaRocco,NA
 MADISON,8 Rexburg,1st District,1,Dem.,Larry LaRocco,NA
-MADISON,9  Rexburg,1st District,1,Dem.,Larry LaRocco,NA
+MADISON,9 Rexburg,1st District,1,Dem.,Larry LaRocco,NA
 MADISON,10 Rexburg,1st District,1,Dem.,Larry LaRocco,NA
 MADISON,11 Rexburg,1st District,1,Dem.,Larry LaRocco,NA
 MADISON,12 Rexburg,1st District,1,Dem.,Larry LaRocco,NA
@@ -797,7 +797,7 @@ OWYHEE,8 Oreana,1st District,1,Dem.,Larry LaRocco,9
 OWYHEE,9 Grand View,1st District,1,Dem.,Larry LaRocco,102
 OWYHEE,10 Bruneau,1st District,1,Dem.,Larry LaRocco,57
 OWYHEE,11 Riddle,1st District,1,Dem.,Larry LaRocco,33
-OWYHEE,12  Three Creek,1st District,1,Dem.,Larry LaRocco,13
+OWYHEE,12 Three Creek,1st District,1,Dem.,Larry LaRocco,13
 OWYHEE,Absentee,1st District,1,Dem.,Larry LaRocco,41
 PAYETTE,1,1st District,1,Dem.,Larry LaRocco,260
 PAYETTE,2,1st District,1,Dem.,Larry LaRocco,349
@@ -1626,7 +1626,7 @@ MADISON,5 Moody,2nd District,2,Rep.,Mike Crapo,142
 MADISON,6 Burton,2nd District,2,Rep.,Mike Crapo,392
 MADISON,7 Rexburg,2nd District,2,Rep.,Mike Crapo,508
 MADISON,8 Rexburg,2nd District,2,Rep.,Mike Crapo,548
-MADISON,9  Rexburg,2nd District,2,Rep.,Mike Crapo,597
+MADISON,9 Rexburg,2nd District,2,Rep.,Mike Crapo,597
 MADISON,10 Rexburg,2nd District,2,Rep.,Mike Crapo,238
 MADISON,11 Rexburg,2nd District,2,Rep.,Mike Crapo,730
 MADISON,12 Rexburg,2nd District,2,Rep.,Mike Crapo,314
@@ -1701,7 +1701,7 @@ OWYHEE,8 Oreana,2nd District,2,Rep.,Mike Crapo,NA
 OWYHEE,9 Grand View,2nd District,2,Rep.,Mike Crapo,NA
 OWYHEE,10 Bruneau,2nd District,2,Rep.,Mike Crapo,NA
 OWYHEE,11 Riddle,2nd District,2,Rep.,Mike Crapo,NA
-OWYHEE,12  Three Creek,2nd District,2,Rep.,Mike Crapo,NA
+OWYHEE,12 Three Creek,2nd District,2,Rep.,Mike Crapo,NA
 OWYHEE,Absentee,2nd District,2,Rep.,Mike Crapo,NA
 PAYETTE,1,2nd District,2,Rep.,Mike Crapo,NA
 PAYETTE,2,2nd District,2,Rep.,Mike Crapo,NA
@@ -2530,7 +2530,7 @@ MADISON,5 Moody,2nd District,2,Dem.,Penny Fletcher,14
 MADISON,6 Burton,2nd District,2,Dem.,Penny Fletcher,31
 MADISON,7 Rexburg,2nd District,2,Dem.,Penny Fletcher,69
 MADISON,8 Rexburg,2nd District,2,Dem.,Penny Fletcher,51
-MADISON,9  Rexburg,2nd District,2,Dem.,Penny Fletcher,73
+MADISON,9 Rexburg,2nd District,2,Dem.,Penny Fletcher,73
 MADISON,10 Rexburg,2nd District,2,Dem.,Penny Fletcher,32
 MADISON,11 Rexburg,2nd District,2,Dem.,Penny Fletcher,92
 MADISON,12 Rexburg,2nd District,2,Dem.,Penny Fletcher,25
@@ -2605,7 +2605,7 @@ OWYHEE,8 Oreana,2nd District,2,Dem.,Penny Fletcher,NA
 OWYHEE,9 Grand View,2nd District,2,Dem.,Penny Fletcher,NA
 OWYHEE,10 Bruneau,2nd District,2,Dem.,Penny Fletcher,NA
 OWYHEE,11 Riddle,2nd District,2,Dem.,Penny Fletcher,NA
-OWYHEE,12  Three Creek,2nd District,2,Dem.,Penny Fletcher,NA
+OWYHEE,12 Three Creek,2nd District,2,Dem.,Penny Fletcher,NA
 OWYHEE,Absentee,2nd District,2,Dem.,Penny Fletcher,NA
 PAYETTE,1,2nd District,2,Dem.,Penny Fletcher,NA
 PAYETTE,2,2nd District,2,Dem.,Penny Fletcher,NA
@@ -3434,7 +3434,7 @@ MADISON,5 Moody,Governor,NA,Rep.,Phil Batt,102
 MADISON,6 Burton,Governor,NA,Rep.,Phil Batt,219
 MADISON,7 Rexburg,Governor,NA,Rep.,Phil Batt,281
 MADISON,8 Rexburg,Governor,NA,Rep.,Phil Batt,307
-MADISON,9  Rexburg,Governor,NA,Rep.,Phil Batt,289
+MADISON,9 Rexburg,Governor,NA,Rep.,Phil Batt,289
 MADISON,10 Rexburg,Governor,NA,Rep.,Phil Batt,120
 MADISON,11 Rexburg,Governor,NA,Rep.,Phil Batt,382
 MADISON,12 Rexburg,Governor,NA,Rep.,Phil Batt,182
@@ -3509,7 +3509,7 @@ OWYHEE,8 Oreana,Governor,NA,Rep.,Phil Batt,71
 OWYHEE,9 Grand View,Governor,NA,Rep.,Phil Batt,235
 OWYHEE,10 Bruneau,Governor,NA,Rep.,Phil Batt,224
 OWYHEE,11 Riddle,Governor,NA,Rep.,Phil Batt,15
-OWYHEE,12  Three Creek,Governor,NA,Rep.,Phil Batt,15
+OWYHEE,12 Three Creek,Governor,NA,Rep.,Phil Batt,15
 OWYHEE,Absentee,Governor,NA,Rep.,Phil Batt,106
 PAYETTE,1,Governor,NA,Rep.,Phil Batt,373
 PAYETTE,2,Governor,NA,Rep.,Phil Batt,631
@@ -4338,7 +4338,7 @@ MADISON,5 Moody,Governor,NA,Dem.,Larry EchoHawk,55
 MADISON,6 Burton,Governor,NA,Dem.,Larry EchoHawk,186
 MADISON,7 Rexburg,Governor,NA,Dem.,Larry EchoHawk,267
 MADISON,8 Rexburg,Governor,NA,Dem.,Larry EchoHawk,278
-MADISON,9  Rexburg,Governor,NA,Dem.,Larry EchoHawk,361
+MADISON,9 Rexburg,Governor,NA,Dem.,Larry EchoHawk,361
 MADISON,10 Rexburg,Governor,NA,Dem.,Larry EchoHawk,155
 MADISON,11 Rexburg,Governor,NA,Dem.,Larry EchoHawk,448
 MADISON,12 Rexburg,Governor,NA,Dem.,Larry EchoHawk,149
@@ -4413,7 +4413,7 @@ OWYHEE,8 Oreana,Governor,NA,Dem.,Larry EchoHawk,8
 OWYHEE,9 Grand View,Governor,NA,Dem.,Larry EchoHawk,69
 OWYHEE,10 Bruneau,Governor,NA,Dem.,Larry EchoHawk,42
 OWYHEE,11 Riddle,Governor,NA,Dem.,Larry EchoHawk,31
-OWYHEE,12  Three Creek,Governor,NA,Dem.,Larry EchoHawk,21
+OWYHEE,12 Three Creek,Governor,NA,Dem.,Larry EchoHawk,21
 OWYHEE,Absentee,Governor,NA,Dem.,Larry EchoHawk,37
 PAYETTE,1,Governor,NA,Dem.,Larry EchoHawk,252
 PAYETTE,2,Governor,NA,Dem.,Larry EchoHawk,371
@@ -5242,7 +5242,7 @@ MADISON,5 Moody,Governor,NA,W/I,Steven Pallesen,0
 MADISON,6 Burton,Governor,NA,W/I,Steven Pallesen,0
 MADISON,7 Rexburg,Governor,NA,W/I,Steven Pallesen,0
 MADISON,8 Rexburg,Governor,NA,W/I,Steven Pallesen,0
-MADISON,9  Rexburg,Governor,NA,W/I,Steven Pallesen,0
+MADISON,9 Rexburg,Governor,NA,W/I,Steven Pallesen,0
 MADISON,10 Rexburg,Governor,NA,W/I,Steven Pallesen,0
 MADISON,11 Rexburg,Governor,NA,W/I,Steven Pallesen,0
 MADISON,12 Rexburg,Governor,NA,W/I,Steven Pallesen,0
@@ -5317,7 +5317,7 @@ OWYHEE,8 Oreana,Governor,NA,W/I,Steven Pallesen,0
 OWYHEE,9 Grand View,Governor,NA,W/I,Steven Pallesen,0
 OWYHEE,10 Bruneau,Governor,NA,W/I,Steven Pallesen,0
 OWYHEE,11 Riddle,Governor,NA,W/I,Steven Pallesen,0
-OWYHEE,12  Three Creek,Governor,NA,W/I,Steven Pallesen,0
+OWYHEE,12 Three Creek,Governor,NA,W/I,Steven Pallesen,0
 OWYHEE,Absentee,Governor,NA,W/I,Steven Pallesen,0
 PAYETTE,1,Governor,NA,W/I,Steven Pallesen,0
 PAYETTE,2,Governor,NA,W/I,Steven Pallesen,0
@@ -6146,7 +6146,7 @@ MADISON,5 Moody,Governor,NA,Ind.,Ronald D. (Ron) Rankin,0
 MADISON,6 Burton,Governor,NA,Ind.,Ronald D. (Ron) Rankin,17
 MADISON,7 Rexburg,Governor,NA,Ind.,Ronald D. (Ron) Rankin,27
 MADISON,8 Rexburg,Governor,NA,Ind.,Ronald D. (Ron) Rankin,19
-MADISON,9  Rexburg,Governor,NA,Ind.,Ronald D. (Ron) Rankin,23
+MADISON,9 Rexburg,Governor,NA,Ind.,Ronald D. (Ron) Rankin,23
 MADISON,10 Rexburg,Governor,NA,Ind.,Ronald D. (Ron) Rankin,1
 MADISON,11 Rexburg,Governor,NA,Ind.,Ronald D. (Ron) Rankin,7
 MADISON,12 Rexburg,Governor,NA,Ind.,Ronald D. (Ron) Rankin,4
@@ -6221,7 +6221,7 @@ OWYHEE,8 Oreana,Governor,NA,Ind.,Ronald D. (Ron) Rankin,2
 OWYHEE,9 Grand View,Governor,NA,Ind.,Ronald D. (Ron) Rankin,12
 OWYHEE,10 Bruneau,Governor,NA,Ind.,Ronald D. (Ron) Rankin,14
 OWYHEE,11 Riddle,Governor,NA,Ind.,Ronald D. (Ron) Rankin,4
-OWYHEE,12  Three Creek,Governor,NA,Ind.,Ronald D. (Ron) Rankin,1
+OWYHEE,12 Three Creek,Governor,NA,Ind.,Ronald D. (Ron) Rankin,1
 OWYHEE,Absentee,Governor,NA,Ind.,Ronald D. (Ron) Rankin,3
 PAYETTE,1,Governor,NA,Ind.,Ronald D. (Ron) Rankin,27
 PAYETTE,2,Governor,NA,Ind.,Ronald D. (Ron) Rankin,40
@@ -7050,7 +7050,7 @@ MADISON,5 Moody,Governor,NA,Rep.,"C.L. ""Butch"" Otter",76
 MADISON,6 Burton,Governor,NA,Rep.,"C.L. ""Butch"" Otter",223
 MADISON,7 Rexburg,Governor,NA,Rep.,"C.L. ""Butch"" Otter",319
 MADISON,8 Rexburg,Governor,NA,Rep.,"C.L. ""Butch"" Otter",352
-MADISON,9  Rexburg,Governor,NA,Rep.,"C.L. ""Butch"" Otter",361
+MADISON,9 Rexburg,Governor,NA,Rep.,"C.L. ""Butch"" Otter",361
 MADISON,10 Rexburg,Governor,NA,Rep.,"C.L. ""Butch"" Otter",153
 MADISON,11 Rexburg,Governor,NA,Rep.,"C.L. ""Butch"" Otter",506
 MADISON,12 Rexburg,Governor,NA,Rep.,"C.L. ""Butch"" Otter",210
@@ -7125,7 +7125,7 @@ OWYHEE,8 Oreana,Governor,NA,Rep.,"C.L. ""Butch"" Otter",55
 OWYHEE,9 Grand View,Governor,NA,Rep.,"C.L. ""Butch"" Otter",191
 OWYHEE,10 Bruneau,Governor,NA,Rep.,"C.L. ""Butch"" Otter",212
 OWYHEE,11 Riddle,Governor,NA,Rep.,"C.L. ""Butch"" Otter",17
-OWYHEE,12  Three Creek,Governor,NA,Rep.,"C.L. ""Butch"" Otter",21
+OWYHEE,12 Three Creek,Governor,NA,Rep.,"C.L. ""Butch"" Otter",21
 OWYHEE,Absentee,Governor,NA,Rep.,"C.L. ""Butch"" Otter",101
 PAYETTE,1,Governor,NA,Rep.,"C.L. ""Butch"" Otter",391
 PAYETTE,2,Governor,NA,Rep.,"C.L. ""Butch"" Otter",661
@@ -7954,7 +7954,7 @@ MADISON,5 Moody,Governor,NA,Dem.,John Peavey,78
 MADISON,6 Burton,Governor,NA,Dem.,John Peavey,194
 MADISON,7 Rexburg,Governor,NA,Dem.,John Peavey,238
 MADISON,8 Rexburg,Governor,NA,Dem.,John Peavey,232
-MADISON,9  Rexburg,Governor,NA,Dem.,John Peavey,296
+MADISON,9 Rexburg,Governor,NA,Dem.,John Peavey,296
 MADISON,10 Rexburg,Governor,NA,Dem.,John Peavey,106
 MADISON,11 Rexburg,Governor,NA,Dem.,John Peavey,308
 MADISON,12 Rexburg,Governor,NA,Dem.,John Peavey,129
@@ -8029,7 +8029,7 @@ OWYHEE,8 Oreana,Governor,NA,Dem.,John Peavey,25
 OWYHEE,9 Grand View,Governor,NA,Dem.,John Peavey,112
 OWYHEE,10 Bruneau,Governor,NA,Dem.,John Peavey,67
 OWYHEE,11 Riddle,Governor,NA,Dem.,John Peavey,26
-OWYHEE,12  Three Creek,Governor,NA,Dem.,John Peavey,16
+OWYHEE,12 Three Creek,Governor,NA,Dem.,John Peavey,16
 OWYHEE,Absentee,Governor,NA,Dem.,John Peavey,41
 PAYETTE,1,Governor,NA,Dem.,John Peavey,251
 PAYETTE,2,Governor,NA,Dem.,John Peavey,370
@@ -8858,7 +8858,7 @@ MADISON,5 Moody,of State,NA,Rep.,Pete T. Cenarrusa,115
 MADISON,6 Burton,of State,NA,Rep.,Pete T. Cenarrusa,305
 MADISON,7 Rexburg,of State,NA,Rep.,Pete T. Cenarrusa,390
 MADISON,8 Rexburg,of State,NA,Rep.,Pete T. Cenarrusa,444
-MADISON,9  Rexburg,of State,NA,Rep.,Pete T. Cenarrusa,436
+MADISON,9 Rexburg,of State,NA,Rep.,Pete T. Cenarrusa,436
 MADISON,10 Rexburg,of State,NA,Rep.,Pete T. Cenarrusa,192
 MADISON,11 Rexburg,of State,NA,Rep.,Pete T. Cenarrusa,615
 MADISON,12 Rexburg,of State,NA,Rep.,Pete T. Cenarrusa,267
@@ -8933,7 +8933,7 @@ OWYHEE,8 Oreana,of State,NA,Rep.,Pete T. Cenarrusa,65
 OWYHEE,9 Grand View,of State,NA,Rep.,Pete T. Cenarrusa,253
 OWYHEE,10 Bruneau,of State,NA,Rep.,Pete T. Cenarrusa,236
 OWYHEE,11 Riddle,of State,NA,Rep.,Pete T. Cenarrusa,21
-OWYHEE,12  Three Creek,of State,NA,Rep.,Pete T. Cenarrusa,32
+OWYHEE,12 Three Creek,of State,NA,Rep.,Pete T. Cenarrusa,32
 OWYHEE,Absentee,of State,NA,Rep.,Pete T. Cenarrusa,108
 PAYETTE,1,of State,NA,Rep.,Pete T. Cenarrusa,456
 PAYETTE,2,of State,NA,Rep.,Pete T. Cenarrusa,782
@@ -9762,7 +9762,7 @@ MADISON,5 Moody,of State,NA,Dem.,Edith M. Stanger,38
 MADISON,6 Burton,of State,NA,Dem.,Edith M. Stanger,116
 MADISON,7 Rexburg,of State,NA,Dem.,Edith M. Stanger,158
 MADISON,8 Rexburg,of State,NA,Dem.,Edith M. Stanger,150
-MADISON,9  Rexburg,of State,NA,Dem.,Edith M. Stanger,211
+MADISON,9 Rexburg,of State,NA,Dem.,Edith M. Stanger,211
 MADISON,10 Rexburg,of State,NA,Dem.,Edith M. Stanger,66
 MADISON,11 Rexburg,of State,NA,Dem.,Edith M. Stanger,197
 MADISON,12 Rexburg,of State,NA,Dem.,Edith M. Stanger,69
@@ -9837,7 +9837,7 @@ OWYHEE,8 Oreana,of State,NA,Dem.,Edith M. Stanger,13
 OWYHEE,9 Grand View,of State,NA,Dem.,Edith M. Stanger,52
 OWYHEE,10 Bruneau,of State,NA,Dem.,Edith M. Stanger,39
 OWYHEE,11 Riddle,of State,NA,Dem.,Edith M. Stanger,21
-OWYHEE,12  Three Creek,of State,NA,Dem.,Edith M. Stanger,6
+OWYHEE,12 Three Creek,of State,NA,Dem.,Edith M. Stanger,6
 OWYHEE,Absentee,of State,NA,Dem.,Edith M. Stanger,32
 PAYETTE,1,of State,NA,Dem.,Edith M. Stanger,162
 PAYETTE,2,of State,NA,Dem.,Edith M. Stanger,225
@@ -10666,7 +10666,7 @@ MADISON,5 Moody,Auditor,NA,Rep.,Ralph J. Gines,73
 MADISON,6 Burton,Auditor,NA,Rep.,Ralph J. Gines,232
 MADISON,7 Rexburg,Auditor,NA,Rep.,Ralph J. Gines,306
 MADISON,8 Rexburg,Auditor,NA,Rep.,Ralph J. Gines,332
-MADISON,9  Rexburg,Auditor,NA,Rep.,Ralph J. Gines,344
+MADISON,9 Rexburg,Auditor,NA,Rep.,Ralph J. Gines,344
 MADISON,10 Rexburg,Auditor,NA,Rep.,Ralph J. Gines,147
 MADISON,11 Rexburg,Auditor,NA,Rep.,Ralph J. Gines,457
 MADISON,12 Rexburg,Auditor,NA,Rep.,Ralph J. Gines,199
@@ -10741,7 +10741,7 @@ OWYHEE,8 Oreana,Auditor,NA,Rep.,Ralph J. Gines,52
 OWYHEE,9 Grand View,Auditor,NA,Rep.,Ralph J. Gines,165
 OWYHEE,10 Bruneau,Auditor,NA,Rep.,Ralph J. Gines,164
 OWYHEE,11 Riddle,Auditor,NA,Rep.,Ralph J. Gines,17
-OWYHEE,12  Three Creek,Auditor,NA,Rep.,Ralph J. Gines,21
+OWYHEE,12 Three Creek,Auditor,NA,Rep.,Ralph J. Gines,21
 OWYHEE,Absentee,Auditor,NA,Rep.,Ralph J. Gines,79
 PAYETTE,1,Auditor,NA,Rep.,Ralph J. Gines,352
 PAYETTE,2,Auditor,NA,Rep.,Ralph J. Gines,584
@@ -11570,7 +11570,7 @@ MADISON,5 Moody,Auditor,NA,Dem.,J.D. Williams,78
 MADISON,6 Burton,Auditor,NA,Dem.,J.D. Williams,185
 MADISON,7 Rexburg,Auditor,NA,Dem.,J.D. Williams,256
 MADISON,8 Rexburg,Auditor,NA,Dem.,J.D. Williams,262
-MADISON,9  Rexburg,Auditor,NA,Dem.,J.D. Williams,310
+MADISON,9 Rexburg,Auditor,NA,Dem.,J.D. Williams,310
 MADISON,10 Rexburg,Auditor,NA,Dem.,J.D. Williams,112
 MADISON,11 Rexburg,Auditor,NA,Dem.,J.D. Williams,357
 MADISON,12 Rexburg,Auditor,NA,Dem.,J.D. Williams,132
@@ -11645,7 +11645,7 @@ OWYHEE,8 Oreana,Auditor,NA,Dem.,J.D. Williams,28
 OWYHEE,9 Grand View,Auditor,NA,Dem.,J.D. Williams,139
 OWYHEE,10 Bruneau,Auditor,NA,Dem.,J.D. Williams,107
 OWYHEE,11 Riddle,Auditor,NA,Dem.,J.D. Williams,27
-OWYHEE,12  Three Creek,Auditor,NA,Dem.,J.D. Williams,17
+OWYHEE,12 Three Creek,Auditor,NA,Dem.,J.D. Williams,17
 OWYHEE,Absentee,Auditor,NA,Dem.,J.D. Williams,65
 PAYETTE,1,Auditor,NA,Dem.,J.D. Williams,276
 PAYETTE,2,Auditor,NA,Dem.,J.D. Williams,420
@@ -12474,7 +12474,7 @@ MADISON,5 Moody,Treasurer,NA,Rep.,Lydia Justice Edwards,140
 MADISON,6 Burton,Treasurer,NA,Rep.,Lydia Justice Edwards,396
 MADISON,7 Rexburg,Treasurer,NA,Rep.,Lydia Justice Edwards,522
 MADISON,8 Rexburg,Treasurer,NA,Rep.,Lydia Justice Edwards,561
-MADISON,9  Rexburg,Treasurer,NA,Rep.,Lydia Justice Edwards,584
+MADISON,9 Rexburg,Treasurer,NA,Rep.,Lydia Justice Edwards,584
 MADISON,10 Rexburg,Treasurer,NA,Rep.,Lydia Justice Edwards,247
 MADISON,11 Rexburg,Treasurer,NA,Rep.,Lydia Justice Edwards,735
 MADISON,12 Rexburg,Treasurer,NA,Rep.,Lydia Justice Edwards,311
@@ -12549,7 +12549,7 @@ OWYHEE,8 Oreana,Treasurer,NA,Rep.,Lydia Justice Edwards,71
 OWYHEE,9 Grand View,Treasurer,NA,Rep.,Lydia Justice Edwards,270
 OWYHEE,10 Bruneau,Treasurer,NA,Rep.,Lydia Justice Edwards,245
 OWYHEE,11 Riddle,Treasurer,NA,Rep.,Lydia Justice Edwards,30
-OWYHEE,12  Three Creek,Treasurer,NA,Rep.,Lydia Justice Edwards,34
+OWYHEE,12 Three Creek,Treasurer,NA,Rep.,Lydia Justice Edwards,34
 OWYHEE,Absentee,Treasurer,NA,Rep.,Lydia Justice Edwards,131
 PAYETTE,1,Treasurer,NA,Rep.,Lydia Justice Edwards,533
 PAYETTE,2,Treasurer,NA,Rep.,Lydia Justice Edwards,892
@@ -13378,7 +13378,7 @@ MADISON,5 Moody,Treasurer,NA,W/I,Ronald Gerald Zebell,0
 MADISON,6 Burton,Treasurer,NA,W/I,Ronald Gerald Zebell,0
 MADISON,7 Rexburg,Treasurer,NA,W/I,Ronald Gerald Zebell,0
 MADISON,8 Rexburg,Treasurer,NA,W/I,Ronald Gerald Zebell,0
-MADISON,9  Rexburg,Treasurer,NA,W/I,Ronald Gerald Zebell,0
+MADISON,9 Rexburg,Treasurer,NA,W/I,Ronald Gerald Zebell,0
 MADISON,10 Rexburg,Treasurer,NA,W/I,Ronald Gerald Zebell,0
 MADISON,11 Rexburg,Treasurer,NA,W/I,Ronald Gerald Zebell,0
 MADISON,12 Rexburg,Treasurer,NA,W/I,Ronald Gerald Zebell,0
@@ -13453,7 +13453,7 @@ OWYHEE,8 Oreana,Treasurer,NA,W/I,Ronald Gerald Zebell,NA
 OWYHEE,9 Grand View,Treasurer,NA,W/I,Ronald Gerald Zebell,0
 OWYHEE,10 Bruneau,Treasurer,NA,W/I,Ronald Gerald Zebell,0
 OWYHEE,11 Riddle,Treasurer,NA,W/I,Ronald Gerald Zebell,0
-OWYHEE,12  Three Creek,Treasurer,NA,W/I,Ronald Gerald Zebell,2
+OWYHEE,12 Three Creek,Treasurer,NA,W/I,Ronald Gerald Zebell,2
 OWYHEE,Absentee,Treasurer,NA,W/I,Ronald Gerald Zebell,0
 PAYETTE,1,Treasurer,NA,W/I,Ronald Gerald Zebell,0
 PAYETTE,2,Treasurer,NA,W/I,Ronald Gerald Zebell,0
@@ -14282,7 +14282,7 @@ MADISON,5 Moody,General,NA,Dem.,Mike Burkett,52
 MADISON,6 Burton,General,NA,Dem.,Mike Burkett,141
 MADISON,7 Rexburg,General,NA,Dem.,Mike Burkett,187
 MADISON,8 Rexburg,General,NA,Dem.,Mike Burkett,194
-MADISON,9  Rexburg,General,NA,Dem.,Mike Burkett,262
+MADISON,9 Rexburg,General,NA,Dem.,Mike Burkett,262
 MADISON,10 Rexburg,General,NA,Dem.,Mike Burkett,91
 MADISON,11 Rexburg,General,NA,Dem.,Mike Burkett,258
 MADISON,12 Rexburg,General,NA,Dem.,Mike Burkett,91
@@ -14357,7 +14357,7 @@ OWYHEE,8 Oreana,General,NA,Dem.,Mike Burkett,17
 OWYHEE,9 Grand View,General,NA,Dem.,Mike Burkett,85
 OWYHEE,10 Bruneau,General,NA,Dem.,Mike Burkett,64
 OWYHEE,11 Riddle,General,NA,Dem.,Mike Burkett,22
-OWYHEE,12  Three Creek,General,NA,Dem.,Mike Burkett,12
+OWYHEE,12 Three Creek,General,NA,Dem.,Mike Burkett,12
 OWYHEE,Absentee,General,NA,Dem.,Mike Burkett,49
 PAYETTE,1,General,NA,Dem.,Mike Burkett,247
 PAYETTE,2,General,NA,Dem.,Mike Burkett,356
@@ -15186,7 +15186,7 @@ MADISON,5 Moody,General,NA,Rep.,Alan G. Lance,95
 MADISON,6 Burton,General,NA,Rep.,Alan G. Lance,277
 MADISON,7 Rexburg,General,NA,Rep.,Alan G. Lance,363
 MADISON,8 Rexburg,General,NA,Rep.,Alan G. Lance,389
-MADISON,9  Rexburg,General,NA,Rep.,Alan G. Lance,385
+MADISON,9 Rexburg,General,NA,Rep.,Alan G. Lance,385
 MADISON,10 Rexburg,General,NA,Rep.,Alan G. Lance,168
 MADISON,11 Rexburg,General,NA,Rep.,Alan G. Lance,547
 MADISON,12 Rexburg,General,NA,Rep.,Alan G. Lance,240
@@ -15261,7 +15261,7 @@ OWYHEE,8 Oreana,General,NA,Rep.,Alan G. Lance,60
 OWYHEE,9 Grand View,General,NA,Rep.,Alan G. Lance,215
 OWYHEE,10 Bruneau,General,NA,Rep.,Alan G. Lance,208
 OWYHEE,11 Riddle,General,NA,Rep.,Alan G. Lance,15
-OWYHEE,12  Three Creek,General,NA,Rep.,Alan G. Lance,26
+OWYHEE,12 Three Creek,General,NA,Rep.,Alan G. Lance,26
 OWYHEE,Absentee,General,NA,Rep.,Alan G. Lance,90
 PAYETTE,1,General,NA,Rep.,Alan G. Lance,373
 PAYETTE,2,General,NA,Rep.,Alan G. Lance,657
@@ -16090,7 +16090,7 @@ MADISON,5 Moody,Publ Instr,NA,Rep.,Anne C. Fox,108
 MADISON,6 Burton,Publ Instr,NA,Rep.,Anne C. Fox,278
 MADISON,7 Rexburg,Publ Instr,NA,Rep.,Anne C. Fox,359
 MADISON,8 Rexburg,Publ Instr,NA,Rep.,Anne C. Fox,377
-MADISON,9  Rexburg,Publ Instr,NA,Rep.,Anne C. Fox,409
+MADISON,9 Rexburg,Publ Instr,NA,Rep.,Anne C. Fox,409
 MADISON,10 Rexburg,Publ Instr,NA,Rep.,Anne C. Fox,161
 MADISON,11 Rexburg,Publ Instr,NA,Rep.,Anne C. Fox,505
 MADISON,12 Rexburg,Publ Instr,NA,Rep.,Anne C. Fox,248
@@ -16165,7 +16165,7 @@ OWYHEE,8 Oreana,Publ Instr,NA,Rep.,Anne C. Fox,59
 OWYHEE,9 Grand View,Publ Instr,NA,Rep.,Anne C. Fox,203
 OWYHEE,10 Bruneau,Publ Instr,NA,Rep.,Anne C. Fox,211
 OWYHEE,11 Riddle,Publ Instr,NA,Rep.,Anne C. Fox,18
-OWYHEE,12  Three Creek,Publ Instr,NA,Rep.,Anne C. Fox,25
+OWYHEE,12 Three Creek,Publ Instr,NA,Rep.,Anne C. Fox,25
 OWYHEE,Absentee,Publ Instr,NA,Rep.,Anne C. Fox,98
 PAYETTE,1,Publ Instr,NA,Rep.,Anne C. Fox,351
 PAYETTE,2,Publ Instr,NA,Rep.,Anne C. Fox,523
@@ -16994,7 +16994,7 @@ MADISON,5 Moody,Publ Instr,NA,Dem.,Will E. Sullivan,42
 MADISON,6 Burton,Publ Instr,NA,Dem.,Will E. Sullivan,139
 MADISON,7 Rexburg,Publ Instr,NA,Dem.,Will E. Sullivan,187
 MADISON,8 Rexburg,Publ Instr,NA,Dem.,Will E. Sullivan,212
-MADISON,9  Rexburg,Publ Instr,NA,Dem.,Will E. Sullivan,238
+MADISON,9 Rexburg,Publ Instr,NA,Dem.,Will E. Sullivan,238
 MADISON,10 Rexburg,Publ Instr,NA,Dem.,Will E. Sullivan,98
 MADISON,11 Rexburg,Publ Instr,NA,Dem.,Will E. Sullivan,300
 MADISON,12 Rexburg,Publ Instr,NA,Dem.,Will E. Sullivan,86
@@ -17069,7 +17069,7 @@ OWYHEE,8 Oreana,Publ Instr,NA,Dem.,Will E. Sullivan,19
 OWYHEE,9 Grand View,Publ Instr,NA,Dem.,Will E. Sullivan,97
 OWYHEE,10 Bruneau,Publ Instr,NA,Dem.,Will E. Sullivan,59
 OWYHEE,11 Riddle,Publ Instr,NA,Dem.,Will E. Sullivan,23
-OWYHEE,12  Three Creek,Publ Instr,NA,Dem.,Will E. Sullivan,13
+OWYHEE,12 Three Creek,Publ Instr,NA,Dem.,Will E. Sullivan,13
 OWYHEE,Absentee,Publ Instr,NA,Dem.,Will E. Sullivan,42
 PAYETTE,1,Publ Instr,NA,Dem.,Will E. Sullivan,289
 PAYETTE,2,Publ Instr,NA,Dem.,Will E. Sullivan,493
@@ -17898,7 +17898,7 @@ MADISON,5 Moody,Statistics,NA,NA,# Election Day Registrants,11
 MADISON,6 Burton,Statistics,NA,NA,# Election Day Registrants,23
 MADISON,7 Rexburg,Statistics,NA,NA,# Election Day Registrants,59
 MADISON,8 Rexburg,Statistics,NA,NA,# Election Day Registrants,46
-MADISON,9  Rexburg,Statistics,NA,NA,# Election Day Registrants,94
+MADISON,9 Rexburg,Statistics,NA,NA,# Election Day Registrants,94
 MADISON,10 Rexburg,Statistics,NA,NA,# Election Day Registrants,48
 MADISON,11 Rexburg,Statistics,NA,NA,# Election Day Registrants,90
 MADISON,12 Rexburg,Statistics,NA,NA,# Election Day Registrants,29
@@ -17973,7 +17973,7 @@ OWYHEE,8 Oreana,Statistics,NA,NA,# Election Day Registrants,8
 OWYHEE,9 Grand View,Statistics,NA,NA,# Election Day Registrants,37
 OWYHEE,10 Bruneau,Statistics,NA,NA,# Election Day Registrants,31
 OWYHEE,11 Riddle,Statistics,NA,NA,# Election Day Registrants,12
-OWYHEE,12  Three Creek,Statistics,NA,NA,# Election Day Registrants,3
+OWYHEE,12 Three Creek,Statistics,NA,NA,# Election Day Registrants,3
 OWYHEE,Absentee,Statistics,NA,NA,# Election Day Registrants,0
 PAYETTE,1,Statistics,NA,NA,# Election Day Registrants,55
 PAYETTE,2,Statistics,NA,NA,# Election Day Registrants,68
@@ -18802,7 +18802,7 @@ MADISON,5 Moody,Statistics,NA,NA,Total # Registered Voters,215
 MADISON,6 Burton,Statistics,NA,NA,Total # Registered Voters,650
 MADISON,7 Rexburg,Statistics,NA,NA,Total # Registered Voters,1019
 MADISON,8 Rexburg,Statistics,NA,NA,Total # Registered Voters,983
-MADISON,9  Rexburg,Statistics,NA,NA,Total # Registered Voters,1359
+MADISON,9 Rexburg,Statistics,NA,NA,Total # Registered Voters,1359
 MADISON,10 Rexburg,Statistics,NA,NA,Total # Registered Voters,696
 MADISON,11 Rexburg,Statistics,NA,NA,Total # Registered Voters,1280
 MADISON,12 Rexburg,Statistics,NA,NA,Total # Registered Voters,489
@@ -18877,7 +18877,7 @@ OWYHEE,8 Oreana,Statistics,NA,NA,Total # Registered Voters,106
 OWYHEE,9 Grand View,Statistics,NA,NA,Total # Registered Voters,467
 OWYHEE,10 Bruneau,Statistics,NA,NA,Total # Registered Voters,350
 OWYHEE,11 Riddle,Statistics,NA,NA,Total # Registered Voters,87
-OWYHEE,12  Three Creek,Statistics,NA,NA,Total # Registered Voters,49
+OWYHEE,12 Three Creek,Statistics,NA,NA,Total # Registered Voters,49
 OWYHEE,Absentee,Statistics,NA,NA,Total # Registered Voters,152
 PAYETTE,1,Statistics,NA,NA,Total # Registered Voters,1145
 PAYETTE,2,Statistics,NA,NA,Total # Registered Voters,1508
@@ -19706,7 +19706,7 @@ MADISON,5 Moody,Statistics,NA,NA,# Ballots Cast,157
 MADISON,6 Burton,Statistics,NA,NA,# Ballots Cast,424
 MADISON,7 Rexburg,Statistics,NA,NA,# Ballots Cast,582
 MADISON,8 Rexburg,Statistics,NA,NA,# Ballots Cast,611
-MADISON,9  Rexburg,Statistics,NA,NA,# Ballots Cast,680
+MADISON,9 Rexburg,Statistics,NA,NA,# Ballots Cast,680
 MADISON,10 Rexburg,Statistics,NA,NA,# Ballots Cast,277
 MADISON,11 Rexburg,Statistics,NA,NA,# Ballots Cast,838
 MADISON,12 Rexburg,Statistics,NA,NA,# Ballots Cast,341
@@ -19781,7 +19781,7 @@ OWYHEE,8 Oreana,Statistics,NA,NA,# Ballots Cast,81
 OWYHEE,9 Grand View,Statistics,NA,NA,# Ballots Cast,318
 OWYHEE,10 Bruneau,Statistics,NA,NA,# Ballots Cast,282
 OWYHEE,11 Riddle,Statistics,NA,NA,# Ballots Cast,50
-OWYHEE,12  Three Creek,Statistics,NA,NA,# Ballots Cast,38
+OWYHEE,12 Three Creek,Statistics,NA,NA,# Ballots Cast,38
 OWYHEE,Absentee,Statistics,NA,NA,# Ballots Cast,146
 PAYETTE,1,Statistics,NA,NA,# Ballots Cast,664
 PAYETTE,2,Statistics,NA,NA,# Ballots Cast,1051
@@ -20610,7 +20610,7 @@ MADISON,5 Moody,Statistics,NA,NA,Percentage Registered Voters That Voted,73
 MADISON,6 Burton,Statistics,NA,NA,Percentage Registered Voters That Voted,65
 MADISON,7 Rexburg,Statistics,NA,NA,Percentage Registered Voters That Voted,57
 MADISON,8 Rexburg,Statistics,NA,NA,Percentage Registered Voters That Voted,62
-MADISON,9  Rexburg,Statistics,NA,NA,Percentage Registered Voters That Voted,50
+MADISON,9 Rexburg,Statistics,NA,NA,Percentage Registered Voters That Voted,50
 MADISON,10 Rexburg,Statistics,NA,NA,Percentage Registered Voters That Voted,39
 MADISON,11 Rexburg,Statistics,NA,NA,Percentage Registered Voters That Voted,65
 MADISON,12 Rexburg,Statistics,NA,NA,Percentage Registered Voters That Voted,69
@@ -20685,7 +20685,7 @@ OWYHEE,8 Oreana,Statistics,NA,NA,Percentage Registered Voters That Voted,76
 OWYHEE,9 Grand View,Statistics,NA,NA,Percentage Registered Voters That Voted,68
 OWYHEE,10 Bruneau,Statistics,NA,NA,Percentage Registered Voters That Voted,80
 OWYHEE,11 Riddle,Statistics,NA,NA,Percentage Registered Voters That Voted,57
-OWYHEE,12  Three Creek,Statistics,NA,NA,Percentage Registered Voters That Voted,77
+OWYHEE,12 Three Creek,Statistics,NA,NA,Percentage Registered Voters That Voted,77
 OWYHEE,Absentee,Statistics,NA,NA,Percentage Registered Voters That Voted,NA
 PAYETTE,1,Statistics,NA,NA,Percentage Registered Voters That Voted,57
 PAYETTE,2,Statistics,NA,NA,Percentage Registered Voters That Voted,69
