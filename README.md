@@ -1,4 +1,4 @@
-# openelections-data-id
+# openelections-data-id [![Build Status](https://github.com/openelections/openelections-data-id/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-id/actions)
 Pre-processed results for Idaho elections
 
 Idaho [makes available for download](http://www.sos.idaho.gov/ELECT/results/index.html) Excel files with both county and precinct-level results. We are interested in the files marked `Statewide`, `Presidential` and `Legislature` at both the county and precinct levels for primary and general elections dating back to 2000 (although we'd happily accept earlier stuff, too).
