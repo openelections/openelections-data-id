@@ -1,0 +1,229 @@
+﻿county,precinct,office,district,party,candidate,votes
+Custer,Challis,President,,DEM,Joseph R. Biden,34
+Custer,Round Valley 1,President,,DEM,Joseph R. Biden,12
+Custer,Round Valley 2,President,,DEM,Joseph R. Biden,9
+Custer,Mackay,President,,DEM,Joseph R. Biden,14
+Custer,Leslie,President,,DEM,Joseph R. Biden,14
+Custer,Battleground,President,,DEM,Joseph R. Biden,21
+Custer,Sunol,President,,DEM,Joseph R. Biden,5
+Custer,Clayton,President,,DEM,Joseph R. Biden,34
+Custer,Stanley,President,,DEM,Joseph R. Biden,40
+Custer,Absentee,President,,DEM,Joseph R. Biden,420
+Custer,Challis,President,,CON,Don Blankenship,1
+Custer,Round Valley 1,President,,CON,Don Blankenship,0
+Custer,Round Valley 2,President,,CON,Don Blankenship,0
+Custer,Mackay,President,,CON,Don Blankenship,0
+Custer,Leslie,President,,CON,Don Blankenship,0
+Custer,Battleground,President,,CON,Don Blankenship,1
+Custer,Sunol,President,,CON,Don Blankenship,0
+Custer,Clayton,President,,CON,Don Blankenship,0
+Custer,Stanley,President,,CON,Don Blankenship,0
+Custer,Absentee,President,,CON,Don Blankenship,4
+Custer,Challis,President,,IND,Rocky De La Fuente,1
+Custer,Round Valley 1,President,,IND,Rocky De La Fuente,0
+Custer,Round Valley 2,President,,IND,Rocky De La Fuente,0
+Custer,Mackay,President,,IND,Rocky De La Fuente,0
+Custer,Leslie,President,,IND,Rocky De La Fuente,0
+Custer,Battleground,President,,IND,Rocky De La Fuente,0
+Custer,Sunol,President,,IND,Rocky De La Fuente,0
+Custer,Clayton,President,,IND,Rocky De La Fuente,0
+Custer,Stanley,President,,IND,Rocky De La Fuente,0
+Custer,Absentee,President,,IND,Rocky De La Fuente,1
+Custer,Challis,President,,LBT,Jo Jorgensen,0
+Custer,Round Valley 1,President,,LBT,Jo Jorgensen,1
+Custer,Round Valley 2,President,,LBT,Jo Jorgensen,2
+Custer,Mackay,President,,LBT,Jo Jorgensen,1
+Custer,Leslie,President,,LBT,Jo Jorgensen,1
+Custer,Battleground,President,,LBT,Jo Jorgensen,2
+Custer,Sunol,President,,LBT,Jo Jorgensen,0
+Custer,Clayton,President,,LBT,Jo Jorgensen,1
+Custer,Stanley,President,,LBT,Jo Jorgensen,0
+Custer,Absentee,President,,LBT,Jo Jorgensen,9
+Custer,Challis,President,,IND,Brock Pierce,2
+Custer,Round Valley 1,President,,IND,Brock Pierce,1
+Custer,Round Valley 2,President,,IND,Brock Pierce,0
+Custer,Mackay,President,,IND,Brock Pierce,0
+Custer,Leslie,President,,IND,Brock Pierce,2
+Custer,Battleground,President,,IND,Brock Pierce,0
+Custer,Sunol,President,,IND,Brock Pierce,1
+Custer,Clayton,President,,IND,Brock Pierce,0
+Custer,Stanley,President,,IND,Brock Pierce,1
+Custer,Absentee,President,,IND,Brock Pierce,3
+Custer,Challis,President,,REP,Donald J. Trump,204
+Custer,Round Valley 1,President,,REP,Donald J. Trump,217
+Custer,Round Valley 2,President,,REP,Donald J. Trump,152
+Custer,Mackay,President,,REP,Donald J. Trump,119
+Custer,Leslie,President,,REP,Donald J. Trump,226
+Custer,Battleground,President,,REP,Donald J. Trump,100
+Custer,Sunol,President,,REP,Donald J. Trump,74
+Custer,Clayton,President,,REP,Donald J. Trump,108
+Custer,Stanley,President,,REP,Donald J. Trump,42
+Custer,Absentee,President,,REP,Donald J. Trump,847
+Custer,Challis,President,,IND,Kanye West,1
+Custer,Round Valley 1,President,,IND,Kanye West,1
+Custer,Round Valley 2,President,,IND,Kanye West,0
+Custer,Mackay,President,,IND,Kanye West,2
+Custer,Leslie,President,,IND,Kanye West,1
+Custer,Battleground,President,,IND,Kanye West,0
+Custer,Sunol,President,,IND,Kanye West,0
+Custer,Clayton,President,,IND,Kanye West,1
+Custer,Stanley,President,,IND,Kanye West,2
+Custer,Absentee,President,,IND,Kanye West,4
+Custer,Challis,U.S. Senate,,IND,Natalie M. Fleming,7
+Custer,Round Valley 1,U.S. Senate,,IND,Natalie M. Fleming,5
+Custer,Round Valley 2,U.S. Senate,,IND,Natalie M. Fleming,3
+Custer,Mackay,U.S. Senate,,IND,Natalie M. Fleming,5
+Custer,Leslie,U.S. Senate,,IND,Natalie M. Fleming,11
+Custer,Battleground,U.S. Senate,,IND,Natalie M. Fleming,2
+Custer,Sunol,U.S. Senate,,IND,Natalie M. Fleming,0
+Custer,Clayton,U.S. Senate,,IND,Natalie M. Fleming,6
+Custer,Stanley,U.S. Senate,,IND,Natalie M. Fleming,2
+Custer,Absentee,U.S. Senate,,IND,Natalie M. Fleming,33
+Custer,Challis,U.S. Senate,,DEM,Paulette Jordan,43
+Custer,Round Valley 1,U.S. Senate,,DEM,Paulette Jordan,9
+Custer,Round Valley 2,U.S. Senate,,DEM,Paulette Jordan,15
+Custer,Mackay,U.S. Senate,,DEM,Paulette Jordan,16
+Custer,Leslie,U.S. Senate,,DEM,Paulette Jordan,27
+Custer,Battleground,U.S. Senate,,DEM,Paulette Jordan,22
+Custer,Sunol,U.S. Senate,,DEM,Paulette Jordan,4
+Custer,Clayton,U.S. Senate,,DEM,Paulette Jordan,28
+Custer,Stanley,U.S. Senate,,DEM,Paulette Jordan,43
+Custer,Absentee,U.S. Senate,,DEM,Paulette Jordan,396
+Custer,Challis,U.S. Senate,,REP,Jim Risch,185
+Custer,Round Valley 1,U.S. Senate,,REP,Jim Risch,206
+Custer,Round Valley 2,U.S. Senate,,REP,Jim Risch,135
+Custer,Mackay,U.S. Senate,,REP,Jim Risch,113
+Custer,Leslie,U.S. Senate,,REP,Jim Risch,201
+Custer,Battleground,U.S. Senate,,REP,Jim Risch,100
+Custer,Sunol,U.S. Senate,,REP,Jim Risch,73
+Custer,Clayton,U.S. Senate,,REP,Jim Risch,103
+Custer,Stanley,U.S. Senate,,REP,Jim Risch,37
+Custer,Absentee,U.S. Senate,,REP,Jim Risch,825
+Custer,Challis,U.S. Senate,,CON,Ray J. Writz,6
+Custer,Round Valley 1,U.S. Senate,,CON,Ray J. Writz,7
+Custer,Round Valley 2,U.S. Senate,,CON,Ray J. Writz,3
+Custer,Mackay,U.S. Senate,,CON,Ray J. Writz,0
+Custer,Leslie,U.S. Senate,,CON,Ray J. Writz,3
+Custer,Battleground,U.S. Senate,,CON,Ray J. Writz,1
+Custer,Sunol,U.S. Senate,,CON,Ray J. Writz,1
+Custer,Clayton,U.S. Senate,,CON,Ray J. Writz,3
+Custer,Stanley,U.S. Senate,,CON,Ray J. Writz,6
+Custer,Absentee,U.S. Senate,,CON,Ray J. Writz,23
+Custer,Challis,U.S. House,2,LBT,Idaho Sierra Law,7
+Custer,Round Valley 1,U.S. House,2,LBT,Idaho Sierra Law,3
+Custer,Round Valley 2,U.S. House,2,LBT,Idaho Sierra Law,2
+Custer,Mackay,U.S. House,2,LBT,Idaho Sierra Law,2
+Custer,Leslie,U.S. House,2,LBT,Idaho Sierra Law,5
+Custer,Battleground,U.S. House,2,LBT,Idaho Sierra Law,1
+Custer,Sunol,U.S. House,2,LBT,Idaho Sierra Law,0
+Custer,Clayton,U.S. House,2,LBT,Idaho Sierra Law,6
+Custer,Stanley,U.S. House,2,LBT,Idaho Sierra Law,2
+Custer,Absentee,U.S. House,2,LBT,Idaho Sierra Law,15
+Custer,Challis,U.S. House,2,CON,Pro-Life,14
+Custer,Round Valley 1,U.S. House,2,CON,Pro-Life,13
+Custer,Round Valley 2,U.S. House,2,CON,Pro-Life,5
+Custer,Mackay,U.S. House,2,CON,Pro-Life,7
+Custer,Leslie,U.S. House,2,CON,Pro-Life,10
+Custer,Battleground,U.S. House,2,CON,Pro-Life,6
+Custer,Sunol,U.S. House,2,CON,Pro-Life,6
+Custer,Clayton,U.S. House,2,CON,Pro-Life,7
+Custer,Stanley,U.S. House,2,CON,Pro-Life,1
+Custer,Absentee,U.S. House,2,CON,Pro-Life,36
+Custer,Challis,U.S. House,2,REP,Mike Simpson,183
+Custer,Round Valley 1,U.S. House,2,REP,Mike Simpson,201
+Custer,Round Valley 2,U.S. House,2,REP,Mike Simpson,140
+Custer,Mackay,U.S. House,2,REP,Mike Simpson,112
+Custer,Leslie,U.S. House,2,REP,Mike Simpson,213
+Custer,Battleground,U.S. House,2,REP,Mike Simpson,96
+Custer,Sunol,U.S. House,2,REP,Mike Simpson,68
+Custer,Clayton,U.S. House,2,REP,Mike Simpson,101
+Custer,Stanley,U.S. House,2,REP,Mike Simpson,53
+Custer,Absentee,U.S. House,2,REP,Mike Simpson,883
+Custer,Challis,U.S. House,2,DEM,C. Aaron Swisher,29
+Custer,Round Valley 1,U.S. House,2,DEM,C. Aaron Swisher,5
+Custer,Round Valley 2,U.S. House,2,DEM,C. Aaron Swisher,6
+Custer,Mackay,U.S. House,2,DEM,C. Aaron Swisher,10
+Custer,Leslie,U.S. House,2,DEM,C. Aaron Swisher,13
+Custer,Battleground,U.S. House,2,DEM,C. Aaron Swisher,20
+Custer,Sunol,U.S. House,2,DEM,C. Aaron Swisher,2
+Custer,Clayton,U.S. House,2,DEM,C. Aaron Swisher,20
+Custer,Stanley,U.S. House,2,DEM,C. Aaron Swisher,30
+Custer,Absentee,U.S. House,2,DEM,C. Aaron Swisher,323
+Custer,Challis,Election Day Registrants,,,,46
+Custer,Round Valley 1,Election Day Registrants,,,,25
+Custer,Round Valley 2,Election Day Registrants,,,,22
+Custer,Mackay,Election Day Registrants,,,,28
+Custer,Leslie,Election Day Registrants,,,,43
+Custer,Battleground,Election Day Registrants,,,,3
+Custer,Sunol,Election Day Registrants,,,,7
+Custer,Clayton,Election Day Registrants,,,,4
+Custer,Stanley,Election Day Registrants,,,,16
+Custer,Challis,Registered Voters,,,,691
+Custer,Round Valley 1,Registered Voters,,,,618
+Custer,Round Valley 2,Registered Voters,,,,443
+Custer,Mackay,Registered Voters,,,,338
+Custer,Leslie,Registered Voters,,,,529
+Custer,Battleground,Registered Voters,,,,139
+Custer,Sunol,Registered Voters,,,,90
+Custer,Clayton,Registered Voters,,,,168
+Custer,Stanley,Registered Voters,,,,283
+Custer,Challis,Ballots Cast,,,,247
+Custer,Round Valley 1,Ballots Cast,,,,235
+Custer,Round Valley 2,Ballots Cast,,,,163
+Custer,Mackay,Ballots Cast,,,,136
+Custer,Leslie,Ballots Cast,,,,245
+Custer,Battleground,Ballots Cast,,,,125
+Custer,Sunol,Ballots Cast,,,,82
+Custer,Clayton,Ballots Cast,,,,145
+Custer,Stanley,Ballots Cast,,,,89
+Custer,Absentee,Ballots Cast,,,,1310
+Custer,Challis,State Senate,8,CON,Kirsten Faith Richardson,9
+Custer,Round Valley 1,State Senate,8,CON,Kirsten Faith Richardson,10
+Custer,Round Valley 2,State Senate,8,CON,Kirsten Faith Richardson,7
+Custer,Mackay,State Senate,8,CON,Kirsten Faith Richardson,8
+Custer,Leslie,State Senate,8,CON,Kirsten Faith Richardson,16
+Custer,Battleground,State Senate,8,CON,Kirsten Faith Richardson,6
+Custer,Sunol,State Senate,8,CON,Kirsten Faith Richardson,1
+Custer,Clayton,State Senate,8,CON,Kirsten Faith Richardson,7
+Custer,Stanley,State Senate,8,CON,Kirsten Faith Richardson,6
+Custer,Absentee,State Senate,8,CON,Kirsten Faith Richardson,82
+Custer,Challis,State Senate,8,IND,Bill Sifford,30
+Custer,Round Valley 1,State Senate,8,IND,Bill Sifford,17
+Custer,Round Valley 2,State Senate,8,IND,Bill Sifford,10
+Custer,Mackay,State Senate,8,IND,Bill Sifford,13
+Custer,Leslie,State Senate,8,IND,Bill Sifford,20
+Custer,Battleground,State Senate,8,IND,Bill Sifford,17
+Custer,Sunol,State Senate,8,IND,Bill Sifford,3
+Custer,Clayton,State Senate,8,IND,Bill Sifford,24
+Custer,Stanley,State Senate,8,IND,Bill Sifford,33
+Custer,Absentee,State Senate,8,IND,Bill Sifford,216
+Custer,Challis,State Senate,8,REP,Steven Thayn,194
+Custer,Round Valley 1,State Senate,8,REP,Steven Thayn,188
+Custer,Round Valley 2,State Senate,8,REP,Steven Thayn,135
+Custer,Mackay,State Senate,8,REP,Steven Thayn,107
+Custer,Leslie,State Senate,8,REP,Steven Thayn,201
+Custer,Battleground,State Senate,8,REP,Steven Thayn,95
+Custer,Sunol,State Senate,8,REP,Steven Thayn,70
+Custer,Clayton,State Senate,8,REP,Steven Thayn,104
+Custer,Stanley,State Senate,8,REP,Steven Thayn,41
+Custer,Absentee,State Senate,8,REP,Steven Thayn,865
+Custer,Challis,State House,8A,REP,Terry Gestrin,211
+Custer,Round Valley 1,State House,8A,REP,Terry Gestrin,197
+Custer,Round Valley 2,State House,8A,REP,Terry Gestrin,141
+Custer,Mackay,State House,8A,REP,Terry Gestrin,126
+Custer,Leslie,State House,8A,REP,Terry Gestrin,230
+Custer,Battleground,State House,8A,REP,Terry Gestrin,98
+Custer,Sunol,State House,8A,REP,Terry Gestrin,67
+Custer,Clayton,State House,8A,REP,Terry Gestrin,111
+Custer,Stanley,State House,8A,REP,Terry Gestrin,59
+Custer,Absentee,State House,8A,REP,Terry Gestrin,944
+Custer,Challis,State House,8B,REP,Dorothy Moon,208
+Custer,Round Valley 1,State House,8B,REP,Dorothy Moon,200
+Custer,Round Valley 2,State House,8B,REP,Dorothy Moon,140
+Custer,Mackay,State House,8B,REP,Dorothy Moon,123
+Custer,Leslie,State House,8B,REP,Dorothy Moon,226
+Custer,Battleground,State House,8B,REP,Dorothy Moon,96
+Custer,Sunol,State House,8B,REP,Dorothy Moon,60
+Custer,Clayton,State House,8B,REP,Dorothy Moon,106
+Custer,Stanley,State House,8B,REP,Dorothy Moon,49
+Custer,Absentee,State House,8B,REP,Dorothy Moon,923

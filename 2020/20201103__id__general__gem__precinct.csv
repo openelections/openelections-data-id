@@ -1,0 +1,323 @@
+﻿county,precinct,office,district,party,candidate,votes
+Gem,01 Central,President,,DEM,Joseph R. Biden,48
+Gem,02 North Emmett,President,,DEM,Joseph R. Biden,46
+Gem,03 Butteview,President,,DEM,Joseph R. Biden,39
+Gem,04 South Emmett,President,,DEM,Joseph R. Biden,50
+Gem,05 West Emmett,President,,DEM,Joseph R. Biden,37
+Gem,06 Emerson,President,,DEM,Joseph R. Biden,50
+Gem,07 Lincoln,President,,DEM,Joseph R. Biden,46
+Gem,08 Letha,President,,DEM,Joseph R. Biden,39
+Gem,09 Hanna,President,,DEM,Joseph R. Biden,20
+Gem,10 Brick,President,,DEM,Joseph R. Biden,21
+Gem,11 Bench,President,,DEM,Joseph R. Biden,23
+Gem,12 Sweet/Montour,President,,DEM,Joseph R. Biden,33
+Gem,13 Ola,President,,DEM,Joseph R. Biden,9
+Gem,Absentee,President,,DEM,Joseph R. Biden,1342
+Gem,01 Central,President,,CON,Don Blankenship,0
+Gem,02 North Emmett,President,,CON,Don Blankenship,0
+Gem,03 Butteview,President,,CON,Don Blankenship,0
+Gem,04 South Emmett,President,,CON,Don Blankenship,0
+Gem,05 West Emmett,President,,CON,Don Blankenship,1
+Gem,06 Emerson,President,,CON,Don Blankenship,1
+Gem,07 Lincoln,President,,CON,Don Blankenship,0
+Gem,08 Letha,President,,CON,Don Blankenship,2
+Gem,09 Hanna,President,,CON,Don Blankenship,0
+Gem,10 Brick,President,,CON,Don Blankenship,1
+Gem,11 Bench,President,,CON,Don Blankenship,0
+Gem,12 Sweet/Montour,President,,CON,Don Blankenship,0
+Gem,13 Ola,President,,CON,Don Blankenship,0
+Gem,Absentee,President,,CON,Don Blankenship,9
+Gem,01 Central,President,,IND,Rocky De La Fuente,1
+Gem,02 North Emmett,President,,IND,Rocky De La Fuente,1
+Gem,03 Butteview,President,,IND,Rocky De La Fuente,0
+Gem,04 South Emmett,President,,IND,Rocky De La Fuente,2
+Gem,05 West Emmett,President,,IND,Rocky De La Fuente,1
+Gem,06 Emerson,President,,IND,Rocky De La Fuente,0
+Gem,07 Lincoln,President,,IND,Rocky De La Fuente,0
+Gem,08 Letha,President,,IND,Rocky De La Fuente,0
+Gem,09 Hanna,President,,IND,Rocky De La Fuente,0
+Gem,10 Brick,President,,IND,Rocky De La Fuente,0
+Gem,11 Bench,President,,IND,Rocky De La Fuente,0
+Gem,12 Sweet/Montour,President,,IND,Rocky De La Fuente,1
+Gem,13 Ola,President,,IND,Rocky De La Fuente,0
+Gem,Absentee,President,,IND,Rocky De La Fuente,0
+Gem,01 Central,President,,LBT,Jo Jorgensen,8
+Gem,02 North Emmett,President,,LBT,Jo Jorgensen,13
+Gem,03 Butteview,President,,LBT,Jo Jorgensen,2
+Gem,04 South Emmett,President,,LBT,Jo Jorgensen,6
+Gem,05 West Emmett,President,,LBT,Jo Jorgensen,8
+Gem,06 Emerson,President,,LBT,Jo Jorgensen,12
+Gem,07 Lincoln,President,,LBT,Jo Jorgensen,8
+Gem,08 Letha,President,,LBT,Jo Jorgensen,3
+Gem,09 Hanna,President,,LBT,Jo Jorgensen,6
+Gem,10 Brick,President,,LBT,Jo Jorgensen,2
+Gem,11 Bench,President,,LBT,Jo Jorgensen,5
+Gem,12 Sweet/Montour,President,,LBT,Jo Jorgensen,3
+Gem,13 Ola,President,,LBT,Jo Jorgensen,0
+Gem,Absentee,President,,LBT,Jo Jorgensen,45
+Gem,01 Central,President,,IND,Brock Pierce,2
+Gem,02 North Emmett,President,,IND,Brock Pierce,1
+Gem,03 Butteview,President,,IND,Brock Pierce,2
+Gem,04 South Emmett,President,,IND,Brock Pierce,4
+Gem,05 West Emmett,President,,IND,Brock Pierce,0
+Gem,06 Emerson,President,,IND,Brock Pierce,1
+Gem,07 Lincoln,President,,IND,Brock Pierce,1
+Gem,08 Letha,President,,IND,Brock Pierce,0
+Gem,09 Hanna,President,,IND,Brock Pierce,0
+Gem,10 Brick,President,,IND,Brock Pierce,1
+Gem,11 Bench,President,,IND,Brock Pierce,0
+Gem,12 Sweet/Montour,President,,IND,Brock Pierce,0
+Gem,13 Ola,President,,IND,Brock Pierce,0
+Gem,Absentee,President,,IND,Brock Pierce,12
+Gem,01 Central,President,,REP,Donald J. Trump,291
+Gem,02 North Emmett,President,,REP,Donald J. Trump,252
+Gem,03 Butteview,President,,REP,Donald J. Trump,331
+Gem,04 South Emmett,President,,REP,Donald J. Trump,334
+Gem,05 West Emmett,President,,REP,Donald J. Trump,473
+Gem,06 Emerson,President,,REP,Donald J. Trump,421
+Gem,07 Lincoln,President,,REP,Donald J. Trump,325
+Gem,08 Letha,President,,REP,Donald J. Trump,478
+Gem,09 Hanna,President,,REP,Donald J. Trump,411
+Gem,10 Brick,President,,REP,Donald J. Trump,303
+Gem,11 Bench,President,,REP,Donald J. Trump,347
+Gem,12 Sweet/Montour,President,,REP,Donald J. Trump,305
+Gem,13 Ola,President,,REP,Donald J. Trump,65
+Gem,Absentee,President,,REP,Donald J. Trump,3615
+Gem,01 Central,President,,IND,Kanye West,2
+Gem,02 North Emmett,President,,IND,Kanye West,2
+Gem,03 Butteview,President,,IND,Kanye West,1
+Gem,04 South Emmett,President,,IND,Kanye West,4
+Gem,05 West Emmett,President,,IND,Kanye West,2
+Gem,06 Emerson,President,,IND,Kanye West,2
+Gem,07 Lincoln,President,,IND,Kanye West,4
+Gem,08 Letha,President,,IND,Kanye West,0
+Gem,09 Hanna,President,,IND,Kanye West,1
+Gem,10 Brick,President,,IND,Kanye West,1
+Gem,11 Bench,President,,IND,Kanye West,0
+Gem,12 Sweet/Montour,President,,IND,Kanye West,1
+Gem,13 Ola,President,,IND,Kanye West,0
+Gem,Absentee,President,,IND,Kanye West,10
+Gem,Absentee,President,,,Chris Franklin,1
+Gem,04 South Emmett,President,,,Gloria LaRiva,1
+Gem,01 Central,U.S. Senate,,IND,Natalie M. Fleming,16
+Gem,02 North Emmett,U.S. Senate,,IND,Natalie M. Fleming,12
+Gem,03 Butteview,U.S. Senate,,IND,Natalie M. Fleming,11
+Gem,04 South Emmett,U.S. Senate,,IND,Natalie M. Fleming,23
+Gem,05 West Emmett,U.S. Senate,,IND,Natalie M. Fleming,17
+Gem,06 Emerson,U.S. Senate,,IND,Natalie M. Fleming,20
+Gem,07 Lincoln,U.S. Senate,,IND,Natalie M. Fleming,8
+Gem,08 Letha,U.S. Senate,,IND,Natalie M. Fleming,14
+Gem,09 Hanna,U.S. Senate,,IND,Natalie M. Fleming,13
+Gem,10 Brick,U.S. Senate,,IND,Natalie M. Fleming,5
+Gem,11 Bench,U.S. Senate,,IND,Natalie M. Fleming,4
+Gem,12 Sweet/Montour,U.S. Senate,,IND,Natalie M. Fleming,6
+Gem,13 Ola,U.S. Senate,,IND,Natalie M. Fleming,2
+Gem,Absentee,U.S. Senate,,IND,Natalie M. Fleming,117
+Gem,01 Central,U.S. Senate,,DEM,Paulette Jordan,65
+Gem,02 North Emmett,U.S. Senate,,DEM,Paulette Jordan,61
+Gem,03 Butteview,U.S. Senate,,DEM,Paulette Jordan,63
+Gem,04 South Emmett,U.S. Senate,,DEM,Paulette Jordan,78
+Gem,05 West Emmett,U.S. Senate,,DEM,Paulette Jordan,43
+Gem,06 Emerson,U.S. Senate,,DEM,Paulette Jordan,68
+Gem,07 Lincoln,U.S. Senate,,DEM,Paulette Jordan,52
+Gem,08 Letha,U.S. Senate,,DEM,Paulette Jordan,47
+Gem,09 Hanna,U.S. Senate,,DEM,Paulette Jordan,29
+Gem,10 Brick,U.S. Senate,,DEM,Paulette Jordan,26
+Gem,11 Bench,U.S. Senate,,DEM,Paulette Jordan,32
+Gem,12 Sweet/Montour,U.S. Senate,,DEM,Paulette Jordan,41
+Gem,13 Ola,U.S. Senate,,DEM,Paulette Jordan,11
+Gem,Absentee,U.S. Senate,,DEM,Paulette Jordan,1341
+Gem,01 Central,U.S. Senate,,REP,Jim Risch,255
+Gem,02 North Emmett,U.S. Senate,,REP,Jim Risch,230
+Gem,03 Butteview,U.S. Senate,,REP,Jim Risch,291
+Gem,04 South Emmett,U.S. Senate,,REP,Jim Risch,290
+Gem,05 West Emmett,U.S. Senate,,REP,Jim Risch,449
+Gem,06 Emerson,U.S. Senate,,REP,Jim Risch,390
+Gem,07 Lincoln,U.S. Senate,,REP,Jim Risch,321
+Gem,08 Letha,U.S. Senate,,REP,Jim Risch,443
+Gem,09 Hanna,U.S. Senate,,REP,Jim Risch,376
+Gem,10 Brick,U.S. Senate,,REP,Jim Risch,291
+Gem,11 Bench,U.S. Senate,,REP,Jim Risch,322
+Gem,12 Sweet/Montour,U.S. Senate,,REP,Jim Risch,288
+Gem,13 Ola,U.S. Senate,,REP,Jim Risch,59
+Gem,Absentee,U.S. Senate,,REP,Jim Risch,3541
+Gem,01 Central,U.S. Senate,,CON,Ray J. Writz,7
+Gem,02 North Emmett,U.S. Senate,,CON,Ray J. Writz,7
+Gem,03 Butteview,U.S. Senate,,CON,Ray J. Writz,7
+Gem,04 South Emmett,U.S. Senate,,CON,Ray J. Writz,10
+Gem,05 West Emmett,U.S. Senate,,CON,Ray J. Writz,8
+Gem,06 Emerson,U.S. Senate,,CON,Ray J. Writz,7
+Gem,07 Lincoln,U.S. Senate,,CON,Ray J. Writz,3
+Gem,08 Letha,U.S. Senate,,CON,Ray J. Writz,7
+Gem,09 Hanna,U.S. Senate,,CON,Ray J. Writz,14
+Gem,10 Brick,U.S. Senate,,CON,Ray J. Writz,8
+Gem,11 Bench,U.S. Senate,,CON,Ray J. Writz,9
+Gem,12 Sweet/Montour,U.S. Senate,,CON,Ray J. Writz,8
+Gem,13 Ola,U.S. Senate,,CON,Ray J. Writz,0
+Gem,Absentee,U.S. Senate,,CON,Ray J. Writz,46
+Gem,01 Central,U.S. House,1,LIB,Joe Evans,10
+Gem,02 North Emmett,U.S. House,1,LIB,Joe Evans,18
+Gem,03 Butteview,U.S. House,1,LIB,Joe Evans,10
+Gem,04 South Emmett,U.S. House,1,LIB,Joe Evans,18
+Gem,05 West Emmett,U.S. House,1,LIB,Joe Evans,15
+Gem,06 Emerson,U.S. House,1,LIB,Joe Evans,21
+Gem,07 Lincoln,U.S. House,1,LIB,Joe Evans,15
+Gem,08 Letha,U.S. House,1,LIB,Joe Evans,14
+Gem,09 Hanna,U.S. House,1,LIB,Joe Evans,11
+Gem,10 Brick,U.S. House,1,LIB,Joe Evans,5
+Gem,11 Bench,U.S. House,1,LIB,Joe Evans,13
+Gem,12 Sweet/Montour,U.S. House,1,LIB,Joe Evans,11
+Gem,13 Ola,U.S. House,1,LIB,Joe Evans,2
+Gem,Absentee,U.S. House,1,LIB,Joe Evans,124
+Gem,01 Central,U.S. House,1,REP,Russ Fulcher,269
+Gem,02 North Emmett,U.S. House,1,REP,Russ Fulcher,230
+Gem,03 Butteview,U.S. House,1,REP,Russ Fulcher,304
+Gem,04 South Emmett,U.S. House,1,REP,Russ Fulcher,300
+Gem,05 West Emmett,U.S. House,1,REP,Russ Fulcher,460
+Gem,06 Emerson,U.S. House,1,REP,Russ Fulcher,403
+Gem,07 Lincoln,U.S. House,1,REP,Russ Fulcher,313
+Gem,08 Letha,U.S. House,1,REP,Russ Fulcher,454
+Gem,09 Hanna,U.S. House,1,REP,Russ Fulcher,393
+Gem,10 Brick,U.S. House,1,REP,Russ Fulcher,298
+Gem,11 Bench,U.S. House,1,REP,Russ Fulcher,315
+Gem,12 Sweet/Montour,U.S. House,1,REP,Russ Fulcher,294
+Gem,13 Ola,U.S. House,1,REP,Russ Fulcher,59
+Gem,Absentee,U.S. House,1,REP,Russ Fulcher,3636
+Gem,01 Central,U.S. House,1,,Pro-Life,0
+Gem,02 North Emmett,U.S. House,1,,Pro-Life,0
+Gem,03 Butteview,U.S. House,1,,Pro-Life,0
+Gem,04 South Emmett,U.S. House,1,,Pro-Life,0
+Gem,05 West Emmett,U.S. House,1,,Pro-Life,0
+Gem,06 Emerson,U.S. House,1,,Pro-Life,0
+Gem,07 Lincoln,U.S. House,1,,Pro-Life,0
+Gem,08 Letha,U.S. House,1,,Pro-Life,2
+Gem,09 Hanna,U.S. House,1,,Pro-Life,0
+Gem,10 Brick,U.S. House,1,,Pro-Life,0
+Gem,11 Bench,U.S. House,1,,Pro-Life,0
+Gem,12 Sweet/Montour,U.S. House,1,,Pro-Life,0
+Gem,13 Ola,U.S. House,1,,Pro-Life,0
+Gem,Absentee,U.S. House,1,,Pro-Life,0
+Gem,01 Central,U.S. House,1,DEM,Rudy Soto,60
+Gem,02 North Emmett,U.S. House,1,DEM,Rudy Soto,60
+Gem,03 Butteview,U.S. House,1,DEM,Rudy Soto,57
+Gem,04 South Emmett,U.S. House,1,DEM,Rudy Soto,74
+Gem,05 West Emmett,U.S. House,1,DEM,Rudy Soto,40
+Gem,06 Emerson,U.S. House,1,DEM,Rudy Soto,58
+Gem,07 Lincoln,U.S. House,1,DEM,Rudy Soto,49
+Gem,08 Letha,U.S. House,1,DEM,Rudy Soto,39
+Gem,09 Hanna,U.S. House,1,DEM,Rudy Soto,27
+Gem,10 Brick,U.S. House,1,DEM,Rudy Soto,25
+Gem,11 Bench,U.S. House,1,DEM,Rudy Soto,30
+Gem,12 Sweet/Montour,U.S. House,1,DEM,Rudy Soto,36
+Gem,13 Ola,U.S. House,1,DEM,Rudy Soto,10
+Gem,Absentee,U.S. House,1,DEM,Rudy Soto,1253
+Gem,01 Central,Election Day Registrants,,,,110
+Gem,02 North Emmett,Election Day Registrants,,,,86
+Gem,03 Butteview,Election Day Registrants,,,,108
+Gem,04 South Emmett,Election Day Registrants,,,,136
+Gem,05 West Emmett,Election Day Registrants,,,,128
+Gem,06 Emerson,Election Day Registrants,,,,128
+Gem,07 Lincoln,Election Day Registrants,,,,82
+Gem,08 Letha,Election Day Registrants,,,,138
+Gem,09 Hanna,Election Day Registrants,,,,106
+Gem,10 Brick,Election Day Registrants,,,,51
+Gem,11 Bench,Election Day Registrants,,,,85
+Gem,12 Sweet/Montour,Election Day Registrants,,,,46
+Gem,13 Ola,Election Day Registrants,,,,17
+Gem,01 Central,Registered Voters,,,,842
+Gem,02 North Emmett,Registered Voters,,,,770
+Gem,03 Butteview,Registered Voters,,,,1009
+Gem,04 South Emmett,Registered Voters,,,,942
+Gem,05 West Emmett,Registered Voters,,,,1357
+Gem,06 Emerson,Registered Voters,,,,1313
+Gem,07 Lincoln,Registered Voters,,,,1093
+Gem,08 Letha,Registered Voters,,,,1253
+Gem,09 Hanna,Registered Voters,,,,969
+Gem,10 Brick,Registered Voters,,,,844
+Gem,11 Bench,Registered Voters,,,,960
+Gem,12 Sweet/Montour,Registered Voters,,,,669
+Gem,13 Ola,Registered Voters,,,,126
+Gem,01 Central,Ballots Cast,,,,358
+Gem,02 North Emmett,Ballots Cast,,,,316
+Gem,03 Butteview,Ballots Cast,,,,381
+Gem,04 South Emmett,Ballots Cast,,,,405
+Gem,05 West Emmett,Ballots Cast,,,,525
+Gem,06 Emerson,Ballots Cast,,,,490
+Gem,07 Lincoln,Ballots Cast,,,,387
+Gem,08 Letha,Ballots Cast,,,,524
+Gem,09 Hanna,Ballots Cast,,,,441
+Gem,10 Brick,Ballots Cast,,,,333
+Gem,11 Bench,Ballots Cast,,,,378
+Gem,12 Sweet/Montour,Ballots Cast,,,,346
+Gem,13 Ola,Ballots Cast,,,,77
+Gem,Absentee,Ballots Cast,,,,5106
+Gem,01 Central,State Senate,8,CON,Kirsten Faith Richardson,25
+Gem,02 North Emmett,State Senate,8,CON,Kirsten Faith Richardson,28
+Gem,03 Butteview,State Senate,8,CON,Kirsten Faith Richardson,22
+Gem,04 South Emmett,State Senate,8,CON,Kirsten Faith Richardson,26
+Gem,05 West Emmett,State Senate,8,CON,Kirsten Faith Richardson,33
+Gem,06 Emerson,State Senate,8,CON,Kirsten Faith Richardson,26
+Gem,07 Lincoln,State Senate,8,CON,Kirsten Faith Richardson,9
+Gem,08 Letha,State Senate,8,CON,Kirsten Faith Richardson,35
+Gem,09 Hanna,State Senate,8,CON,Kirsten Faith Richardson,24
+Gem,10 Brick,State Senate,8,CON,Kirsten Faith Richardson,20
+Gem,11 Bench,State Senate,8,CON,Kirsten Faith Richardson,17
+Gem,12 Sweet/Montour,State Senate,8,CON,Kirsten Faith Richardson,19
+Gem,13 Ola,State Senate,8,CON,Kirsten Faith Richardson,8
+Gem,Absentee,State Senate,8,CON,Kirsten Faith Richardson,260
+Gem,01 Central,State Senate,8,IND,Bill Sifford,53
+Gem,02 North Emmett,State Senate,8,IND,Bill Sifford,44
+Gem,03 Butteview,State Senate,8,IND,Bill Sifford,46
+Gem,04 South Emmett,State Senate,8,IND,Bill Sifford,63
+Gem,05 West Emmett,State Senate,8,IND,Bill Sifford,51
+Gem,06 Emerson,State Senate,8,IND,Bill Sifford,52
+Gem,07 Lincoln,State Senate,8,IND,Bill Sifford,58
+Gem,08 Letha,State Senate,8,IND,Bill Sifford,44
+Gem,09 Hanna,State Senate,8,IND,Bill Sifford,43
+Gem,10 Brick,State Senate,8,IND,Bill Sifford,30
+Gem,11 Bench,State Senate,8,IND,Bill Sifford,37
+Gem,12 Sweet/Montour,State Senate,8,IND,Bill Sifford,40
+Gem,13 Ola,State Senate,8,IND,Bill Sifford,10
+Gem,Absentee,State Senate,8,IND,Bill Sifford,1083
+Gem,01 Central,State Senate,8,REP,Steven Thayn,255
+Gem,02 North Emmett,State Senate,8,REP,Steven Thayn,228
+Gem,03 Butteview,State Senate,8,REP,Steven Thayn,290
+Gem,04 South Emmett,State Senate,8,REP,Steven Thayn,299
+Gem,05 West Emmett,State Senate,8,REP,Steven Thayn,421
+Gem,06 Emerson,State Senate,8,REP,Steven Thayn,390
+Gem,07 Lincoln,State Senate,8,REP,Steven Thayn,296
+Gem,08 Letha,State Senate,8,REP,Steven Thayn,427
+Gem,09 Hanna,State Senate,8,REP,Steven Thayn,361
+Gem,10 Brick,State Senate,8,REP,Steven Thayn,278
+Gem,11 Bench,State Senate,8,REP,Steven Thayn,301
+Gem,12 Sweet/Montour,State Senate,8,REP,Steven Thayn,279
+Gem,13 Ola,State Senate,8,REP,Steven Thayn,53
+Gem,Absentee,State Senate,8,REP,Steven Thayn,3444
+Gem,01 Central,State House,8A,REP,Terry Gestrin,301
+Gem,02 North Emmett,State House,8A,REP,Terry Gestrin,279
+Gem,03 Butteview,State House,8A,REP,Terry Gestrin,336
+Gem,04 South Emmett,State House,8A,REP,Terry Gestrin,362
+Gem,05 West Emmett,State House,8A,REP,Terry Gestrin,475
+Gem,06 Emerson,State House,8A,REP,Terry Gestrin,428
+Gem,07 Lincoln,State House,8A,REP,Terry Gestrin,330
+Gem,08 Letha,State House,8A,REP,Terry Gestrin,456
+Gem,09 Hanna,State House,8A,REP,Terry Gestrin,393
+Gem,10 Brick,State House,8A,REP,Terry Gestrin,301
+Gem,11 Bench,State House,8A,REP,Terry Gestrin,326
+Gem,12 Sweet/Montour,State House,8A,REP,Terry Gestrin,307
+Gem,13 Ola,State House,8A,REP,Terry Gestrin,65
+Gem,Absentee,State House,8A,REP,Terry Gestrin,4129
+Gem,01 Central,State House,8B,REP,Dorothy Moon,304
+Gem,02 North Emmett,State House,8B,REP,Dorothy Moon,276
+Gem,03 Butteview,State House,8B,REP,Dorothy Moon,331
+Gem,04 South Emmett,State House,8B,REP,Dorothy Moon,361
+Gem,05 West Emmett,State House,8B,REP,Dorothy Moon,479
+Gem,06 Emerson,State House,8B,REP,Dorothy Moon,428
+Gem,07 Lincoln,State House,8B,REP,Dorothy Moon,321
+Gem,08 Letha,State House,8B,REP,Dorothy Moon,465
+Gem,09 Hanna,State House,8B,REP,Dorothy Moon,397
+Gem,10 Brick,State House,8B,REP,Dorothy Moon,295
+Gem,11 Bench,State House,8B,REP,Dorothy Moon,330
+Gem,12 Sweet/Montour,State House,8B,REP,Dorothy Moon,305
+Gem,13 Ola,State House,8B,REP,Dorothy Moon,66
+Gem,Absentee,State House,8B,REP,Dorothy Moon,4099

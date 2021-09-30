@@ -1,0 +1,47 @@
+﻿county,precinct,office,district,party,candidate,votes
+Camas,1,President,,DEM,Joseph R. Biden,79
+Camas,2,President,,DEM,Joseph R. Biden,70
+Camas,1,President,,CON,Don Blankenship,1
+Camas,2,President,,CON,Don Blankenship,2
+Camas,1,President,,IND,Rocky De La Fuente,1
+Camas,2,President,,IND,Rocky De La Fuente,1
+Camas,1,President,,LBT,Jo Jorgensen,2
+Camas,2,President,,LBT,Jo Jorgensen,5
+Camas,1,President,,IND,Brock Pierce,1
+Camas,2,President,,IND,Brock Pierce,2
+Camas,1,President,,REP,Donald J. Trump,242
+Camas,2,President,,REP,Donald J. Trump,265
+Camas,1,President,,IND,Kanye West,2
+Camas,2,President,,IND,Kanye West,1
+Camas,1,U.S. Senate,,IND,Natalie M. Fleming,10
+Camas,2,U.S. Senate,,IND,Natalie M. Fleming,7
+Camas,1,U.S. Senate,,DEM,Paulette Jordan,86
+Camas,2,U.S. Senate,,DEM,Paulette Jordan,70
+Camas,1,U.S. Senate,,REP,Jim Risch,225
+Camas,2,U.S. Senate,,REP,Jim Risch,263
+Camas,1,U.S. Senate,,CON,Ray J. Writz,7
+Camas,2,U.S. Senate,,CON,Ray J. Writz,7
+Camas,1,U.S. House,2,LBT,Idaho Sierra Law,5
+Camas,2,U.S. House,2,LBT,Idaho Sierra Law,9
+Camas,1,U.S. House,2,CON,Pro-Life,7
+Camas,2,U.S. House,2,CON,Pro-Life,9
+Camas,1,U.S. House,2,REP,Mike Simpson,248
+Camas,2,U.S. House,2,REP,Mike Simpson,270
+Camas,1,U.S. House,2,DEM,C. Aaron Swisher,61
+Camas,2,U.S. House,2,DEM,C. Aaron Swisher,53
+Camas,1,Registered Voters,,,,412
+Camas,2,Registered Voters,,,,423
+Camas,1,Election Day Registrants,,,,18
+Camas,2,Election Day Registrants,,,,22
+Camas,1,Ballots Cast,,,,334
+Camas,2,Ballots Cast,,,,348
+Camas,1,State Senate,26,REP,Eric Parker,226
+Camas,2,State Senate,26,REP,Eric Parker,236
+Camas,1,State Senate,26,DEM,Michelle Stennett,102
+Camas,2,State Senate,26,DEM,Michelle Stennett,107
+Camas,1,State House,26A,DEM,Muffy Davis,144
+Camas,2,State House,26A,DEM,Muffy Davis,156
+Camas,1,State House,26B,REP,William K. Thorpe,212
+Camas,2,State House,26B,REP,William K. Thorpe,242
+Camas,1,State House,26B,DEM,Sally J. Toone,110
+Camas,2,State House,26B,DEM,Sally J. Toone,98

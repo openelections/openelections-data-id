@@ -1,0 +1,85 @@
+﻿county,precinct,office,district,party,candidate,votes
+Butte,Arco 1,President,,DEM,Joseph R. Biden,77
+Butte,Arco 2,President,,DEM,Joseph R. Biden,45
+Butte,Moore,President,,DEM,Joseph R. Biden,58
+Butte,Howe,President,,DEM,Joseph R. Biden,8
+Butte,Arco 1,President,,CON,Don Blankenship,4
+Butte,Arco 2,President,,CON,Don Blankenship,0
+Butte,Moore,President,,CON,Don Blankenship,1
+Butte,Howe,President,,CON,Don Blankenship,0
+Butte,Arco 1,President,,IND,Rocky De La Fuente,1
+Butte,Arco 2,President,,IND,Rocky De La Fuente,0
+Butte,Moore,President,,IND,Rocky De La Fuente,1
+Butte,Howe,President,,IND,Rocky De La Fuente,0
+Butte,Arco 1,President,,LBT,Jo Jorgensen,7
+Butte,Arco 2,President,,LBT,Jo Jorgensen,1
+Butte,Moore,President,,LBT,Jo Jorgensen,3
+Butte,Howe,President,,LBT,Jo Jorgensen,0
+Butte,Arco 1,President,,IND,Brock Pierce,1
+Butte,Arco 2,President,,IND,Brock Pierce,1
+Butte,Moore,President,,IND,Brock Pierce,0
+Butte,Howe,President,,IND,Brock Pierce,0
+Butte,Arco 1,President,,REP,Donald J. Trump,408
+Butte,Arco 2,President,,REP,Donald J. Trump,228
+Butte,Moore,President,,REP,Donald J. Trump,391
+Butte,Howe,President,,REP,Donald J. Trump,175
+Butte,Arco 1,President,,IND,Kanye West,3
+Butte,Arco 2,President,,IND,Kanye West,1
+Butte,Moore,President,,IND,Kanye West,1
+Butte,Howe,President,,IND,Kanye West,0
+Butte,Arco 1,U.S. Senate,,IND,Natalie M. Fleming,17
+Butte,Arco 2,U.S. Senate,,IND,Natalie M. Fleming,7
+Butte,Moore,U.S. Senate,,IND,Natalie M. Fleming,10
+Butte,Howe,U.S. Senate,,IND,Natalie M. Fleming,5
+Butte,Arco 1,U.S. Senate,,DEM,Paulette Jordan,91
+Butte,Arco 2,U.S. Senate,,DEM,Paulette Jordan,57
+Butte,Moore,U.S. Senate,,DEM,Paulette Jordan,64
+Butte,Howe,U.S. Senate,,DEM,Paulette Jordan,10
+Butte,Arco 1,U.S. Senate,,REP,Jim Risch,384
+Butte,Arco 2,U.S. Senate,,REP,Jim Risch,205
+Butte,Moore,U.S. Senate,,REP,Jim Risch,361
+Butte,Howe,U.S. Senate,,REP,Jim Risch,170
+Butte,Arco 1,U.S. Senate,,CON,Ray J. Writz,8
+Butte,Arco 2,U.S. Senate,,CON,Ray J. Writz,3
+Butte,Moore,U.S. Senate,,CON,Ray J. Writz,17
+Butte,Howe,U.S. Senate,,CON,Ray J. Writz,1
+Butte,Arco 1,U.S. House,2,LBT,Idaho Sierra Law,9
+Butte,Arco 2,U.S. House,2,LBT,Idaho Sierra Law,3
+Butte,Moore,U.S. House,2,LBT,Idaho Sierra Law,3
+Butte,Howe,U.S. House,2,LBT,Idaho Sierra Law,1
+Butte,Arco 1,U.S. House,2,CON,Pro-Life,15
+Butte,Arco 2,U.S. House,2,CON,Pro-Life,10
+Butte,Moore,U.S. House,2,CON,Pro-Life,17
+Butte,Howe,U.S. House,2,CON,Pro-Life,4
+Butte,Arco 1,U.S. House,2,REP,Mike Simpson,403
+Butte,Arco 2,U.S. House,2,REP,Mike Simpson,218
+Butte,Moore,U.S. House,2,REP,Mike Simpson,367
+Butte,Howe,U.S. House,2,REP,Mike Simpson,171
+Butte,Arco 1,U.S. House,2,DEM,C. Aaron Swisher,68
+Butte,Arco 2,U.S. House,2,DEM,C. Aaron Swisher,43
+Butte,Moore,U.S. House,2,DEM,C. Aaron Swisher,55
+Butte,Howe,U.S. House,2,DEM,C. Aaron Swisher,7
+Butte,Arco 1,Election Day Registrants,,,,43
+Butte,Arco 2,Election Day Registrants,,,,27
+Butte,Moore,Election Day Registrants,,,,33
+Butte,Howe,Election Day Registrants,,,,15
+Butte,Arco 1,Registered Voters,,,,586
+Butte,Arco 2,Registered Voters,,,,341
+Butte,Moore,Registered Voters,,,,532
+Butte,Howe,Registered Voters,,,,194
+Butte,Arco 1,Ballots Cast,,,,507
+Butte,Arco 2,Ballots Cast,,,,281
+Butte,Moore,Ballots Cast,,,,461
+Butte,Howe,Ballots Cast,,,,178
+Butte,Arco 1,State Senate,35,REP,Van Burtenshaw,421
+Butte,Arco 2,State Senate,35,REP,Van Burtenshaw,239
+Butte,Moore,State Senate,35,REP,Van Burtenshaw,404
+Butte,Howe,State Senate,35,REP,Van Burtenshaw,175
+Butte,Arco 1,State House,35A,REP,Karey Hanks,409
+Butte,Arco 2,State House,35A,REP,Karey Hanks,227
+Butte,Moore,State House,35A,REP,Karey Hanks,395
+Butte,Howe,State House,35A,REP,Karey Hanks,164
+Butte,Arco 1,State House,35B,REP,Rod Furniss,407
+Butte,Arco 2,State House,35B,REP,Rod Furniss,225
+Butte,Moore,State House,35B,REP,Rod Furniss,394
+Butte,Howe,State House,35B,REP,Rod Furniss,161
