@@ -1,0 +1,592 @@
+county,precinct,office,district,party,candidate,votes
+Idaho,001 Big Butte,President,,DEM,Joseph R. Biden,12
+Idaho,002 Clearwater,President,,DEM,Joseph R. Biden,7
+Idaho,003 Cottonwood #1,President,,DEM,Joseph R. Biden,7
+Idaho,004 Cottonwood #2,President,,DEM,Joseph R. Biden,14
+Idaho,005 Elk City,President,,DEM,Joseph R. Biden,7
+Idaho,006 Fenn,President,,DEM,Joseph R. Biden,5
+Idaho,007 Ferdinand,President,,DEM,Joseph R. Biden,8
+Idaho,008 Greencreek,President,,DEM,Joseph R. Biden,9
+Idaho,009 Glover,President,,DEM,Joseph R. Biden,8
+Idaho,010 Grangeville #1,President,,DEM,Joseph R. Biden,11
+Idaho,011 Grangeville #2,President,,DEM,Joseph R. Biden,11
+Idaho,012 Grangeville #3,President,,DEM,Joseph R. Biden,11
+Idaho,013 Grangeville #4,President,,DEM,Joseph R. Biden,25
+Idaho,014 Grangeville #5,President,,DEM,Joseph R. Biden,13
+Idaho,015 Harpster,President,,DEM,Joseph R. Biden,7
+Idaho,016 Joseph,President,,DEM,Joseph R. Biden,7
+Idaho,017 Kamiah,President,,DEM,Joseph R. Biden,55
+Idaho,018 Keuterville,President,,DEM,Joseph R. Biden,6
+Idaho,019 Kooskia,President,,DEM,Joseph R. Biden,38
+Idaho,020 Lowell,President,,DEM,Joseph R. Biden,24
+Idaho,021 Pollock,President,,DEM,Joseph R. Biden,9
+Idaho,022 Riggins,President,,DEM,Joseph R. Biden,17
+Idaho,023 Slate Creek 1,President,,DEM,Joseph R. Biden,8
+Idaho,024 Stites,President,,DEM,Joseph R. Biden,6
+Idaho,025 White Bird,President,,DEM,Joseph R. Biden,11
+Idaho,026 Woodland,President,,DEM,Joseph R. Biden,10
+Idaho,027 Slate Creek 2,President,,DEM,Joseph R. Biden,24
+Idaho,028 Absentee,President,,DEM,Joseph R. Biden,1191
+Idaho,001 Big Butte,President,,CON,Don Blankenship,0
+Idaho,002 Clearwater,President,,CON,Don Blankenship,2
+Idaho,003 Cottonwood #1,President,,CON,Don Blankenship,0
+Idaho,004 Cottonwood #2,President,,CON,Don Blankenship,0
+Idaho,005 Elk City,President,,CON,Don Blankenship,0
+Idaho,006 Fenn,President,,CON,Don Blankenship,0
+Idaho,007 Ferdinand,President,,CON,Don Blankenship,1
+Idaho,008 Greencreek,President,,CON,Don Blankenship,2
+Idaho,009 Glover,President,,CON,Don Blankenship,0
+Idaho,010 Grangeville #1,President,,CON,Don Blankenship,1
+Idaho,011 Grangeville #2,President,,CON,Don Blankenship,0
+Idaho,012 Grangeville #3,President,,CON,Don Blankenship,0
+Idaho,013 Grangeville #4,President,,CON,Don Blankenship,0
+Idaho,014 Grangeville #5,President,,CON,Don Blankenship,0
+Idaho,015 Harpster,President,,CON,Don Blankenship,0
+Idaho,016 Joseph,President,,CON,Don Blankenship,0
+Idaho,017 Kamiah,President,,CON,Don Blankenship,0
+Idaho,018 Keuterville,President,,CON,Don Blankenship,0
+Idaho,019 Kooskia,President,,CON,Don Blankenship,3
+Idaho,020 Lowell,President,,CON,Don Blankenship,0
+Idaho,021 Pollock,President,,CON,Don Blankenship,0
+Idaho,022 Riggins,President,,CON,Don Blankenship,1
+Idaho,023 Slate Creek 1,President,,CON,Don Blankenship,0
+Idaho,024 Stites,President,,CON,Don Blankenship,0
+Idaho,025 White Bird,President,,CON,Don Blankenship,0
+Idaho,026 Woodland,President,,CON,Don Blankenship,1
+Idaho,027 Slate Creek 2,President,,CON,Don Blankenship,0
+Idaho,028 Absentee,President,,CON,Don Blankenship,14
+Idaho,001 Big Butte,President,,IND,Rocky De La Fuente,0
+Idaho,002 Clearwater,President,,IND,Rocky De La Fuente,0
+Idaho,003 Cottonwood #1,President,,IND,Rocky De La Fuente,0
+Idaho,004 Cottonwood #2,President,,IND,Rocky De La Fuente,1
+Idaho,005 Elk City,President,,IND,Rocky De La Fuente,0
+Idaho,006 Fenn,President,,IND,Rocky De La Fuente,0
+Idaho,007 Ferdinand,President,,IND,Rocky De La Fuente,0
+Idaho,008 Greencreek,President,,IND,Rocky De La Fuente,0
+Idaho,009 Glover,President,,IND,Rocky De La Fuente,0
+Idaho,010 Grangeville #1,President,,IND,Rocky De La Fuente,1
+Idaho,011 Grangeville #2,President,,IND,Rocky De La Fuente,0
+Idaho,012 Grangeville #3,President,,IND,Rocky De La Fuente,0
+Idaho,013 Grangeville #4,President,,IND,Rocky De La Fuente,0
+Idaho,014 Grangeville #5,President,,IND,Rocky De La Fuente,2
+Idaho,015 Harpster,President,,IND,Rocky De La Fuente,0
+Idaho,016 Joseph,President,,IND,Rocky De La Fuente,0
+Idaho,017 Kamiah,President,,IND,Rocky De La Fuente,0
+Idaho,018 Keuterville,President,,IND,Rocky De La Fuente,0
+Idaho,019 Kooskia,President,,IND,Rocky De La Fuente,0
+Idaho,020 Lowell,President,,IND,Rocky De La Fuente,0
+Idaho,021 Pollock,President,,IND,Rocky De La Fuente,1
+Idaho,022 Riggins,President,,IND,Rocky De La Fuente,1
+Idaho,023 Slate Creek 1,President,,IND,Rocky De La Fuente,0
+Idaho,024 Stites,President,,IND,Rocky De La Fuente,0
+Idaho,025 White Bird,President,,IND,Rocky De La Fuente,0
+Idaho,026 Woodland,President,,IND,Rocky De La Fuente,0
+Idaho,027 Slate Creek 2,President,,IND,Rocky De La Fuente,0
+Idaho,028 Absentee,President,,IND,Rocky De La Fuente,8
+Idaho,001 Big Butte,President,,LBT,Jo Jorgensen,0
+Idaho,002 Clearwater,President,,LBT,Jo Jorgensen,0
+Idaho,003 Cottonwood #1,President,,LBT,Jo Jorgensen,4
+Idaho,004 Cottonwood #2,President,,LBT,Jo Jorgensen,4
+Idaho,005 Elk City,President,,LBT,Jo Jorgensen,0
+Idaho,006 Fenn,President,,LBT,Jo Jorgensen,3
+Idaho,007 Ferdinand,President,,LBT,Jo Jorgensen,1
+Idaho,008 Greencreek,President,,LBT,Jo Jorgensen,1
+Idaho,009 Glover,President,,LBT,Jo Jorgensen,6
+Idaho,010 Grangeville #1,President,,LBT,Jo Jorgensen,5
+Idaho,011 Grangeville #2,President,,LBT,Jo Jorgensen,4
+Idaho,012 Grangeville #3,President,,LBT,Jo Jorgensen,3
+Idaho,013 Grangeville #4,President,,LBT,Jo Jorgensen,7
+Idaho,014 Grangeville #5,President,,LBT,Jo Jorgensen,5
+Idaho,015 Harpster,President,,LBT,Jo Jorgensen,1
+Idaho,016 Joseph,President,,LBT,Jo Jorgensen,1
+Idaho,017 Kamiah,President,,LBT,Jo Jorgensen,3
+Idaho,018 Keuterville,President,,LBT,Jo Jorgensen,0
+Idaho,019 Kooskia,President,,LBT,Jo Jorgensen,2
+Idaho,020 Lowell,President,,LBT,Jo Jorgensen,2
+Idaho,021 Pollock,President,,LBT,Jo Jorgensen,1
+Idaho,022 Riggins,President,,LBT,Jo Jorgensen,3
+Idaho,023 Slate Creek 1,President,,LBT,Jo Jorgensen,1
+Idaho,024 Stites,President,,LBT,Jo Jorgensen,2
+Idaho,025 White Bird,President,,LBT,Jo Jorgensen,1
+Idaho,026 Woodland,President,,LBT,Jo Jorgensen,1
+Idaho,027 Slate Creek 2,President,,LBT,Jo Jorgensen,4
+Idaho,028 Absentee,President,,LBT,Jo Jorgensen,53
+Idaho,001 Big Butte,President,,IND,Brock Pierce,0
+Idaho,002 Clearwater,President,,IND,Brock Pierce,1
+Idaho,003 Cottonwood #1,President,,IND,Brock Pierce,0
+Idaho,004 Cottonwood #2,President,,IND,Brock Pierce,2
+Idaho,005 Elk City,President,,IND,Brock Pierce,0
+Idaho,006 Fenn,President,,IND,Brock Pierce,1
+Idaho,007 Ferdinand,President,,IND,Brock Pierce,0
+Idaho,008 Greencreek,President,,IND,Brock Pierce,0
+Idaho,009 Glover,President,,IND,Brock Pierce,0
+Idaho,010 Grangeville #1,President,,IND,Brock Pierce,1
+Idaho,011 Grangeville #2,President,,IND,Brock Pierce,0
+Idaho,012 Grangeville #3,President,,IND,Brock Pierce,1
+Idaho,013 Grangeville #4,President,,IND,Brock Pierce,1
+Idaho,014 Grangeville #5,President,,IND,Brock Pierce,0
+Idaho,015 Harpster,President,,IND,Brock Pierce,1
+Idaho,016 Joseph,President,,IND,Brock Pierce,0
+Idaho,017 Kamiah,President,,IND,Brock Pierce,2
+Idaho,018 Keuterville,President,,IND,Brock Pierce,0
+Idaho,019 Kooskia,President,,IND,Brock Pierce,1
+Idaho,020 Lowell,President,,IND,Brock Pierce,0
+Idaho,021 Pollock,President,,IND,Brock Pierce,1
+Idaho,022 Riggins,President,,IND,Brock Pierce,0
+Idaho,023 Slate Creek 1,President,,IND,Brock Pierce,0
+Idaho,024 Stites,President,,IND,Brock Pierce,0
+Idaho,025 White Bird,President,,IND,Brock Pierce,0
+Idaho,026 Woodland,President,,IND,Brock Pierce,0
+Idaho,027 Slate Creek 2,President,,IND,Brock Pierce,0
+Idaho,028 Absentee,President,,IND,Brock Pierce,23
+Idaho,001 Big Butte,President,,REP,Donald J. Trump,81
+Idaho,002 Clearwater,President,,REP,Donald J. Trump,167
+Idaho,003 Cottonwood #1,President,,REP,Donald J. Trump,186
+Idaho,004 Cottonwood #2,President,,REP,Donald J. Trump,171
+Idaho,005 Elk City,President,,REP,Donald J. Trump,110
+Idaho,006 Fenn,President,,REP,Donald J. Trump,82
+Idaho,007 Ferdinand,President,,REP,Donald J. Trump,116
+Idaho,008 Greencreek,President,,REP,Donald J. Trump,100
+Idaho,009 Glover,President,,REP,Donald J. Trump,145
+Idaho,010 Grangeville #1,President,,REP,Donald J. Trump,200
+Idaho,011 Grangeville #2,President,,REP,Donald J. Trump,202
+Idaho,012 Grangeville #3,President,,REP,Donald J. Trump,162
+Idaho,013 Grangeville #4,President,,REP,Donald J. Trump,239
+Idaho,014 Grangeville #5,President,,REP,Donald J. Trump,254
+Idaho,015 Harpster,President,,REP,Donald J. Trump,107
+Idaho,016 Joseph,President,,REP,Donald J. Trump,13
+Idaho,017 Kamiah,President,,REP,Donald J. Trump,443
+Idaho,018 Keuterville,President,,REP,Donald J. Trump,87
+Idaho,019 Kooskia,President,,REP,Donald J. Trump,537
+Idaho,020 Lowell,President,,REP,Donald J. Trump,42
+Idaho,021 Pollock,President,,REP,Donald J. Trump,198
+Idaho,022 Riggins,President,,REP,Donald J. Trump,218
+Idaho,023 Slate Creek 1,President,,REP,Donald J. Trump,66
+Idaho,024 Stites,President,,REP,Donald J. Trump,138
+Idaho,025 White Bird,President,,REP,Donald J. Trump,136
+Idaho,026 Woodland,President,,REP,Donald J. Trump,108
+Idaho,027 Slate Creek 2,President,,REP,Donald J. Trump,60
+Idaho,028 Absentee,President,,REP,Donald J. Trump,3458
+Idaho,001 Big Butte,President,,IND,Kanye West,0
+Idaho,002 Clearwater,President,,IND,Kanye West,0
+Idaho,003 Cottonwood #1,President,,IND,Kanye West,0
+Idaho,004 Cottonwood #2,President,,IND,Kanye West,1
+Idaho,005 Elk City,President,,IND,Kanye West,0
+Idaho,006 Fenn,President,,IND,Kanye West,0
+Idaho,007 Ferdinand,President,,IND,Kanye West,1
+Idaho,008 Greencreek,President,,IND,Kanye West,0
+Idaho,009 Glover,President,,IND,Kanye West,1
+Idaho,010 Grangeville #1,President,,IND,Kanye West,1
+Idaho,011 Grangeville #2,President,,IND,Kanye West,0
+Idaho,012 Grangeville #3,President,,IND,Kanye West,1
+Idaho,013 Grangeville #4,President,,IND,Kanye West,1
+Idaho,014 Grangeville #5,President,,IND,Kanye West,0
+Idaho,015 Harpster,President,,IND,Kanye West,0
+Idaho,016 Joseph,President,,IND,Kanye West,0
+Idaho,017 Kamiah,President,,IND,Kanye West,1
+Idaho,018 Keuterville,President,,IND,Kanye West,0
+Idaho,019 Kooskia,President,,IND,Kanye West,2
+Idaho,020 Lowell,President,,IND,Kanye West,0
+Idaho,021 Pollock,President,,IND,Kanye West,0
+Idaho,022 Riggins,President,,IND,Kanye West,0
+Idaho,023 Slate Creek 1,President,,IND,Kanye West,0
+Idaho,024 Stites,President,,IND,Kanye West,0
+Idaho,025 White Bird,President,,IND,Kanye West,0
+Idaho,026 Woodland,President,,IND,Kanye West,0
+Idaho,027 Slate Creek 2,President,,IND,Kanye West,0
+Idaho,028 Absentee,President,,IND,Kanye West,14
+Idaho,016 Joseph,President,,,Howie Hawkins,2
+Idaho,019 Kooskia,President,,,Tom C. Hoefling,2
+Idaho,028 Absentee,President,,,Brian Carroll,1
+Idaho,028 Absentee,President,,,Gloria LaRiva,2
+Idaho,028 Absentee,President,,,Jade Simmons,1
+Idaho,001 Big Butte,U.S. Senate,,IND,Natalie M. Fleming,0
+Idaho,002 Clearwater,U.S. Senate,,IND,Natalie M. Fleming,2
+Idaho,003 Cottonwood #1,U.S. Senate,,IND,Natalie M. Fleming,2
+Idaho,004 Cottonwood #2,U.S. Senate,,IND,Natalie M. Fleming,3
+Idaho,005 Elk City,U.S. Senate,,IND,Natalie M. Fleming,1
+Idaho,006 Fenn,U.S. Senate,,IND,Natalie M. Fleming,3
+Idaho,007 Ferdinand,U.S. Senate,,IND,Natalie M. Fleming,0
+Idaho,008 Greencreek,U.S. Senate,,IND,Natalie M. Fleming,0
+Idaho,009 Glover,U.S. Senate,,IND,Natalie M. Fleming,6
+Idaho,010 Grangeville #1,U.S. Senate,,IND,Natalie M. Fleming,9
+Idaho,011 Grangeville #2,U.S. Senate,,IND,Natalie M. Fleming,6
+Idaho,012 Grangeville #3,U.S. Senate,,IND,Natalie M. Fleming,4
+Idaho,013 Grangeville #4,U.S. Senate,,IND,Natalie M. Fleming,8
+Idaho,014 Grangeville #5,U.S. Senate,,IND,Natalie M. Fleming,8
+Idaho,015 Harpster,U.S. Senate,,IND,Natalie M. Fleming,3
+Idaho,016 Joseph,U.S. Senate,,IND,Natalie M. Fleming,0
+Idaho,017 Kamiah,U.S. Senate,,IND,Natalie M. Fleming,6
+Idaho,018 Keuterville,U.S. Senate,,IND,Natalie M. Fleming,1
+Idaho,019 Kooskia,U.S. Senate,,IND,Natalie M. Fleming,15
+Idaho,020 Lowell,U.S. Senate,,IND,Natalie M. Fleming,1
+Idaho,021 Pollock,U.S. Senate,,IND,Natalie M. Fleming,8
+Idaho,022 Riggins,U.S. Senate,,IND,Natalie M. Fleming,3
+Idaho,023 Slate Creek 1,U.S. Senate,,IND,Natalie M. Fleming,1
+Idaho,024 Stites,U.S. Senate,,IND,Natalie M. Fleming,1
+Idaho,025 White Bird,U.S. Senate,,IND,Natalie M. Fleming,5
+Idaho,026 Woodland,U.S. Senate,,IND,Natalie M. Fleming,4
+Idaho,027 Slate Creek 2,U.S. Senate,,IND,Natalie M. Fleming,6
+Idaho,028 Absentee,U.S. Senate,,IND,Natalie M. Fleming,108
+Idaho,001 Big Butte,U.S. Senate,,DEM,Paulette Jordan,11
+Idaho,002 Clearwater,U.S. Senate,,DEM,Paulette Jordan,13
+Idaho,003 Cottonwood #1,U.S. Senate,,DEM,Paulette Jordan,9
+Idaho,004 Cottonwood #2,U.S. Senate,,DEM,Paulette Jordan,18
+Idaho,005 Elk City,U.S. Senate,,DEM,Paulette Jordan,5
+Idaho,006 Fenn,U.S. Senate,,DEM,Paulette Jordan,5
+Idaho,007 Ferdinand,U.S. Senate,,DEM,Paulette Jordan,5
+Idaho,008 Greencreek,U.S. Senate,,DEM,Paulette Jordan,8
+Idaho,009 Glover,U.S. Senate,,DEM,Paulette Jordan,6
+Idaho,010 Grangeville #1,U.S. Senate,,DEM,Paulette Jordan,12
+Idaho,011 Grangeville #2,U.S. Senate,,DEM,Paulette Jordan,14
+Idaho,012 Grangeville #3,U.S. Senate,,DEM,Paulette Jordan,8
+Idaho,013 Grangeville #4,U.S. Senate,,DEM,Paulette Jordan,29
+Idaho,014 Grangeville #5,U.S. Senate,,DEM,Paulette Jordan,13
+Idaho,015 Harpster,U.S. Senate,,DEM,Paulette Jordan,7
+Idaho,016 Joseph,U.S. Senate,,DEM,Paulette Jordan,9
+Idaho,017 Kamiah,U.S. Senate,,DEM,Paulette Jordan,66
+Idaho,018 Keuterville,U.S. Senate,,DEM,Paulette Jordan,6
+Idaho,019 Kooskia,U.S. Senate,,DEM,Paulette Jordan,46
+Idaho,020 Lowell,U.S. Senate,,DEM,Paulette Jordan,22
+Idaho,021 Pollock,U.S. Senate,,DEM,Paulette Jordan,19
+Idaho,022 Riggins,U.S. Senate,,DEM,Paulette Jordan,25
+Idaho,023 Slate Creek 1,U.S. Senate,,DEM,Paulette Jordan,7
+Idaho,024 Stites,U.S. Senate,,DEM,Paulette Jordan,7
+Idaho,025 White Bird,U.S. Senate,,DEM,Paulette Jordan,10
+Idaho,026 Woodland,U.S. Senate,,DEM,Paulette Jordan,9
+Idaho,027 Slate Creek 2,U.S. Senate,,DEM,Paulette Jordan,19
+Idaho,028 Absentee,U.S. Senate,,DEM,Paulette Jordan,1124
+Idaho,001 Big Butte,U.S. Senate,,REP,Jim Risch,78
+Idaho,002 Clearwater,U.S. Senate,,REP,Jim Risch,153
+Idaho,003 Cottonwood #1,U.S. Senate,,REP,Jim Risch,180
+Idaho,004 Cottonwood #2,U.S. Senate,,REP,Jim Risch,159
+Idaho,005 Elk City,U.S. Senate,,REP,Jim Risch,109
+Idaho,006 Fenn,U.S. Senate,,REP,Jim Risch,81
+Idaho,007 Ferdinand,U.S. Senate,,REP,Jim Risch,118
+Idaho,008 Greencreek,U.S. Senate,,REP,Jim Risch,100
+Idaho,009 Glover,U.S. Senate,,REP,Jim Risch,142
+Idaho,010 Grangeville #1,U.S. Senate,,REP,Jim Risch,192
+Idaho,011 Grangeville #2,U.S. Senate,,REP,Jim Risch,194
+Idaho,012 Grangeville #3,U.S. Senate,,REP,Jim Risch,165
+Idaho,013 Grangeville #4,U.S. Senate,,REP,Jim Risch,223
+Idaho,014 Grangeville #5,U.S. Senate,,REP,Jim Risch,249
+Idaho,015 Harpster,U.S. Senate,,REP,Jim Risch,101
+Idaho,016 Joseph,U.S. Senate,,REP,Jim Risch,13
+Idaho,017 Kamiah,U.S. Senate,,REP,Jim Risch,416
+Idaho,018 Keuterville,U.S. Senate,,REP,Jim Risch,84
+Idaho,019 Kooskia,U.S. Senate,,REP,Jim Risch,498
+Idaho,020 Lowell,U.S. Senate,,REP,Jim Risch,44
+Idaho,021 Pollock,U.S. Senate,,REP,Jim Risch,174
+Idaho,022 Riggins,U.S. Senate,,REP,Jim Risch,199
+Idaho,023 Slate Creek 1,U.S. Senate,,REP,Jim Risch,67
+Idaho,024 Stites,U.S. Senate,,REP,Jim Risch,135
+Idaho,025 White Bird,U.S. Senate,,REP,Jim Risch,133
+Idaho,026 Woodland,U.S. Senate,,REP,Jim Risch,99
+Idaho,027 Slate Creek 2,U.S. Senate,,REP,Jim Risch,60
+Idaho,028 Absentee,U.S. Senate,,REP,Jim Risch,3463
+Idaho,001 Big Butte,U.S. Senate,,CON,Ray J. Writz,0
+Idaho,002 Clearwater,U.S. Senate,,CON,Ray J. Writz,4
+Idaho,003 Cottonwood #1,U.S. Senate,,CON,Ray J. Writz,2
+Idaho,004 Cottonwood #2,U.S. Senate,,CON,Ray J. Writz,2
+Idaho,005 Elk City,U.S. Senate,,CON,Ray J. Writz,0
+Idaho,006 Fenn,U.S. Senate,,CON,Ray J. Writz,0
+Idaho,007 Ferdinand,U.S. Senate,,CON,Ray J. Writz,1
+Idaho,008 Greencreek,U.S. Senate,,CON,Ray J. Writz,1
+Idaho,009 Glover,U.S. Senate,,CON,Ray J. Writz,4
+Idaho,010 Grangeville #1,U.S. Senate,,CON,Ray J. Writz,3
+Idaho,011 Grangeville #2,U.S. Senate,,CON,Ray J. Writz,2
+Idaho,012 Grangeville #3,U.S. Senate,,CON,Ray J. Writz,1
+Idaho,013 Grangeville #4,U.S. Senate,,CON,Ray J. Writz,4
+Idaho,014 Grangeville #5,U.S. Senate,,CON,Ray J. Writz,3
+Idaho,015 Harpster,U.S. Senate,,CON,Ray J. Writz,4
+Idaho,016 Joseph,U.S. Senate,,CON,Ray J. Writz,0
+Idaho,017 Kamiah,U.S. Senate,,CON,Ray J. Writz,6
+Idaho,018 Keuterville,U.S. Senate,,CON,Ray J. Writz,0
+Idaho,019 Kooskia,U.S. Senate,,CON,Ray J. Writz,9
+Idaho,020 Lowell,U.S. Senate,,CON,Ray J. Writz,2
+Idaho,021 Pollock,U.S. Senate,,CON,Ray J. Writz,3
+Idaho,022 Riggins,U.S. Senate,,CON,Ray J. Writz,5
+Idaho,023 Slate Creek 1,U.S. Senate,,CON,Ray J. Writz,0
+Idaho,024 Stites,U.S. Senate,,CON,Ray J. Writz,0
+Idaho,025 White Bird,U.S. Senate,,CON,Ray J. Writz,0
+Idaho,026 Woodland,U.S. Senate,,CON,Ray J. Writz,5
+Idaho,027 Slate Creek 2,U.S. Senate,,CON,Ray J. Writz,1
+Idaho,028 Absentee,U.S. Senate,,CON,Ray J. Writz,44
+Idaho,001 Big Butte,U.S. House,1,LBT,Joe Evans,0
+Idaho,002 Clearwater,U.S. House,1,LBT,Joe Evans,6
+Idaho,003 Cottonwood #1,U.S. House,1,LBT,Joe Evans,6
+Idaho,004 Cottonwood #2,U.S. House,1,LBT,Joe Evans,9
+Idaho,005 Elk City,U.S. House,1,LBT,Joe Evans,1
+Idaho,006 Fenn,U.S. House,1,LBT,Joe Evans,4
+Idaho,007 Ferdinand,U.S. House,1,LBT,Joe Evans,1
+Idaho,008 Greencreek,U.S. House,1,LBT,Joe Evans,0
+Idaho,009 Glover,U.S. House,1,LBT,Joe Evans,9
+Idaho,010 Grangeville #1,U.S. House,1,LBT,Joe Evans,9
+Idaho,011 Grangeville #2,U.S. House,1,LBT,Joe Evans,8
+Idaho,012 Grangeville #3,U.S. House,1,LBT,Joe Evans,6
+Idaho,013 Grangeville #4,U.S. House,1,LBT,Joe Evans,10
+Idaho,014 Grangeville #5,U.S. House,1,LBT,Joe Evans,6
+Idaho,015 Harpster,U.S. House,1,LBT,Joe Evans,5
+Idaho,016 Joseph,U.S. House,1,LBT,Joe Evans,0
+Idaho,017 Kamiah,U.S. House,1,LBT,Joe Evans,10
+Idaho,018 Keuterville,U.S. House,1,LBT,Joe Evans,1
+Idaho,019 Kooskia,U.S. House,1,LBT,Joe Evans,9
+Idaho,020 Lowell,U.S. House,1,LBT,Joe Evans,2
+Idaho,021 Pollock,U.S. House,1,LBT,Joe Evans,6
+Idaho,022 Riggins,U.S. House,1,LBT,Joe Evans,6
+Idaho,023 Slate Creek 1,U.S. House,1,LBT,Joe Evans,0
+Idaho,024 Stites,U.S. House,1,LBT,Joe Evans,4
+Idaho,025 White Bird,U.S. House,1,LBT,Joe Evans,7
+Idaho,026 Woodland,U.S. House,1,LBT,Joe Evans,2
+Idaho,027 Slate Creek 2,U.S. House,1,LBT,Joe Evans,2
+Idaho,028 Absentee,U.S. House,1,LBT,Joe Evans,121
+Idaho,001 Big Butte,U.S. House,1,REP,Russ Fulcher,80
+Idaho,002 Clearwater,U.S. House,1,REP,Russ Fulcher,154
+Idaho,003 Cottonwood #1,U.S. House,1,REP,Russ Fulcher,173
+Idaho,004 Cottonwood #2,U.S. House,1,REP,Russ Fulcher,156
+Idaho,005 Elk City,U.S. House,1,REP,Russ Fulcher,105
+Idaho,006 Fenn,U.S. House,1,REP,Russ Fulcher,79
+Idaho,007 Ferdinand,U.S. House,1,REP,Russ Fulcher,114
+Idaho,008 Greencreek,U.S. House,1,REP,Russ Fulcher,95
+Idaho,009 Glover,U.S. House,1,REP,Russ Fulcher,142
+Idaho,010 Grangeville #1,U.S. House,1,REP,Russ Fulcher,188
+Idaho,011 Grangeville #2,U.S. House,1,REP,Russ Fulcher,196
+Idaho,012 Grangeville #3,U.S. House,1,REP,Russ Fulcher,159
+Idaho,013 Grangeville #4,U.S. House,1,REP,Russ Fulcher,224
+Idaho,014 Grangeville #5,U.S. House,1,REP,Russ Fulcher,252
+Idaho,015 Harpster,U.S. House,1,REP,Russ Fulcher,104
+Idaho,016 Joseph,U.S. House,1,REP,Russ Fulcher,13
+Idaho,017 Kamiah,U.S. House,1,REP,Russ Fulcher,418
+Idaho,018 Keuterville,U.S. House,1,REP,Russ Fulcher,83
+Idaho,019 Kooskia,U.S. House,1,REP,Russ Fulcher,511
+Idaho,020 Lowell,U.S. House,1,REP,Russ Fulcher,45
+Idaho,021 Pollock,U.S. House,1,REP,Russ Fulcher,183
+Idaho,022 Riggins,U.S. House,1,REP,Russ Fulcher,205
+Idaho,023 Slate Creek 1,U.S. House,1,REP,Russ Fulcher,68
+Idaho,024 Stites,U.S. House,1,REP,Russ Fulcher,131
+Idaho,025 White Bird,U.S. House,1,REP,Russ Fulcher,130
+Idaho,026 Woodland,U.S. House,1,REP,Russ Fulcher,104
+Idaho,027 Slate Creek 2,U.S. House,1,REP,Russ Fulcher,60
+Idaho,028 Absentee,U.S. House,1,REP,Russ Fulcher,3432
+Idaho,001 Big Butte,U.S. House,1,,Pro-Life,0
+Idaho,002 Clearwater,U.S. House,1,,Pro-Life,0
+Idaho,003 Cottonwood #1,U.S. House,1,,Pro-Life,0
+Idaho,004 Cottonwood #2,U.S. House,1,,Pro-Life,0
+Idaho,005 Elk City,U.S. House,1,,Pro-Life,0
+Idaho,006 Fenn,U.S. House,1,,Pro-Life,0
+Idaho,007 Ferdinand,U.S. House,1,,Pro-Life,0
+Idaho,008 Greencreek,U.S. House,1,,Pro-Life,0
+Idaho,009 Glover,U.S. House,1,,Pro-Life,0
+Idaho,010 Grangeville #1,U.S. House,1,,Pro-Life,0
+Idaho,011 Grangeville #2,U.S. House,1,,Pro-Life,0
+Idaho,012 Grangeville #3,U.S. House,1,,Pro-Life,0
+Idaho,013 Grangeville #4,U.S. House,1,,Pro-Life,0
+Idaho,014 Grangeville #5,U.S. House,1,,Pro-Life,0
+Idaho,015 Harpster,U.S. House,1,,Pro-Life,0
+Idaho,016 Joseph,U.S. House,1,,Pro-Life,0
+Idaho,017 Kamiah,U.S. House,1,,Pro-Life,0
+Idaho,018 Keuterville,U.S. House,1,,Pro-Life,0
+Idaho,019 Kooskia,U.S. House,1,,Pro-Life,0
+Idaho,020 Lowell,U.S. House,1,,Pro-Life,0
+Idaho,021 Pollock,U.S. House,1,,Pro-Life,0
+Idaho,022 Riggins,U.S. House,1,,Pro-Life,0
+Idaho,023 Slate Creek 1,U.S. House,1,,Pro-Life,0
+Idaho,024 Stites,U.S. House,1,,Pro-Life,0
+Idaho,025 White Bird,U.S. House,1,,Pro-Life,0
+Idaho,026 Woodland,U.S. House,1,,Pro-Life,0
+Idaho,027 Slate Creek 2,U.S. House,1,,Pro-Life,0
+Idaho,028 Absentee,U.S. House,1,,Pro-Life,0
+Idaho,001 Big Butte,U.S. House,1,DEM,Rudy Soto,11
+Idaho,002 Clearwater,U.S. House,1,DEM,Rudy Soto,7
+Idaho,003 Cottonwood #1,U.S. House,1,DEM,Rudy Soto,8
+Idaho,004 Cottonwood #2,U.S. House,1,DEM,Rudy Soto,16
+Idaho,005 Elk City,U.S. House,1,DEM,Rudy Soto,5
+Idaho,006 Fenn,U.S. House,1,DEM,Rudy Soto,4
+Idaho,007 Ferdinand,U.S. House,1,DEM,Rudy Soto,7
+Idaho,008 Greencreek,U.S. House,1,DEM,Rudy Soto,9
+Idaho,009 Glover,U.S. House,1,DEM,Rudy Soto,5
+Idaho,010 Grangeville #1,U.S. House,1,DEM,Rudy Soto,13
+Idaho,011 Grangeville #2,U.S. House,1,DEM,Rudy Soto,11
+Idaho,012 Grangeville #3,U.S. House,1,DEM,Rudy Soto,12
+Idaho,013 Grangeville #4,U.S. House,1,DEM,Rudy Soto,25
+Idaho,014 Grangeville #5,U.S. House,1,DEM,Rudy Soto,9
+Idaho,015 Harpster,U.S. House,1,DEM,Rudy Soto,6
+Idaho,016 Joseph,U.S. House,1,DEM,Rudy Soto,9
+Idaho,017 Kamiah,U.S. House,1,DEM,Rudy Soto,62
+Idaho,018 Keuterville,U.S. House,1,DEM,Rudy Soto,5
+Idaho,019 Kooskia,U.S. House,1,DEM,Rudy Soto,47
+Idaho,020 Lowell,U.S. House,1,DEM,Rudy Soto,22
+Idaho,021 Pollock,U.S. House,1,DEM,Rudy Soto,15
+Idaho,022 Riggins,U.S. House,1,DEM,Rudy Soto,20
+Idaho,023 Slate Creek 1,U.S. House,1,DEM,Rudy Soto,7
+Idaho,024 Stites,U.S. House,1,DEM,Rudy Soto,6
+Idaho,025 White Bird,U.S. House,1,DEM,Rudy Soto,10
+Idaho,026 Woodland,U.S. House,1,DEM,Rudy Soto,11
+Idaho,027 Slate Creek 2,U.S. House,1,DEM,Rudy Soto,25
+Idaho,028 Absentee,U.S. House,1,DEM,Rudy Soto,1121
+Idaho,001 Big Butte,Election Day Registrants,,,,0
+Idaho,002 Clearwater,Election Day Registrants,,,,17
+Idaho,003 Cottonwood #1,Election Day Registrants,,,,23
+Idaho,004 Cottonwood #2,Election Day Registrants,,,,20
+Idaho,005 Elk City,Election Day Registrants,,,,26
+Idaho,006 Fenn,Election Day Registrants,,,,17
+Idaho,007 Ferdinand,Election Day Registrants,,,,14
+Idaho,008 Greencreek,Election Day Registrants,,,,13
+Idaho,009 Glover,Election Day Registrants,,,,22
+Idaho,010 Grangeville #1,Election Day Registrants,,,,26
+Idaho,011 Grangeville #2,Election Day Registrants,,,,25
+Idaho,012 Grangeville #3,Election Day Registrants,,,,26
+Idaho,013 Grangeville #4,Election Day Registrants,,,,46
+Idaho,014 Grangeville #5,Election Day Registrants,,,,23
+Idaho,015 Harpster,Election Day Registrants,,,,19
+Idaho,016 Joseph,Election Day Registrants,,,,0
+Idaho,017 Kamiah,Election Day Registrants,,,,70
+Idaho,018 Keuterville,Election Day Registrants,,,,5
+Idaho,019 Kooskia,Election Day Registrants,,,,33
+Idaho,020 Lowell,Election Day Registrants,,,,0
+Idaho,021 Pollock,Election Day Registrants,,,,48
+Idaho,022 Riggins,Election Day Registrants,,,,39
+Idaho,023 Slate Creek 1,Election Day Registrants,,,,0
+Idaho,024 Stites,Election Day Registrants,,,,15
+Idaho,025 White Bird,Election Day Registrants,,,,12
+Idaho,026 Woodland,Election Day Registrants,,,,11
+Idaho,027 Slate Creek 2,Election Day Registrants,,,,0
+Idaho,001 Big Butte,Registered Voters,,,,105
+Idaho,002 Clearwater,Registered Voters,,,,381
+Idaho,003 Cottonwood #1,Registered Voters,,,,423
+Idaho,004 Cottonwood #2,Registered Voters,,,,400
+Idaho,005 Elk City,Registered Voters,,,,317
+Idaho,006 Fenn,Registered Voters,,,,202
+Idaho,007 Ferdinand,Registered Voters,,,,244
+Idaho,008 Greencreek,Registered Voters,,,,226
+Idaho,009 Glover,Registered Voters,,,,292
+Idaho,010 Grangeville #1,Registered Voters,,,,629
+Idaho,011 Grangeville #2,Registered Voters,,,,564
+Idaho,012 Grangeville #3,Registered Voters,,,,567
+Idaho,013 Grangeville #4,Registered Voters,,,,875
+Idaho,014 Grangeville #5,Registered Voters,,,,918
+Idaho,015 Harpster,Registered Voters,,,,309
+Idaho,016 Joseph,Registered Voters,,,,25
+Idaho,017 Kamiah,Registered Voters,,,,1163
+Idaho,018 Keuterville,Registered Voters,,,,219
+Idaho,019 Kooskia,Registered Voters,,,,1306
+Idaho,020 Lowell,Registered Voters,,,,74
+Idaho,021 Pollock,Registered Voters,,,,481
+Idaho,022 Riggins,Registered Voters,,,,540
+Idaho,023 Slate Creek 1,Registered Voters,,,,86
+Idaho,024 Stites,Registered Voters,,,,359
+Idaho,025 White Bird,Registered Voters,,,,360
+Idaho,026 Woodland,Registered Voters,,,,250
+Idaho,027 Slate Creek 2,Registered Voters,,,,97
+Idaho,001 Big Butte,Ballots Cast,,,,95
+Idaho,002 Clearwater,Ballots Cast,,,,178
+Idaho,003 Cottonwood #1,Ballots Cast,,,,197
+Idaho,004 Cottonwood #2,Ballots Cast,,,,194
+Idaho,005 Elk City,Ballots Cast,,,,117
+Idaho,006 Fenn,Ballots Cast,,,,92
+Idaho,007 Ferdinand,Ballots Cast,,,,128
+Idaho,008 Greencreek,Ballots Cast,,,,112
+Idaho,009 Glover,Ballots Cast,,,,162
+Idaho,010 Grangeville #1,Ballots Cast,,,,222
+Idaho,011 Grangeville #2,Ballots Cast,,,,222
+Idaho,012 Grangeville #3,Ballots Cast,,,,179
+Idaho,013 Grangeville #4,Ballots Cast,,,,273
+Idaho,014 Grangeville #5,Ballots Cast,,,,279
+Idaho,015 Harpster,Ballots Cast,,,,117
+Idaho,016 Joseph,Ballots Cast,,,,22
+Idaho,017 Kamiah,Ballots Cast,,,,506
+Idaho,018 Keuterville,Ballots Cast,,,,94
+Idaho,019 Kooskia,Ballots Cast,,,,588
+Idaho,020 Lowell,Ballots Cast,,,,70
+Idaho,021 Pollock,Ballots Cast,,,,212
+Idaho,022 Riggins,Ballots Cast,,,,243
+Idaho,023 Slate Creek 1,Ballots Cast,,,,79
+Idaho,024 Stites,Ballots Cast,,,,149
+Idaho,025 White Bird,Ballots Cast,,,,152
+Idaho,026 Woodland,Ballots Cast,,,,122
+Idaho,027 Slate Creek 2,Ballots Cast,,,,93
+Idaho,Absentee,Ballots Cast,,,,4820
+Idaho,001 Big Butte,State Senate,7,REP,Carl G. Crabtree,81
+Idaho,002 Clearwater,State Senate,7,REP,Carl G. Crabtree,154
+Idaho,003 Cottonwood #1,State Senate,7,REP,Carl G. Crabtree,176
+Idaho,004 Cottonwood #2,State Senate,7,REP,Carl G. Crabtree,174
+Idaho,005 Elk City,State Senate,7,REP,Carl G. Crabtree,102
+Idaho,006 Fenn,State Senate,7,REP,Carl G. Crabtree,81
+Idaho,007 Ferdinand,State Senate,7,REP,Carl G. Crabtree,119
+Idaho,008 Greencreek,State Senate,7,REP,Carl G. Crabtree,100
+Idaho,009 Glover,State Senate,7,REP,Carl G. Crabtree,143
+Idaho,010 Grangeville #1,State Senate,7,REP,Carl G. Crabtree,205
+Idaho,011 Grangeville #2,State Senate,7,REP,Carl G. Crabtree,211
+Idaho,012 Grangeville #3,State Senate,7,REP,Carl G. Crabtree,168
+Idaho,013 Grangeville #4,State Senate,7,REP,Carl G. Crabtree,244
+Idaho,014 Grangeville #5,State Senate,7,REP,Carl G. Crabtree,252
+Idaho,015 Harpster,State Senate,7,REP,Carl G. Crabtree,107
+Idaho,016 Joseph,State Senate,7,REP,Carl G. Crabtree,14
+Idaho,017 Kamiah,State Senate,7,REP,Carl G. Crabtree,424
+Idaho,018 Keuterville,State Senate,7,REP,Carl G. Crabtree,85
+Idaho,019 Kooskia,State Senate,7,REP,Carl G. Crabtree,507
+Idaho,020 Lowell,State Senate,7,REP,Carl G. Crabtree,52
+Idaho,021 Pollock,State Senate,7,REP,Carl G. Crabtree,188
+Idaho,022 Riggins,State Senate,7,REP,Carl G. Crabtree,210
+Idaho,023 Slate Creek 1,State Senate,7,REP,Carl G. Crabtree,64
+Idaho,024 Stites,State Senate,7,REP,Carl G. Crabtree,133
+Idaho,025 White Bird,State Senate,7,REP,Carl G. Crabtree,130
+Idaho,026 Woodland,State Senate,7,REP,Carl G. Crabtree,100
+Idaho,027 Slate Creek 2,State Senate,7,REP,Carl G. Crabtree,74
+Idaho,Absentee,State Senate,7,REP,Carl G. Crabtree,4004
+Idaho,001 Big Butte,State House,7A,REP,Priscilla Giddings,72
+Idaho,002 Clearwater,State House,7A,REP,Priscilla Giddings,150
+Idaho,003 Cottonwood #1,State House,7A,REP,Priscilla Giddings,158
+Idaho,004 Cottonwood #2,State House,7A,REP,Priscilla Giddings,162
+Idaho,005 Elk City,State House,7A,REP,Priscilla Giddings,99
+Idaho,006 Fenn,State House,7A,REP,Priscilla Giddings,71
+Idaho,007 Ferdinand,State House,7A,REP,Priscilla Giddings,111
+Idaho,008 Greencreek,State House,7A,REP,Priscilla Giddings,94
+Idaho,009 Glover,State House,7A,REP,Priscilla Giddings,148
+Idaho,010 Grangeville #1,State House,7A,REP,Priscilla Giddings,188
+Idaho,011 Grangeville #2,State House,7A,REP,Priscilla Giddings,187
+Idaho,012 Grangeville #3,State House,7A,REP,Priscilla Giddings,161
+Idaho,013 Grangeville #4,State House,7A,REP,Priscilla Giddings,228
+Idaho,014 Grangeville #5,State House,7A,REP,Priscilla Giddings,238
+Idaho,015 Harpster,State House,7A,REP,Priscilla Giddings,100
+Idaho,016 Joseph,State House,7A,REP,Priscilla Giddings,10
+Idaho,017 Kamiah,State House,7A,REP,Priscilla Giddings,413
+Idaho,018 Keuterville,State House,7A,REP,Priscilla Giddings,80
+Idaho,019 Kooskia,State House,7A,REP,Priscilla Giddings,496
+Idaho,020 Lowell,State House,7A,REP,Priscilla Giddings,47
+Idaho,021 Pollock,State House,7A,REP,Priscilla Giddings,184
+Idaho,022 Riggins,State House,7A,REP,Priscilla Giddings,206
+Idaho,023 Slate Creek 1,State House,7A,REP,Priscilla Giddings,70
+Idaho,024 Stites,State House,7A,REP,Priscilla Giddings,126
+Idaho,025 White Bird,State House,7A,REP,Priscilla Giddings,135
+Idaho,026 Woodland,State House,7A,REP,Priscilla Giddings,105
+Idaho,027 Slate Creek 2,State House,7A,REP,Priscilla Giddings,68
+Idaho,Absentee,State House,7A,REP,Priscilla Giddings,3606
+Idaho,001 Big Butte,State House,7B,REP,Charlie Shepherd,78
+Idaho,002 Clearwater,State House,7B,REP,Charlie Shepherd,153
+Idaho,003 Cottonwood #1,State House,7B,REP,Charlie Shepherd,167
+Idaho,004 Cottonwood #2,State House,7B,REP,Charlie Shepherd,174
+Idaho,005 Elk City,State House,7B,REP,Charlie Shepherd,109
+Idaho,006 Fenn,State House,7B,REP,Charlie Shepherd,78
+Idaho,007 Ferdinand,State House,7B,REP,Charlie Shepherd,115
+Idaho,008 Greencreek,State House,7B,REP,Charlie Shepherd,98
+Idaho,009 Glover,State House,7B,REP,Charlie Shepherd,139
+Idaho,010 Grangeville #1,State House,7B,REP,Charlie Shepherd,199
+Idaho,011 Grangeville #2,State House,7B,REP,Charlie Shepherd,201
+Idaho,012 Grangeville #3,State House,7B,REP,Charlie Shepherd,170
+Idaho,013 Grangeville #4,State House,7B,REP,Charlie Shepherd,236
+Idaho,014 Grangeville #5,State House,7B,REP,Charlie Shepherd,242
+Idaho,015 Harpster,State House,7B,REP,Charlie Shepherd,103
+Idaho,016 Joseph,State House,7B,REP,Charlie Shepherd,11
+Idaho,017 Kamiah,State House,7B,REP,Charlie Shepherd,420
+Idaho,018 Keuterville,State House,7B,REP,Charlie Shepherd,83
+Idaho,019 Kooskia,State House,7B,REP,Charlie Shepherd,503
+Idaho,020 Lowell,State House,7B,REP,Charlie Shepherd,51
+Idaho,021 Pollock,State House,7B,REP,Charlie Shepherd,194
+Idaho,022 Riggins,State House,7B,REP,Charlie Shepherd,217
+Idaho,023 Slate Creek 1,State House,7B,REP,Charlie Shepherd,65
+Idaho,024 Stites,State House,7B,REP,Charlie Shepherd,133
+Idaho,025 White Bird,State House,7B,REP,Charlie Shepherd,133
+Idaho,026 Woodland,State House,7B,REP,Charlie Shepherd,99
+Idaho,027 Slate Creek 2,State House,7B,REP,Charlie Shepherd,68
+Idaho,Absentee,State House,7B,REP,Charlie Shepherd,3793
