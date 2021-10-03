@@ -1,0 +1,325 @@
+county,precinct,office,district,party,candidate,votes
+Owyhee,001 North Homedale,President,,DEM,Joseph R. Biden,70
+Owyhee,002 South Homedale,President,,DEM,Joseph R. Biden,72
+Owyhee,003 North Marsing,President,,DEM,Joseph R. Biden,40
+Owyhee,004 South Marsing,President,,DEM,Joseph R. Biden,32
+Owyhee,005 Pleasant Valley,President,,DEM,Joseph R. Biden,0
+Owyhee,006 Wilson,President,,DEM,Joseph R. Biden,13
+Owyhee,007 Murphy,President,,DEM,Joseph R. Biden,9
+Owyhee,008 Oreana,President,,DEM,Joseph R. Biden,2
+Owyhee,009 Grand View,President,,DEM,Joseph R. Biden,29
+Owyhee,010 Bruneau,President,,DEM,Joseph R. Biden,9
+Owyhee,011 Riddle,President,,DEM,Joseph R. Biden,50
+Owyhee,012 Three Creek,President,,DEM,Joseph R. Biden,0
+Owyhee,013 Absentee,President,,DEM,Joseph R. Biden,490
+Owyhee,001 North Homedale,President,,CON,Don Blankenship,2
+Owyhee,002 South Homedale,President,,CON,Don Blankenship,2
+Owyhee,003 North Marsing,President,,CON,Don Blankenship,2
+Owyhee,004 South Marsing,President,,CON,Don Blankenship,0
+Owyhee,005 Pleasant Valley,President,,CON,Don Blankenship,0
+Owyhee,006 Wilson,President,,CON,Don Blankenship,1
+Owyhee,007 Murphy,President,,CON,Don Blankenship,0
+Owyhee,008 Oreana,President,,CON,Don Blankenship,0
+Owyhee,009 Grand View,President,,CON,Don Blankenship,1
+Owyhee,010 Bruneau,President,,CON,Don Blankenship,1
+Owyhee,011 Riddle,President,,CON,Don Blankenship,0
+Owyhee,012 Three Creek,President,,CON,Don Blankenship,0
+Owyhee,013 Absentee,President,,CON,Don Blankenship,5
+Owyhee,001 North Homedale,President,,IND,Rocky De La Fuente,1
+Owyhee,002 South Homedale,President,,IND,Rocky De La Fuente,2
+Owyhee,003 North Marsing,President,,IND,Rocky De La Fuente,0
+Owyhee,004 South Marsing,President,,IND,Rocky De La Fuente,1
+Owyhee,005 Pleasant Valley,President,,IND,Rocky De La Fuente,0
+Owyhee,006 Wilson,President,,IND,Rocky De La Fuente,0
+Owyhee,007 Murphy,President,,IND,Rocky De La Fuente,0
+Owyhee,008 Oreana,President,,IND,Rocky De La Fuente,0
+Owyhee,009 Grand View,President,,IND,Rocky De La Fuente,1
+Owyhee,010 Bruneau,President,,IND,Rocky De La Fuente,0
+Owyhee,011 Riddle,President,,IND,Rocky De La Fuente,0
+Owyhee,012 Three Creek,President,,IND,Rocky De La Fuente,0
+Owyhee,013 Absentee,President,,IND,Rocky De La Fuente,4
+Owyhee,001 North Homedale,President,,LBT,Jo Jorgensen,5
+Owyhee,002 South Homedale,President,,LBT,Jo Jorgensen,10
+Owyhee,003 North Marsing,President,,LBT,Jo Jorgensen,4
+Owyhee,004 South Marsing,President,,LBT,Jo Jorgensen,1
+Owyhee,005 Pleasant Valley,President,,LBT,Jo Jorgensen,0
+Owyhee,006 Wilson,President,,LBT,Jo Jorgensen,3
+Owyhee,007 Murphy,President,,LBT,Jo Jorgensen,4
+Owyhee,008 Oreana,President,,LBT,Jo Jorgensen,0
+Owyhee,009 Grand View,President,,LBT,Jo Jorgensen,3
+Owyhee,010 Bruneau,President,,LBT,Jo Jorgensen,1
+Owyhee,011 Riddle,President,,LBT,Jo Jorgensen,1
+Owyhee,012 Three Creek,President,,LBT,Jo Jorgensen,0
+Owyhee,013 Absentee,President,,LBT,Jo Jorgensen,25
+Owyhee,001 North Homedale,President,,IND,Brock Pierce,5
+Owyhee,002 South Homedale,President,,IND,Brock Pierce,0
+Owyhee,003 North Marsing,President,,IND,Brock Pierce,1
+Owyhee,004 South Marsing,President,,IND,Brock Pierce,0
+Owyhee,005 Pleasant Valley,President,,IND,Brock Pierce,0
+Owyhee,006 Wilson,President,,IND,Brock Pierce,1
+Owyhee,007 Murphy,President,,IND,Brock Pierce,0
+Owyhee,008 Oreana,President,,IND,Brock Pierce,0
+Owyhee,009 Grand View,President,,IND,Brock Pierce,2
+Owyhee,010 Bruneau,President,,IND,Brock Pierce,0
+Owyhee,011 Riddle,President,,IND,Brock Pierce,0
+Owyhee,012 Three Creek,President,,IND,Brock Pierce,0
+Owyhee,013 Absentee,President,,IND,Brock Pierce,6
+Owyhee,001 North Homedale,President,,REP,Donald J. Trump,426
+Owyhee,002 South Homedale,President,,REP,Donald J. Trump,556
+Owyhee,003 North Marsing,President,,REP,Donald J. Trump,380
+Owyhee,004 South Marsing,President,,REP,Donald J. Trump,308
+Owyhee,005 Pleasant Valley,President,,REP,Donald J. Trump,52
+Owyhee,006 Wilson,President,,REP,Donald J. Trump,210
+Owyhee,007 Murphy,President,,REP,Donald J. Trump,121
+Owyhee,008 Oreana,President,,REP,Donald J. Trump,58
+Owyhee,009 Grand View,President,,REP,Donald J. Trump,219
+Owyhee,010 Bruneau,President,,REP,Donald J. Trump,107
+Owyhee,011 Riddle,President,,REP,Donald J. Trump,15
+Owyhee,012 Three Creek,President,,REP,Donald J. Trump,20
+Owyhee,013 Absentee,President,,REP,Donald J. Trump,1347
+Owyhee,001 North Homedale,President,,IND,Kanye West,1
+Owyhee,002 South Homedale,President,,IND,Kanye West,1
+Owyhee,003 North Marsing,President,,IND,Kanye West,4
+Owyhee,004 South Marsing,President,,IND,Kanye West,1
+Owyhee,005 Pleasant Valley,President,,IND,Kanye West,0
+Owyhee,006 Wilson,President,,IND,Kanye West,1
+Owyhee,007 Murphy,President,,IND,Kanye West,0
+Owyhee,008 Oreana,President,,IND,Kanye West,0
+Owyhee,009 Grand View,President,,IND,Kanye West,0
+Owyhee,010 Bruneau,President,,IND,Kanye West,0
+Owyhee,011 Riddle,President,,IND,Kanye West,0
+Owyhee,012 Three Creek,President,,IND,Kanye West,0
+Owyhee,013 Absentee,President,,IND,Kanye West,4
+Owyhee,013 Absentee,President,,,Howie Hawkins,1
+Owyhee,001 North Homedale,U.S. Senate,,IND,Natalie M. Fleming,17
+Owyhee,002 South Homedale,U.S. Senate,,IND,Natalie M. Fleming,15
+Owyhee,003 North Marsing,U.S. Senate,,IND,Natalie M. Fleming,4
+Owyhee,004 South Marsing,U.S. Senate,,IND,Natalie M. Fleming,8
+Owyhee,005 Pleasant Valley,U.S. Senate,,IND,Natalie M. Fleming,0
+Owyhee,006 Wilson,U.S. Senate,,IND,Natalie M. Fleming,4
+Owyhee,007 Murphy,U.S. Senate,,IND,Natalie M. Fleming,5
+Owyhee,008 Oreana,U.S. Senate,,IND,Natalie M. Fleming,0
+Owyhee,009 Grand View,U.S. Senate,,IND,Natalie M. Fleming,8
+Owyhee,010 Bruneau,U.S. Senate,,IND,Natalie M. Fleming,4
+Owyhee,011 Riddle,U.S. Senate,,IND,Natalie M. Fleming,1
+Owyhee,012 Three Creek,U.S. Senate,,IND,Natalie M. Fleming,1
+Owyhee,013 Absentee,U.S. Senate,,IND,Natalie M. Fleming,39
+Owyhee,001 North Homedale,U.S. Senate,,DEM,Paulette Jordan,97
+Owyhee,002 South Homedale,U.S. Senate,,DEM,Paulette Jordan,84
+Owyhee,003 North Marsing,U.S. Senate,,DEM,Paulette Jordan,55
+Owyhee,004 South Marsing,U.S. Senate,,DEM,Paulette Jordan,47
+Owyhee,005 Pleasant Valley,U.S. Senate,,DEM,Paulette Jordan,0
+Owyhee,006 Wilson,U.S. Senate,,DEM,Paulette Jordan,18
+Owyhee,007 Murphy,U.S. Senate,,DEM,Paulette Jordan,18
+Owyhee,008 Oreana,U.S. Senate,,DEM,Paulette Jordan,2
+Owyhee,009 Grand View,U.S. Senate,,DEM,Paulette Jordan,37
+Owyhee,010 Bruneau,U.S. Senate,,DEM,Paulette Jordan,12
+Owyhee,011 Riddle,U.S. Senate,,DEM,Paulette Jordan,51
+Owyhee,012 Three Creek,U.S. Senate,,DEM,Paulette Jordan,2
+Owyhee,013 Absentee,U.S. Senate,,DEM,Paulette Jordan,487
+Owyhee,001 North Homedale,U.S. Senate,,REP,Jim Risch,391
+Owyhee,002 South Homedale,U.S. Senate,,REP,Jim Risch,528
+Owyhee,003 North Marsing,U.S. Senate,,REP,Jim Risch,357
+Owyhee,004 South Marsing,U.S. Senate,,REP,Jim Risch,285
+Owyhee,005 Pleasant Valley,U.S. Senate,,REP,Jim Risch,52
+Owyhee,006 Wilson,U.S. Senate,,REP,Jim Risch,201
+Owyhee,007 Murphy,U.S. Senate,,REP,Jim Risch,111
+Owyhee,008 Oreana,U.S. Senate,,REP,Jim Risch,50
+Owyhee,009 Grand View,U.S. Senate,,REP,Jim Risch,203
+Owyhee,010 Bruneau,U.S. Senate,,REP,Jim Risch,102
+Owyhee,011 Riddle,U.S. Senate,,REP,Jim Risch,12
+Owyhee,012 Three Creek,U.S. Senate,,REP,Jim Risch,15
+Owyhee,013 Absentee,U.S. Senate,,REP,Jim Risch,1336
+Owyhee,001 North Homedale,U.S. Senate,,CON,Ray J. Writz,9
+Owyhee,002 South Homedale,U.S. Senate,,CON,Ray J. Writz,16
+Owyhee,003 North Marsing,U.S. Senate,,CON,Ray J. Writz,9
+Owyhee,004 South Marsing,U.S. Senate,,CON,Ray J. Writz,7
+Owyhee,005 Pleasant Valley,U.S. Senate,,CON,Ray J. Writz,1
+Owyhee,006 Wilson,U.S. Senate,,CON,Ray J. Writz,3
+Owyhee,007 Murphy,U.S. Senate,,CON,Ray J. Writz,1
+Owyhee,008 Oreana,U.S. Senate,,CON,Ray J. Writz,6
+Owyhee,009 Grand View,U.S. Senate,,CON,Ray J. Writz,6
+Owyhee,010 Bruneau,U.S. Senate,,CON,Ray J. Writz,0
+Owyhee,011 Riddle,U.S. Senate,,CON,Ray J. Writz,2
+Owyhee,012 Three Creek,U.S. Senate,,CON,Ray J. Writz,2
+Owyhee,013 Absentee,U.S. Senate,,CON,Ray J. Writz,20
+Owyhee,001 North Homedale,U.S. House,1,LBT,Joe Evans,16
+Owyhee,002 South Homedale,U.S. House,1,LBT,Joe Evans,18
+Owyhee,003 North Marsing,U.S. House,1,LBT,Joe Evans,11
+Owyhee,004 South Marsing,U.S. House,1,LBT,Joe Evans,12
+Owyhee,005 Pleasant Valley,U.S. House,1,LBT,Joe Evans,0
+Owyhee,006 Wilson,U.S. House,1,LBT,Joe Evans,10
+Owyhee,007 Murphy,U.S. House,1,LBT,Joe Evans,3
+Owyhee,008 Oreana,U.S. House,1,LBT,Joe Evans,0
+Owyhee,009 Grand View,U.S. House,1,LBT,Joe Evans,8
+Owyhee,010 Bruneau,U.S. House,1,LBT,Joe Evans,2
+Owyhee,011 Riddle,U.S. House,1,LBT,Joe Evans,1
+Owyhee,012 Three Creek,U.S. House,1,LBT,Joe Evans,4
+Owyhee,013 Absentee,U.S. House,1,LBT,Joe Evans,56
+Owyhee,001 North Homedale,U.S. House,1,REP,Russ Fulcher,412
+Owyhee,002 South Homedale,U.S. House,1,REP,Russ Fulcher,526
+Owyhee,003 North Marsing,U.S. House,1,REP,Russ Fulcher,351
+Owyhee,004 South Marsing,U.S. House,1,REP,Russ Fulcher,287
+Owyhee,005 Pleasant Valley,U.S. House,1,REP,Russ Fulcher,53
+Owyhee,006 Wilson,U.S. House,1,REP,Russ Fulcher,198
+Owyhee,007 Murphy,U.S. House,1,REP,Russ Fulcher,113
+Owyhee,008 Oreana,U.S. House,1,REP,Russ Fulcher,51
+Owyhee,009 Grand View,U.S. House,1,REP,Russ Fulcher,209
+Owyhee,010 Bruneau,U.S. House,1,REP,Russ Fulcher,104
+Owyhee,011 Riddle,U.S. House,1,REP,Russ Fulcher,16
+Owyhee,012 Three Creek,U.S. House,1,REP,Russ Fulcher,15
+Owyhee,013 Absentee,U.S. House,1,REP,Russ Fulcher,1368
+Owyhee,001 North Homedale,U.S. House,1,,Pro-Life,0
+Owyhee,002 South Homedale,U.S. House,1,,Pro-Life,0
+Owyhee,003 North Marsing,U.S. House,1,,Pro-Life,1
+Owyhee,004 South Marsing,U.S. House,1,,Pro-Life,0
+Owyhee,005 Pleasant Valley,U.S. House,1,,Pro-Life,0
+Owyhee,006 Wilson,U.S. House,1,,Pro-Life,0
+Owyhee,007 Murphy,U.S. House,1,,Pro-Life,0
+Owyhee,008 Oreana,U.S. House,1,,Pro-Life,0
+Owyhee,009 Grand View,U.S. House,1,,Pro-Life,0
+Owyhee,010 Bruneau,U.S. House,1,,Pro-Life,0
+Owyhee,011 Riddle,U.S. House,1,,Pro-Life,0
+Owyhee,012 Three Creek,U.S. House,1,,Pro-Life,0
+Owyhee,013 Absentee,U.S. House,1,,Pro-Life,0
+Owyhee,001 North Homedale,U.S. House,1,DEM,Rudy Soto,81
+Owyhee,002 South Homedale,U.S. House,1,DEM,Rudy Soto,81
+Owyhee,003 North Marsing,U.S. House,1,DEM,Rudy Soto,51
+Owyhee,004 South Marsing,U.S. House,1,DEM,Rudy Soto,42
+Owyhee,005 Pleasant Valley,U.S. House,1,DEM,Rudy Soto,0
+Owyhee,006 Wilson,U.S. House,1,DEM,Rudy Soto,17
+Owyhee,007 Murphy,U.S. House,1,DEM,Rudy Soto,13
+Owyhee,008 Oreana,U.S. House,1,DEM,Rudy Soto,3
+Owyhee,009 Grand View,U.S. House,1,DEM,Rudy Soto,31
+Owyhee,010 Bruneau,U.S. House,1,DEM,Rudy Soto,12
+Owyhee,011 Riddle,U.S. House,1,DEM,Rudy Soto,47
+Owyhee,012 Three Creek,U.S. House,1,DEM,Rudy Soto,1
+Owyhee,013 Absentee,U.S. House,1,DEM,Rudy Soto,459
+Owyhee,001 North Homedale,Election Day Registrants,,,,106
+Owyhee,002 South Homedale,Election Day Registrants,,,,148
+Owyhee,003 North Marsing,Election Day Registrants,,,,91
+Owyhee,004 South Marsing,Election Day Registrants,,,,87
+Owyhee,005 Pleasant Valley,Election Day Registrants,,,,1
+Owyhee,006 Wilson,Election Day Registrants,,,,40
+Owyhee,007 Murphy,Election Day Registrants,,,,13
+Owyhee,008 Oreana,Election Day Registrants,,,,12
+Owyhee,009 Grand View,Election Day Registrants,,,,28
+Owyhee,010 Bruneau,Election Day Registrants,,,,12
+Owyhee,011 Riddle,Election Day Registrants,,,,4
+Owyhee,012 Three Creek,Election Day Registrants,,,,0
+Owyhee,001 North Homedale,Registered Voters,,,,1002
+Owyhee,002 South Homedale,Registered Voters,,,,1373
+Owyhee,003 North Marsing,Registered Voters,,,,878
+Owyhee,004 South Marsing,Registered Voters,,,,922
+Owyhee,005 Pleasant Valley,Registered Voters,,,,71
+Owyhee,006 Wilson,Registered Voters,,,,604
+Owyhee,007 Murphy,Registered Voters,,,,280
+Owyhee,008 Oreana,Registered Voters,,,,147
+Owyhee,009 Grand View,Registered Voters,,,,554
+Owyhee,010 Bruneau,Registered Voters,,,,358
+Owyhee,011 Riddle,Registered Voters,,,,95
+Owyhee,012 Three Creek,Registered Voters,,,,31
+Owyhee,001 North Homedale,Ballots Cast,,,,521
+Owyhee,002 South Homedale,Ballots Cast,,,,650
+Owyhee,003 North Marsing,Ballots Cast,,,,423
+Owyhee,004 South Marsing,Ballots Cast,,,,353
+Owyhee,005 Pleasant Valley,Ballots Cast,,,,53
+Owyhee,006 Wilson,Ballots Cast,,,,230
+Owyhee,007 Murphy,Ballots Cast,,,,136
+Owyhee,008 Oreana,Ballots Cast,,,,60
+Owyhee,009 Grand View,Ballots Cast,,,,262
+Owyhee,010 Bruneau,Ballots Cast,,,,120
+Owyhee,011 Riddle,Ballots Cast,,,,51
+Owyhee,012 Three Creek,Ballots Cast,,,,20
+Owyhee,013 Absentee,Ballots Cast,,,,1978
+Owyhee,001 North Homedale,State Senate,23,DEM,Laura Bellegante,89
+Owyhee,002 South Homedale,State Senate,23,DEM,Laura Bellegante,83
+Owyhee,003 North Marsing,State Senate,23,DEM,Laura Bellegante,40
+Owyhee,004 South Marsing,State Senate,23,DEM,Laura Bellegante,33
+Owyhee,005 Pleasant Valley,State Senate,23,DEM,Laura Bellegante,0
+Owyhee,006 Wilson,State Senate,23,DEM,Laura Bellegante,16
+Owyhee,007 Murphy,State Senate,23,DEM,Laura Bellegante,7
+Owyhee,008 Oreana,State Senate,23,DEM,Laura Bellegante,2
+Owyhee,009 Grand View,State Senate,23,DEM,Laura Bellegante,36
+Owyhee,010 Bruneau,State Senate,23,DEM,Laura Bellegante,13
+Owyhee,011 Riddle,State Senate,23,DEM,Laura Bellegante,46
+Owyhee,012 Three Creek,State Senate,23,DEM,Laura Bellegante,1
+Owyhee,013 Absentee,State Senate,23,DEM,Laura Bellegante,478
+Owyhee,001 North Homedale,State Senate,23,REP,Christy Zito,416
+Owyhee,002 South Homedale,State Senate,23,REP,Christy Zito,546
+Owyhee,003 North Marsing,State Senate,23,REP,Christy Zito,378
+Owyhee,004 South Marsing,State Senate,23,REP,Christy Zito,311
+Owyhee,005 Pleasant Valley,State Senate,23,REP,Christy Zito,53
+Owyhee,006 Wilson,State Senate,23,REP,Christy Zito,206
+Owyhee,007 Murphy,State Senate,23,REP,Christy Zito,126
+Owyhee,008 Oreana,State Senate,23,REP,Christy Zito,55
+Owyhee,009 Grand View,State Senate,23,REP,Christy Zito,212
+Owyhee,010 Bruneau,State Senate,23,REP,Christy Zito,101
+Owyhee,011 Riddle,State Senate,23,REP,Christy Zito,17
+Owyhee,012 Three Creek,State Senate,23,REP,Christy Zito,15
+Owyhee,013 Absentee,State Senate,23,REP,Christy Zito,1377
+Owyhee,001 North Homedale,State House,23A,REP,Matthew Bundy,405
+Owyhee,002 South Homedale,State House,23A,REP,Matthew Bundy,541
+Owyhee,003 North Marsing,State House,23A,REP,Matthew Bundy,367
+Owyhee,004 South Marsing,State House,23A,REP,Matthew Bundy,297
+Owyhee,005 Pleasant Valley,State House,23A,REP,Matthew Bundy,48
+Owyhee,006 Wilson,State House,23A,REP,Matthew Bundy,200
+Owyhee,007 Murphy,State House,23A,REP,Matthew Bundy,116
+Owyhee,008 Oreana,State House,23A,REP,Matthew Bundy,54
+Owyhee,009 Grand View,State House,23A,REP,Matthew Bundy,211
+Owyhee,010 Bruneau,State House,23A,REP,Matthew Bundy,106
+Owyhee,011 Riddle,State House,23A,REP,Matthew Bundy,15
+Owyhee,012 Three Creek,State House,23A,REP,Matthew Bundy,18
+Owyhee,013 Absentee,State House,23A,REP,Matthew Bundy,1361
+Owyhee,001 North Homedale,State House,23A,DEM,Benjamin Lee,77
+Owyhee,002 South Homedale,State House,23A,DEM,Benjamin Lee,82
+Owyhee,003 North Marsing,State House,23A,DEM,Benjamin Lee,45
+Owyhee,004 South Marsing,State House,23A,DEM,Benjamin Lee,41
+Owyhee,005 Pleasant Valley,State House,23A,DEM,Benjamin Lee,0
+Owyhee,006 Wilson,State House,23A,DEM,Benjamin Lee,21
+Owyhee,007 Murphy,State House,23A,DEM,Benjamin Lee,13
+Owyhee,008 Oreana,State House,23A,DEM,Benjamin Lee,2
+Owyhee,009 Grand View,State House,23A,DEM,Benjamin Lee,35
+Owyhee,010 Bruneau,State House,23A,DEM,Benjamin Lee,7
+Owyhee,011 Riddle,State House,23A,DEM,Benjamin Lee,49
+Owyhee,012 Three Creek,State House,23A,DEM,Benjamin Lee,1
+Owyhee,013 Absentee,State House,23A,DEM,Benjamin Lee,472
+Owyhee,001 North Homedale,State House,23B,REP,Megan C. Blanksma,397
+Owyhee,002 South Homedale,State House,23B,REP,Megan C. Blanksma,518
+Owyhee,003 North Marsing,State House,23B,REP,Megan C. Blanksma,348
+Owyhee,004 South Marsing,State House,23B,REP,Megan C. Blanksma,286
+Owyhee,005 Pleasant Valley,State House,23B,REP,Megan C. Blanksma,52
+Owyhee,006 Wilson,State House,23B,REP,Megan C. Blanksma,195
+Owyhee,007 Murphy,State House,23B,REP,Megan C. Blanksma,115
+Owyhee,008 Oreana,State House,23B,REP,Megan C. Blanksma,50
+Owyhee,009 Grand View,State House,23B,REP,Megan C. Blanksma,201
+Owyhee,010 Bruneau,State House,23B,REP,Megan C. Blanksma,104
+Owyhee,011 Riddle,State House,23B,REP,Megan C. Blanksma,15
+Owyhee,012 Three Creek,State House,23B,REP,Megan C. Blanksma,16
+Owyhee,013 Absentee,State House,23B,REP,Megan C. Blanksma,1348
+Owyhee,001 North Homedale,State House,23B,DEM,Michael Oliver,66
+Owyhee,002 South Homedale,State House,23B,DEM,Michael Oliver,73
+Owyhee,003 North Marsing,State House,23B,DEM,Michael Oliver,36
+Owyhee,004 South Marsing,State House,23B,DEM,Michael Oliver,35
+Owyhee,005 Pleasant Valley,State House,23B,DEM,Michael Oliver,0
+Owyhee,006 Wilson,State House,23B,DEM,Michael Oliver,12
+Owyhee,007 Murphy,State House,23B,DEM,Michael Oliver,9
+Owyhee,008 Oreana,State House,23B,DEM,Michael Oliver,2
+Owyhee,009 Grand View,State House,23B,DEM,Michael Oliver,29
+Owyhee,010 Bruneau,State House,23B,DEM,Michael Oliver,6
+Owyhee,011 Riddle,State House,23B,DEM,Michael Oliver,43
+Owyhee,012 Three Creek,State House,23B,DEM,Michael Oliver,0
+Owyhee,013 Absentee,State House,23B,DEM,Michael Oliver,419
+Owyhee,001 North Homedale,State House,23B,CON,Tony Ulrich,26
+Owyhee,002 South Homedale,State House,23B,CON,Tony Ulrich,37
+Owyhee,003 North Marsing,State House,23B,CON,Tony Ulrich,30
+Owyhee,004 South Marsing,State House,23B,CON,Tony Ulrich,18
+Owyhee,005 Pleasant Valley,State House,23B,CON,Tony Ulrich,0
+Owyhee,006 Wilson,State House,23B,CON,Tony Ulrich,12
+Owyhee,007 Murphy,State House,23B,CON,Tony Ulrich,7
+Owyhee,008 Oreana,State House,23B,CON,Tony Ulrich,4
+Owyhee,009 Grand View,State House,23B,CON,Tony Ulrich,21
+Owyhee,010 Bruneau,State House,23B,CON,Tony Ulrich,6
+Owyhee,011 Riddle,State House,23B,CON,Tony Ulrich,5
+Owyhee,012 Three Creek,State House,23B,CON,Tony Ulrich,4
+Owyhee,013 Absentee,State House,23B,CON,Tony Ulrich,101
