@@ -1,3 +1,4 @@
+county,office,district,party,candidate,votes
 Bonner,State Senate,1,R,Shawn Keough,2513
 Boundary,State Senate,1,R,Shawn Keough,650
 Bonner,State Representative,1A,R,John L. Campbell,2197
@@ -24,12 +25,12 @@ Kootenai,State Representative,3B,D,Larry Belmont,662
 Benewah,State Senate,4,R,Jack Riggs,76
 Kootenai,State Senate,4,R,Jack Riggs,1378
 Shoshone,State Senate,4,R,Jack Riggs,454
-Benewah,State Representative,4:00 AM,R,Michael W Stevenson,74
-Kootenai,State Representative,4:00 AM,R,Michael W Stevenson,1142
-Shoshone,State Representative,4:00 AM,R,Michael W Stevenson,375
-Benewah,State Representative,4:00 AM,D,Larry Watson,76
-Kootenai,State Representative,4:00 AM,D,Larry Watson,366
-Shoshone,State Representative,4:00 AM,D,Larry Watson,1467
+Benewah,State Representative,4A,R,Michael W Stevenson,74
+Kootenai,State Representative,4A,R,Michael W Stevenson,1142
+Shoshone,State Representative,4A,R,Michael W Stevenson,375
+Benewah,State Representative,4A,D,Larry Watson,76
+Kootenai,State Representative,4A,D,Larry Watson,366
+Shoshone,State Representative,4A,D,Larry Watson,1467
 Benewah,State Representative,4 B,R,Don Pischner,56
 Kootenai,State Representative,4 B,R,Don Pischner,1164
 Shoshone,State Representative,4 B,R,Don Pischner,383
@@ -149,8 +150,8 @@ Ada,State Senate,14,R,Harold R. 'Hal' Bunderson,2685
 Ada,State Senate,14,R,Mark P. Meuser,1984
 Ada,State Representative,14A,R,Dave Bivens,2324
 Ada,State Representative,14A,R,Mike Moyle,2338
-Ada,State Representative,14State Representatiave B,R,Milt Erhart,1843
-Ada,State Representative,14State Representatiave B,R,Shirley McKague,2892
+Ada,State Representative,14B,R,Milt Erhart,1843
+Ada,State Representative,14B,R,Shirley McKague,2892
 Ada,State Senate,15,R,John C Andreason,1817
 Ada,State Senate,15,R,Mark H. Stahl,1792
 Ada,State Representative,15A,R,Paul Kjellander,2819
