@@ -1,0 +1,956 @@
+county,office,district,party,candidate,votes
+Ada,President,,DEM,Joseph R. Biden,120539
+Adams,President,,DEM,Joseph R. Biden,591
+Bannock,President,,DEM,Joseph R. Biden,14682
+Bear Lake,President,,DEM,Joseph R. Biden,350
+Benewah,President,,DEM,Joseph R. Biden,977
+Bingham,President,,DEM,Joseph R. Biden,4124
+Blaine,President,,DEM,Joseph R. Biden,8919
+Boise,President,,DEM,Joseph R. Biden,1204
+Bonner,President,,DEM,Joseph R. Biden,8310
+Bonneville,President,,DEM,Joseph R. Biden,14254
+Boundary,President,,DEM,Joseph R. Biden,1220
+Butte,President,,DEM,Joseph R. Biden,188
+Camas,President,,DEM,Joseph R. Biden,149
+Canyon,President,,DEM,Joseph R. Biden,25881
+Caribou,President,,DEM,Joseph R. Biden,431
+Cassia,President,,DEM,Joseph R. Biden,1464
+Clark,President,,DEM,Joseph R. Biden,41
+Clearwater,President,,DEM,Joseph R. Biden,877
+Custer,President,,DEM,Joseph R. Biden,603
+Elmore,President,,DEM,Joseph R. Biden,2601
+Franklin,President,,DEM,Joseph R. Biden,657
+Fremont,President,,DEM,Joseph R. Biden,998
+Gem,President,,DEM,Joseph R. Biden,1803
+Gooding,President,,DEM,Joseph R. Biden,1256
+Idaho,President,,DEM,Joseph R. Biden,1561
+Jefferson,President,,DEM,Joseph R. Biden,1661
+Jerome,President,,DEM,Joseph R. Biden,1893
+Kootenai,President,,DEM,Joseph R. Biden,24312
+Latah,President,,DEM,Joseph R. Biden,10236
+Lemhi,President,,DEM,Joseph R. Biden,1032
+Lewis,President,,DEM,Joseph R. Biden,349
+Lincoln,President,,DEM,Joseph R. Biden,414
+Madison,President,,DEM,Joseph R. Biden,2666
+Minidoka,President,,DEM,Joseph R. Biden,1550
+Nez Perce,President,,DEM,Joseph R. Biden,6686
+Oneida,President,,DEM,Joseph R. Biden,249
+Owyhee,President,,DEM,Joseph R. Biden,816
+Payette,President,,DEM,Joseph R. Biden,2161
+Power,President,,DEM,Joseph R. Biden,865
+Shoshone,President,,DEM,Joseph R. Biden,1693
+Teton,President,,DEM,Joseph R. Biden,3318
+Twin Falls,President,,DEM,Joseph R. Biden,9391
+Valley,President,,DEM,Joseph R. Biden,2976
+Ada,President,,CON,Don Blankenship,438
+Adams,President,,CON,Don Blankenship,6
+Bannock,President,,CON,Don Blankenship,87
+Bear Lake,President,,CON,Don Blankenship,8
+Benewah,President,,CON,Don Blankenship,9
+Bingham,President,,CON,Don Blankenship,56
+Blaine,President,,CON,Don Blankenship,47
+Boise,President,,CON,Don Blankenship,12
+Bonner,President,,CON,Don Blankenship,56
+Bonneville,President,,CON,Don Blankenship,113
+Boundary,President,,CON,Don Blankenship,29
+Butte,President,,CON,Don Blankenship,5
+Camas,President,,CON,Don Blankenship,3
+Canyon,President,,CON,Don Blankenship,197
+Caribou,President,,CON,Don Blankenship,11
+Cassia,President,,CON,Don Blankenship,38
+Clark,President,,CON,Don Blankenship,0
+Clearwater,President,,CON,Don Blankenship,9
+Custer,President,,CON,Don Blankenship,6
+Elmore,President,,CON,Don Blankenship,18
+Franklin,President,,CON,Don Blankenship,28
+Fremont,President,,CON,Don Blankenship,16
+Gem,President,,CON,Don Blankenship,14
+Gooding,President,,CON,Don Blankenship,16
+Idaho,President,,CON,Don Blankenship,25
+Jefferson,President,,CON,Don Blankenship,50
+Jerome,President,,CON,Don Blankenship,17
+Kootenai,President,,CON,Don Blankenship,144
+Latah,President,,CON,Don Blankenship,38
+Lemhi,President,,CON,Don Blankenship,7
+Lewis,President,,CON,Don Blankenship,7
+Lincoln,President,,CON,Don Blankenship,6
+Madison,President,,CON,Don Blankenship,65
+Minidoka,President,,CON,Don Blankenship,11
+Nez Perce,President,,CON,Don Blankenship,39
+Oneida,President,,CON,Don Blankenship,9
+Owyhee,President,,CON,Don Blankenship,14
+Payette,President,,CON,Don Blankenship,22
+Power,President,,CON,Don Blankenship,13
+Shoshone,President,,CON,Don Blankenship,14
+Teton,President,,CON,Don Blankenship,1
+Twin Falls,President,,CON,Don Blankenship,82
+Valley,President,,CON,Don Blankenship,7
+Ada,President,,IND,"Rocky ""Rocky"" De La Fuente",356
+Adams,President,,IND,"Rocky ""Rocky"" De La Fuente",3
+Bannock,President,,IND,"Rocky ""Rocky"" De La Fuente",89
+Bear Lake,President,,IND,"Rocky ""Rocky"" De La Fuente",4
+Benewah,President,,IND,"Rocky ""Rocky"" De La Fuente",6
+Bingham,President,,IND,"Rocky ""Rocky"" De La Fuente",49
+Blaine,President,,IND,"Rocky ""Rocky"" De La Fuente",34
+Boise,President,,IND,"Rocky ""Rocky"" De La Fuente",7
+Bonner,President,,IND,"Rocky ""Rocky"" De La Fuente",37
+Bonneville,President,,IND,"Rocky ""Rocky"" De La Fuente",90
+Boundary,President,,IND,"Rocky ""Rocky"" De La Fuente",14
+Butte,President,,IND,"Rocky ""Rocky"" De La Fuente",2
+Camas,President,,IND,"Rocky ""Rocky"" De La Fuente",2
+Canyon,President,,IND,"Rocky ""Rocky"" De La Fuente",230
+Caribou,President,,IND,"Rocky ""Rocky"" De La Fuente",5
+Cassia,President,,IND,"Rocky ""Rocky"" De La Fuente",26
+Clark,President,,IND,"Rocky ""Rocky"" De La Fuente",0
+Clearwater,President,,IND,"Rocky ""Rocky"" De La Fuente",5
+Custer,President,,IND,"Rocky ""Rocky"" De La Fuente",2
+Elmore,President,,IND,"Rocky ""Rocky"" De La Fuente",34
+Franklin,President,,IND,"Rocky ""Rocky"" De La Fuente",7
+Fremont,President,,IND,"Rocky ""Rocky"" De La Fuente",14
+Gem,President,,IND,"Rocky ""Rocky"" De La Fuente",15
+Gooding,President,,IND,"Rocky ""Rocky"" De La Fuente",13
+Idaho,President,,IND,"Rocky ""Rocky"" De La Fuente",14
+Jefferson,President,,IND,"Rocky ""Rocky"" De La Fuente",26
+Jerome,President,,IND,"Rocky ""Rocky"" De La Fuente",10
+Kootenai,President,,IND,"Rocky ""Rocky"" De La Fuente",117
+Latah,President,,IND,"Rocky ""Rocky"" De La Fuente",37
+Lemhi,President,,IND,"Rocky ""Rocky"" De La Fuente",8
+Lewis,President,,IND,"Rocky ""Rocky"" De La Fuente",2
+Lincoln,President,,IND,"Rocky ""Rocky"" De La Fuente",4
+Madison,President,,IND,"Rocky ""Rocky"" De La Fuente",39
+Minidoka,President,,IND,"Rocky ""Rocky"" De La Fuente",18
+Nez Perce,President,,IND,"Rocky ""Rocky"" De La Fuente",36
+Oneida,President,,IND,"Rocky ""Rocky"" De La Fuente",2
+Owyhee,President,,IND,"Rocky ""Rocky"" De La Fuente",9
+Payette,President,,IND,"Rocky ""Rocky"" De La Fuente",14
+Power,President,,IND,"Rocky ""Rocky"" De La Fuente",10
+Shoshone,President,,IND,"Rocky ""Rocky"" De La Fuente",10
+Teton,President,,IND,"Rocky ""Rocky"" De La Fuente",5
+Twin Falls,President,,IND,"Rocky ""Rocky"" De La Fuente",71
+Valley,President,,IND,"Rocky ""Rocky"" De La Fuente",9
+Ada,President,,LIB,Jo Jorgensen,5310
+Adams,President,,LIB,Jo Jorgensen,34
+Bannock,President,,LIB,Jo Jorgensen,947
+Bear Lake,President,,LIB,Jo Jorgensen,25
+Benewah,President,,LIB,Jo Jorgensen,58
+Bingham,President,,LIB,Jo Jorgensen,307
+Blaine,President,,LIB,Jo Jorgensen,168
+Boise,President,,LIB,Jo Jorgensen,67
+Bonner,President,,LIB,Jo Jorgensen,401
+Bonneville,President,,LIB,Jo Jorgensen,1288
+Boundary,President,,LIB,Jo Jorgensen,82
+Butte,President,,LIB,Jo Jorgensen,11
+Camas,President,,LIB,Jo Jorgensen,7
+Canyon,President,,LIB,Jo Jorgensen,1696
+Caribou,President,,LIB,Jo Jorgensen,41
+Cassia,President,,LIB,Jo Jorgensen,121
+Clark,President,,LIB,Jo Jorgensen,4
+Clearwater,President,,LIB,Jo Jorgensen,47
+Custer,President,,LIB,Jo Jorgensen,17
+Elmore,President,,LIB,Jo Jorgensen,225
+Franklin,President,,LIB,Jo Jorgensen,87
+Fremont,President,,LIB,Jo Jorgensen,88
+Gem,President,,LIB,Jo Jorgensen,121
+Gooding,President,,LIB,Jo Jorgensen,67
+Idaho,President,,LIB,Jo Jorgensen,118
+Jefferson,President,,LIB,Jo Jorgensen,252
+Jerome,President,,LIB,Jo Jorgensen,100
+Kootenai,President,,LIB,Jo Jorgensen,1594
+Latah,President,,LIB,Jo Jorgensen,608
+Lemhi,President,,LIB,Jo Jorgensen,78
+Lewis,President,,LIB,Jo Jorgensen,16
+Lincoln,President,,LIB,Jo Jorgensen,21
+Madison,President,,LIB,Jo Jorgensen,644
+Minidoka,President,,LIB,Jo Jorgensen,87
+Nez Perce,President,,LIB,Jo Jorgensen,296
+Oneida,President,,LIB,Jo Jorgensen,27
+Owyhee,President,,LIB,Jo Jorgensen,57
+Payette,President,,LIB,Jo Jorgensen,166
+Power,President,,LIB,Jo Jorgensen,41
+Shoshone,President,,LIB,Jo Jorgensen,71
+Teton,President,,LIB,Jo Jorgensen,109
+Twin Falls,President,,LIB,Jo Jorgensen,770
+Valley,President,,LIB,Jo Jorgensen,73
+Ada,President,,IND,Brock Pierce,875
+Adams,President,,IND,Brock Pierce,6
+Bannock,President,,IND,Brock Pierce,212
+Bear Lake,President,,IND,Brock Pierce,3
+Benewah,President,,IND,Brock Pierce,17
+Bingham,President,,IND,Brock Pierce,65
+Blaine,President,,IND,Brock Pierce,36
+Boise,President,,IND,Brock Pierce,15
+Bonner,President,,IND,Brock Pierce,60
+Bonneville,President,,IND,Brock Pierce,186
+Boundary,President,,IND,Brock Pierce,16
+Butte,President,,IND,Brock Pierce,2
+Camas,President,,IND,Brock Pierce,3
+Canyon,President,,IND,Brock Pierce,305
+Caribou,President,,IND,Brock Pierce,12
+Cassia,President,,IND,Brock Pierce,25
+Clark,President,,IND,Brock Pierce,1
+Clearwater,President,,IND,Brock Pierce,16
+Custer,President,,IND,Brock Pierce,10
+Elmore,President,,IND,Brock Pierce,39
+Franklin,President,,IND,Brock Pierce,28
+Fremont,President,,IND,Brock Pierce,24
+Gem,President,,IND,Brock Pierce,24
+Gooding,President,,IND,Brock Pierce,16
+Idaho,President,,IND,Brock Pierce,35
+Jefferson,President,,IND,Brock Pierce,41
+Jerome,President,,IND,Brock Pierce,23
+Kootenai,President,,IND,Brock Pierce,195
+Latah,President,,IND,Brock Pierce,54
+Lemhi,President,,IND,Brock Pierce,11
+Lewis,President,,IND,Brock Pierce,4
+Lincoln,President,,IND,Brock Pierce,12
+Madison,President,,IND,Brock Pierce,64
+Minidoka,President,,IND,Brock Pierce,19
+Nez Perce,President,,IND,Brock Pierce,67
+Oneida,President,,IND,Brock Pierce,6
+Owyhee,President,,IND,Brock Pierce,15
+Payette,President,,IND,Brock Pierce,35
+Power,President,,IND,Brock Pierce,15
+Shoshone,President,,IND,Brock Pierce,22
+Teton,President,,IND,Brock Pierce,17
+Twin Falls,President,,IND,Brock Pierce,131
+Valley,President,,IND,Brock Pierce,21
+Ada,President,,REP,Donald J. Trump,130699
+Adams,President,,REP,Donald J. Trump,1941
+Bannock,President,,REP,Donald J. Trump,23331
+Bear Lake,President,,REP,Donald J. Trump,2914
+Benewah,President,,REP,Donald J. Trump,3878
+Bingham,President,,REP,Donald J. Trump,15295
+Blaine,President,,REP,Donald J. Trump,4032
+Boise,President,,REP,Donald J. Trump,3485
+Bonner,President,,REP,Donald J. Trump,18369
+Bonneville,President,,REP,Donald J. Trump,37805
+Boundary,President,,REP,Donald J. Trump,4937
+Butte,President,,REP,Donald J. Trump,1202
+Camas,President,,REP,Donald J. Trump,507
+Canyon,President,,REP,Donald J. Trump,61759
+Caribou,President,,REP,Donald J. Trump,2906
+Cassia,President,,REP,Donald J. Trump,7907
+Clark,President,,REP,Donald J. Trump,264
+Clearwater,President,,REP,Donald J. Trump,3453
+Custer,President,,REP,Donald J. Trump,2089
+Elmore,President,,REP,Donald J. Trump,7246
+Franklin,President,,REP,Donald J. Trump,5845
+Fremont,President,,REP,Donald J. Trump,5548
+Gem,President,,REP,Donald J. Trump,7951
+Gooding,President,,REP,Donald J. Trump,4659
+Idaho,President,,REP,Donald J. Trump,7826
+Jefferson,President,,REP,Donald J. Trump,12099
+Jerome,President,,REP,Donald J. Trump,5734
+Kootenai,President,,REP,Donald J. Trump,62837
+Latah,President,,REP,Donald J. Trump,9472
+Lemhi,President,,REP,Donald J. Trump,3592
+Lewis,President,,REP,Donald J. Trump,1489
+Lincoln,President,,REP,Donald J. Trump,1469
+Madison,President,,REP,Donald J. Trump,13559
+Minidoka,President,,REP,Donald J. Trump,6265
+Nez Perce,President,,REP,Donald J. Trump,13738
+Oneida,President,,REP,Donald J. Trump,2148
+Owyhee,President,,REP,Donald J. Trump,3819
+Payette,President,,REP,Donald J. Trump,8862
+Power,President,,REP,Donald J. Trump,2116
+Shoshone,President,,REP,Donald J. Trump,4216
+Teton,President,,REP,Donald J. Trump,2858
+Twin Falls,President,,REP,Donald J. Trump,25897
+Valley,President,,REP,Donald J. Trump,3947
+Ada,President,,IND,Kanye West,1172
+Adams,President,,IND,Kanye West,5
+Bannock,President,,IND,Kanye West,205
+Bear Lake,President,,IND,Kanye West,11
+Benewah,President,,IND,Kanye West,28
+Bingham,President,,IND,Kanye West,100
+Blaine,President,,IND,Kanye West,53
+Boise,President,,IND,Kanye West,30
+Bonner,President,,IND,Kanye West,102
+Bonneville,President,,IND,Kanye West,259
+Boundary,President,,IND,Kanye West,15
+Butte,President,,IND,Kanye West,5
+Camas,President,,IND,Kanye West,3
+Canyon,President,,IND,Kanye West,342
+Caribou,President,,IND,Kanye West,10
+Cassia,President,,IND,Kanye West,48
+Clark,President,,IND,Kanye West,1
+Clearwater,President,,IND,Kanye West,12
+Custer,President,,IND,Kanye West,12
+Elmore,President,,IND,Kanye West,42
+Franklin,President,,IND,Kanye West,12
+Fremont,President,,IND,Kanye West,31
+Gem,President,,IND,Kanye West,30
+Gooding,President,,IND,Kanye West,23
+Idaho,President,,IND,Kanye West,23
+Jefferson,President,,IND,Kanye West,44
+Jerome,President,,IND,Kanye West,35
+Kootenai,President,,IND,Kanye West,268
+Latah,President,,IND,Kanye West,125
+Lemhi,President,,IND,Kanye West,10
+Lewis,President,,IND,Kanye West,3
+Lincoln,President,,IND,Kanye West,14
+Madison,President,,IND,Kanye West,75
+Minidoka,President,,IND,Kanye West,43
+Nez Perce,President,,IND,Kanye West,105
+Oneida,President,,IND,Kanye West,10
+Owyhee,President,,IND,Kanye West,12
+Payette,President,,IND,Kanye West,33
+Power,President,,IND,Kanye West,14
+Shoshone,President,,IND,Kanye West,23
+Teton,President,,IND,Kanye West,39
+Twin Falls,President,,IND,Kanye West,159
+Valley,President,,IND,Kanye West,30
+Ada,U.S. Senate,,IND,Natalie M Fleming,6940
+Adams,U.S. Senate,,IND,Natalie M Fleming,62
+Bannock,U.S. Senate,,IND,Natalie M Fleming,1433
+Bear Lake,U.S. Senate,,IND,Natalie M Fleming,91
+Benewah,U.S. Senate,,IND,Natalie M Fleming,103
+Bingham,U.S. Senate,,IND,Natalie M Fleming,625
+Blaine,U.S. Senate,,IND,Natalie M Fleming,288
+Boise,U.S. Senate,,IND,Natalie M Fleming,128
+Bonner,U.S. Senate,,IND,Natalie M Fleming,601
+Bonneville,U.S. Senate,,IND,Natalie M Fleming,1972
+Boundary,U.S. Senate,,IND,Natalie M Fleming,131
+Butte,U.S. Senate,,IND,Natalie M Fleming,39
+Camas,U.S. Senate,,IND,Natalie M Fleming,17
+Canyon,U.S. Senate,,IND,Natalie M Fleming,2550
+Caribou,U.S. Senate,,IND,Natalie M Fleming,97
+Cassia,U.S. Senate,,IND,Natalie M Fleming,322
+Clark,U.S. Senate,,IND,Natalie M Fleming,12
+Clearwater,U.S. Senate,,IND,Natalie M Fleming,104
+Custer,U.S. Senate,,IND,Natalie M Fleming,74
+Elmore,U.S. Senate,,IND,Natalie M Fleming,317
+Franklin,U.S. Senate,,IND,Natalie M Fleming,217
+Fremont,U.S. Senate,,IND,Natalie M Fleming,205
+Gem,U.S. Senate,,IND,Natalie M Fleming,268
+Gooding,U.S. Senate,,IND,Natalie M Fleming,186
+Idaho,U.S. Senate,,IND,Natalie M Fleming,214
+Jefferson,U.S. Senate,,IND,Natalie M Fleming,481
+Jerome,U.S. Senate,,IND,Natalie M Fleming,249
+Kootenai,U.S. Senate,,IND,Natalie M Fleming,2538
+Latah,U.S. Senate,,IND,Natalie M Fleming,532
+Lemhi,U.S. Senate,,IND,Natalie M Fleming,141
+Lewis,U.S. Senate,,IND,Natalie M Fleming,38
+Lincoln,U.S. Senate,,IND,Natalie M Fleming,71
+Madison,U.S. Senate,,IND,Natalie M Fleming,783
+Minidoka,U.S. Senate,,IND,Natalie M Fleming,307
+Nez Perce,U.S. Senate,,IND,Natalie M Fleming,684
+Oneida,U.S. Senate,,IND,Natalie M Fleming,68
+Owyhee,U.S. Senate,,IND,Natalie M Fleming,106
+Payette,U.S. Senate,,IND,Natalie M Fleming,306
+Power,U.S. Senate,,IND,Natalie M Fleming,91
+Shoshone,U.S. Senate,,IND,Natalie M Fleming,181
+Teton,U.S. Senate,,IND,Natalie M Fleming,180
+Twin Falls,U.S. Senate,,IND,Natalie M Fleming,1318
+Valley,U.S. Senate,,IND,Natalie M Fleming,155
+Ada,U.S. Senate,,DEM,Paulette Jordan,118718
+Adams,U.S. Senate,,DEM,Paulette Jordan,625
+Bannock,U.S. Senate,,DEM,Paulette Jordan,15472
+Bear Lake,U.S. Senate,,DEM,Paulette Jordan,355
+Benewah,U.S. Senate,,DEM,Paulette Jordan,1081
+Bingham,U.S. Senate,,DEM,Paulette Jordan,4313
+Blaine,U.S. Senate,,DEM,Paulette Jordan,8739
+Boise,U.S. Senate,,DEM,Paulette Jordan,1247
+Bonner,U.S. Senate,,DEM,Paulette Jordan,8079
+Bonneville,U.S. Senate,,DEM,Paulette Jordan,13913
+Boundary,U.S. Senate,,DEM,Paulette Jordan,1212
+Butte,U.S. Senate,,DEM,Paulette Jordan,222
+Camas,U.S. Senate,,DEM,Paulette Jordan,156
+Canyon,U.S. Senate,,DEM,Paulette Jordan,26603
+Caribou,U.S. Senate,,DEM,Paulette Jordan,442
+Cassia,U.S. Senate,,DEM,Paulette Jordan,1508
+Clark,U.S. Senate,,DEM,Paulette Jordan,42
+Clearwater,U.S. Senate,,DEM,Paulette Jordan,883
+Custer,U.S. Senate,,DEM,Paulette Jordan,603
+Elmore,U.S. Senate,,DEM,Paulette Jordan,2814
+Franklin,U.S. Senate,,DEM,Paulette Jordan,585
+Fremont,U.S. Senate,,DEM,Paulette Jordan,1001
+Gem,U.S. Senate,,DEM,Paulette Jordan,1957
+Gooding,U.S. Senate,,DEM,Paulette Jordan,1335
+Idaho,U.S. Senate,,DEM,Paulette Jordan,1532
+Jefferson,U.S. Senate,,DEM,Paulette Jordan,1647
+Jerome,U.S. Senate,,DEM,Paulette Jordan,1978
+Kootenai,U.S. Senate,,DEM,Paulette Jordan,22945
+Latah,U.S. Senate,,DEM,Paulette Jordan,10373
+Lemhi,U.S. Senate,,DEM,Paulette Jordan,1020
+Lewis,U.S. Senate,,DEM,Paulette Jordan,357
+Lincoln,U.S. Senate,,DEM,Paulette Jordan,470
+Madison,U.S. Senate,,DEM,Paulette Jordan,2288
+Minidoka,U.S. Senate,,DEM,Paulette Jordan,1587
+Nez Perce,U.S. Senate,,DEM,Paulette Jordan,6510
+Oneida,U.S. Senate,,DEM,Paulette Jordan,253
+Owyhee,U.S. Senate,,DEM,Paulette Jordan,910
+Payette,U.S. Senate,,DEM,Paulette Jordan,2308
+Power,U.S. Senate,,DEM,Paulette Jordan,876
+Shoshone,U.S. Senate,,DEM,Paulette Jordan,1747
+Teton,U.S. Senate,,DEM,Paulette Jordan,3251
+Twin Falls,U.S. Senate,,DEM,Paulette Jordan,9776
+Valley,U.S. Senate,,DEM,Paulette Jordan,2984
+Ada,U.S. Senate,,REP,Jim Risch,130446
+Adams,U.S. Senate,,REP,Jim Risch,1828
+Bannock,U.S. Senate,,REP,Jim Risch,22048
+Bear Lake,U.S. Senate,,REP,Jim Risch,2791
+Benewah,U.S. Senate,,REP,Jim Risch,3584
+Bingham,U.S. Senate,,REP,Jim Risch,14644
+Blaine,U.S. Senate,,REP,Jim Risch,4226
+Boise,U.S. Senate,,REP,Jim Risch,3323
+Bonner,U.S. Senate,,REP,Jim Risch,17964
+Bonneville,U.S. Senate,,REP,Jim Risch,36490
+Boundary,U.S. Senate,,REP,Jim Risch,4800
+Butte,U.S. Senate,,REP,Jim Risch,1120
+Camas,U.S. Senate,,REP,Jim Risch,488
+Canyon,U.S. Senate,,REP,Jim Risch,59060
+Caribou,U.S. Senate,,REP,Jim Risch,2603
+Cassia,U.S. Senate,,REP,Jim Risch,7564
+Clark,U.S. Senate,,REP,Jim Risch,254
+Clearwater,U.S. Senate,,REP,Jim Risch,3357
+Custer,U.S. Senate,,REP,Jim Risch,1978
+Elmore,U.S. Senate,,REP,Jim Risch,6797
+Franklin,U.S. Senate,,REP,Jim Risch,5678
+Fremont,U.S. Senate,,REP,Jim Risch,5391
+Gem,U.S. Senate,,REP,Jim Risch,7546
+Gooding,U.S. Senate,,REP,Jim Risch,4442
+Idaho,U.S. Senate,,REP,Jim Risch,7629
+Jefferson,U.S. Senate,,REP,Jim Risch,11702
+Jerome,U.S. Senate,,REP,Jim Risch,5450
+Kootenai,U.S. Senate,,REP,Jim Risch,61289
+Latah,U.S. Senate,,REP,Jim Risch,9501
+Lemhi,U.S. Senate,,REP,Jim Risch,3497
+Lewis,U.S. Senate,,REP,Jim Risch,1420
+Lincoln,U.S. Senate,,REP,Jim Risch,1371
+Madison,U.S. Senate,,REP,Jim Risch,13517
+Minidoka,U.S. Senate,,REP,Jim Risch,5930
+Nez Perce,U.S. Senate,,REP,Jim Risch,13487
+Oneida,U.S. Senate,,REP,Jim Risch,2039
+Owyhee,U.S. Senate,,REP,Jim Risch,3643
+Payette,U.S. Senate,,REP,Jim Risch,8488
+Power,U.S. Senate,,REP,Jim Risch,2053
+Shoshone,U.S. Senate,,REP,Jim Risch,3904
+Teton,U.S. Senate,,REP,Jim Risch,2837
+Twin Falls,U.S. Senate,,REP,Jim Risch,24355
+Valley,U.S. Senate,,REP,Jim Risch,3862
+Ada,U.S. Senate,,CON,Ray J. Writz,1910
+Adams,U.S. Senate,,CON,Ray J. Writz,46
+Bannock,U.S. Senate,,CON,Ray J. Writz,460
+Bear Lake,U.S. Senate,,CON,Ray J. Writz,64
+Benewah,U.S. Senate,,CON,Ray J. Writz,105
+Bingham,U.S. Senate,,CON,Ray J. Writz,253
+Blaine,U.S. Senate,,CON,Ray J. Writz,54
+Boise,U.S. Senate,,CON,Ray J. Writz,93
+Bonner,U.S. Senate,,CON,Ray J. Writz,377
+Bonneville,U.S. Senate,,CON,Ray J. Writz,653
+Boundary,U.S. Senate,,CON,Ray J. Writz,115
+Butte,U.S. Senate,,CON,Ray J. Writz,29
+Camas,U.S. Senate,,CON,Ray J. Writz,14
+Canyon,U.S. Senate,,CON,Ray J. Writz,1384
+Caribou,U.S. Senate,,CON,Ray J. Writz,54
+Cassia,U.S. Senate,,CON,Ray J. Writz,192
+Clark,U.S. Senate,,CON,Ray J. Writz,3
+Clearwater,U.S. Senate,,CON,Ray J. Writz,35
+Custer,U.S. Senate,,CON,Ray J. Writz,53
+Elmore,U.S. Senate,,CON,Ray J. Writz,191
+Franklin,U.S. Senate,,CON,Ray J. Writz,134
+Fremont,U.S. Senate,,CON,Ray J. Writz,109
+Gem,U.S. Senate,,CON,Ray J. Writz,141
+Gooding,U.S. Senate,,CON,Ray J. Writz,76
+Idaho,U.S. Senate,,CON,Ray J. Writz,106
+Jefferson,U.S. Senate,,CON,Ray J. Writz,236
+Jerome,U.S. Senate,,CON,Ray J. Writz,111
+Kootenai,U.S. Senate,,CON,Ray J. Writz,1183
+Latah,U.S. Senate,,CON,Ray J. Writz,187
+Lemhi,U.S. Senate,,CON,Ray J. Writz,44
+Lewis,U.S. Senate,,CON,Ray J. Writz,33
+Lincoln,U.S. Senate,,CON,Ray J. Writz,19
+Madison,U.S. Senate,,CON,Ray J. Writz,353
+Minidoka,U.S. Senate,,CON,Ray J. Writz,99
+Nez Perce,U.S. Senate,,CON,Ray J. Writz,155
+Oneida,U.S. Senate,,CON,Ray J. Writz,54
+Owyhee,U.S. Senate,,CON,Ray J. Writz,82
+Payette,U.S. Senate,,CON,Ray J. Writz,131
+Power,U.S. Senate,,CON,Ray J. Writz,35
+Shoshone,U.S. Senate,,CON,Ray J. Writz,97
+Teton,U.S. Senate,,CON,Ray J. Writz,42
+Twin Falls,U.S. Senate,,CON,Ray J. Writz,591
+Valley,U.S. Senate,,CON,Ray J. Writz,35
+Ada,U.S. House,1,LIB,Joe Evans,4982
+Adams,U.S. House,1,LIB,Joe Evans,86
+Benewah,U.S. House,1,LIB,Joe Evans,165
+Boise,U.S. House,1,LIB,Joe Evans,178
+Bonner,U.S. House,1,LIB,Joe Evans,907
+Boundary,U.S. House,1,LIB,Joe Evans,166
+Canyon,U.S. House,1,LIB,Joe Evans,3434
+Clearwater,U.S. House,1,LIB,Joe Evans,105
+Gem,U.S. House,1,LIB,Joe Evans,287
+Idaho,U.S. House,1,LIB,Joe Evans,250
+Kootenai,U.S. House,1,LIB,Joe Evans,3101
+Latah,U.S. House,1,LIB,Joe Evans,841
+Lewis,U.S. House,1,LIB,Joe Evans,40
+Nez Perce,U.S. House,1,LIB,Joe Evans,860
+Owyhee,U.S. House,1,LIB,Joe Evans,141
+Payette,U.S. House,1,LIB,Joe Evans,320
+Shoshone,U.S. House,1,LIB,Joe Evans,218
+Valley,U.S. House,1,LIB,Joe Evans,217
+Ada,U.S. House,1,REP,Russ Fulcher,88402
+Adams,U.S. House,1,REP,Russ Fulcher,1884
+Benewah,U.S. House,1,REP,Russ Fulcher,3680
+Boise,U.S. House,1,REP,Russ Fulcher,3444
+Bonner,U.S. House,1,REP,Russ Fulcher,18213
+Boundary,U.S. House,1,REP,Russ Fulcher,4855
+Canyon,U.S. House,1,REP,Russ Fulcher,60042
+Clearwater,U.S. House,1,REP,Russ Fulcher,3364
+Gem,U.S. House,1,REP,Russ Fulcher,7728
+Idaho,U.S. House,1,REP,Russ Fulcher,7604
+Kootenai,U.S. House,1,REP,Russ Fulcher,62442
+Latah,U.S. House,1,REP,Russ Fulcher,9704
+Lewis,U.S. House,1,REP,Russ Fulcher,1457
+Nez Perce,U.S. House,1,REP,Russ Fulcher,13525
+Owyhee,U.S. House,1,REP,Russ Fulcher,3703
+Payette,U.S. House,1,REP,Russ Fulcher,8678
+Shoshone,U.S. House,1,REP,Russ Fulcher,3991
+Valley,U.S. House,1,REP,Russ Fulcher,3934
+Ada,U.S. House,1,NA,Pro-Life...15,1
+Adams,U.S. House,1,NA,Pro-Life...15,0
+Benewah,U.S. House,1,NA,Pro-Life...15,0
+Boise,U.S. House,1,NA,Pro-Life...15,0
+Bonner,U.S. House,1,NA,Pro-Life...15,0
+Boundary,U.S. House,1,NA,Pro-Life...15,2
+Canyon,U.S. House,1,NA,Pro-Life...15,0
+Clearwater,U.S. House,1,NA,Pro-Life...15,0
+Gem,U.S. House,1,NA,Pro-Life...15,2
+Idaho,U.S. House,1,NA,Pro-Life...15,0
+Kootenai,U.S. House,1,NA,Pro-Life...15,0
+Latah,U.S. House,1,NA,Pro-Life...15,1
+Lewis,U.S. House,1,NA,Pro-Life...15,0
+Nez Perce,U.S. House,1,NA,Pro-Life...15,0
+Owyhee,U.S. House,1,NA,Pro-Life...15,1
+Payette,U.S. House,1,NA,Pro-Life...15,0
+Shoshone,U.S. House,1,NA,Pro-Life...15,0
+Valley,U.S. House,1,NA,Pro-Life...15,0
+Ada,U.S. House,1,DEM,Rudy Soto,43705
+Adams,U.S. House,1,DEM,Rudy Soto,553
+Benewah,U.S. House,1,DEM,Rudy Soto,945
+Boise,U.S. House,1,DEM,Rudy Soto,1125
+Bonner,U.S. House,1,DEM,Rudy Soto,7601
+Boundary,U.S. House,1,DEM,Rudy Soto,1175
+Canyon,U.S. House,1,DEM,Rudy Soto,25367
+Clearwater,U.S. House,1,DEM,Rudy Soto,847
+Gem,U.S. House,1,DEM,Rudy Soto,1818
+Idaho,U.S. House,1,DEM,Rudy Soto,1508
+Kootenai,U.S. House,1,DEM,Rudy Soto,21913
+Latah,U.S. House,1,DEM,Rudy Soto,9840
+Lewis,U.S. House,1,DEM,Rudy Soto,338
+Nez Perce,U.S. House,1,DEM,Rudy Soto,6177
+Owyhee,U.S. House,1,DEM,Rudy Soto,838
+Payette,U.S. House,1,DEM,Rudy Soto,2140
+Shoshone,U.S. House,1,DEM,Rudy Soto,1653
+Valley,U.S. House,1,DEM,Rudy Soto,2777
+Ada,U.S. House,2,LIB,Idaho Sierra Law,2707
+Bannock,U.S. House,2,LIB,Idaho Sierra Law,915
+Bear Lake,U.S. House,2,LIB,Idaho Sierra Law,41
+Bingham,U.S. House,2,LIB,Idaho Sierra Law,319
+Blaine,U.S. House,2,LIB,Idaho Sierra Law,269
+Bonneville,U.S. House,2,LIB,Idaho Sierra Law,972
+Butte,U.S. House,2,LIB,Idaho Sierra Law,16
+Camas,U.S. House,2,LIB,Idaho Sierra Law,14
+Caribou,U.S. House,2,LIB,Idaho Sierra Law,56
+Cassia,U.S. House,2,LIB,Idaho Sierra Law,179
+Clark,U.S. House,2,LIB,Idaho Sierra Law,3
+Custer,U.S. House,2,LIB,Idaho Sierra Law,43
+Elmore,U.S. House,2,LIB,Idaho Sierra Law,230
+Franklin,U.S. House,2,LIB,Idaho Sierra Law,89
+Fremont,U.S. House,2,LIB,Idaho Sierra Law,102
+Gooding,U.S. House,2,LIB,Idaho Sierra Law,115
+Jefferson,U.S. House,2,LIB,Idaho Sierra Law,199
+Jerome,U.S. House,2,LIB,Idaho Sierra Law,152
+Lemhi,U.S. House,2,LIB,Idaho Sierra Law,64
+Lincoln,U.S. House,2,LIB,Idaho Sierra Law,40
+Madison,U.S. House,2,LIB,Idaho Sierra Law,382
+Minidoka,U.S. House,2,LIB,Idaho Sierra Law,141
+Oneida,U.S. House,2,LIB,Idaho Sierra Law,34
+Power,U.S. House,2,LIB,Idaho Sierra Law,54
+Teton,U.S. House,2,LIB,Idaho Sierra Law,132
+Twin Falls,U.S. House,2,LIB,Idaho Sierra Law,672
+Ada,U.S. House,2,NA,Pro-Life...18,1515
+Bannock,U.S. House,2,NA,Pro-Life...18,745
+Bear Lake,U.S. House,2,NA,Pro-Life...18,63
+Bingham,U.S. House,2,NA,Pro-Life...18,441
+Blaine,U.S. House,2,NA,Pro-Life...18,161
+Bonneville,U.S. House,2,NA,Pro-Life...18,1440
+Butte,U.S. House,2,NA,Pro-Life...18,46
+Camas,U.S. House,2,NA,Pro-Life...18,16
+Caribou,U.S. House,2,NA,Pro-Life...18,90
+Cassia,U.S. House,2,NA,Pro-Life...18,346
+Clark,U.S. House,2,NA,Pro-Life...18,3
+Custer,U.S. House,2,NA,Pro-Life...18,105
+Elmore,U.S. House,2,NA,Pro-Life...18,266
+Franklin,U.S. House,2,NA,Pro-Life...18,202
+Fremont,U.S. House,2,NA,Pro-Life...18,187
+Gooding,U.S. House,2,NA,Pro-Life...18,147
+Jefferson,U.S. House,2,NA,Pro-Life...18,385
+Jerome,U.S. House,2,NA,Pro-Life...18,256
+Lemhi,U.S. House,2,NA,Pro-Life...18,95
+Lincoln,U.S. House,2,NA,Pro-Life...18,39
+Madison,U.S. House,2,NA,Pro-Life...18,552
+Minidoka,U.S. House,2,NA,Pro-Life...18,210
+Oneida,U.S. House,2,NA,Pro-Life...18,70
+Power,U.S. House,2,NA,Pro-Life...18,67
+Teton,U.S. House,2,NA,Pro-Life...18,72
+Twin Falls,U.S. House,2,NA,Pro-Life...18,1054
+Ada,U.S. House,2,REP,Mike Simpson,50086
+Bannock,U.S. House,2,REP,Mike Simpson,24116
+Bear Lake,U.S. House,2,REP,Mike Simpson,2870
+Bingham,U.S. House,2,REP,Mike Simpson,15487
+Blaine,U.S. House,2,REP,Mike Simpson,5026
+Bonneville,U.S. House,2,REP,Mike Simpson,38637
+Butte,U.S. House,2,REP,Mike Simpson,1159
+Camas,U.S. House,2,REP,Mike Simpson,518
+Caribou,U.S. House,2,REP,Mike Simpson,2682
+Cassia,U.S. House,2,REP,Mike Simpson,7810
+Clark,U.S. House,2,REP,Mike Simpson,270
+Custer,U.S. House,2,REP,Mike Simpson,2050
+Elmore,U.S. House,2,REP,Mike Simpson,7254
+Franklin,U.S. House,2,REP,Mike Simpson,5803
+Fremont,U.S. House,2,REP,Mike Simpson,5569
+Gooding,U.S. House,2,REP,Mike Simpson,4684
+Jefferson,U.S. House,2,REP,Mike Simpson,12058
+Jerome,U.S. House,2,REP,Mike Simpson,5808
+Lemhi,U.S. House,2,REP,Mike Simpson,3623
+Lincoln,U.S. House,2,REP,Mike Simpson,1501
+Madison,U.S. House,2,REP,Mike Simpson,13986
+Minidoka,U.S. House,2,REP,Mike Simpson,6248
+Oneida,U.S. House,2,REP,Mike Simpson,2099
+Power,U.S. House,2,REP,Mike Simpson,2223
+Teton,U.S. House,2,REP,Mike Simpson,3056
+Twin Falls,U.S. House,2,REP,Mike Simpson,26046
+Ada,U.S. House,2,DEM,C. Aaron Swisher,63610
+Bannock,U.S. House,2,DEM,C. Aaron Swisher,13193
+Bear Lake,U.S. House,2,DEM,C. Aaron Swisher,309
+Bingham,U.S. House,2,DEM,C. Aaron Swisher,3324
+Blaine,U.S. House,2,DEM,C. Aaron Swisher,7703
+Bonneville,U.S. House,2,DEM,C. Aaron Swisher,10731
+Butte,U.S. House,2,DEM,C. Aaron Swisher,173
+Camas,U.S. House,2,DEM,C. Aaron Swisher,114
+Caribou,U.S. House,2,DEM,C. Aaron Swisher,331
+Cassia,U.S. House,2,DEM,C. Aaron Swisher,1149
+Clark,U.S. House,2,DEM,C. Aaron Swisher,29
+Custer,U.S. House,2,DEM,C. Aaron Swisher,458
+Elmore,U.S. House,2,DEM,C. Aaron Swisher,2237
+Franklin,U.S. House,2,DEM,C. Aaron Swisher,493
+Fremont,U.S. House,2,DEM,C. Aaron Swisher,793
+Gooding,U.S. House,2,DEM,C. Aaron Swisher,1036
+Jefferson,U.S. House,2,DEM,C. Aaron Swisher,1245
+Jerome,U.S. House,2,DEM,C. Aaron Swisher,1470
+Lemhi,U.S. House,2,DEM,C. Aaron Swisher,860
+Lincoln,U.S. House,2,DEM,C. Aaron Swisher,325
+Madison,U.S. House,2,DEM,C. Aaron Swisher,1833
+Minidoka,U.S. House,2,DEM,C. Aaron Swisher,1252
+Oneida,U.S. House,2,DEM,C. Aaron Swisher,195
+Power,U.S. House,2,DEM,C. Aaron Swisher,696
+Teton,U.S. House,2,DEM,C. Aaron Swisher,2981
+Twin Falls,U.S. House,2,DEM,C. Aaron Swisher,7611
+Bonner,State Senate,1,D,Vera Gadman,5623
+Bonner,State Senate,1,R,Jim Woodward,17192
+Bonner,State House,1A,D,Gail Bolin,7859
+Bonner,State House,1A,R,Heather Scott,14911
+Bonner,State House,1B,R,Sage G. Dixon,15421
+Bonner,State House,1B,D,Stephen F. Howlett,6856
+Bonner,State House,1B,W/I,Dan Rose,561
+Boundary,State Senate,1,D,Vera Gadman,926
+Boundary,State Senate,1,R,Jim Woodward,5241
+Boundary,State House,1A,D,Gail Bolin,1386
+Boundary,State House,1A,R,Heather Scott,4751
+Boundary,State House,1B,R,Sage G. Dixon,4791
+Boundary,State House,1B,D,Stephen F. Howlett,1257
+Boundary,State House,1B,W/I,Dan Rose,190
+Kootenai,State Senate,2,R,Steve Vick,26240
+Kootenai,State House,2A,R,Vito Barbieri,25827
+Kootenai,State House,2B,L,Jennifer Luoma,4803
+Kootenai,State House,2B,R,"Doug ""Doug O"" Okuniewicz",24273
+Kootenai,State Senate,3,R,Peter Riggs,24141
+Kootenai,State House,3A,D,Christopher S. Matthews,6789
+Kootenai,State House,3A,R,Ron Mendive,21602
+Kootenai,State House,3B,D,Teresa Borrenpohl,6901
+Kootenai,State House,3B,R,Tony Wisniewski,21536
+Kootenai,State Senate,4,R,Mary Souza,17462
+Kootenai,State Senate,4,D,"Sharon ""Shari"" L Williams",9608
+Kootenai,State House,4A,R,Jim Addis,21433
+Kootenai,State House,4B,R,Paul Amador,21694
+Benewah,State Senate,5,R,Dan Foreman,3691
+Benewah,State Senate,5,D,David Nelson,1109
+Benewah,State House,5A,D,Dulce Kersting-Lark,914
+Benewah,State House,5A,R,Brandon Mitchell,3841
+Benewah,State House,5B,C,James Hartley,417
+Benewah,State House,5B,D,Renee Love,861
+Benewah,State House,5B,R,Caroline Nilsson Troy,3519
+Latah,State Senate,5,R,Dan Foreman,8780
+Latah,State Senate,5,D,David Nelson,11582
+Latah,State House,5A,D,Dulce Kersting-Lark,10266
+Latah,State House,5A,R,Brandon Mitchell,10047
+Latah,State House,5B,C,James Hartley,526
+Latah,State House,5B,D,Renee Love,9454
+Latah,State House,5B,R,Caroline Nilsson Troy,10460
+Lewis,State Senate,6,R,Dan Johnson,1643
+Lewis,State House,6A,R,Aaron von Ehlinger,1564
+Lewis,State House,6B,R,Mike Kingsley,1569
+Nez Perce,State Senate,6,R,Dan Johnson,18079
+Nez Perce,State House,6A,R,Aaron von Ehlinger,17345
+Nez Perce,State House,6B,R,Mike Kingsley,17310
+Bonner,State Senate,7,R,Carl G Crabtree,2913
+Bonner,State House,7A,R,Priscilla Giddings,2876
+Bonner,State House,7B,R,Charlie Shepherd,2801
+Clearwater,State Senate,7,R,Carl G Crabtree,3762
+Clearwater,State House,7A,R,Priscilla Giddings,3663
+Clearwater,State House,7B,R,Charlie Shepherd,3681
+Idaho,State Senate,7,R,Carl G Crabtree,8302
+Idaho,State House,7A,R,Priscilla Giddings,7713
+Idaho,State House,7B,R,Charlie Shepherd,8032
+Shoshone,State Senate,7,R,Carl G Crabtree,4919
+Shoshone,State House,7A,R,Priscilla Giddings,4865
+Shoshone,State House,7B,R,Charlie Shepherd,4887
+Boise,State Senate,8,C,Kirsten Faith Richardson,342
+Boise,State Senate,8,I,Bill Sifford,886
+Boise,State Senate,8,R,Steven P. Thayn,3307
+Boise,State House,8A,R,Terry Gestrin,4008
+Boise,State House,8B,R,Dorothy Moon,4014
+Custer,State Senate,8,C,Kirsten Faith Richardson,152
+Custer,State Senate,8,I,Bill Sifford,383
+Custer,State Senate,8,R,Steven P. Thayn,2000
+Custer,State House,8A,R,Terry Gestrin,2184
+Custer,State House,8B,R,Dorothy Moon,2131
+Gem,State Senate,8,C,Kirsten Faith Richardson,552
+Gem,State Senate,8,I,Bill Sifford,1654
+Gem,State Senate,8,R,Steven P. Thayn,7322
+Gem,State House,8A,R,Terry Gestrin,8488
+Gem,State House,8B,R,Dorothy Moon,8457
+Lemhi,State Senate,8,C,Kirsten Faith Richardson,187
+Lemhi,State Senate,8,I,Bill Sifford,665
+Lemhi,State Senate,8,R,Steven P. Thayn,3536
+Lemhi,State House,8A,R,Terry Gestrin,3859
+Lemhi,State House,8B,R,Dorothy Moon,3714
+Valley,State Senate,8,C,Kirsten Faith Richardson,293
+Valley,State Senate,8,I,Bill Sifford,2001
+Valley,State Senate,8,R,Steven P. Thayn,4008
+Valley,State House,8A,R,Terry Gestrin,5122
+Valley,State House,8B,R,Dorothy Moon,4984
+Adams,State Senate,9,R,Abby Lee,2110
+Adams,State House,9A,R,Ryan Kerby,2102
+Adams,State House,9B,R,Judy Boyle,1893
+Adams,State House,9B,D,Allen Schmid,563
+Canyon,State Senate,9,R,Abby Lee,3459
+Canyon,State House,9A,R,Ryan Kerby,3431
+Canyon,State House,9B,R,Judy Boyle,3174
+Canyon,State House,9B,D,Allen Schmid,681
+Payette,State Senate,9,R,Abby Lee,9932
+Payette,State House,9A,R,Ryan Kerby,9837
+Payette,State House,9B,R,Judy Boyle,8615
+Payette,State House,9B,D,Allen Schmid,2429
+Washington,State Senate,9,R,Abby Lee,4656
+Washington,State House,9A,R,Ryan Kerby,4638
+Washington,State House,9B,R,Judy Boyle,3996
+Washington,State House,9B,D,Allen Schmid,1209
+Canyon,State Senate,10,D,Toni Ferro,6207
+Canyon,State Senate,10,R,Jim Rice,11446
+Canyon,State House,10A,D,Rebecca Yamamoto Hanson,5722
+Canyon,State House,10A,R,Julie Yamamoto,11854
+Canyon,State House,10B,R,Greg Chaney,11375
+Canyon,State House,10B,D,Chelsea Gaona-Lincoln,6019
+Canyon,State Senate,11,R,Patti Anne Lodge,20631
+Canyon,State House,11A,D,Jacob Lowder,4596
+Canyon,State House,11A,R,Scott Syme,19087
+Canyon,State House,11B,R,Tammy Nichols,18866
+Canyon,State House,11B,D,Edward Savala,4770
+Canyon,State Senate,12,D,Chelle Gluch,6245
+Canyon,State Senate,12,R,Todd Lakey,14509
+Canyon,State House,12A,D,Pat Day Hartwell,6369
+Canyon,State House,12A,R,Bruce D. Skaug,14274
+Canyon,State House,12B,R,Rick D. Youngblood,17278
+Canyon,State House,12B,W/I,Michael H Angel,28
+Canyon,State Senate,13,R,Jeff C. Agenbroad,15222
+Canyon,State Senate,13,W/I,Michaella J Franklin,7
+Canyon,State Senate,13,D,Melissa Sue Robinson,6290
+Canyon,State House,13A,R,Brent J. Crane,15068
+Canyon,State House,13A,D,Jason Kutchma,6473
+Canyon,State House,13B,R,Ben Adams,15562
+Canyon,State House,13B,L,Jess S Smith,4460
+Ada,State Senate,14,R,C. Scott Grow,29523
+Ada,State Senate,14,I,Ellen B. Spencer,10942
+Ada,State House,14A,I,Cindy Currie,11591
+Ada,State House,14A,R,Mike Moyle,28605
+Ada,State House,14B,D, Shelley Brock,12063
+Ada,State House,14B,R,Gayann DeMordaunt,28659
+Ada,State Senate,15,D,Rick Just,10654
+Ada,State Senate,15,R,Fred S. Martin,12009
+Ada,State House,15A,D,Steve Berch,11567
+Ada,State House,15A,C,David W. Hartigan,365
+Ada,State House,15A,R,Patrick E. McDonald,10933
+Ada,State House,15B,D,Jake Ellis,10785
+Ada,State House,15B,R,Codi Galloway,11975
+Ada,State Senate,16,D,Grant Burgoyne,15128
+Ada,State Senate,16,R,LeeJoe Lay,9154
+Ada,State House,16A,W/I,Chandler S Hadrabet,332
+Ada,State House,16A,D,John McCrostie,17150
+Ada,State House,16B,R,Jacquelyn (Jackie) Davidson,10052
+Ada,State House,16B,D,Colin Nash,14114
+Ada,State Senate,17,D,Ali Rabe,12891
+Ada,State Senate,17,R,Gary L. Smith,7972
+Ada,State House,17A,D,John Gannon,13195
+Ada,State House,17A,R,Brittany Love,7604
+Ada,State House,17B,D,Sue Chew,13751
+Ada,State House,17B,R,Anthony T. Dephue,7079
+Ada,State Senate,18,R,Mark A. Bost,11022
+Ada,State Senate,18,D,Janie Ward-Engelking,17928
+Ada,State Senate,18,W/I,Hilary A Lee,5
+Ada,State House,18A,R,Gary M. Childe,11186
+Ada,State House,18A,D,Ilana Rubel,17645
+Ada,State House,18B,D,Brooke Green,17339
+Ada,State House,18B,R,Pete Thomas,11241
+Ada,State Senate,19,R,Aaron J. Tribble,9768
+Ada,State Senate,19,D,Melissa Wintrow,21344
+Ada,State House,19A,R,Jim Feederle,9678
+Ada,State House,19A,D,Lauren Necochea,21358
+Ada,State House,19B,R,James F. Jacobson,9948
+Ada,State House,19B,D,Chris Mathias,20940
+Ada,State Senate,20,R,Chuck Winder,21042
+Ada,State House,20A,R,Joe A. Palmer,16795
+Ada,State House,20A,D,Pat Soulliere,9301
+Ada,State House,20A,C,Daniel S. Weston,804
+Ada,State House,20B,D,"Samantha ""Sammy"" Hager",9120
+Ada,State House,20B,R,James Holtzclaw,17488
+Ada,State Senate,21,R,Regina Bayer,19869
+Ada,State Senate,21,D,Dawn Pierce,11235
+Ada,State House,21A,R,Steven C. Harris,19731
+Ada,State House,21A,D,Donald Williamson,11249
+Ada,State House,21B,L,Lisa Adams,8178
+Ada,State House,21B,R,Greg Ferch,20509
+Ada,State Senate,22,R,Lori Den Hartog,17997
+Ada,State Senate,22,D,Mik Lose,6242
+Ada,State House,22A,D,Diane Jensen,6739
+Ada,State House,22A,R,John Vander Woude,17451
+Ada,State House,22B,R,Jason A. Monks,17547
+Ada,State House,22B,D,Nina Turner,6431
+Elmore,State Senate,23,D,Laura Bellegante,2800
+Elmore,State Senate,23,R,Christy Zito,7182
+Elmore,State House,23A,R,Matthew Bundy,7634
+Elmore,State House,23A,D,Benjamin Lee,2219
+Elmore,State House,23B,R,Megan C. Blanksma,7085
+Elmore,State House,23B,D,Michael Oliver,2101
+Elmore,State House,23B,C,Tony Ullrich,765
+Owyhee,State Senate,23,D,Laura Bellegante,844
+Owyhee,State Senate,23,R,Christy Zito,3813
+Owyhee,State House,23A,R,Matthew Bundy,3739
+Owyhee,State House,23A,D,Benjamin Lee,845
+Owyhee,State House,23B,R,Megan C. Blanksma,3645
+Owyhee,State House,23B,D,Michael Oliver,730
+Owyhee,State House,23B,C,Tony Ullrich,271
+Twin Falls,State Senate,23,D,Laura Bellegante,486
+Twin Falls,State Senate,23,R,Christy Zito,2287
+Twin Falls,State House,23A,R,Matthew Bundy,2201
+Twin Falls,State House,23A,D,Benjamin Lee,510
+Twin Falls,State House,23B,R,Megan C. Blanksma,2211
+Twin Falls,State House,23B,D,Michael Oliver,403
+Twin Falls,State House,23B,C,Tony Ullrich,150
+Twin Falls,State Senate,24,I,Rocky Ferrenburg,5560
+Twin Falls,State Senate,24,R,Lee Heider,13587
+Twin Falls,State House,24A,R,Lance Clow,13833
+Twin Falls,State House,24A,C,Paul Thompson,4915
+Twin Falls,State House,24B,R,Linda Wright Hartgen,16298
+Jerome,State Senate,25,R,Jim Patrick,6796
+Jerome,State House,25A,R,Laurie Lickley,6940
+Jerome,State House,25B,R,Clark Kauffman,6852
+Twin Falls,State Senate,25,R,Jim Patrick,10415
+Twin Falls,State House,25A,R,Laurie Lickley,10339
+Twin Falls,State House,25B,R,Clark Kauffman,10412
+Blaine,State Senate,26,R,Eric Parker,3597
+Blaine,State Senate,26,D,Michelle Stennett,9647
+Blaine,State House,26A,D,Muffy Davis,11327
+Blaine,State House,26B,R,William K Thorpe,4097
+Blaine,State House,26B,D,Sally J Toone,9086
+Camas,State Senate,26,R,Eric Parker,462
+Camas,State Senate,26,D,Michelle Stennett,209
+Camas,State House,26A,D,Muffy Davis,300
+Camas,State House,26B,R,William K Thorpe,454
+Camas,State House,26B,D,Sally J Toone,208
+Gooding,State Senate,26,R,Eric Parker,4195
+Gooding,State Senate,26,D,Michelle Stennett,1780
+Gooding,State House,26A,D,Muffy Davis,3327
+Gooding,State House,26B,R,William K Thorpe,4021
+Gooding,State House,26B,D,Sally J Toone,1973
+Lincoln,State Senate,26,R,Eric Parker,1265
+Lincoln,State Senate,26,D,Michelle Stennett,655
+Lincoln,State House,26A,D,Muffy Davis,1105
+Lincoln,State House,26B,R,William K Thorpe,1273
+Lincoln,State House,26B,D,Sally J Toone,621
+Cassia,State Senate,27,R,Kelly Arthur Anthon,8629
+Cassia,State House,27A,R,Scott Bedke,8730
+Cassia,State House,27B,R,Fred Wood,8585
+Minidoka,State Senate,27,R,Kelly Arthur Anthon,7203
+Minidoka,State House,27A,R,Scott Bedke,7152
+Minidoka,State House,27B,R,Fred Wood,7160
+Bannock,State Senate,28,R,Jim Guthrie,14627
+Bannock,State Senate,28,L,Dan Karlan,4427
+Bannock,State House,28A,R,Randy Armstrong,13258
+Bannock,State House,28A,D,Mike Saville,6517
+Bannock,State House,28B,R,Kevin Andrus,16971
+Power,State Senate,28,R,Jim Guthrie,2440
+Power,State Senate,28,L,Dan Karlan,489
+Power,State House,28A,R,Randy Armstrong,2073
+Power,State House,28A,D,Mike Saville,949
+Power,State House,28B,R,Kevin Andrus,2712
+Bannock,State Senate,29,D,Mark Nye,14821
+Bannock,State House,29A,D,Chris Abernathy,8753
+Bannock,State House,29A,R,Dustin Whitney Manwaring,10181
+Bannock,State House,29B,D,James D. Ruchti,14679
+Bonneville,State Senate,30,R,Kevin Cook,19188
+Bonneville,State House,30A,R,Gary L Marshall,18365
+Bonneville,State House,30B,R,Wendy Horman,17955
+Bingham,State Senate,31,R,R. Steven Bair,16955
+Bingham,State House,31A,R,David M. Cannon,16968
+Bingham,State House,31B,D,Travis Oler,7040
+Bingham,State House,31B,R,Julianne Young,12390
+Bear Lake,State Senate,32,R,Mark R. Harris,3065
+Bear Lake,State House,32A,R,Marc Gibbs,2979
+Bear Lake,State House,32B,R,Chad Christensen,2811
+Bear Lake,State House,32B,D,Bill Leake,397
+Bonneville,State Senate,32,R,Mark R. Harris,2442
+Bonneville,State House,32A,R,Marc Gibbs,2334
+Bonneville,State House,32B,R,Chad Christensen,2394
+Bonneville,State House,32B,D,Bill Leake,589
+Caribou,State Senate,32,R,Mark R. Harris,3029
+Caribou,State House,32A,R,Marc Gibbs,2996
+Caribou,State House,32B,R,Chad Christensen,2420
+Caribou,State House,32B,D,Bill Leake,576
+Franklin,State Senate,32,R,Mark R. Harris,5783
+Franklin,State House,32A,R,Marc Gibbs,5774
+Franklin,State House,32B,R,Chad Christensen,5630
+Franklin,State House,32B,D,Bill Leake,710
+Oneida,State Senate,32,R,Mark R. Harris,2222
+Oneida,State House,32A,R,Marc Gibbs,2202
+Oneida,State House,32B,R,Chad Christensen,1982
+Oneida,State House,32B,D,Bill Leake,367
+Teton,State Senate,32,R,Mark R. Harris,3921
+Teton,State House,32A,R,Marc Gibbs,3886
+Teton,State House,32B,R,Chad Christensen,2883
+Teton,State House,32B,D,Bill Leake,3369
+Bonneville,State Senate,33,R,Dave Lent,13201
+Bonneville,State House,33A,R,Barbara Ehardt,11308
+Bonneville,State House,33A,D,Miranda Marquit,7456
+Bonneville,State House,33B,R,Marco Erickson,11922
+Bonneville,State House,33B,D,David Roth,6400
+Bonneville,State Senate,34,R,Doug Ricks,3143
+Bonneville,State House,34A,R,Jon O Weber,2906
+Bonneville,State House,34B,R,Ron Nate,2881
+Madison,State Senate,34,R,Doug Ricks,15404
+Madison,State House,34A,R,Jon O Weber,15206
+Madison,State House,34B,R,Ron Nate,14817
+Butte,State Senate,35,R,Van Burtenshaw,1239
+Butte,State House,35A,R,Karey Hanks,1195
+Butte,State House,35B,R,Rod Furness,1187
+Clark,State Senate,35,R,Van Burtenshaw,284
+Clark,State House,35A,R,Karey Hanks,241
+Clark,State House,35B,R,Rod Furness,253
+Fremont,State Senate,35,R,Van Burtenshaw,6147
+Fremont,State House,35A,R,Karey Hanks,5937
+Fremont,State House,35B,R,Rod Furness,6114
+Jefferson,State Senate,35,R,Van Burtenshaw,12664
+Jefferson,State House,35A,R,Karey Hanks,12328
+Jefferson,State House,35B,R,Rod Furness,12500
